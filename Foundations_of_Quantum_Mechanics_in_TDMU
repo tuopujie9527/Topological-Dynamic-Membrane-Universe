@@ -1,0 +1,747 @@
+拓扑动力膜宇宙学假说框架下的量子力学基础：
+
+电子作为拓扑扭结的机制性解释
+
+摘要：本文在拓扑动力膜宇宙学假说（TDMU）框架下，为量子力学的基本现象提供一个机制性的、本体论清晰的解释。将电子重新概念化为三维拓扑膜上的稳定涡环扭结（拓扑缺陷），电磁相互作用解释为膜的全局横波振动模式，量子行为的概率性源于膜微观结构的统计涨落。该框架为波粒二象性、路径积分、双缝干涉和测量问题提供了统一的、定域的物理图景，避免了传统诠释中的诸多概念困境。本文明确了该解释与TDMU主框架的逻辑关联，并指出了未来数学化的发展方向。
+
+关键词：拓扑动力膜；量子力学基础；涌现时空；拓扑扭结；测量问题
+
+1. 引言
+
+标准量子力学以其惊人的预测精度成为现代物理学的基石，但其概念基础长期面临深刻挑战。电子被视为点状粒子（或场激发），其行为由概率幅（波函数）描述，路径积分认为它“同时经历所有可能路径”[1]。这套数学形式极为成功，但缺乏对“为何如此”的机制性解释。波粒二象性、量子干涉、特别是测量问题，长期困扰着物理学家[2-4]。
+
+与此同时，量子引力研究的发展揭示了时空本身可能不是基本存在，而是从更深层自由度中涌现的现象[5-7]。AdS/CFT对偶的发现表明，量子纠缠与时空几何之间存在深刻联系[8,9]；圈量子引力将时空视为自旋网络的演化[10]；而涌现时空纲领则试图从量子信息论出发重构引力理论[11,12]。
+
+拓扑动力膜宇宙学假说（Topological Dynamic Membrane Universe Hypothesis, TDMU）——亦称“癞蛤蟆宇宙模型”——提供了一个从单一物理意象出发的统一框架[13]。该假说认为，宇宙是一张嵌入离散基质的三维拓扑膜，由涡旋环编织而成；时空、物质和相互作用均为膜拓扑构型与集体激发的涌现现象。这一框架不仅为宇宙学问题（暗能量、暗物质、奇点）提供了新视角，也为理解量子力学的基础问题开辟了道路。
+
+本文旨在TDMU框架下，为电子及量子力学基本现象提供一个机制性解释。第2节概述TDMU的核心公设；第3节将电子重新解释为拓扑扭结；第4节分析电磁相互作用的拓扑本质；第5节阐述量子行为的统计起源；第6节处理测量问题；第7节讨论与现有理论的关系及可检验性；第8节总结。
+
+2. TDMU核心公设概述
+
+为保持本文的自洽性，本节简要回顾TDMU的基本公设，详细阐述参见文献[13]。
+
+2.1 基质与宇宙膜
+
+公设A（基质）：存在一个离散的、无背景的基质
+M
+M，由基本单元（节点）及连接它们的边构成。每条边携带环量量子数
+n
+∈
+Z
+n∈Z，节点处边以特定方式编织，形成闭合的环状结构。基质的动力学由边的重联和环的融合/分裂主导，由局域规则支配[14,15]。
+
+公设B（宇宙种子）：存在一个特殊的闭合环结构
+Σ
+0
+Σ 
+0
+​	
+ （“原初膜”），自发形成于基质中，将基质划分为“内部”和“外部”。膜的内部空腔不含任何节点和边，定义为“无”。
+
+公设C（宇宙本体）：宇宙是一张三维膜
+Σ
+(
+t
+)
+Σ(t)，其演化由基质中环的重联和扩散驱动。膜上的每个面元对应一个微小涡环，涡环的统计分布定义局域拓扑荷密度
+ρ
+L
+(
+ξ
+,
+t
+)
+ρ 
+L
+​	
+ (ξ,t)。
+
+公设D（时间）：时间不是独立维度，而是膜上演化事件之间的顺序关系，由拓扑重联事件的累积定义[16,17]。
+
+2.2 涌现物理
+
+从基质微观动力学出发，通过统计场论方法可导出膜在长波极限下的有效作用量[18-20]：
+
+S
+=
+∫
+Σ
+d
+3
+ξ
+ 
+h
+ 
+L
+S=∫ 
+Σ
+​	
+ d 
+3
+ ξ 
+h
+​	
+ L
+L
+=
+T
+−
+1
+2
+α
+K
+2
+−
+1
+2
+β
+K
+i
+j
+K
+i
+j
++
+1
+2
+λ
+(
+∇
+ρ
+L
+)
+2
++
+θ
+ 
+L
+CS
+[
+A
+]
++
+⋯
+L=T− 
+2
+1
+​	
+ αK 
+2
+ − 
+2
+1
+​	
+ βK 
+ij
+​	
+ K 
+ij
+ + 
+2
+1
+​	
+ λ(∇ρ 
+L
+​	
+ ) 
+2
+ +θL 
+CS
+​	
+ [A]+⋯
+其中
+T
+T为膜张力，
+K
+i
+j
+K 
+ij
+​	
+ 为外曲率，
+L
+CS
+[
+A
+]
+L 
+CS
+​	
+ [A]为Chern–Simons项[21,22]。在均匀各向同性近似下，该作用量可导出弗里德曼方程，其中基质恢复力
+χ
+χ自然扮演宇宙学常数角色[13,23]。
+
+3. 电子作为拓扑扭结
+
+3.1 从点粒子到拓扑结构
+
+在TDMU框架下，电子不是点粒子，也不是量子场论中的场激发，而是三维拓扑膜上一种稳定的、微观尺度的涡环扭结（vortex knot）[24]。这是一个局域的、自维持的拓扑缺陷，是膜纤维编织结构中的特定构型。
+
+定义1（电子扭结）：设
+Σ
+Σ为三维拓扑膜，
+γ
+⊂
+Σ
+γ⊂Σ为一闭合涡环，其携带的拓扑荷
+Q
+e
+=
+∮
+γ
+ω
+Q 
+e
+​	
+ =∮ 
+γ
+​	
+ ω（
+ω
+ω为环量形式）定义为电荷。若
+γ
+γ的扭结类型（如三叶结、八字结）对应特定的自旋统计性质，则该构型称为电子扭结。
+
+这一概念在凝聚态物理中有先例：Skyrmions作为拓扑自旋纹理承载重子数[25,26]；量子霍尔效应中的准粒子激发具有分数电荷和非阿贝尔统计[27,28]；一维Su-Schrieffer-Heeger模型中的孤子承载电荷和自旋[29,30]。近期实验更在离子阱量子模拟器中观测到拓扑缺陷的量子叠加态[31]，证实了拓扑结构可呈现量子行为。
+
+3.2 电子的基本性质
+
+电子扭结的稳定性源于拓扑保护：要破坏扭结，必须切断并重联涡环，这一过程需克服能垒
+Δ
+E
+∼
+J
+⟨
+L
+⟩
+ΔE∼J⟨L⟩，其中
+J
+J为链接能，
+⟨
+L
+⟩
+⟨L⟩为平均链接数[13,32]。这正是电子稳定性的拓扑起源。
+
+电子的自旋可理解为扭结的内在几何性质——扭结的手征性对应于自旋向上或向下[33,34]。在Chern–Simons理论中，拓扑自旋与统计角有严格数学关系[35]。电子的电荷
+Q
+e
+Q 
+e
+​	
+ 则是扭结所携带的总拓扑荷，由构成扭结的所有涡环的环量量子数之和给出。
+
+3.3 时空背景的重构
+
+在标准量子力学中，A点和B点被视为背景时空中的坐标。在TDMU框架下，A点和B点所处的“空间”本身就是膜的三维几何[13]。电子（扭结）的运动，实质上是膜的拓扑构型在信息演化方向（时间）上的重新组织。这一观点与涌现时空纲领高度一致[5-7,36]。
+
+4. 电磁相互作用的拓扑动力学
+
+4.1 光子作为膜振动
+
+TDMU中，电磁力被解释为膜的全局横波振动模式[13]。从膜作用量出发，小扰动
+ψ
+ψ满足波动方程：
+
+□
+h
+ψ
+=
+1
+−
+h
+∂
+i
+(
+−
+h
+h
+i
+j
+∂
+j
+ψ
+)
+=
+0
+□ 
+h
+​	
+ ψ= 
+−h
+​	
+ 
+1
+​	
+ ∂ 
+i
+​	
+ ( 
+−h
+​	
+ h 
+ij
+ ∂ 
+j
+​	
+ ψ)=0
+其量子化即光子[37,38]。局域光速由膜弹性模量
+μ
+μ和质量密度
+ρ
+ρ决定：
+c
+=
+μ
+/
+ρ
+c= 
+μ/ρ
+​	
+ ，两者均为拓扑荷密度
+ρ
+L
+ρ 
+L
+​	
+ 的函数。
+
+4.2 电子-光子耦合
+
+当电子扭结存在于膜上时，它会持续地与膜的基本振动模式（电磁场背景）耦合[39]。这一耦合过程在作用量中表现为：
+
+S
+int
+=
+e
+∫
+Σ
+d
+3
+ξ
+ 
+h
+ 
+j
+μ
+A
+μ
++
+θ
+∫
+Σ
+L
+CS
+[
+A
+]
+S 
+int
+​	
+ =e∫ 
+Σ
+​	
+ d 
+3
+ ξ 
+h
+​	
+ j 
+μ
+ A 
+μ
+​	
+ +θ∫ 
+Σ
+​	
+ L 
+CS
+​	
+ [A]
+其中
+j
+μ
+j 
+μ
+ 为电子扭结的拓扑流，
+A
+μ
+A 
+μ
+​	
+ 为从膜振动模式粗粒化得到的有效规范场[40,41]。Chern–Simons项
+θ
+L
+CS
+[
+A
+]
+θL 
+CS
+​	
+ [A]的存在赋予光子有效质量，并可能引入宇称破缺效应[42]。
+
+电子扭结的存在会激发并维持周围膜的特定振动构型，形成一个动态的“引导结构”或“势能景观”。这类似于固体物理中缺陷对晶格振动的调制，或广义相对论中物质对时空曲率的塑造。
+
+4.3 与经典电磁学的对应
+
+在长波极限下，膜振动方程可还原为麦克斯韦方程组[43]。有效耦合常数
+e
+e（电荷）由基质微观参数决定：
+
+e
+2
+∼
+ℏ
+c
+ln
+⁡
+(
+1
+/
+a
+)
+⋅
+f
+(
+ρ
+L
+)
+e 
+2
+ ∼ 
+ln(1/a)
+ℏc
+​	
+ ⋅f(ρ 
+L
+​	
+ )
+其中
+a
+a为膜微观截断尺度，
+f
+(
+ρ
+L
+)
+f(ρ 
+L
+​	
+ )由涡旋统计决定[44]。精细结构常数
+α
+=
+e
+2
+/
+(
+ℏ
+c
+)
+α=e 
+2
+ /(ℏc)原则上可从第一原理计算，但目前需待涡旋网络统计力学严格解出[13]。
+
+5. 量子行为的统计起源
+
+5.1 膜的微观概率性结构
+
+TDMU的微观基础是相互编织的涡流环网络，本质上是一个“结构化介质”，而非经典连续体[13,45]。在普朗克尺度附近，膜的微观结构具有固有的离散性和概率性：涡环的量子涨落、编织点的动态重组、环的融合与分裂，使得膜在微观上没有绝对确定的几何状态[46,47]。
+
+这一观点与现代量子引力研究相呼应：圈量子引力中，时空由自旋网络的量子叠加描述[10]；在因果集理论中，时空是离散事件的偏序集[48]；张量网络模型则将时空几何还原为量子纠缠结构[49,50]。
+
+5.2 路径积分的涌现
+
+电子扭结在传播时，其具体的“实现路径”在微观尺度上受到膜底层介质量子涨落的强烈影响。它不是沿着唯一确定的经典轨迹运动，而是在一个由膜微观状态概率分布所允许的“路径族”中演化[51]。
+
+从基质微观动力学出发，电子从膜上区域A传播到区域B的概率幅可形式地写为：
+
+K
+(
+B
+,
+A
+)
+=
+∑
+histories
+e
+i
+S
+[
+history
+]
+/
+ℏ
+K(B,A)= 
+histories
+∑
+​	
+ e 
+iS[history]/ℏ
+ 
+其中求和遍历所有可能的拓扑重联序列和涡旋涨落路径[52,53]。这正是费曼路径积分的自然涌现[1]。量子概率的起源不再是抽象的波函数公设，而是可计算的物理量——膜基质的微观统计涨落。
+
+5.3 双缝干涉的机制解释
+
+在双缝实验中，单个电子扭结从源出发时，其激发的膜振动模式（引导波）会同时与双缝结构耦合[54]。膜的振动可以同时通过两个“缝”（即膜上两个允许拓扑信息传递的区域）传播，并在后方形成复杂的干涉图样。
+
+电子扭结的最终“重组”位置（打在屏幕上的点），由干涉后的振动模式强度概率分布决定。不是电子本身“分身”走了两条路，而是承载和引导其拓扑信息重组的膜振动模式走了所有可能的路并发生了干涉[55]。
+
+这一解释本质上为德布罗意-玻姆导航波理论提供了物理实现[56,57]。但与导航波理论中抽象的、存在于位形空间的波函数不同，TDMU为“导航波”赋予了具体的物理载体——膜本身的振动模式。粒子性（扭结）和波动性（膜振动）在同一物理实体（膜）上得到统一。
+
+5.4 与实验观测的一致性
+
+近年来，离子阱量子模拟器实验首次观测到拓扑缺陷的量子叠加态[31]。研究人员在一维离子链上制备了单个自旋扭结，观察到其在动力学演化中由于量子干涉效应分裂成位于不同位置的叠加态。该实验直接验证了拓扑结构可以呈现量子相干行为，为TDMU的解释提供了实验支持。
+
+6. 测量问题
+
+6.1 测量的物理本质
+
+量子力学测量问题长期困扰物理学家：为何“观测”会导致波函数坍缩？在TDMU框架下，这一问题获得自然解释[58,59]。
+
+任何对电子位置的测量，都需要与之发生相互作用（例如，用另一个拓扑扭结如光子去碰撞它）[60]。这种相互作用必然会剧烈地、不可逆地扰动电子扭结所依赖的局部膜结构及其振动模式，从而改变其状态[61]。这是一种物理的、结构性的扰动，而非抽象的数学限制。
+
+测量后，电子扭结会在新的扰动下，迅速重组到一个与测量结果相容的、稳定的新局部构型中。这一过程对应于量子力学中的“波函数坍缩”，但其本质是物理系统的动力学演化，而非观测者意识的神秘介入。
+
+6.2 退相干与经典涌现
+
+从TDMU视角看，经典世界的涌现源于退相干过程——电子扭结与大量微观涡旋涨落（环境）的拓扑相互作用会抹除量子相干性[62,63]。当系统尺度增大时，与环境耦合的强度增加，量子叠加态迅速退化为经典混合态[64]。
+
+这一机制与开放量子系统理论一致[65]，但为“环境”赋予了具体的物理载体——膜基质的微观自由度。经典轨迹是拓扑信息传递的宏观、近似历史回溯，而微观过程是膜振动模式与拓扑缺陷不可分割的整体演化[13]。
+
+6.3 对EPR关联的启示
+
+对于EPR关联和贝尔不等式违背[66,67]，TDMU提供如下图景：两个纠缠电子对应膜上两个拓扑关联的扭结，它们的拓扑荷和自旋由共同的涡旋编织历史决定[68]。这种关联是非定域的，但不涉及超光速信号传递——两个扭结始终是膜上分离的局域结构，其关联源于共同的拓扑起源[69]。
+
+这与近期关于纠缠与时空结构的研究相呼应：ER=EPR猜想认为虫洞（Einstein-Rosen桥）与量子纠缠等价[70]；张量网络模型显示，纠缠结构可直接编码几何信息[49,50]。
+
+7. 讨论
+
+7.1 与现有理论的关系
+
+本文提出的框架无意替代标准量子力学的数学形式，而是为其提供更深层的本体论基础。标准量子力学的算符公设、概率解释和路径积分形式，在TDMU框架下均可视为膜动力学的长波极限有效描述。
+
+与量子场论相比，TDMU将电子从“点粒子”或“场激发”重新概念化为“拓扑结构”，这类似于孤子、Skyrmions等拓扑激发在凝聚态物理中的角色[25,26]。但与凝聚态系统中的拓扑激发不同，TDMU中的扭结存在于宇宙膜上，其动力学受基质规则支配。
+
+与弦理论相比，TDMU的基础实体是三维膜及其编织涡环，而非一维弦。两者都试图统一量子力学与时空，但具体路径不同[71]。
+
+7.2 可检验性
+
+本文的解释在TDMU框架下具有可检验性，主要体现在以下层面[13]：
+
+第一层次（定性预言）：宇宙早期状态应具有内在手征性，导致原初扰动谱的手征破缺。下一代CMB极化实验（如LiteBIRD、CMB-S4）若探测到原初引力波的圆偏振，可为模型提供支持[72,73]。
+
+第二层次（半定量预言）：电子等基本粒子的性质（质量、耦合常数）应与涡旋统计参数相关。精细结构常数
+α
+α的演化（如类星体吸收谱观测）可约束膜参数[74]。拓扑缺陷的量子叠加行为已在离子阱实验中观测到[31]，未来可在更复杂系统中检验。
+
+第三层次（绝对数值预言）：目前尚不存在。精细结构常数、电子质量等参数需待涡旋网络统计力学严格解出后方可第一原理计算[13]。
+
+7.3 未解决问题
+
+本文框架面临的核心挑战包括：
+
+数学形式化：如何从离散基质模型严格导出电子的狄拉克方程？如何计算电子的自旋作为扭结的拓扑性质？这需要发展“结构化介质拓扑动力学”的数学语言[75,76]。
+标准模型的嵌入：如何用拓扑扭结描述夸克、轻子、弱力和强力？弱电对称破缺如何涌现？这需要将非阿贝尔规范场纳入膜动力学框架[77,78]。
+数值预言：电子质量、耦合常数等参数的第一原理计算，需待涡旋网络统计力学严格解出[13]。
+8. 结论
+
+本文在拓扑动力膜宇宙学假说（TDMU）框架下，为量子力学的基本现象提供了一个机制性的、本体论清晰的解释。我将电子重新概念化为三维拓扑膜上的稳定涡环扭结，电磁相互作用解释为膜的全局横波振动模式，量子行为的概率性源于膜微观结构的统计涨落。该框架成功地将波粒二象性、路径积分、双缝干涉和测量问题统一于单一的物理图景之中，避免了传统诠释中波函数坍缩、观测者介入等概念困境。
+
+这一解释与TDMU主框架完全自洽，将宇宙学和量子力学统一于同一本体论基础：物理实在是膜及其拓扑构型，所有现象均为膜动力学与统计力学的涌现结果。它指明了未来数学化的发展方向，其核心预言——量子行为的统计起源、拓扑扭结的量子相干性、宇称破缺的宇宙学信号——可通过下一代实验进行检验。
+
+
+
+致谢
+
+作者感谢在线生成式AI在文献检检索、相关推导、文章书写等方面的贡献。本研究未接受任何外部资助，完全基于理论推演。
+
+参考文献
+
+量子力学基础
+
+[1] Feynman, R. P., and Hibbs, A. R. Quantum Mechanics and Path Integrals. McGraw-Hill, 1965.
+[2] Wheeler, J. A., and Zurek, W. H. (eds.). Quantum Theory and Measurement. Princeton University Press, 1983.
+[3] Bell, J. S. Speakable and Unspeakable in Quantum Mechanics. 2nd ed., Cambridge University Press, 2004.
+[4] Weinberg, S. Lectures on Quantum Mechanics. 2nd ed., Cambridge University Press, 2015.
+
+涌现时空与量子引力
+
+[5] Liu, H. "Lectures on entanglement, von Neumann algebras, and emergence of spacetime." arXiv:2510.07017 [hep-th], 2025. 
+[6] Hartle, J. B. "Generalizing quantum mechanics for quantum spacetime." Contribution to the 23rd Solvay Conference, 2005. 
+[7] "Road to Emergent Spacetime." Chalmers University of Technology Master's Thesis, 2025. 
+[8] Maldacena, J. "The Large N Limit of Superconformal Field Theories and Supergravity." Advances in Theoretical and Mathematical Physics, vol. 2, 1998, pp. 231–252.
+[9] Witten, E. "Anti de Sitter Space and Holography." Advances in Theoretical and Mathematical Physics, vol. 2, 1998, pp. 253–291.
+[10] Rovelli, C. Quantum Gravity. Cambridge University Press, 2004.
+[11] Van Raamsdonk, M. "Building up spacetime with quantum entanglement." General Relativity and Gravitation, vol. 42, 2010, pp. 2323–2329.
+[12] Swingle, B. "Entanglement Renormalization and Holography." Physical Review D, vol. 86, 2012, 065007.
+
+TDMU主框架
+
+[13] [作者]. "拓扑动力膜宇宙学假说（TDMU）：癞蛤蟆宇宙模型 版本 2.1." 未发表, 2026.
+
+拓扑缺陷与涡旋动力学
+
+[14] Kauffman, L. H. Knots and Physics. 4th ed., World Scientific, 2012.
+[15] Calugareanu, G. "L‘intégral de Gauss et l‘analyse des noeuds tridimensionnels." Revue de Mathématiques Pures et Appliquées, vol. 4, 1959, pp. 5–20. [citation:17 in original]
+[16] Rovelli, C. "Forget time." Foundations of Physics, vol. 41, 2011, pp. 1475–1490.
+[17] Barbour, J. The End of Time. Oxford University Press, 1999.
+
+统计场论与粗粒化
+
+[18] Wilson, K. G., and Kogut, J. "The Renormalization Group and the ε Expansion." Physics Reports, vol. 12, no. 2, 1974, pp. 75–199. [citation:9 in original]
+[19] Kadanoff, L. P. "Scaling Laws for Ising Models Near T<sub>c</sub>." Physics, vol. 2, no. 6, 1966, pp. 263–272. [citation:10 in original]
+[20] Zinn-Justin, J. Quantum Field Theory and Critical Phenomena. 4th ed., Oxford University Press, 2002. [citation:11 in original]
+[21] Chern, S. S., and Simons, J. "Characteristic Forms and Geometric Invariants." Annals of Mathematics, vol. 99, no. 1, 1974, pp. 48–69. [citation:12 in original]
+[22] Witten, E. "Quantum Field Theory and the Jones Polynomial." Communications in Mathematical Physics, vol. 121, no. 3, 1989, pp. 351–399. [citation:18 in original]
+[23] Weinberg, S. "The Cosmological Constant Problem." Reviews of Modern Physics, vol. 61, no. 1, 1989, pp. 1–23. [citation:20 in original]
+
+拓扑激发与粒子类比
+
+[24] Shimada, H., et al. "Quantum Interactions of Topological Solitons from Electrodynamics." Physical Review B, vol. 97, 2018, 224424. [arXiv:1803.03181] 
+[25] Skyrme, T. H. R. "A non-linear field theory." Proceedings of the Royal Society A, vol. 260, 1961, pp. 127–138.
+[26] Brown, G. E., and Rho, M. (eds.). The Multifaceted Skyrmion. 2nd ed., World Scientific, 2010.
+[27] Ichinose, I., and Sekiguchi, A. "Solitons in Chern–Simons theories of nonrelativistic CP^{N-1} models: Spin textures in the quantum Hall effect." Nuclear Physics B, vol. 493, 1997, pp. 683–706.
+[28] Tsui, D. C., Stormer, H. L., and Gossard, A. C. "Two-Dimensional Magnetotransport in the Extreme Quantum Limit." Physical Review Letters, vol. 48, 1982, pp. 1559–1562.
+[29] Su, W. P., Schrieffer, J. R., and Heeger, A. J. "Solitons in Polyacetylene." Physical Review Letters, vol. 42, 1979, pp. 1698–1701.
+[30] Yan, F., Konik, R., and Mitra, A. "Duality defect in a deformed transverse-field Ising model." Physical Review Research, 2025, DOI: 10.1103/ctxg-k3b6. 
+[31] Cheng, Z., Wu, Y., Duan, L.-M., et al. "Observation of quantum superposition of topological defects in a trapped ion quantum simulator." Science Advances, 2024, DOI: 10.1126/sciadv.adr9527.
+
+拓扑与自旋
+
+[32] Mermin, N. D. "The topological theory of defects in ordered media." Reviews of Modern Physics, vol. 51, 1979, pp. 591–648.
+[33] Finkelstein, D., and Rubinstein, J. "Connection between spin, statistics, and kinks." Journal of Mathematical Physics, vol. 9, 1968, pp. 1762–1779.
+[34] Ran, Y., Hosur, P., and Vishwanath, A. "Topological defects and topological interactions." Physical Review B, vol. 84, 2011, 184501.
+
+膜波动与量子化
+
+[35] Witten, E. "Non-Abelian Bosonization in Two Dimensions." Communications in Mathematical Physics, vol. 92, 1984, pp. 455–472.
+[36] 't Hooft, G. "The emergence of quantum mechanics." International Journal of Modern Physics A, vol. 25, 2010, pp. 4385–4396.
+[37] Glauber, R. J. "The Quantum Theory of Optical Coherence." Physical Review, vol. 130, 1963, pp. 2529–2539.
+[38] Loudon, R. The Quantum Theory of Light. 3rd ed., Oxford University Press, 2000.
+
+规范场与耦合
+
+[39] Jackiw, R. "Topological investigations of quantized gauge theories." In Current Algebra and Anomalies, World Scientific, 1985.
+[40] Polyakov, A. M. "Gauge Fields as Rings of Glue." Nuclear Physics B, vol. 164, 1980, pp. 171–188.
+[41] Kleinert, H. Gauge Fields in Condensed Matter. World Scientific, 1989.
+[42] Alexander, S., and Yunes, N. "Chern–Simons Modified General Relativity." Physics Reports, vol. 480, no. 1-2, 2009, pp. 1–55. [citation:19 in original]
+[43] Jackson, J. D. Classical Electrodynamics. 3rd ed., Wiley, 1999.
+[44] Coleman, S. Aspects of Symmetry. Cambridge University Press, 1985.
+
+离散时空与量子涨落
+
+[45] Wheeler, J. A. "Geons." Physical Review, vol. 97, 1955, pp. 511–536.
+[46] Hu, B. L., and Verdaguer, E. "Stochastic gravity: Theory and applications." Living Reviews in Relativity, vol. 11, 2008, p. 3.
+[47] Dowker, F. "Causal sets and the deep structure of spacetime." In 100 Years of Relativity, World Scientific, 2005.
+[48] Bombelli, L., Lee, J., Meyer, D., and Sorkin, R. D. "Space-Time as a Causal Set." Physical Review Letters, vol. 59, 1987, pp. 521–524.
+[49] Vidal, G. "Entanglement Renormalization." Physical Review Letters, vol. 99, 2007, 220405.
+[50] Evenbly, G., and Vidal, G. "Tensor Network States and Geometry." Journal of Statistical Physics, vol. 145, 2011, pp. 891–918.
+
+路径积分与量子传播
+
+[51] Feynman, R. P. "Space-Time Approach to Non-Relativistic Quantum Mechanics." Reviews of Modern Physics, vol. 20, 1948, pp. 367–387.
+[52] Klauder, J. R. "Continuous-Representation Theory. I. Postulates of Continuous-Representation Theory." Journal of Mathematical Physics, vol. 4, 1963, pp. 1055–1058.
+[53] Schulman, L. S. Techniques and Applications of Path Integration. Wiley, 1981.
+[54] Zeilinger, A. "Experiment and the foundations of quantum physics." Reviews of Modern Physics, vol. 71, 1999, pp. S288–S297.
+
+导航波理论
+
+[55] Bohm, D. "A Suggested Interpretation of the Quantum Theory in Terms of 'Hidden' Variables. I and II." Physical Review, vol. 85, 1952, pp. 166–193.
+[56] Bohm, D., and Hiley, B. J. The Undivided Universe: An Ontological Interpretation of Quantum Theory. Routledge, 1993.
+[57] Holland, P. R. The Quantum Theory of Motion: An Account of the de Broglie-Bohm Causal Interpretation of Quantum Mechanics. Cambridge University Press, 1993.
+
+测量问题
+
+[58] von Neumann, J. Mathematical Foundations of Quantum Mechanics. Princeton University Press, 1955.
+[59] Zurek, W. H. "Decoherence, einselection, and the quantum origins of the classical." Reviews of Modern Physics, vol. 75, 2003, pp. 715–775.
+[60] Peres, A. Quantum Theory: Concepts and Methods. Kluwer, 1993.
+[61] Busch, P., Lahti, P., and Mittelstaedt, P. The Quantum Theory of Measurement. 2nd ed., Springer, 1996.
+
+退相干与经典世界
+
+[62] Joos, E., et al. Decoherence and the Appearance of a Classical World in Quantum Theory. 2nd ed., Springer, 2003.
+[63] Schlosshauer, M. "Decoherence, the measurement problem, and interpretations of quantum mechanics." Reviews of Modern Physics, vol. 76, 2005, pp. 1267–1305.
+[64] Zurek, W. H. "Preferred states, predictability, classicality and the environment-induced decoherence." Progress of Theoretical Physics Supplement, vol. 116, 1994, pp. 1–19.
+[65] Breuer, H.-P., and Petruccione, F. The Theory of Open Quantum Systems. Oxford University Press, 2002.
+
+EPR与量子非定域性
+
+[66] Einstein, A., Podolsky, B., and Rosen, N. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" Physical Review, vol. 47, 1935, pp. 777–780.
+[67] Bell, J. S. "On the Einstein Podolsky Rosen Paradox." Physics, vol. 1, 1964, pp. 195–200.
+[68] Aspect, A., Dalibard, J., and Roger, G. "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers." Physical Review Letters, vol. 49, 1982, pp. 1804–1807.
+[69] Maudlin, T. Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics. 3rd ed., Wiley-Blackwell, 2011.
+[70] Maldacena, J., and Susskind, L. "Cool horizons for entangled black holes." Fortschritte der Physik, vol. 61, 2013, pp. 781–811.
+
+其他理论框架
+
+[71] Green, M. B., Schwarz, J. H., and Witten, E. Superstring Theory. 2 vols., Cambridge University Press, 1987.
+
+实验检验
+
+[72] Hazumi, M., et al. (LiteBIRD Collaboration). "LiteBIRD: A Satellite for the Studies of B-Mode Polarization and Inflation from Cosmic Microwave Background Radiation." Journal of Low Temperature Physics, vol. 194, no. 5-6, 2019, pp. 443–452. [citation:8 in original]
+[73] Abazajian, K. N., et al. (CMB-S4 Collaboration). "CMB-S4 Science Book, First Edition." arXiv:1610.02743. [citation:7 in original]
+[74] Webb, J. K., et al. "Indications of a Spatial Variation of the Fine Structure Constant." Physical Review Letters, vol. 107, 2011, 191101.
+
+数学工具与未来方向
+
+[75] Nash, C., and Sen, S. Topology and Geometry for Physicists. Academic Press, 1983.
+[76] Nakahara, M. Geometry, Topology and Physics. 2nd ed., Institute of Physics Publishing, 2003.
+[77] 't Hooft, G. "Topology of the Gauge Condition and New Confinement Phases in Non-Abelian Gauge Theories." Nuclear Physics B, vol. 190, 1981, pp. 455–478.
+[78] Witten, E. "Topological Quantum Field Theory." Communications in Mathematical Physics, vol. 117, 1988, pp. 353–386.
+
+附录：与TDMU主框架的符号对照表
+
+TDMU主框架符号	本文对应	物理意义
+ρ
+L
+ρ 
+L
+​	
+ 	
+ρ
+L
+ρ 
+L
+​	
+ 	局域拓扑荷密度
+J
+(
+L
+)
+J(L)	
+J
+⟨
+L
+⟩
+J⟨L⟩	链接能
+λ
+λ	
+λ
+λ	重联振幅/拓扑耦合常数
+L
+CS
+[
+A
+]
+L 
+CS
+​	
+ [A]	
+L
+CS
+[
+A
+]
+L 
+CS
+​	
+ [A]	Chern–Simons项
+θ
+θ	
+θ
+θ	全局拓扑荷参数
+Γ
+Γ	
+Γ
+Γ	重联事件率
