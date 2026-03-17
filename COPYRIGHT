@@ -1,0 +1,87 @@
+# 版权声明
+
+© 2026 [马江平]。保留所有权利。
+
+本仓库包含的内容（包括但不限于文本、概念、理论框架、数学表述、图片等）均为作者原创，受著作权法保护。
+
+**未经作者明确的书面许可，任何个人或组织不得以任何形式（包括但不限于复制、传播、修改、转售、嵌入其他作品）使用本仓库中的任何内容。**
+
+如需引用、讨论或获得授权，请通过以下联系方式与作者联系：[12918999@qq.com]
+
+
+本理论体系包括但不限于以下命名版本及核心概念：
+
+【命名版本与缩写】
+
+拓扑动力膜宇宙学假说（Topological Dynamic Membrane Universe Hypothesis, TDMU）
+拓扑动力膜宇宙模型（Topological Dynamic Membrane Universe Model）
+癞蛤蟆宇宙论（Toad Universe Theory）
+癞蛤蟆宇宙模型（Toad Universe Model, TUM）
+本理论的核心原创概念（按首次出现顺序）包括但不限于：
+
+【本体论基础】
+
+基质（Substrate）：离散的、无背景的组合基质，宇宙的起源之所。
+气泡（Bubble）¹：宇宙作为嵌入基质的三维拓扑动力膜，膜内为“无”，膜外为基质。
+癞蛤蟆（Toad）：激发宇宙种子的初始拓扑事件。
+【膜动力学】
+
+拓扑动力膜（Topological Dynamic Membrane）：由涡旋环编织而成的宇宙载体。
+膜波（Membrane Wave）：宇宙膜上的横波，光的本质。
+拓扑结（Topological Knot）²：粒子作为涡旋环编织的稳定拓扑结构。
+递归结（Recursive Knot）：按斐波那契规则生长的拓扑结谱系。
+【物质结构】
+
+原砖（Proto-brick）：当前能标下的有效建材单元。
+电子砖（Electron Brick）：第1阶结（L=4），由4原砖编织。
+递归关系：```math
+  L_{n+1} = L_n + L_{n-1}
+​	
+电子为第 n+1 阶结（Electron as the n+1-th generation knot）：在当前能标下观测到的最简单稳定拓扑结。
+质子为第 n+18 阶结（Proton as the n+18-th generation knot）：math
+L_{18}=11933
+​	
+ =11933，由1728内核 + 108表面单元构成。
+原砖递归（Proto-brick Recursion）：物质结构的斐波那契生长规则。
+质子内外层模型（Proton Inner-Outer Layer Model）：1728内核 + 108表面单元。
+能标相对性原理（Energy Scale Relativity Principle）：基本性是相对于观测能标的瞬时快照。
+递归深度（Recursive Depth）：相对于当前能标的递归代际参数。
+中间代结（Intermediate Generation Knots）：第2阶至第17阶拓扑结（不稳定粒子/暗物质）。
+【宇宙演化】
+
+宇宙前后演进（Cosmic Evolution）：从气泡诞生到膜破回归基质的完整时间轴。
+拓扑聚变（Topological Fusion）：核聚变的统称，包含两条本质不同的实现路径：
+
+表面啮合路径（恒星路径）：两个质子通过表面108单元的手性缺陷匹配形成临时拓扑连接，由拓扑张力自动拉近内核并触发重构。这是太阳等恒星稳定燃烧的主导机制。
+内核拆解路径（实验室/氢弹路径）：高能粒子直接撞击质子内核（1728单元）使其局部解体，释放内核结合能。这是托卡马克、氢弹等高能密度环境下的主导机制。
+【四种力统一】
+
+四种力统一图像（Unification of Four Forces）：引力、电磁力、强力、弱力均为膜拓扑动力学的不同表现。
+表面啮合（Surface Engagement）⁴：质子表面108个右手单元与中子表面108个左手单元通过手性互补形成的拓扑锁定机制，是强核力的本质起源。
+手性镜面（Chiral Mirror Surface）⁵：质子表面108个右手单元与中子表面108个左手单元构成的手性互补结构，用于解释核子间的强相互作用。
+【量子现象】
+
+膜波-拓扑结相互作用（Membrane Wave-Topological Knot Interaction）：量子现象的拓扑基础。
+拓扑核手性旋转模式（Topological Core Chirality Rotation）：电子自旋的拓扑起源。
+拓扑连接（Topological Connection）³：量子纠缠的拓扑起源（粒子历史上曾是同一拓扑结构的一部分）。
+拓扑截断（Topological Cutoff）：原砖尺度提供的自然有限性（替代重整化）。
+【致密天体】
+
+癞蛤蟆星（Toad Star）：拓扑荷凝聚形成的宏观致密天体（中子星/白矮星等）。
+极端癞蛤蟆星（Extreme Toad Star）：质量超临界、存在类视界边界的癞蛤蟆星（黑洞的拓扑态）。
+拓扑重联蒸发（Topological Reconnection Evaporation）：极端癞蛤蟆星的缓慢重联过程（霍金辐射的拓扑机制）。
+【宇宙背景】
+
+未凝聚拓扑荷云（Uncondensed Topological Charge Cloud）：暗物质的拓扑本质。
+第一类膜波（Type-I Membrane Wave）：宇宙微波背景辐射（拓扑复合退耦信号）。
+第二类膜波（Type-II Membrane Wave）：恒星光（拓扑聚变释放的膜波）。
+概念标注说明：
+¹ 气泡（Bubble）：文中特指宇宙作为三维拓扑动力膜的整体形态，与宇宙学中“气泡宇宙”（bubble universe）的多重宇宙概念不同，属作者原创定义。
+² 拓扑结（Topological Knot）：文中特指粒子作为涡旋环编织的稳定拓扑结构，与数学中“纽结理论”（knot theory）的抽象概念不同，属作者原创的物理诠释。
+³ 拓扑连接（Topological Connection）：文中特指量子纠缠的拓扑起源（粒子历史上曾是同一拓扑结构的一部分），与数学拓扑学中“拓扑连接”的一般概念不同，属作者原创定义。
+⁴ 表面啮合（Surface Engagement）：文中原创概念，指质子与中子表面手性单元通过互补形成的拓扑锁定机制，是强核力的本质起源。
+⁵ 手性镜面（Chiral Mirror Surface）：文中特指质子表面108个右手单元与中子表面108个左手单元构成的手性互补结构，用于解释核子间的强相互作用。与光学领域中“手性镜”（chiral mirror）的光反射概念完全不同，属作者原创的物理诠释。
+
+以上所有概念、理论框架、数学表述、物理图像及其衍生成果，均为作者原创。
+
+版本日期：2026年3月17日
