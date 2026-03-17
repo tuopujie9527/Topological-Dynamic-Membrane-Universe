@@ -10,6 +10,6 @@
 
 
 宇宙论主体文章顺序为：
-第一篇：核心框架（第一性原理、数学公设）——这是“地基”
-第二篇：现象延伸（粒子递归、宇宙演化、现象解释）——这是“主体建筑”
-第三篇：TDMU-Part3-Boundaries-OpenQuestions（框架边界与开放问题）--这是“框架边界与开放问题
+第一篇：Topological-Dynamic-Membrane-Universe-Hypothesis-TDMU  核心框架（第一性原理、数学公设）——这是“地基”
+第二篇：Toad Cosmology  现象延伸（粒子递归、宇宙演化、现象解释）——这是“主体建筑”
+第三篇：TDMU-Part3-Boundaries-OpenQuestions （框架边界与开放问题）--这是“框架边界与开放问题“
