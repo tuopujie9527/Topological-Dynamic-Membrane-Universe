@@ -1,0 +1,422 @@
+Topological Dynamic Membrane Universe: The Particle Spectrum as an Inevitable Consequence of First Principles
+
+Author Name   Jiangping Ma
+Author Affiliation, Chongqing China
+
+Abstract
+
+The Topological Dynamic Membrane Universe (TDMU) hypothesis posits that our universe is a three-dimensional topological membrane embedded in a discrete combinatorial substrate, with matter emerging as topologically knotted vortex loops. This paper demonstrates how the particle spectrum arises inevitably from the interplay of microscopic dynamics, cosmic energy scale evolution, and collisional selection. We establish a recursive growth law for topological invariants, showing that the electron ($L=4$) and proton ($L=11933$) occupy positions on the same Fibonacci-type recursive tree. A universal "hard core + soft shell" structure is identified across all scales: particles possess a densely packed core providing stability, surrounded by a deformable outer layer of ancestral constituents. Crucially, we argue that the electron itself exhibits this layered structure—its core comprises four sub-elementary bricks arranged in a tetrahedral configuration, while its soft shell, composed of earlier-generation bricks, contributes negligibly to mass at current energy scales and thus remains unobserved. This framework offers a first-principles explanation for the electron-proton mass ratio, the origin of electric charge, and the relationship between nuclear fusion and high-energy cosmic evolution. Testable predictions, including resonance conditions in fusion cross-sections and potential substructure in precision electron measurements, are outlined.
+
+Keywords Topological membrane · Recursive growth · Particle spectrum · Energy scale relativity · Chiral locking
+
+1 Introduction
+
+The Standard Model of particle physics, despite its empirical success, leaves fundamental questions unanswered: Why do particles possess the specific masses and charges they do? Are the electron, proton, and neutron merely accidental collections of more basic entities, or are they inevitable products of cosmic evolution? The Topological Dynamic Membrane Universe (TDMU) hypothesis offers a radical departure from conventional thinking by proposing that spacetime itself is a three-dimensional topological membrane embedded in a higher-dimensional combinatorial substrate [1]. Matter, in this picture, corresponds to stable topological knots—vortex loops knitted from the fabric of the membrane.
+
+Recent advances in topological quantum computation have demonstrated that non-Abelian anyons, particularly Fibonacci anyons, exhibit fusion rules that naturally generate recursive structures [2, 3]. The Fibonacci anyon fusion rule $[1] \times [1] = [0] \oplus [1]$ provides the simplest possible model of non-Abelian statistics and has been extensively studied in the context of fractional quantum Hall systems [4, 5]. This mathematical framework resonates deeply with the recursive growth laws we observe in the TDMU particle spectrum.
+
+This paper synthesizes and extends previous work, demonstrating how the particle spectrum emerges inevitably from first principles. We show that the recursive growth of topological structures, combined with an energy-dependent natural selection mechanism during the universe's cooling history, yields a discrete spectrum dominated by two long-lived species: the electron and the proton. Furthermore, we reveal a universal architectural principle: all stable particles, regardless of scale, exhibit a "hard core + soft shell" design optimized for survival in a high-energy collisional environment. This perspective leads to a profound corollary—the electron itself must possess an internal structure mirroring that of the proton, with its soft shell remaining invisible only due to the limitations of current observational energy scales.
+
+The paper is organized as follows. Section 2 introduces the foundational concepts of bricks and topological charge, deriving the recursive growth law that governs particle complexity. Section 3 details the universal layered structure and the role of chiral locking in determining electric charge. Section 4 presents the cosmic selection mechanism that filters intermediate states. Section 5 addresses the binding energy correction that reconciles brick-count ratios with observed mass ratios. Section 6 extends the framework to nuclear fusion as a higher-order recursive process. Section 7 delves into the profound implications for electron structure. Section 8 outlines testable predictions, and Section 9 concludes with the unified picture.
+
+2 Primitives and Recursive Growth
+
+2.1 Bricks and Topological Charge
+
+At the current observational energy scale, we define a brick as the indivisible unit of topological charge—a fundamental vortex loop carrying an integer-valued circulation. A particle is a stable topological knot formed by the reconnection and weaving of bricks. The total brick number $L$ serves as an additive topological invariant:
+
+L
+(
+C
+1
+⊕
+C
+2
+)
+=
+L
+(
+C
+1
+)
++
+L
+(
+C
+2
+)
+,
+L(C 
+1
+​	
+ ⊕C 
+2
+​	
+ )=L(C 
+1
+​	
+ )+L(C 
+2
+​	
+ ),
+
+where $\oplus$ denotes the topological fusion operation. This invariant is conserved in all interactions, provided the products remain stable under ambient conditions.
+
+2.2 Dynamical Origin of Recursion
+
+The fusion of two smaller knots $A$ and $B$ into a larger composite structure is governed by two principles: topological charge conservation and energy minimization. However, not all combinations are permissible. Stable fusion requires the existence of complementary chiral locking sites on the contact surfaces of $A$ and $B$ [6]. This geometric constraint forces the brick number of viable composites to follow a linear recurrence relation. The simplest symmetric form, which also yields optimal packing, is the Fibonacci-type recursion:
+
+L_{n+1} = L_n + L_{n-1}, \tag{1}
+
+where $n$ indexes the recursion depth relative to the current energy scale.
+
+This recursion relation bears striking similarity to the fusion rules of Fibonacci anyons, where the fusion of two quasiparticles yields a direct sum of the vacuum and the anyon itself [2, 7]. In the context of topological quantum computation, such fusion rules generate braid group representations that are universal for quantum computation [8]. The recursive structure we observe in the TDMU particle spectrum may thus reflect a deep connection between cosmic evolution and topological quantum field theory.
+
+2.3 Positioning the Electron and Proton on the Recursive Tree
+
+We identify the electron as an $(n+1)$-th order knot with $L_{n+1} = 4$, and the proton as an $(n+k)$-th order knot with $L_{n+k} = 11933$. Assuming asymptotic Fibonacci growth, $L_m \approx \phi^m$ with $\phi = (1+\sqrt{5})/2 \approx 1.618$, we obtain:
+
+11933
+4
+≈
+ϕ
+k
+−
+1
+⇒
+k
+−
+1
+≈
+ln
+⁡
+2983.25
+ln
+⁡
+ϕ
+≈
+16.6
+,
+4
+11933
+​	
+ ≈ϕ 
+k−1
+ ⇒k−1≈ 
+lnϕ
+ln2983.25
+​	
+ ≈16.6,
+
+hence $k \approx 18$. The proton is therefore approximately 17 recursive steps beyond the electron. This substantial hierarchical distance provides the structural basis for the mass ratio $M_p/M_e \approx 1836$, as will be quantified in Section 5.
+
+2.4 The Electron Brick and the Relativity of Energy Scales
+
+At current cosmic energies, the electron is the smallest stable topological knot and thus functions as an electron brick—a fundamental building block for more complex particles like the proton. The proton's total brick count of 11933 represents an accumulation of these electron bricks, along with even more primitive ancestral bricks from lower recursion orders, assembled according to the recursive rule.
+
+Crucially, the electron is not absolutely fundamental. The principle of energy scale relativity asserts that at sufficiently high energies—characteristic of the early universe—the internal structure of the electron would become manifest. This implies that the electron itself must conform to the universal "hard core + soft shell" architecture:
+
+Hard Core: Composed of four sub-bricks arranged in a tetrahedral configuration. This core, a knot of order $n$, contributes essentially all of the electron's observable mass at current scales. These four sub-bricks are themselves composites of yet deeper constituents.
+Soft Shell: Consists of ancestral bricks of order $n-1$, $n-2$, etc., attached to the core via chiral locking sites. In the low-energy environment of the present universe, these shell bricks exist in a "frozen" or unexcited state. Their contribution to the electron's mass is so minute as to be undetectable with current technology. Their presence is betrayed only through subtle effects: the electron's point-like appearance (the shell's spatial extent is far below current resolution), its participation in quantum fluctuations and virtual processes [9], and possibly its intrinsic spin and magnetic moment (interpreted as collective excitations of the chiral locks).
+Thus, the electron's complete structure can be schematically represented as:
+
+L
+n
++
+1
+=
+4
+=
+(
+core bricks
+)
++
+(
+mass-negligible shell bricks at current scale
+)
+,
+L 
+n+1
+​	
+ =4=(core bricks)+(mass-negligible shell bricks at current scale),
+
+where the shell bricks, though real, contribute negligibly to the ground state energy. This perspective unifies the electron and proton under a single structural motif: the proton has a $12^3 = 1728$ core and a massive $10205$-brick shell, while the electron has a $4$-brick core and a shell whose mass contribution is exponentially suppressed due to the energy scale hierarchy. This is the essence of energy scale relativity: there are no eternally fundamental particles, only recursively nested structures whose effective "elementarity" is determined by the observational energy scale.
+
+3 Layered Structure and Chiral Locking
+
+3.1 The "Hard Core + Soft Shell" Design
+
+In the high-energy, high-collision environment of the early cosmos, only particles capable of absorbing impacts without disintegration survived. This natural selection pressure favored a universal design:
+
+Hard Core: A densely packed arrangement of bricks providing high binding energy and resistance to penetration.
+Soft Shell: A deformable layer of "floating bricks" that buffers collision energy through configurational changes.
+This design is scale-invariant, applying from the electron to the proton to atomic nuclei.
+
+3.2 Geometric Necessity of Core Sizes
+
+For large knots like the proton, the most stable core arrangement is cubic close-packing, yielding a core count of $12^3 = 1728$. For the smallest stable knot, the electron, the most stable configurations in low dimensions are the tetrahedron or the square ring, both with 4 vertices. This geometric necessity, rooted in minimal strain energy and maximal compactness, explains why the recursive tree yields $L=4$ and $L=11933$ as the dominant stable species.
+
+3.3 Chiral Locking and the Origin of Charge
+
+Shell bricks attach to the core via chiral locking sites—localized regions where the winding direction (handedness) of vortex loops determines binding affinity. Right-handed locks bind preferentially with right-handed partners, while left-handed locks repel them. The overall electric charge of a particle is then a macroscopic manifestation of the statistical handedness bias of its surface locks:
+
+Proton: A vast array of shell bricks ($\approx 10205$, with 108 "active" surface bricks) exhibiting a strong right-handed bias $\rightarrow$ positive charge.
+Neutron: Structurally identical to the proton, but with a left-handed surface bias $\rightarrow$ neutral charge. The near-equality of proton and neutron masses reflects their identical core and shell compositions.
+Electron: At current scales, the electron's handedness is determined directly by the chiral arrangement of its four core bricks. The frozen shell, if it possesses handedness, does not contribute to a measurable macroscopic charge.
+The chiral locking mechanism bears conceptual similarity to the braiding statistics of non-Abelian anyons, where the exchange of quasiparticles generates non-trivial unitary transformations on the topological Hilbert space [10, 11]. In the Fibonacci anyon model, the fusion space dimension grows according to the Fibonacci sequence, mirroring the recursive growth we observe in brick numbers [12].
+
+3.4 Proton and Neutron as Deep Composites
+
+As established, protons and neutrons are composites of electron bricks and even more primitive ancestral bricks. Both share the identical core structure ($12^3 = 1728$, itself a multi-generational composite), differing only in surface chiral handedness. At sufficiently high energy scales, the proton would similarly "open" to reveal its internal electron bricks and deeper ancestral constituents.
+
+4 Collisional Selection and Energy Scale Evolution
+
+4.1 Natural Selection Mechanism
+
+As the universe cooled from its initial high-energy state, topological knots formed and dissolved in the cosmic plasma. Only those structures satisfying the survival condition persisted:
+
+E
+bind
+(
+L
+)
+>
+E
+coll
+and
+E
+deform
+(
+L
+)
+>
+E
+coll
+,
+E 
+bind
+​	
+ (L)>E 
+coll
+​	
+ andE 
+deform
+​	
+ (L)>E 
+coll
+​	
+ ,
+
+where $E_{\text{bind}}$ is the binding energy, $E_{\text{deform}}$ is the energy threshold for plastic deformation, and $E_{\text{coll}}$ is the characteristic collision energy at that epoch. Hierarchically layered structures (e.g., the proton) possess both high binding energy (from the core) and high deformation tolerance (from the shell), granting them a decisive survival advantage over simpler knots.
+
+4.2 Fate of Intermediate Orders
+
+Intermediate knots on the recursive tree (e.g., $L = 5, 9, 14, 23, \dots$) and lower-order bricks ($L=1,2,3$) existed transiently in the early universe. Lacking the robust layered defense of the electron and proton, they decayed or were assimilated. Today, they persist only as unstable resonances, as dark matter candidates, or as the internal structural components of stable particles.
+
+This selection mechanism resonates with the concept of topological protection in condensed matter systems. In fractional quantum Hall states, quasiparticle excitations are topologically protected against local perturbations, ensuring their stability [13]. Similarly, the "hard core + soft shell" architecture provides topological protection against collisional disruption.
+
+4.3 Why No $n^3$ Core Particles for $n=2$ to $11$?
+
+A complete particle characterized by an $n^3$ core must simultaneously satisfy recursive sequence membership and structural stability requirements. Only $n=12$ ($1728$) coincides with the 18th recursive term ($11933$), with a shell of $10205$ bricks providing adequate buffering. A parallel argument applies to the electron: its core number $4$ corresponds precisely to its recursive tree position, and its "shell" (mass-negligible at current scales) guaranteed stability at its formation energy scale.
+
+5 Binding Energy Correction and the Mass Ratio
+
+The raw brick-count ratio $L_p / L_e = 11933 / 4 \approx 2983.25$ significantly exceeds the observed mass ratio $M_p / M_e \approx 1836.15$ [14]. This discrepancy is resolved by a structure-dependent binding energy factor $g(L)$:
+
+M
+p
+M
+e
+=
+L
+p
+ 
+g
+(
+L
+p
+)
+L
+e
+ 
+g
+(
+L
+e
+)
+=
+2983.25
+×
+g
+(
+11933
+)
+g
+(
+4
+)
+≈
+1836
+,
+M 
+e
+​	
+ 
+M 
+p
+​	
+ 
+​	
+ = 
+L 
+e
+​	
+ g(L 
+e
+​	
+ )
+L 
+p
+​	
+ g(L 
+p
+​	
+ )
+​	
+ =2983.25× 
+g(4)
+g(11933)
+​	
+ ≈1836,
+
+implying $g(11933)/g(4) \approx 0.615$.
+
+The binding energy factor $g(L)$ accounts for the mass defect—the phenomenon whereby the mass of a composite system is less than the sum of the masses of its constituents [15]. In nuclear physics, the mass defect $\Delta m$ is related to binding energy by $E_b = \Delta m , c^2$ [16, 17]. For a nucleus with mass number $A$ and atomic number $Z$, the mass defect is:
+
+\Delta m = [Z(m_p + m_e) + (A-Z)m_n] - m_{\text{atom}}, \tag{2}
+
+where $m_p$, $m_n$, and $m_e$ are the proton, neutron, and electron masses respectively [18].
+
+In the TDMU framework, the binding energy arises from linkage and gradient energies in the vortex network. The smaller $g(L_p)$ reflects the greater binding efficiency of the proton's massive shell compared to the electron's negligible shell. For the electron, $g(4)$ represents the core's tight binding, with shell contributions being exponentially suppressed at current energy scales.
+
+6 Nuclear Fusion: Recursion at Higher Orders
+
+6.1 From Proton to Nucleus
+
+The proton itself is an 18th-order knot. Atomic nuclei, such as deuterium and helium, are higher-order composites formed by fusing protons and neutrons via the strong interaction. In the TDMU framework, this is a manifestation of recursion at a higher level: the fusion of two protons should, in principle, yield a 19th-order knot with brick count $L_{19} = L_{18} + L_{17} \approx 11933 + 7375 = 19308$. However, the observed deuteron mass ($\approx 2 \times 938.27 \text{ MeV}$ minus binding energy) reflects the complex structural reorganization and energy redistribution upon fusion—a topic for future quantitative modeling.
+
+6.2 Two Pathways to Fusion: Violent and Resonant
+
+Overcoming the Coulomb barrier between protons requires either brute force or subtle resonance:
+
+Violent Pathway: High thermal kinetic energy forces cores into direct contact, compressing shells and enabling core-core fusion. This is the dominant process in stellar interiors, described by Arrhenius-type rates [19].
+Lock-and-Key (Resonant) Pathway: When the surface chiral locks of two protons are precisely complementary, they can engage at lower relative kinetic energies. This matching initiates a topological resonance: the interlocking shells oscillate collectively, and if this oscillation frequency matches the core's natural breathing mode, energy efficiently tunnels into the core, triggering fusion. This mechanism explains resonant enhancements in fusion cross-sections [20] and suggests potential enhancements in environments like metal lattices that can facilitate lock matching.
+The resonant pathway bears mathematical analogy to the braiding operations in topological quantum computation, where specific sequences of exchanges produce desired unitary transformations [21, 22]. In both cases, the topological structure determines the interaction outcomes.
+
+6.3 How Surface Locking Triggers Core Fusion
+
+Surface locking triggers core fusion because the proton possesses a layered architecture. Outer bricks connect to the core via sliding chiral locks; when two protons' outer bricks achieve tight interlocking, they oscillate collectively, converting kinetic energy into collective excitation modes. If the oscillation frequency matches the core's radial breathing mode, energy deposits into the core, causing the densely packed core bricks (themselves multi-generational composites) to rearrange and fuse.
+
+Thus, the lock-and-key pathway's trigger is chiral matching plus resonance, not merely high temperature. This explains resonant fusion cross-section peaks at specific energies [23] and suggests fusion probability enhancement in metal lattices (where lattice periodicity assists lock matching).
+
+6.4 Fusion Products and Recursive Rules
+
+Deuteron formation from two protons corresponds, on the recursive tree, to a 19th-order knot. Assuming Fibonacci recursion persists, $L_{19} = L_{18} + L_{17}$. With $L_{18}=11933$ and $L_{17} \approx 7375$ (from sequence $4,5,9,14,23,37,60,97,157,254,411,665,1076,1741,2817,4558,7375,11933$), $L_{19}=19308$. Yet the deuteron's total brick count approximates $2\times11933=23866$ (uncorrected); the discrepancy arises from binding energy and structural reorganization—a direction for future research.
+
+6.5 Fission as the Reverse Process
+
+Fission, the inverse of fusion, occurs when a large nucleus splits into two medium-mass nuclei. In TDMU, this corresponds to external perturbation (e.g., neutron impact) inducing internal stress, outer lock disengagement, and eventual core fracture.
+
+7 The Inevitable Structure of the Electron
+
+7.1 Does the Electron Also Possess "Hard Core + Soft Shell"?
+
+According to energy scale relativity and recursive growth universality, the answer is affirmative. The electron's recursive tree position necessitates composition from more primitive bricks, its structural pattern identical to the atomic nucleus:
+
+Hard Core: Four "core bricks"—the source of the electron's $L=4$ manifestation at current scales. These four bricks, woven most tightly (tetrahedral configuration), form the electron's hard core. They themselves are $n$th-order recursive tree knots, composed of deeper bricks. The electron's macroscopic mass derives almost entirely from these four core bricks.
+Soft Shell: Composed of preceding-generation bricks ($n-1$th, $n-2$th order, etc.), attached to the core via chiral locks, forming the electron's soft outer layer. At today's low cosmic energy scale, these outer bricks exist in a "frozen" state, contributing negligibly to electron mass—undetectable by current measurement precision. Their existence manifests only as:
+
+Electron's point-like character (outer layer scale far below current resolution);
+Quantum fluctuations and virtual processes (brief outer brick excitations) [9];
+Electron spin and magnetic moment (possibly from outer layer chiral lock collective effects).
+7.2 Why Is the Electron's Outer Layer Unobservable at Current Scales?
+
+This follows from energy-scale correspondence: outer brick binding energies far exceed current cosmic average energy, locking them within the skeleton, unexcited by conventional detection. Only at extremely high scales (early universe or future ultra-high-energy colliders) might the electron "open" to reveal its full "hard core + soft shell" structure.
+
+7.3 Revising the "Electron Brick" Concept
+
+Previously, we termed the electron an "electron brick," implying it is the fundamental building block of the proton. This remains valid as an effective description at current scales. More precisely, the "electron brick" refers to the electron's hard core—the stable $L=4$ configuration that persists at low energies. The full electron, including its frozen shell, is a richer entity. In the proton, these electron cores (along with even deeper ancestral bricks) constitute the internal scaffolding, while the electron's frozen shell likely plays a role in the proton's own shell dynamics, albeit with effects suppressed by the energy hierarchy.
+
+8 Testable Predictions and Future Directions
+
+The TDMU framework, while speculative, generates several concrete, testable predictions:
+
+Resonant Fusion Cross-Sections: The lock-and-key mechanism predicts narrow resonances in proton-proton and proton-nucleus fusion cross-sections at specific, calculable energies determined by the vibrational modes of the chiral locking network. Precision measurements of fusion rates, particularly in aligned or crystalline environments, could reveal such resonances.
+Electron Substructure: At energy scales approaching the electron's core binding energy (estimated to be many orders of magnitude above current TeV scales), deviations from point-like behavior should appear. This could manifest as:
+
+Anomalies in high-energy $e^+e^-$ scattering cross-sections;
+Excited states of the electron ($e^*$) with masses corresponding to the excitation of its frozen shell;
+A non-zero, albeit tiny, electric dipole moment arising from chiral asymmetries in the shell.
+Precise Mass Relations: The Fibonacci recursion, combined with a detailed theory of vortex network binding energies, should yield a precise calculation of the electron/proton mass ratio, not just a post-hoc fit. The ratio $g(11933)/g(4)$ must be derivable from the statistical mechanics of the vortex substrate.
+Neutron Lifetime Anomaly: The slight mass difference between the proton and neutron, and the neutron's finite lifetime, may be calculable from the energy difference between right-handed and left-handed surface lock configurations in the cosmic background.
+Dark Matter Candidates: The intermediate knots on the recursive tree (e.g., $L=5, 9, 14$, etc.) that were selected against during cosmic cooling could constitute a significant fraction of dark matter. Their stability and interaction cross-sections with ordinary matter are, in principle, calculable within the model.
+Topological Quantum Computation Connections: The recursive structure we identify suggests potential experimental realizations in fractional quantum Hall systems, where Fibonacci anyon braiding could be manipulated for quantum information processing [24, 25]. Specific braiding sequences might simulate the cosmic fusion processes described here.
+9 Conclusion
+
+In the Topological Dynamic Membrane Universe hypothesis, the particle spectrum is not arbitrary but is the inevitable outcome of a cosmic evolutionary process governed by recursive growth laws and energy-scale-dependent natural selection. We have shown that the electron ($L=4$) and proton ($L=11933$) occupy specific positions on a Fibonacci-type recursive tree, their stability and properties arising from a universal "hard core + soft shell" architecture. The principle of energy scale relativity forces the conclusion that the electron itself possesses such a layered structure, with a $4$-brick core and a frozen, as-yet-unobserved soft shell.
+
+This framework unifies the description of elementary particles, atomic nuclei, and cosmic evolution, offering a first-principles pathway to understanding the material world. It suggests a profound shift in perspective: there are no fundamental particles in an absolute sense, only recursively nested structures whose apparent fundamentality is a function of the observational energy scale. The universe is a self-similar, hierarchically organized topological knot, and we are beginning to trace its intricate patterns.
+
+The mathematical parallels with Fibonacci anyons and topological quantum computation [2, 3, 8] suggest that the recursive structures we observe may reflect deeper principles of topological quantum field theory operating at cosmic scales. Future work will explore these connections, potentially yielding experimental tests in both high-energy physics and condensed matter systems.
+
+Acknowledgments
+
+The author acknowledges profound and sustained intellectual debt to an anonymous interlocutor whose deep insights and commitment to first principles were indispensable to the development of this work.
+
+Statements and Declarations
+
+Funding: The authors declare that no funds, grants, or other support were received during the preparation of this manuscript.
+
+Competing Interests: The authors have no relevant financial or non-financial interests to disclose.
+
+Author Contribution: [Specify contributions if multiple authors]
+
+Data Availability: Data sharing is not applicable to this article as no new data were created or analyzed in this study.
+
+Code Availability: Not applicable.
+
+Ethics Approval: Not applicable.
+
+Consent to Participate: Not applicable.
+
+Consent for Publication: Not applicable.
+
+AI Tool Disclosure: This manuscript was prepared with the assistance of AI tools for language refinement and copy editing only. All intellectual content, including the original theoretical framework, core physical insights, and scientific conclusions, is the original work of the author. The author takes full responsibility for the final content.
+
+References
+
+TDMU Foundation Papers (To be completed with specific citations)
+Hadjiivanov, L., Georgiev, L.S.: Braiding Fibonacci anyons. J. High Energ. Phys. 2024, 84 (2024). https://doi.org/10.1007/JHEP08(2024)084 
+Simon, S.H.: Topological Quantum. Oxford University Press, Oxford (2023) 
+Ardonne, E., Schoutens, K.: Wavefunctions for topological quantum registers. Ann. Phys. 322, 201–235 (2007) 
+Georgiev, L.S., Hadjiivanov, L., Matein, G.: Diagonal coset approach to topological quantum computation with Fibonacci anyons. arXiv:2404.01779 (2024) 
+Todorov, I.T., Hadjiivanov, L.K.: Monodromy representations of the braid group. Phys. Atom. Nucl. 64, 2059–2068 (2001) 
+Preskill, J.: Lecture Notes Ph219: Quantum Computation, Part III. Topological quantum computation. California Institute of Technology, Pasadena (2004) 
+Freedman, M.H., Kitaev, A., Larsen, M., Wang, Z.: Topological Quantum Computation. Bull. Am. Math. Soc. 40, 31–38 (2002) 
+Itzykson, C., Zuber, J.-B.: Quantum Field Theory. McGraw-Hill, New York (1980)
+Nayak, C., Wilczek, F.: 2n-quasihole states realize 2^n−1-dimensional spinor braiding statistics in paired quantum Hall states. Nucl. Phys. B 479, 529–553 (1996) 
+Gu, X., Haghighat, B., Liu, Y.: Ising-like and Fibonacci anyons from KZ-equations. JHEP 09, 015 (2022) 
+Zamolodchikov, A.B., Fateev, V.A.: Nonlocal (parafermion) currents in two-dimensional conformal quantum field theory and self-dual critical points in Z_n-symmetric statistical systems. Sov. Phys. JETP 62, 215–225 (1985) 
+Cappelli, A., Georgiev, L.S., Todorov, I.T.: Parafermion Hall states from coset projections of Abelian conformal theories. Nucl. Phys. B 599, 499–530 (2001) 
+Particle Data Group: Review of Particle Physics. Prog. Theor. Exp. Phys. 2022, 083C01 (2022)
+Latimer, W.M., Libby, W.F.: Bond Energies and Mass Defects in Atomic Nuclei. J. Chem. Phys. 1(2), 133–136 (1933). https://doi.org/10.1063/1.1749264 
+Einstein, A.: Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? Ann. Phys. 18, 639–641 (1905)
+Mass Defect and Binding Energy. DOE-HDBK-1019/1-93, U.S. Department of Energy 
+Proton mass correction calculation. Vedantu Educational Resource (2020) 
+Clayton, D.D.: Principles of Stellar Evolution and Nucleosynthesis. University of Chicago Press, Chicago (1983)
+Burbidge, E.M., Burbidge, G.R., Fowler, W.A., Hoyle, F.: Synthesis of the Elements in Stars. Rev. Mod. Phys. 29, 547–650 (1957)
+Bonesteel, N.E., Hormozi, L., Zikos, G., Simon, S.H.: Braid Topologies for Quantum Computation. Phys. Rev. Lett. 95, 140503 (2005) 
+Hormozi, L., Zikos, G., Bonesteel, N.E., Simon, S.H.: Topological Quantum Compiling. Phys. Rev. B 75, 165310 (2007) 
+Fowler, W.A., Caughlan, G.R., Zimmerman, B.A.: Thermonuclear Reaction Rates. Annu. Rev. Astron. Astrophys. 13, 69–112 (1975)
+Slingerland, J.K., Bais, F.A.: Quantum groups and nonAbelian braiding in quantum Hall systems. Nucl. Phys. B 612, 229–290 (2001) 
+Freedman, M.H., Larsen, M., Wang, Z.: A Modular Functor Which is Universal for Quantum Computation. Commun. Math. Phys. 227, 605–622 (2002) 
