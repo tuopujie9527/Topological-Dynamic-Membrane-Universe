@@ -1,0 +1,805 @@
+The Comet Capture Hypothesis: Late Pleistocene Reorganization of the Earth–Moon System — Astrophysical Decoding of Global Creation Myths（v2.33）
+
+
+
+📖 About This Paper
+
+This paper proposes an evolutionary model of the Earth–Moon system independent of the standard Giant Impact Hypothesis. Its core claim is that the present Moon’s main body is a super-comet nucleus captured by Earth during the Late Pleistocene. During capture, tidal forces at the Roche limit fragmented it; the debris swarm then impacted the leading face of the main nucleus in subsequent orbital cycles, forming the major mare basins. The main nucleus later merged with Earth’s pre-existing small satellite (the “Palaeo-Moon”), and the merged body’s thick ice shell underwent massive sublimation driven by heat, pushing the lunar orbit from ~50,000 km to ~380,000 km via conservation of angular momentum—this is the physical essence of the “Separation of Heaven and Earth” myth.
+
+📑 Table of Contents
+
+Abstract
+1. Introduction: A Methodological Reorientation—Myth as Raw Cognitive Encoding
+
+1.1 The Problem: Structural Homology in Global Creation Myths
+1.2 Core Proposition: Myth as Raw Data of Cognitive Encoding
+1.3 Operational Definition of Myth Decoding
+1.4 Visual Fingerprint Exclusion of Candidate Catastrophe Models
+2. Celestial Mechanics Model: From Palaeo-Moon to New Moon
+
+2.1 Initial Conditions: Existence and Evidence for the Palaeo-Moon
+2.2 Trigger Event: Scholz’s Star Flyby and Cometary Debris Shower
+2.3 Phase 1: Close Flyby, Tidal Disruption, and Capture
+2.4 Phase 2: “Multiple Suns in the Sky” and Frontal Impacts
+2.5 Phase 3: Merger of Main Nucleus with Palaeo-Moon
+2.6 Phase 4: Atmospheric Suspension‑Sedimentation Two‑Layer Model
+2.7 Phase 5: Disappearance of the Cometary Tail—“The Heavenly Pillar Broke”
+2.8 Phase 6 (Core Innovation): Sublimation‑Driven Orbital Migration
+2.9 Phase 7: Hydrological Catastrophe and the “Great Flood”
+3. Pre‑ and Post‑Event Archaeological and Mythological Time Anchors
+4. Four‑Dimensional Synchronised Timeline
+5. Physical Interpretation of Lunar Exploration Data
+6. “Cognitive Encoding” Analysis of Global Myths
+7. Explanation of the Archaeological Discontinuity
+8. Testable Unique Predictions
+9. Limitations and Future Work
+10. Conclusion
+References
+Appendix A: Key Order‑of‑Magnitude Estimates
+Appendix B: Glossary of Key Terms
+Author’s Note
+📝 Abstract
+
+This paper proposes an evolutionary model of the Earth–Moon system independent of the standard Giant Impact Hypothesis. Its core claim is that the present Moon’s main body is a super‑comet nucleus captured by Earth during the Late Pleistocene. During capture, tidal forces at the Roche limit fragmented it; the debris swarm then impacted the leading face of the main nucleus in subsequent orbital cycles, forming the major mare basins. The main nucleus later merged with Earth’s pre‑existing small satellite (the “Palaeo‑Moon”), and the merged body’s thick ice shell underwent massive sublimation driven by heat, pushing the lunar orbit from ~50,000 km to ~380,000 km via conservation of angular momentum—this is the physical essence of the “Separation of Heaven and Earth” myth.
+
+The model’s unique starting point is the decoding of global creation myths as “cognitive encodings.” Through visual‑fingerprint exclusion of candidate catastrophe scenarios, we demonstrate that only a super‑comet nucleus passing extremely close to the Roche limit can simultaneously produce the four visual features repeatedly recorded in myths: all‑covering dome, vertical light pillar, sequential falls, and colourful canopy. The mythological data themselves constitute a hard constraint that filters physical models.
+
+The core physical chain is: the Palaeo‑Moon provided billions of years of tidal braking; Scholz’s Star perturbed the Oort Cloud, sending debris into the inner Solar System; the super‑comet nucleus was captured, fragmented, impacted, and merged; post‑merger sublimation drove orbital migration; impact and sublimation water vapour totalled ~10²⁰–10²¹ kg, released in two phases, forming global flood memories and correlating with Meltwater Pulse 1A and the Younger Dryas; the cometary injection of matter and energy triggered abrupt global cooling, pushing the Last Glacial Maximum to its peak.
+
+The model independently explains lunar dichotomy, the absence of central peaks in maria, regolith characteristics, the co‑existence of ancient basaltic ages with young surface structures, Earth–Moon compositional similarity, the fossil record of day length, and the archaeological break from Palaeolithic to Neolithic celestial worship—while retaining falsifiable predictions that distinguish it from all competing hypotheses.
+
+Keywords: comet capture; tidal disruption; sublimation‑driven orbital migration; Palaeo‑Moon merger; lunar dichotomy; comparative mythology; Late Pleistocene; visual fingerprint
+
+1. Introduction: A Methodological Reorientation—Myth as Raw Cognitive Encoding
+
+1.1 The Problem: Structural Homology in Global Creation Myths
+
+For a long time, academia has treated creation myths as fictional products of primitive thought. However, when we adopt the working hypothesis that “all creation myths share a common physical event prototype” and re‑examine a large body of global creation narratives, a striking structural homology emerges:
+
+Table 1: Comparison of Core Motifs in Global Creation Myths
+
+Civilisation	Chaos / Creation	Multiple Suns	Multiple Suns Disappear One by One	Sky Structure Change	Global Flood
+China	Pangu separates heaven and earth	Ten suns appear	Hou Yi shoots nine suns	Gonggong breaks the heavenly pillar → Nüwa mends the sky	Yu controls the flood
+Sumer	Chaos → Marduk slays Tiamat	—	—	Creation of heaven and earth	Great flood
+Greece	Chaos	—	Phaethon falls	Uranus castrated: separation of heaven and earth	Deucalion’s flood
+India	—	Nine Adityas	Indra kills Vritra	—	Release of flood
+Maya	—	Moon rabbit wounds Moon goddess	—	—	Flood drowns wooden people
+Norse	Ginnungagap	—	Ragnarök sky burns	Ymir’s death creates heaven and earth	Ymir’s blood becomes flood
+These narratives share the same sequence: heavenly chaos → multiple suns appear → multiple suns disappear one by one → sky structure changes → global flood.
+
+1.2 Core Proposition: Myth as Raw Data of Cognitive Encoding
+
+This model positions myth as: real physical observational data, encoded through the cognitive framework of the Stone Age. Ancient peoples did not fabricate celestial events; but they described what they saw using their only available cognitive tools—mythological language, hunting experience, and spatial analogies.
+
+Thus, the value of myth lies not in providing precise numbers or geometric details, but in providing the sequential structure of events and qualitative descriptions of phenomena. Differences between civilisations (numbers, names, details) arise from stochastic deformation during encoding, not from the fiction of the events themselves.
+
+1.3 Operational Definition of Myth Decoding
+
+To avoid the risk of “arbitrary correspondence,” this paper provides the following operational definition of “cognitive encoding”:
+
+Table 2: Conversion Rules of Cognitive Encoding
+
+Conversion Type	Physical Event	Mythological Expression	Cognitive Mechanism
+Visual scaling	Lunar apparent diameter shrinks over generations	“Heaven and earth rise one zhang each day”	Projecting intergenerational cumulative change into daily measure
+Sequential events	Multiple impact flashes occur in succession	“Shooting the suns”	Projecting orbital rendezvous into hunting behaviour
+Disappearance	Cometary tail glow fades and vanishes	“The heavenly pillar breaks”	Projecting visual disappearance into structural fracture
+Coverage	Atmospheric airglow covers the sky	“Mending the sky”	Projecting atmospheric luminescence into repair behaviour
+Key declaration: The model does not require myths to provide numerical accuracy (e.g., “nine”), nor geometric precision. It only requires myths to provide the order of events and the nature of the catastrophe. Validation criteria:
+
+Sequence consistency: Do myths share the narrative skeleton: “great change → multiple luminous bodies → catastrophe → new order”?
+Physical correspondence: Can each narrative element find at least one reasonable physical counterpart in the model?
+Multiple independence: Does the sequence appear in at least three civilisations without direct cultural exchange?
+1.4 Visual Fingerprint Exclusion of Candidate Catastrophe Models
+
+The model’s choice of “extremely close flyby of a super‑comet” as the physical prototype for global creation myths is not a theoretical preference, but is forced by the mythological data themselves. Below, we systematically compare all known astrophysical and geological catastrophe processes to show that only this scenario can simultaneously satisfy the four phenomenological constraints.
+
+1.4.1 The Four Visual Features of Myths—Phenomenological Constraints
+
+A systematic review of visual descriptions in global creation myths yields four transcultural common features:
+
+Feature 1: All‑covering dome (“Chaos like a chicken egg”) — Myths do not describe a distant point or local fireball, but a surrounding, enveloping sky‑spanning phenomenon. The Chinese myth “Heaven and earth were chaotic like a chicken egg” is typical—chaos is likened to a closed, enveloping eggshell, not an open sky. This demands an extremely large angular diameter (>10°) for the catastrophe body, occupying a vast area from horizon to zenith.
+Feature 2: Vertical light pillar (“Heavenly pillar”) — Many civilisations have a “heavenly pillar” or “world axis”—a luminous column extending vertically from the ground to the zenith. China’s “pillar breaks,” the Norse “World Tree,” and Greece’s “Atlas” all point to a pronounced vertical structure. This requires a light source with clear directional extension from near‑ground to high altitude.
+Feature 3: Sequential falls (“Shooting the suns”) — The multiple suns do not disappear simultaneously, but are shot/fall one by one. China’s “Yi shot the ten suns, hitting nine,” and India’s “Indra kills Vritra” both show sequential disappearance. This requires multiple independent luminous bodies in the sky that vanish one after another within an observable time window.
+Feature 4: Colourful canopy (“Five‑coloured stones to mend the sky”) — The sky changes colour described as “five colours,” not simple greyness—Chinese Nüwa “smelted five‑coloured stones to mend the azure sky.” This requires materials entering the atmosphere to excite multi‑wavelength visible emission, not merely produce grey dust.
+1.4.2 Visual Output Comparison of Candidate Catastrophe Models
+
+Table 3: Visual Feature Matching of Candidate Catastrophe Models
+
+Candidate Catastrophe	Feature 1: All‑covering Dome	Feature 2: Vertical Pillar	Feature 3: Sequential Falls	Feature 4: Colourful Canopy
+Asteroid impact (diam. 10‑50 km)	✗ point fireball	✗ none	✗ single	✗ grey dust
+Supervolcano (Yellowstone‑class)	✗ regional plume	△ grey plume	✗ single	✗ grey/none
+Supernova / GRB	✗ distant point	✗ none	✗ single	△ monochromatic
+Near‑Earth asteroid tidal disruption	△ moderate diameter	✗ none	✓ possible	✗ rocky dust (grey)
+Giant comet extremely close flyby (this model)	✓ 10°‑15° diameter	✓ vertical cometary glow pillar	✓ tidal disruption chain	✓ icy airglow (five colours)
+Detailed exclusion analysis:
+
+Asteroid impact: Produces an instantaneous, point‑like fireball, followed by dust that darkens the sky. Cannot produce an “all‑covering dome,” “vertical pillar,” or “sequential disappearance.”
+Supervolcano: Plumes are grey, regional, and upward from the ground; cannot explain global commonality, “multiple suns,” or “colourful sky.”
+Supernova/GRB: Even if bright, remains a point source; no structure from zenith to horizon, no sequential falls.
+Near‑Earth asteroid tidal disruption: Can produce fragments, but rocky fragments enter the atmosphere as fast meteors, not “hanging and disappearing one by one”; rocky dust does not produce colourful airglow.
+Giant comet (this model): Only this satisfies all four. Diameter 4000‑5000 km, perigee altitude 15,000‑25,000 km → angular diameter 10°‑15°, occupying most of the sky (Feature 1); coma and tail, under tidal effects, form a vertical luminous pillar from horizon to zenith (Feature 2); Roche‑limit disruption naturally yields 5‑15 fragments that impact the main nucleus sequentially (Feature 3); icy dust and volatiles excite oxygen (green 557.7 nm, red 630.0 nm) and sodium (yellow 589.0 nm) airglow (Feature 4).
+1.4.3 “Astronomical Fingerprint” Matching Argument
+
+The above four constraints form a unique “astronomical fingerprint”—a combination of four features. Any candidate catastrophe model that claims to be the prototype must simultaneously produce all four.
+
+The model’s argument is: Among all known astrophysical processes in the Solar System, only a super‑comet nucleus passing extremely close to the Roche limit can simultaneously generate the four visual features: all‑covering dome, vertical light pillar, sequential falls, and colourful canopy. Therefore, the mythological data themselves force the cometary scenario—this is a logical necessity of data constraint.
+
+1.4.4 Methodological Significance: From “Decoding” to “Constraint”
+
+The visual‑fingerprint exclusion analysis in §1.4 has deeper methodological meaning. It shows that myth, as cognitive‑encoding data, can not only be decoded but also can inversely constrain the construction of physical models. This answers the traditional criticism that “mythological evidence is too flexible”—when we treat the combination of visual features as strict constraints, myth becomes not “soft evidence that can explain anything,” but “hard constraints that exclude all other explanations.”
+
+This methodological framework can be summarised as: Myths are not illustrations to “confirm” physical hypotheses, but filters to “select” them.
+
+2. Celestial Mechanics Model: From Palaeo‑Moon to New Moon
+
+2.1 Initial Conditions: Existence and Evidence for the Palaeo‑Moon
+
+2.1.1 Origin of the Palaeo‑Moon—A Natural Explanation for the Orbital Gap Between Mars and Jupiter
+
+The Solar System has an orbital gap of about 3.7 AU between Mars (≈1.5 AU) and Jupiter (≈5.2 AU). The standard model attributes this to Jupiter’s gravitational perturbations preventing planetesimal accretion.
+
+This model proposes that one medium‑sized (diameter ≈1000‑2000 km) protoplanet was scattered into the inner Solar System by Jupiter‑Saturn gravitational resonance, and was subsequently captured by Earth’s gravity, becoming Earth’s original satellite—the Palaeo‑Moon.
+
+Supporting evidence:
+
+Differentiation evidence in the asteroid belt: Vesta (diam. 525 km) is fully differentiated, proving that large protoplanets capable of internal melting once existed there.
+Earth’s exceptional lack of small moons: Mars has two small moons (Phobos, Deimos); Earth, being larger, has none—the most natural explanation is that it once had one, but it was removed or merged during a recent event.
+2.1.2 Physical Parameters and Tidal Braking Function of the Palaeo‑Moon
+
+Table 4: Physical Parameters of the Palaeo‑Moon
+
+Parameter	Estimate	Constraint Source
+Diameter	1000‑2000 km	Extrapolation from differentiated bodies in asteroid belt
+Mass	10²¹‑10²² kg	Minimum tidal braking requirement (see Appendix A1)
+Density	2.5‑3.0 g/cm³	Rocky differentiated body
+Orbital altitude	100,000‑300,000 km	Safe orbit outside Roche limit
+Apparent diameter (surface)	0.15°‑0.3°	About 30%‑60% of present Moon
+Tidal braking calculation: Fossil records show Earth’s day length was 21.9±0.4 hours at ~620 Ma (Williams, 2000). If driven only by solar tides, the deceleration would be an order of magnitude slower. A Palaeo‑Moon at 100,000‑300,000 km with mass 10²¹‑10²² kg could provide cumulative tidal dissipation comparable to the present Moon over billions of years (see Appendix A1).
+
+2.1.3 Visual Prominence of the Palaeo‑Moon
+
+The Palaeo‑Moon’s apparent diameter was only 0.15°‑0.3° (human naked‑eye resolution ≈0.02°), resolvable as a disk, but incomparable to the “New Moon” (initial apparent diameter 4°‑10°) that appeared 30,000 years later. The fact that unequivocal depictions of a large satellite (Moon) in Late Palaeolithic cave art (≈40,000‑20,000 BP) are extremely rare and contested in dating—this archaeological observation is qualitatively consistent with the model’s prediction that the Palaeo‑Moon had only 30%‑60% of the modern Moon’s apparent diameter, making it too visually insignificant to be a cultural focus (see §5.2).
+
+2.2 Trigger Event: Scholz’s Star Flyby and Cometary Debris Shower
+
+In 2015, Mamajek et al. confirmed that Scholz’s Star (WISE J072003.20‑084651.2) flew through the Oort Cloud at a distance of 0.8 light‑years (52,000 AU) about 70,000 years ago. This event perturbed the inner Oort Cloud (≈2000‑5000 AU) icy body reservoir.
+
+Key recognition: This was a cometary debris shower affecting the entire Solar System. The debris from the Oort Cloud did not fly only toward Earth, but spread throughout the Solar System. Jupiter, as the inner Solar System’s gravitational shield (Hill sphere radius ≈0.36 AU, gravitational cross‑section ≈125,000 times that of Earth), intercepted the vast majority. The comet nucleus captured by Earth and its subsequent debris were merely a small fraction of the survivors that crossed Jupiter’s defence line and reached the Earth‑Moon system.
+
+Table 5: Travel Times for Oort Cloud Debris
+
+Starting Distance (AU)	Fall Time (years)
+2,000	~16,000
+3,000	~29,000
+4,000	~45,000
+5,000	~63,000
+The most probable window for arrival in the inner Solar System is 30,000‑40,000 years. During this period, the entire Solar System experienced a massive injection of cometary material; Earth captured only a small portion.
+
+2.2.1 Physical Properties of the Comet Nucleus: The Three‑Layer Structure Model—The Mechanical Cornerstone of This Model
+
+Oort Cloud bodies and inner Solar System rocky bodies have fundamental structural differences. The comet nucleus (diameter 4000‑5000 km) discussed in this model, before encountering Earth, had a clear three‑layer structure:
+
+Outer layer (thick ice shell): Thickness ≈1000‑1500 km, density ≈0.9 g/cm³, composed of pure water ice, dry ice (CO₂), methane ice, and volatile organics. This is the main volumetric component.
+Middle layer (ice‑dust transition zone): Thickness ≈500 km, mixed ice and solid particles, density transitioning to 1.0‑1.5 g/cm³.
+Inner core (solid residue): Diameter ≈1500‑2500 km. This is the main body left after complete evaporation of the ice shell. It is not a dense rocky sphere, but a high‑porosity (30%‑50%), low‑density (1.0‑1.8 g/cm³), low‑cohesion (<1 kPa tensile strength) “rubble pile” aggregate, composed of early Solar System planetesimal debris (carbonaceous, silicate powders, organic aggregates) loosely accumulated under extremely low‑temperature vacuum conditions, never subjected to high‑temperature sintering or gravitational compaction. This model brackets specific mineralogy and relies only on its mechanical state—loose, compressible, with exponentially decaying shock waves.
+Key physical implications of this structure (the model’s mechanical soul):
+
+Capture probability greatly increased: Lower density means larger tidal radius and stronger tidal dissipation (viscoelastic ice deformation losses), making the otherwise measure‑zero three‑body capture physically possible.
+Impact “cushioning” rather than rigid collision: When icy fragments impact the main nucleus, the target is the ice shell or underlying porous matrix. Shock waves decay exponentially in porous media, with energy absorbed by adiabatic compression of pores, grain friction, and fragmentation. This explains the “broad, shallow, flat‑bottomed, no central peak” morphology of mare basins.
+Merger “embedding” rather than pulverisation: When the Palaeo‑Moon encounters the main nucleus, the dense rocky Palaeo‑Moon first hits the thick ice shell. Ice under high‑speed impact undergoes shock melting and vaporisation, absorbing most kinetic energy, allowing the Palaeo‑Moon to “melt through” the ice shell and embed, rather than catastrophic rigid‑body collision and fragmentation.
+Sublimation‑driven orbital migration: The merged “big ice ball” continuously sublimates under heat, losing mass and pushing the orbit outward via angular momentum conservation (R ∝ 1/M², §2.8).
+2.3 Phase 1: Close Flyby, Tidal Disruption, and Capture—The Physical Origin of “Opening Heaven and Earth”
+
+2.3.1 Tidal Dissipation Capture Mechanism
+
+Pure gravitational three‑body capture has measure‑zero in phase space. This model invokes tidal dissipation as the non‑conservative mechanism: when the comet nucleus (diameter 4000‑5000 km, mass ~10²³ kg, outer thick ice shell) flies past Earth on a hyperbolic orbit, if its perigee enters Earth’s Hill sphere (radius ≈1.5 million km), Earth’s tides cause significant dissipation inside the nucleus, converting orbital energy from positive (hyperbolic) to negative (elliptical), achieving capture.
+
+Parameter range: initial relative velocity 10‑15 km/s; perigee geocentric distance 22,000‑32,000 km (surface altitude 15,000‑25,000 km); post‑capture orbit highly elliptical (perigee 22,000‑32,000 km, apogee 80,000‑150,000 km).
+
+2.3.2 Tidal Disruption: The Physical Inevitability of the Roche Limit
+
+This is the model’s most critical theoretical correction.
+
+For a spherical body of density ρ<sub>c</sub> and radius R<sub>c</sub> at distance d from a planet of mass M<sub>E</sub>, the Roche limit where tidal force balances self‑gravity is:
+
+For a fluid/no‑cohesion rubble‑pile structure (reasonable for a comet nucleus):
+
+d<sub>Roche</sub> ≈ 2.44 × R<sub>E</sub> × ( ρ<sub>E</sub> / ρ<sub>c</sub> )<sup>1/3</sup>
+where R<sub>E</sub> = 6371 km, ρ<sub>E</sub> = 5510 kg/m³.
+
+Substituting ρ<sub>c</sub> = 1000‑1500 kg/m³:
+
+ρ<sub>c</sub> = 1500 kg/m³: d<sub>Roche</sub> ≈ 2.44 × 6371 × (3.67)<sup>1/3</sup> ≈ 23,900 km
+ρ<sub>c</sub> = 1000 kg/m³: d<sub>Roche</sub> ≈ 2.44 × 6371 × (5.51)<sup>1/3</sup> ≈ 27,500 km
+The perigee geocentric distance in this model (22,000‑32,000 km) fully covers or even goes below the Roche limit interval (~24,000‑28,000 km).
+
+Key conclusion: During the extremely close flyby, the comet nucleus is at or below its Roche limit. For a low‑density, no‑internal‑strength ice‑rock rubble pile, this means tidal disruption is a physical inevitability, not a chance event.
+
+Physical picture of disruption: The side of the comet closer to Earth experiences a gravitational pull stronger than the far side by Δg ≈ 2 × (GM<sub>E</sub>/d³) × R<sub>c</sub>. For R<sub>c</sub> ≈ 2500 km, d ≈ 25,000 km, Δg ≈ 2 × (6.67×10⁻¹¹ × 5.97×10²⁴ / (2.5×10⁷)³) × 2.5×10⁶ ≈ 0.02 m/s². This tidal stretching acceleration exceeds the comet’s own surface gravity (g<sub>self</sub> ≈ G × M<sub>c</sub> / R<sub>c</sub>² ≈ 6.67×10⁻¹¹ × 10²³ / (2.5×10⁶)² ≈ 0.01 m/s²). Tide exceeds self‑gravity → disruption inevitable.
+
+Disruption outcome: The nucleus is stretched and torn into 1 main nucleus (retaining most mass) and 5‑15 larger fragments (diameter 50‑200 km), plus numerous small pieces and icy debris. Fragments align along the flight direction as a “string of pearls,” size distribution following a collisional cascade power law (N(>D) ∝ D<sup>‑2.5</sup>).
+
+This is fully analogous to the tidal disruption of Comet Shoemaker‑Levy 9 near Jupiter (Weaver et al., 1994). The difference is that Earth’s mass is much smaller, so the tidal gradient is weaker, yielding fewer fragments (SL9 produced 21) and a size distribution shifted toward larger fragments.
+
+Improvement in capture probability: In the fragmented swarm, each fragment has its own orbital energy. The probability of capturing a single giant body is extremely low, but capturing a swarm is much higher—once the main nucleus is bound by tidal dissipation, its associated fragments, having small velocity dispersion, are automatically bound by Earth’s gravity. This fundamentally solves the physical difficulty that “capture of a single giant comet has near‑zero probability.”
+
+2.3.3 Visual Physics of “Opening Heaven and Earth” and Super‑Tides
+
+The extremely close flyby (altitude 15,000‑25,000 km) gives the 5000‑km‑diameter main nucleus an angular diameter of 10°‑15°, occupying most of the sky—the physical realisation of “Feature 1: all‑covering dome” (§1.4). Its coma and vapour enshroud the sky, creating the visual experience of “heaven and earth chaotic like a chicken egg”—a precise, transcultural record of retinal images.
+
+Simultaneously, the coma and tail form a vertical luminous pillar extending from horizon to zenith outside the atmosphere—the physical realisation of “Feature 2: vertical pillar” (§1.4), recorded by ancients as the “heavenly pillar.” This pillar was not a structural support but a glowing column covering half the sky, stretching from ground to zenith.
+
+Visual decoding of “Kai Tian” (Opening Heaven): The Chinese word “开辟” (kāi pì) carries the dual meaning of “split open” and “tear apart.” The model points out that this is not an abstract metaphor for cosmic origin, but a real‑time naked‑eye record of the physical dynamic process of the comet nucleus undergoing tidal disruption below the Roche limit.
+
+When the tidal tensile stress described in §2.3.2 exceeds the comet’s self‑gravity, a complete dome‑shaped body thousands of kilometres across is literally “torn apart” on the spot by Earth’s gravitational gradient within hours to days—the main body splits into 1 main nucleus and 5‑15 fragments aligned like a string of pearls. This “tearing” dynamic occurs outside the atmosphere, but due to the huge angular area and cometary reflection, it is clearly visible to the naked eye during daytime or twilight.
+
+The ancients witnessed a complete, sky‑spanning “celestial canopy” entity being cleaved into multiple independent luminous bodies before their eyes. This incomprehensible visual spectacle was encoded as “Opening Heaven”—the sky itself was split open.
+
+Correspondingly, “Pi Di” (Splitting Earth) encodes the seismic shaking, super‑tides, and inundation caused by the gravitational effects of the tidal forces—the earth also “cracked” and “overturned.” Together they form the complete narrative of “Opening Heaven and Splitting Earth”: the sky split above, the ground sank below.
+
+Origin of super‑tides: The main nucleus has mass ~10²³ kg (comparable to the Moon) and flies past Earth at a perigee altitude of only 15,000‑25,000 km. According to Newton’s law of gravitation, tidal force is proportional to the mass of the perturber and inversely proportional to the cube of distance: F<sub>tide</sub> ∝ M<sub>comet</sub> / R³. At R = 20,000 km, the tide from the main nucleus is about (384,000/20,000)³ = 19.2³ ≈ 7,077 times that of the present Moon. Even accounting for mass differences (comparable), the tidal force is thousands of times stronger.
+
+This means: daily tidal waves of hundreds to thousands of metres, periodic complete inundation of coastal lands, elastic deformation of the crust (triggering arc volcanism and earthquakes)—“the four pillars collapsed, the nine provinces split,” “the heavenly pillar broke, the earth’s tethers snapped.”
+
+Key clarification: The super‑tides were caused directly by the gravitational effect of the large comet nucleus itself during its extremely close flyby, independent of subsequent impact rainfall. Flooding from rain and flooding from tides were superimposed, but tides were the dominant factor—the inverse‑cube distance dependence makes this effect overwhelming.
+
+2.3.4 Visual Decoding of “The Sky Leans to the Northwest”
+
+“The sky leans to the northwest” is not a physical deflection of Earth’s rotation axis, but a geometric perspective effect produced by the super‑giant comet nucleus moving in near‑Earth space. When the nucleus (apparent diameter 10°‑15°, occupying most of the sky) reaches near perigee during its close flyby, if its azimuth is to the northwest of the observer (East Asia), a glowing giant dome‑shaped body hangs between the northwestern horizon and the zenith.
+
+Because the body’s angular scale far exceeds the human visual system’s routine recognition of a “single flying object,” the observer cannot identify it as “a sphere coming from the northwest,” but can only perceive that: the northwestern sky itself is deforming, “tilting” or “collapsing” toward the earth. As Earth rotates and the comet moves along its orbit, this huge luminous structure slowly shifts southeastward, visually appearing as if the entire sky frame is tilting and crumbling toward the northwest.
+
+This experience was precisely encoded as “The sky leans to the northwest, therefore the sun, moon, and stars move” — here “the sun, moon, and stars move” does not mean physical displacement of stars in space, but means: when that giant object occupying most of the sky moves, its relative positions with the Sun, Moon, and other visible bodies undergo violent visual reorganisation, temporarily disrupting the entire sense of orientation of the starry background.
+
+2.4 Phase 2: “Multiple Suns in the Sky” and Frontal Impacts—Orbital Rendezvous of Fragments
+
+2.4.1 Natural Visual Selection and the Number of “Suns”
+
+The size distribution in the fragment swarm follows a power law (N(>D) ∝ D<sup>‑2.5</sup>). The number of fragments visually comparable to the Sun (apparent diameter 0.3°‑1.0°) naturally falls in the 5‑15 range due to the tidal disruption power law. Global myths record “nine” or “ten”—a natural result of this selection.
+
+The present near‑side mare basins number about 8 (order of magnitude)—considering that some small impacts may have been covered by later volcanism, this count matches the “several to more than ten” expectation. The model does not require exactly “8,” only order‑of‑magnitude agreement.
+
+2.4.2 Orbital Rendezvous Dynamics of Fragments with the Main Nucleus
+
+After disruption, fragments share roughly the same orbital plane, but their specific orbital parameters (semi‑major axis a, eccentricity e, argument of periapsis ω) differ slightly due to their different initial positions and velocities at disruption.
+
+Rendezvous mechanism: By Kepler’s third law, orbital period T ∝ a<sup>3/2</sup>. A small difference in semi‑major axis (Δa/a ~ 10⁻³‑10⁻²) leads to a period difference (ΔT/T ≈ 1.5 × Δa/a). If Δa/a ~ 0.01, then each orbit (≈12‑24 h) the fragment’s relative position to the main nucleus slides by ~1.5%. Over several to dozens of orbital periods, the fragment will approach the main nucleus and impact at closest approach.
+
+Rendezvous relative velocity: If Δa/a ~ 10⁻³, relative speed is ~hundreds of m/s; if Δa/a ~ 10⁻², speed can reach 1‑3 km/s. This matches the energy needed for mare basin impacts.
+
+Analogy with SL9: Comet Shoemaker‑Levy 9 was tidally disrupted by Jupiter in July 1992; the fragments orbited for about 2 years (~8 Jupiter orbital periods) before impacting Jupiter sequentially in July 1994. Near Earth, the orbital period is only ~1 day, so the impact sequence would complete within days to weeks, consistent with the mythological time scale (“Yi shot the ten suns, hitting nine”—implying continuous occurrence).
+
+Visual realisation (Feature 3, §1.4): Fragments form a “string of pearls” in orbit, each illuminated by sunlight as an independent luminous body—“multiple suns in the sky.” Then, due to orbital period differences, fragments approach and merge with the main nucleus one by one; each merger produces a flash, and that light body disappears—“shooting the suns.” The ancients projected this process as hunting behaviour (“shooting”), essentially encoding the orbital rendezvous “collision‑disappearance” phenomenon using their familiar cognitive framework of combat and hunting.
+
+2.4.3 Geometric Inevitability of Impacts: All Concentrated on the Near Side
+
+Tidal locking: The main nucleus became tidally locked during the close flyby (synchronous rotation equals orbital period), so its near side always faces Earth.
+Gravitational focusing: Fragments in similar orbits are gravitationally biased by Earth such that all impacts occur within ±60° of the near‑side meridian.
+Physical inevitability: The far side is geometrically shielded and completely escapes.
+This explains the most puzzling aspect of lunar dichotomy: 100% of major mare basins are on the near side.
+
+2.4.4 Physics of a Single Impact (Target: Thick Ice Shell and Underlying Porous Matrix)
+
+Impactors are pure ice (diameter 50‑200 km, density ~0.9 g/cm³); target is the main nucleus’s thick ice shell and underlying porous solid matrix.
+
+Impact energy: ~10²⁴ J (per impact).
+Energy dissipation: Most (>80%) goes into shock melting/vaporisation of the ice target and adiabatic compression/pore collapse of the porous matrix. Shock waves decay exponentially in porous media; only a tiny fraction is converted into far‑field seismic waves or high‑velocity ejecta.
+Crater morphology: Extremely broad, shallow, flat‑bottomed, no central peak. The porous target cannot transmit the elastic rebound shock wave needed to form a central peak. Analogous to large impact craters on Earth in soft sediments, but amplified under lunar low gravity.
+Explanation of ancient mare ages (3.3‑3.8 Ga): Mare basalts are mainly in near‑side basins, with ages mostly 3.9‑3.1 Ga (Zhou et al., 2010). These radiometric ages record the formation ages of the original solid debris constituting the porous matrix (from early Solar System planetesimal differentiation events), not the impact event itself. The 30,000‑year‑old impact only compacted the surface and stripped cover; it did not produce deep thermal metamorphism sufficient to reset the radiometric clock. Only the uppermost layers (cm‑m scale) may retain thermal signatures of the 30‑ka event.
+2.5 Phase 3: Merger of Main Nucleus with Palaeo‑Moon—“Rocky Core Embedded in a Big Ice Ball”
+
+2.5.1 Quantitative Estimate of Orbital Evolution
+
+The cumulative momentum from multiple impacts can raise the main nucleus’s apogee from ~100,000 km to the altitude where it encounters the Palaeo‑Moon (150,000‑300,000 km). Momentum estimates (Appendix A2) show that with the right directions, changes of tens to hundreds of thousands of kilometres in apogee are possible.
+
+2.5.2 Physical Mechanism of Merger (the “Ice Wrapping” Model)—The Model’s Most Critical Innovative Mechanical Correction
+
+Merger scenario: The main nucleus (still wrapped in ~1000‑1500 km thick ice shell, total diameter ~4000‑5000 km, total mass ~10²³ kg, ice mass fraction ~60%‑70%) and the Palaeo‑Moon (diameter ~1500 km, dense rocky, mass ~10²¹‑10²² kg) meet on Earth‑orbit at a relative speed of 1‑3 km/s.
+
+Why does it not shatter?—Perfect ice cushioning:
+
+The Palaeo‑Moon first contacts the main nucleus’s hundreds‑to‑thousands‑kilometre‑thick pure ice shell, not the solid core.
+Ice under high‑speed impact (>1 km/s) undergoes qualitative dynamic change: shock pressure causes melting and even vaporisation within nanoseconds to microseconds (ice shock melting threshold ≈0.5‑1 GPa, vaporisation ≈5‑10 GPa). The Palaeo‑Moon’s kinetic energy (~10²⁸ J) first melts/vaporises the ice along its path, creating a “melting tunnel.”
+The Palaeo‑Moon, like a high‑speed thermal projectile, loses most of its speed after melting through the ice shell (dissipated) and eventually embeds softly into the porous solid matrix beneath the ice shell. There is no rock‑on‑rock rigid collision.
+Re‑calculation and reinterpretation of the Sutton parameter (Q):
+
+Nominal impact energy: E<sub>impact</sub> = ½ × 10²² × (2000)² = 2.0 × 10²⁸ J.
+Nominal Q: Q = E<sub>impact</sub> / M<sub>total</sub> ≈ 1.8 × 10⁵ J/kg. In a “rock‑on‑rock” model, this is far above the fragmentation threshold (~10³ J/kg), predicting catastrophic disruption.
+The model’s mechanical revolution: The Q‑value criterion does not apply when the target is a thick ice layer plus porous matrix. Ice’s latent heat of fusion (~3.3×10⁵ J/kg) and vaporisation (~2.83×10⁶ J/kg) are enormous energy sinks. Melting through 500 km of ice requires ~5×10²⁶ J; vaporising the same mass requires ~4×10²⁷ J—both comparable to the total impact energy (2×10²⁸ J). Thus, most kinetic energy is absorbed by phase changes, leaving little for mechanical fragmentation.
+Post‑merger product—the “ice‑wrapped stone” composite:
+
+The new Moon is now a giant ice sphere (diameter ~4000‑5000 km), containing a rocky core (the Palaeo‑Moon) near the far side, and a thin layer of porous matrix (cometary solid residue) beneath it.
+Spatial topology: Since the Palaeo‑Moon approached from the outside (the side facing away from Earth) before merger, after merging it lies on the far side of the new composite, while the cometary ice‑dust material is concentrated on the near side.
+Total mass ≈ original main nucleus mass + Palaeo‑Moon mass (~1.1×10²³ kg), with ice mass fraction as high as 60%‑70% (~6‑7×10²² kg).
+2.6 Phase 4: Atmospheric Suspension‑Sedimentation Two‑Layer Model—“Mending the Sky” and “Chaos”
+
+During the merger of the main nucleus with the Palaeo‑Moon, and during prior fragment impacts, huge amounts of material were injected into Earth’s atmosphere. These exogenous materials stratified physically according to particle size and altitude:
+
+(a) Upper suspended layer (stratosphere/mesosphere, altitude 20‑80 km): Submicron dust and ice crystal aerosols suspended at this altitude for months to years. They scatter sunlight producing colourful airglow (wavelengths: green 557.7 nm, red 630.0 nm, yellow 589.0 nm), forming a global “five‑colour luminous curtain”—recorded as “Nüwa smelted five‑coloured stones to mend the azure sky” (physical realisation of Feature 4, §1.4). High‑altitude discharges (red sprites, blue jets) caused by ice crystal friction made the sky appear “chaotic with coloured light.”
+
+(b) Lower sedimentation layer (troposphere, altitude 0‑20 km): Larger ice crystals and raindrops fell continuously over weeks to months, producing global torrential rain and snow. Low‑altitude thick clouds and precipitation columns obscured visibility, blurring the boundary between sky and earth—“heaven and earth chaotic like a chicken egg.” The upper layer’s clearing occurred mainly through rainout, so “mending the sky” (thinning of the suspended layer) and “flood” (precipitation) overlapped in time and were causally interlinked.
+
+(c) Climatic consequence—triggering and intensification of the Last Glacial Maximum: The upper suspended layer reflected much solar radiation, dropping global average temperature by ~5‑10°C. Combined with the ice‑albedo positive feedback, this intensified and prolonged the Last Glacial Maximum by about 10,000 years.
+
+Trigger mechanism of the LGM: The model further proposes that the ~30,000‑year‑old cometary capture event was not merely an intensifier of the Last Glacial Maximum (LGM, ≈26,500‑19,000 BP), but likely its direct trigger. Conventional orbital forcing (Milankovitch cycles) cannot explain the abrupt acceleration of the LGM; the comet event, through triple forcing—atmospheric dust shading (instant cooling), massive water vapour forming high‑latitude ice increasing albedo, and freshwater injection disrupting thermohaline circulation—pushed the climate system out of the orbital‑driven gradual equilibrium into an extreme cold peak dominated by exogenous mass injection.
+
+2.7 Phase 5: Disappearance of the Cometary Tail—“The Heavenly Pillar Broke”
+
+At initial capture, the main nucleus carried a strong coma/tail, forming a vertical luminous pillar from horizon to zenith. As the ice shell was consumed, the orbit receded, and volatiles dissipated, the tail gradually vanished—“the heavenly pillar broke.” This requires no explanation as physical structural failure, only as the disappearance of a visual structure.
+
+2.8 Phase 6 (Core Innovation): Sublimation‑Driven Orbital Migration—The Physical Reality of “Separation of Heaven and Earth”
+
+This is the most core mechanical mechanism in the model for explaining the “Separation of Heaven and Earth” myth and the origin of the lunar orbit.
+
+2.8.1 Fate of the “Big Ice Ball” in Low Orbit
+
+The merged new Moon is a giant ice ball of diameter ~4000‑5000 km (still with a substantial ice shell), initially at an orbital altitude of ~20,000‑50,000 km (geocentric distance ~30,000‑60,000 km). It faces two powerful heat sources:
+
+Residual internal heat from merger: the impact thermal energy (~10²⁸ J) from the Palaeo‑Moon melting through the ice shell is trapped inside the ice, continuously heating surrounding ice to hundreds or even thousands of degrees (locally).
+Intense solar radiation in near‑Earth orbit: at only tens of thousands of kilometres from Earth, solar irradiance is (384,000/50,000)² ≈ 59 times to (384,000/30,000)² ≈ 164 times that at the present Earth‑Moon distance. The per‑unit‑area solar energy input is vastly increased.
+These two heat sources together drive a large‑scale sublimation process lasting thousands of years. The ice surface temperature rises above ‑50°C to 0°C or more; in vacuum, water ice sublimates directly into vapour, escaping at thermal speeds (≈0.5‑1 km/s).
+
+2.8.2 Sublimation‑Driven Orbital Expansion (The Power of Angular Momentum Conservation)
+
+This is the decisive physical equation explaining “Separation of Heaven and Earth.”
+
+Assuming total angular momentum of the Earth‑Moon system is conserved (no significant external torque):
+
+L = M ⋅ R² ⋅ ω = M ⋅ √(GM<sub>E</sub> ⋅ R) = constant
+From this, the relationship between orbital radius R and system mass M is:
+
+R ∝ 1 / M²
+Physical evolution:
+
+Initial state: After merger, total mass M<sub>0</sub> ≈ 1.1 × 10²³ kg (ice mass ~6 × 10²² kg), initial orbital radius R<sub>0</sub> ≈ 5 × 10⁴ km (50,000 km).
+Sublimation process: Over millennia, huge amounts of water ice sublimate and escape at high speed (~0.5‑1 km/s). As mass is lost (like a rocket recoil), the remaining body’s mass M decreases. Some vapour escapes into interplanetary space, some is captured by Earth’s gravity (see §2.9).
+Orbital expansion: Due to angular momentum conservation, when mass drops from 1.1×10²³ kg to the present Moon’s 7.3×10²² kg (loss ≈3.7×10²² kg, ≈34% of original):
+R<sub>final</sub> = R<sub>0</sub> × (M<sub>0</sub> / M<sub>final</sub>)² = 5×10⁴ × (1.1×10²³ / 7.3×10²²)² ≈ 5×10⁴ × (1.51)² ≈ 1.14×10⁵ km
+This yields ~114,000 km—already about one‑third of the present orbit (384,000 km).
+
+Supplementary driving force: Tidal recession (dR/dt ∝ R<sup>‑6</sup>) becomes inefficient at larger distances, but at low orbits (50,000‑100,000 km) it is extremely efficient. After sublimation pushes the orbit from 50,000 km to 114,000 km, tidal dissipation takes over and can continue pushing to 384,000 km. Sublimation drove the early major expansion (50,000 → 114,000 km); tides drove the later fine adjustment (114,000 → 384,000 km).
+
+2.8.3 Visual and Hydrological Effects of Sublimation Ejecta
+
+Visual effect (“Separation of Heaven and Earth”): As the ice sublimates, the Moon’s apparent diameter shrinks from an initial 4°‑10° (filling half the sky) to today’s 0.5°. Over multiple generations, observers witnessed this process, recording it as “Heaven rose one zhang each day, earth thickened one zhang each day”—an encoding of the intergenerational cumulative decrease in apparent diameter (§1.3 “visual scaling”). Simultaneously, the reflectance dropped drastically due to ice loss, turning the Moon from a bright “mini‑Sun” to its present grey appearance.
+Hydrological effect (“Heavenly water” supply): The ejected water vapour did not all escape. About 20%‑40% was captured by Earth’s gravity, condensed at high altitude, and fell as torrential rain, contributing significantly to the global flood (combined with §2.9).
+2.8.4 Structural Correspondence with the “Separation of Heaven and Earth” Myth
+
+The universal narrative structure of the “Separation of Heaven and Earth” motif is: Heaven and Earth were originally very close (or even connected), then some force “lifted” or “pushed” them apart, and the distance grew ever larger. The Chinese Pangu story “Heaven rose one zhang each day, earth thickened one zhang each day, Pangu grew one zhang each day” precisely corresponds to the gradual shrinking of the Moon’s apparent diameter over generations; the Greek separation of Uranus and Gaia, and the Norse creation from Ymir’s body, can all be seen as cultural projections of this orbital expansion event.
+
+2.9 Phase 7: Hydrological Catastrophe and the “Great Flood”—Triple Water Release Model
+
+2.9.1 Summary of Three Sources of Water Vapour
+
+Table 7 (revised): Summary of Three Sources of Water Vapour Release (including sublimation source)
+
+Source	Mechanism	Mass Estimate	Basis
+Source 1: Merger impact melting	Palaeo‑Moon melts through ice shell, injecting vapour directly into atmosphere	~10¹⁹‑10²⁰ kg	Estimate of ice melted/vaporised (melting through 500‑1000 km ice)
+Source 2: Fragment impact vaporisation	5‑15 icy fragments impact main nucleus ice shell, kinetic energy vaporises target ice	~10¹⁹‑10²⁰ kg	Each 100‑km fragment (mass ~5×10¹⁷ kg) at 2 km/s gives ~10²⁴ J; vapourisation latent heat 2.83×10⁶ J/kg → one impact can vaporise ~3.5×10¹⁷ kg; 10 impacts ~3.5×10¹⁸ kg (with efficiency → ~10¹⁹ kg)
+Source 3: Sublimation ejection capture	Big ice ball sublimates over millennia; 20%‑40% captured by Earth	~10¹⁹‑10²⁰ kg	Total sublimated mass ~6×10²² kg; capture fraction 0.5%‑1% gives ~3‑6×10²⁰ kg (conservative ~10¹⁹‑10²⁰)
+Source 4: Atmospheric ablation of small fragments	Some small fragments (<50 km) ablate/vaporise during atmospheric entry	~10¹⁸‑10¹⁹ kg	Atmospheric braking models: icy bodies tens of km in diameter partially ablate
+Total		~10²⁰‑10²¹ kg	Consistent with “global flood” memory and sea‑level change records
+2.9.2 Two‑Phase Release Mechanism
+
+Phase 1: Immediate condensation rainfall (~30%‑50% of total)
+Water vapour cooled and condensed in the upper troposphere/lower stratosphere, producing continuous global extreme precipitation lasting months to years. This flood was superimposed on the super‑tides (§2.3.3)—thousands of times the present tidal force causing daily inundation of coastal areas by hundred‑metre waves. The combination of rain and tides created the global flood memory of “the waters from heaven and the fountains of the deep burst forth simultaneously.”
+
+Taking total 10²¹ kg and Phase 1 release 40%, immediate rainfall ~4×10²⁰ kg (~4×10⁵ km³ water), enough to raise global sea level by ~1.1 m (ocean area 3.6×10⁸ km²). Superimposed on periodic super‑tides (hundreds of metres), the catastrophic flooding went far beyond the sea‑level rise itself.
+
+Phase 2: High‑latitude ice storage (~50%‑70% of total)
+The remaining vapour was transported to high latitudes and deposited as snow on the glacial ice sheets, stored in ice layers. With 60% storage, ~6×10²⁰ kg (~6×10⁵ km³) ice was stored, equivalent to ~2%‑3% of global ice sheet volume.
+
+2.9.3 Climate Chain: From “Cloud Cover Cooling” to “Glacial Maintenance”
+
+The global dense cloud cover reflected much solar radiation, dropping global temperature by ~5‑10°C. This cooling, combined with the ice‑albedo positive feedback, maintained cold conditions for ~10,000 years—the intensification of the Last Glacial Maximum (≈26,000‑19,000 BP). The cometary water stored in ice sheets remained until ~14,500 BP, when orbital‑driven summer warming overcame the ice‑albedo feedback, triggering massive meltwater release.
+
+2.9.4 Geological Record Anchoring
+
+Table 8: Correspondence of Geological Records with Model Events
+
+Time (BP)	Geological Event	Model Correspondence
+~27,000‑25,000	Deep‑sea turbidite deposition anomaly; ice core δ¹⁸O sharp negative excursion	Immediate rainfall (Phase 1) + super‑tides
+~14,500	Meltwater Pulse 1A: sea level rose ~20 m in 500 years (Fairbanks, 1989)	Stored ice release (Phase 2), meltwater volume ~2×10⁵ km³, consistent with partial release of stored mass
+~12,800‑11,500	Younger Dryas: abrupt cooling, Greenland cooling up to 8°C (Broecker, 2006)	Massive freshwater injection disrupting thermohaline circulation
+Testable prediction: Meltwater released during MWP‑1A should carry anomalous D/H ratios (close to cometary value ~5.3×10⁻⁴).
+
+3. Pre‑ and Post‑Event Archaeological and Mythological Time Anchors
+
+3.1 Why Time Anchoring Is Crucial
+
+If the model’s core event—capture, disruption, impacts, merger, and sublimation of the super‑comet nucleus—occurred during the Late Pleistocene (~30,000 years ago), then we must find consistent time signals across independent evidence chains in archaeology, mythology, and geology. A single chain may be coincidence; three independent chains converging on the same window constitute robust scientific argument.
+
+This chapter establishes triple time anchors:
+
+Astronomical anchor: Scholz’s Star flyby (~70 ka) → Oort debris travel time (~30‑40 ka) → arrival window in inner Solar System (~35‑32 ka).
+Archaeological anchor: Late Palaeolithic (~40‑20 ka) “no Moon” observations in rock art → Neolithic (~12 ka onwards) “explosion” of celestial worship.
+Mythological anchor: “Sun and Moon were born after the creation of heaven and earth”—a cross‑cultural narrative structure.
+3.2 The Sky Before the Event—Archaeological Clues of a “Moonless Era”
+
+3.2.1 “Celestial Absence” in Palaeolithic Rock Art
+
+If the Palaeo‑Moon only merged with the cometary nucleus ~30,000 years ago to become the present Moon, then before that (~40‑30 ka), Earth’s sky did not contain a large satellite like today. This inference leads to a testable archaeological question: Did Late Palaeolithic humans leave records of a “moonless” sky?
+
+Late Palaeolithic (≈40‑20 ka) cave paintings and rock art—exemplified by Lascaux, Chauvet, Altamira, and Apollo 11 Cave—show a predominance of animal imagery, some abstract symbols, but unequivocal celestial depictions (recognisable Sun, Moon, or stars) are extremely rare and contested in dating.
+
+Limitation acknowledged: This “absence” may have multiple explanations: Palaeolithic people may indeed have been uninterested in the sky; they may have depicted celestial bodies on perishable media; their cultural traditions may have discouraged celestial depiction; or some symbols interpreted as celestial may be misidentified. Moreover, sites like the Greater Khingan Range in China have paintings interpreted by some as “Sun, Moon, stars, clouds” of Palaeolithic age, but dating is controversial, and many may belong to Neolithic or later. Therefore, the absence alone cannot be direct evidence of “no Moon in the sky,” but its “extremely rare” character is qualitatively consistent with the model’s prediction of a Palaeo‑Moon with only 0.15°‑0.3° apparent diameter—an observation that matches the model’s expectation.
+
+3.2.2 Visual Prominence of the Palaeo‑Moon: An Astronomical Explanation for the “Absence”
+
+As noted in §2.1.3, the pre‑event Palaeo‑Moon had an apparent diameter of only 0.15°‑0.3°—resolvable but far less visually prominent than the post‑event New Moon (initial apparent diameter 4°‑10°, 8‑20 times larger). A dim small satellite with only 30%‑60% of the modern Moon’s diameter would have been “background” in everyday visual experience, not worth depicting. This is quantitatively consistent with the archaeological observation that unequivocal celestial depictions are extremely rare and contested in the Late Palaeolithic.
+
+3.2.3 Re‑examination of the Motif “Sun and Moon Were Born After the Creation of Heaven and Earth”
+
+Multiple civilisations place the emergence of the Sun and Moon after the creation of heaven and earth:
+
+Civilisation	Mythological Text	Encoded Content
+China	After Pangu’s death, “his left eye became the Sun, his right eye the Moon” (San Wu Li Ji)	Sun and Moon created after the separation of heaven and earth
+Greece	Selene (Moon) belongs to the second generation of gods, appearing after the sky structure stabilised	Moon is a product of the new/old combination
+Norse	The gods created the Sun and Moon after making heaven and earth	Sun and Moon later than heaven and earth
+These narratives may partly reflect the literary structural need to establish the world framework before placing celestial bodies. However, three geographically isolated civilisations independently producing the same narrative structure (Sun and Moon appear after heaven and earth) gains a natural physical explanation in this model: before the event, the Palaeo‑Moon was too dim and insignificant to be culturally recognised as “Moon”; after the event, the New Moon became visually extremely prominent (apparent diameter 4°‑10°, 8‑20 times larger), and had to be incorporated into creation narratives as a new element requiring explanation.
+
+3.3 Post‑Event Archaeological Shift—The “Explosion” of Celestial Worship
+
+3.3.1 The Abrupt Neolithic Transition
+
+After the event, during the Neolithic (starting ~12,000 BP), celestial motifs appear massively worldwide:
+
+Yangshao culture (≈7000‑5000 BP) painted pottery with sun and moon motifs
+Stonehenge (≈5000 BP) astronomical alignments
+Egyptian pyramids (≈4500 BP) correlated with constellations
+Sumerian lunar calendar (≈6000 BP)
+Mesoamerican Olmec (≈3500 BP) astronomical traditions
+The transition from “unequivocal celestial depictions extremely rare” in the Late Palaeolithic to the “explosion of celestial worship” in the Neolithic—around 12,000 BP—roughly coincides with the model’s predicted window for institutionalisation of disaster memory (~12,000 BP onwards, coinciding with agricultural settlement and the dawn of civilisation).
+
+3.3.2 Explanation: Institutionalisation of Disaster Memory
+
+The model interprets this transition as the natural result of disaster memory being fixed and deified through oral tradition and ritual. The nearly 20,000‑year‑long astronomical drama (30‑12 ka)—multiple suns, successive impact flashes, airglow, super‑tides, global floods—left deep cultural imprints on survivors. When climate stabilised and agriculture began ~12,000 years ago, these memories, transmitted orally for tens of thousands of years, were ritualised, mythologised, and institutionalised, giving rise to global celestial worship and astronomical traditions.
+
+3.4 Testable Archaeological Predictions
+
+If the model holds, we should observe:
+
+Unequivocal depictions of a large satellite (Moon) in Late Palaeolithic (≈40‑20 ka) rock art should be extremely rare and with contested reliable dating—because the “Moon” (Palaeo‑Moon) then had an apparent diameter of only 0.15°‑0.3°, too low in visual prominence.
+The global explosion of celestial worship should not predate ~12,000 BP—because the New Moon’s visual prominence increased dramatically (apparent diameter 4°‑10°), and disaster memory institutionalisation made celestial bodies cultural foci.
+Middle‑period sites (≈30‑12 ka) may contain abstract symbols related to “multiple suns,” “vertical light pillars,” and “colourful skies”—direct attempts by eyewitnesses to record the astronomical drama.
+Future more precise dating and rock‑art semiotic studies can test these assumptions more rigorously.
+4. Four‑Dimensional Synchronised Timeline
+
+This chapter integrates astronomical events, geological records, archaeological observations, and mythological motifs into a unified timeline. The multiple independent anchoring of the timeline is the model’s core advantage over purely theoretical speculation—four independent chains converge on the same window.
+
+Table 9: Four‑Dimensional Synchronised Timeline
+
+Absolute Time (BP)	Astrophysical Event	Geological/Climatic/Archaeological Record	Mythological/Cultural Correspondence
+~70,000	Scholz’s Star flies past Oort Cloud at 0.8 ly (Mamajek et al., 2015), perturbing huge icy debris	No direct geological record	—
+~40,000‑35,000	Oort debris cloud enters inner Solar System; Jupiter intercepts most; a few survivors continue inward	Ice core dust concentration possibly anomalous (to be tested); unequivocal celestial depictions in Late Palaeolithic art extremely rare	“Moonless era”: Palaeo‑Moon apparent diameter 0.15°‑0.3°, not culturally prominent
+~32,000‑30,000	Main nucleus extremely close flyby → below Roche limit → tidal disruption → captured into high‑ellipse orbit via tidal dissipation; super‑tides occur	LGM enters intensification; ice core δ¹⁸O begins anomalous; global deep‑sea turbidite anomalous layers	“Opening Heaven and Earth”: complete dome‑shaped body torn into 1 main nucleus + 5‑15 fragments
+~30,000‑29,000	5‑15 large fragments enter adjacent orbits; fragments and main nucleus all illuminated as independent light bodies; coma/tail forms vertical luminous pillar	—	“Nine/Ten suns appear”; “Heavenly pillar” appears (vertical glow); “Sky leans northwest” (giant dome perspective)
+~29,000‑27,000	Fragments impact main nucleus sequentially due to orbital period differences; each impact produces a flash, one light body disappears; impacts form near‑side mare basins (~8)	Peak of deep‑sea turbidite anomalies; Apollo microcrater record shows impact peak ~30 ka (data to be verified); ice core may have sulfate/silicate/trace metal anomaly layers	“Yi shot the ten suns, hitting nine”; “Heavenly pillar breaks” (coma glow fades with impacts and ice loss); impact flashes encoded as “shooting” hunting behaviour
+~27,000‑18,000	Main nucleus merges with Palaeo‑Moon (~25 ka); merged body is “big ice ball”; massive ice sublimation begins; sublimation drives orbit from ~50,000 km to ~110,000 km; tides continue pushing; apparent diameter shrinks from 4°‑10°	Ice core δ¹⁸O continues anomalous; LGM peaks and maintains under triple climate forcing; global temperature ~5‑10°C lower	“Separation of Heaven and Earth”; “Heaven rose one zhang each day, earth thickened one zhang each day” (intergenerational apparent‑diameter shrinking encoded as daily growth); Sun and Moon born after creation
+~17,000‑15,000	Residual ice continues sublimation and tidal recession; cometary dust enters atmosphere exciting colourful airglow	Global volcanic activity peak (possibly from crustal unloading)	“Nüwa smelted five‑coloured stones to mend the sky” (oxygen green/red, sodium yellow airglow spectra encoded)
+~15,000‑14,000	Impact vapour + sublimation vapour falls heavily (Phase 1 remaining + Phase 2 initial release)	Meltwater Pulse 1A (Fairbanks, 1989): sea level rose ~20 m in 500 years	“Great Flood begins”—“waters from heaven and fountains of the deep burst forth”
+~12,800‑11,500	Last vapour release completed; freshwater injection disrupts thermohaline circulation	Younger Dryas (Broecker, 2006): abrupt cooling, Greenland cooling up to 8°C	“Great Flood continues”; “Gonggong hits the mountain, the heavenly pillar breaks” (second climatic oscillation)
+~12,000	Earth‑Moon system stabilises at present orbit; Moon’s apparent diameter shrinks to ~0.5°; ice shell mostly gone, exposing far‑side Palaeo‑Moon bedrock and near‑side cometary porous residue	Holocene climate stabilises; global Neolithic explosion of celestial worship (Yangshao, Stonehenge, pyramids, Sumerian calendar); first recognisable Moon motifs appear in art	“Flood ends, civilisation restarts”; disaster memory institutionalised and deified through oral tradition and ritual
+4.1 Independence of Time Anchoring
+
+The model’s time framework is not supported by a single chain, but by convergence of three independent chains:
+
+Astronomical chain (independent of human records): Scholz’s Star flyby time (Mamajek et al., 2015) + debris travel time (Keplerian mechanics) = arrival window ~35‑32 ka. This chain does not depend on any Earth‑based evidence.
+Geological chain (independent of astronomical calculations and human records): Ice core anomalies, deep‑sea turbidites, MWP‑1A, Younger Dryas—these are dated radiometrically, independently of astronomical calculations.
+Archaeological/mythological chain (independent of the first two): Palaeolithic “moonless” observations, Neolithic explosion of celestial worship, cross‑cultural “Sun and Moon born after creation” motif—their chronology is determined by archaeological stratigraphy and ¹⁴C dating.
+Each chain has its own independent error range, yet they converge on the ~30‑12 ka window. This triple independent verification distinguishes the model’s time frame from any single‑chain argument.
+
+4.2 Fidelity and Time Span of Oral Memory
+
+When the events occurred (32‑12 ka), writing had not been invented. The earliest writing systems (Sumerian cuneiform ~3500 BCE, Egyptian hieroglyphs ~3200 BCE, Chinese oracle bones ~1200 BCE) appeared nearly 10,000 years after the events.
+
+But writing is not the only medium of memory. Ethnographic evidence shows that oral traditions can retain remarkable fidelity in non‑literate societies:
+
+Australian Aboriginal oral traditions accurately describe post‑glacial coastline retreat ~10,000 years ago, matching geological reconstructions (Nunn & Reid, 2016), proving that oral systems can transmit critical environmental information across generations.
+The global flood myth’s core structure—“waters from heaven and fountains of the deep burst forth”—is consistent across all surveyed civilisations, suggesting a common encoding of a real physical event.
+Therefore, the ~25,000‑year oral phase from the event (~30 ka) to the invention of writing (~5500 BP) does not necessarily preclude faithful transmission—human language and narrative systems have evolved sufficient redundancy and structure to convey catastrophic event information.
+
+5. Physical Interpretation of Lunar Exploration Data
+
+5.1 Lunar Dichotomy
+
+Table 10: Comparison of Lunar Dichotomy Observations and Model Explanation
+
+Observation	Model Explanation	Competitor Model Difficulty
+Near‑side crust ~50 km, far‑side ~100 km (Wieczorek et al., 2013)	Core explanation: After merger, Palaeo‑Moon lies on far side (dense thick crust); cometary ice‑dust material on near side (thin crust); after ice sublimation, near side exposes thin porous matrix, far side retains original thick Palaeo‑Moon crust	Giant Impact model predicts uniform
+Major mare basins all on near side (Head, 1976)	Gravitational focusing + tidal locking physical inevitability	Requires “coincidence”
+Near‑side impact crater density lower	Covered and reset by falling merger debris; near‑side porous matrix more easily filled by later basalt	Unexplained
+Key structural summary: The Moon is not a homogeneous sphere but a two‑hemisphere composite—the far hemisphere is the Palaeo‑Moon (dense rock), the near hemisphere is cometary porous residue. This explains why the far‑side crust is nearly twice as thick and compositionally distinct.
+
+5.2 Morphology of Mare Basins
+
+No central peaks: Target is thick ice shell plus porous matrix (plastic/compressible); shock waves decay exponentially, unable to produce elastic rebound to form central peaks.
+Low rims: Low‑density impactor (ice) + low‑strength target (ice/porous), energy dissipated in phase changes and compaction, ejecta thrown short distances.
+Flat floors: After ice evaporation, underlying porous matrix is exposed, later augmented by Palaeo‑Moon internal magma upwelling along fissures.
+Number of basins (~8) matches number of large fragments: Tidal disruption naturally yields a power‑law fragment distribution; large fragments (>50 km) number ~5‑15, consistent with mare basin count.
+5.3 Age and Structure of Mare Basalts
+
+Key explanation: The main ages of mare basalts (3.3‑3.8 Ga, Zhou et al., 2010) record the Palaeo‑Moon’s original volcanic activity (ancient igneous rocks formed during early Solar System differentiation). The ~30‑ka impact‑merger event:
+
+Stripped the ice shell covering the near‑side porous matrix, exposing the ancient surface.
+Impact thermal energy conducted to the Palaeo‑Moon’s base triggered shallow eruptions of residual magma, forming a thin (metre‑scale) quenched layer atop the ancient basalts. Due to buffering by the porous matrix and ice layer, thermal metamorphism did not penetrate deeply enough to reset the radiometric clock, so the ancient ages were preserved.
+5.4 Regolith
+
+Table 11: Regolith Observations and Model Explanation
+
+Observation	Model Explanation
+Thickness 5‑20 m (McKay et al., 1991)	Debris from far‑side stripping + merger ejecta fallback; mass estimate 10¹⁶‑10¹⁸ kg (Appendix A4)
+High porosity (40‑60%)	Random stacking in low‑gravity vacuum, unconsolidated; essentially homologous with cometary porous matrix
+Angular particles	In‑situ fragmentation, no fluvial or aeolian transport
+Thicker on near side	Debris mainly fell back on near‑side impact regions; near‑side porous matrix more easily produces loose debris
+5.5 Other Important Observations
+
+Polar water ice (Pieters et al., 2009; Honniball et al., 2021): Residual cometary ice (not fully driven off during sublimation, trapped in polar cold traps); D/H should be close to cometary value (~5.3×10⁻⁴).
+Earth‑Moon compositional similarity (Canup & Asphaug, 2001): The Palaeo‑Moon was an inner Solar System protoplanet, naturally similar to Earth (oxygen isotope Δ¹⁷O close). The near‑side porous matrix may introduce some outer Solar System differences, but the Palaeo‑Moon dominates the mass, so overall similarity holds.
+Thermal evolution: The Palaeo‑Moon’s cold core was preserved (ice shell and porous matrix absorbed merger heat); cometary material added volatiles.
+Day‑length fossil (Williams, 2000): The Palaeo‑Moon (mass 10²¹‑10²² kg) provided cumulative tidal dissipation comparable to the present Moon over billions of years.
+6. “Cognitive Encoding” Analysis of Global Myths
+
+6.1 Methodological Positioning
+
+The model treats myths as “raw data of cognitive encoding”—real physical observations encoded through Stone Age cognitive frameworks. Validation criteria:
+
+Sequence consistency: Do myths share the “great change → multiple luminous bodies → catastrophe → new order” skeleton?
+Physical correspondence: Can each narrative element find at least one reasonable physical counterpart?
+Multiple independence: Does the sequence appear in at least three civilisations without cultural exchange?
+The “visual fingerprint” constraint (§1.4) serves as Layer‑Zero validation: a candidate physical scenario must be able to simultaneously produce the four recurring visual features. This constraint layer has priority over other validations—it is a data filter, not an explanatory validator.
+
+6.2 Core Motif Correspondences
+
+Table 12: Correspondence of Mythological Motifs and Physical Events
+
+Mythological Motif	Model Physical Event	Civilisation Distribution	Time Window	Visual Fingerprint Match
+Heaven‑earth chaos / creation	Comet nucleus extremely close flyby fills sky → coma dissipates; tidal disruption “tears” the dome‑shaped body	China, Norse, Greek, Babylonian	~32‑30 ka	✓ Feature 1
+Vertical light pillar / “Heavenly pillar”	Coma/tail glow extends from horizon to zenith	China, Norse, Greek	~30‑29 ka	✓ Feature 2
+Multiple suns in the sky	Main nucleus + fragments + Sun (order 5‑15)	China, India, Maya	~30‑29 ka	✓ Feature 3 (first half)
+Multiple suns disappear one by one	Fragments impact main nucleus in successive orbits	China, India	~29‑27 ka	✓ Feature 3 (second half)
+Luminous pillar disappears	Coma/tail glow gradually exhausts	China, Norse	~27‑25 ka	✓ Feature 2 (disappearance)
+Colourful canopy “mending the sky”	Cometary dust enters atmosphere, excites global airglow	China (unique emphasis)	~17‑15 ka	✓ Feature 4
+Separation of heaven and earth / Sun‑Moon distances increase	Sublimation‑driven orbital recession + tidal recession, apparent diameter shrinks	China, Greek, Babylonian	~27‑12 ka	✓ Feature 1 (reverse)
+Waters from heaven and earth’s fountains burst forth	Water vapour rainfall + super‑tides	All continents	~15‑11.5 ka	—
+Sun and Moon born after heaven and earth	Palaeo‑Moon too dim for cultural status → New Moon bright, becomes myth protagonist	China, Greek, Norse	Post‑event	—
+6.3 Verification of Key Mythological Texts
+
+San Wu Li Ji: “Heaven and earth were chaotic like a chicken egg; Pangu was born within, and after 18,000 years, heaven and earth were opened; the clear yang became heaven, the turbid yin became earth.” — Verifies the comet nucleus close flyby filling the sky (“all‑covering dome,” Feature 1) and subsequent coma dissipation (opening of heaven and earth). The character “开” (open/cleave) precisely corresponds to the tidal disruption dynamics of §2.3.3—a complete dome‑shaped body torn into multiple pieces before eyewitnesses.
+San Wu Li Ji: After Pangu’s death, “his left eye became the Sun, his right eye the Moon.” — Verifies the cross‑cultural motif “Sun and Moon born after heaven and earth” (§3.2.3). Before the event, the Palaeo‑Moon was too dim (0.15°‑0.3° apparent diameter) to be culturally designated as “Moon”; after the event, the New Moon’s apparent diameter of 4°‑10° made it a mythic protagonist.
+Huainanzi, Benjing Xun: “In the time of Yao, ten suns appeared together, scorching the crops and killing the vegetation… Yi looked up and shot the ten suns, hitting nine.” — Verifies simultaneous multiple bodies (Feature 3 first half) and sequential disappearance via impacts (Feature 3 second half). The sequential disappearance of the “ten suns” corresponds to fragments impacting the main nucleus in successive orbital periods, each producing a flash—this “one‑by‑one” temporal structure is a dynamical necessity of the tidal disruption chain.
+Huainanzi, Tianwen Xun: “Gonggong angrily struck Mount Buzhou; the heavenly pillar broke, the earth’s tethers snapped. The sky leaned to the northwest, therefore the sun, moon, and stars moved.” — The model provides a dual decoding: (a) “heavenly pillar broke” verifies the gradual disappearance of the coma/tail glow as the ice shell was consumed and the orbit receded (see §2.7); (b) “sky leaned to the northwest” verifies the geometric perspective effect of the giant comet nucleus occupying the northwestern sky—not a physical tilt of Earth’s axis, but the observer’s perception of the huge glowing dome “tilting” or “collapsing” from the northwestern sky toward the earth (see §2.3.4). “The sun, moon, and stars moved” describes the violent visual reorganisation of relative positions as the giant object moved against the background of the Sun, Moon, and stars, disrupting the whole sense of celestial order.
+Huainanzi, Lanming Xun: “In ancient times, the four pillars collapsed, the nine provinces split… fire blazed without being extinguished, water overflowed without ceasing. Then Nüwa smelted five‑coloured stones to mend the azure sky.” — Verifies the global colourful airglow (Feature 4) from cometary dust entering the atmosphere. “Five colours” precisely corresponds to the emission lines of oxygen (green, red) and sodium (yellow).
+Shangshu, Yugong: “The flood waters surged, overwhelming the hills and submerging the mounds.” — Verifies the great flood caused by impact water vapour + sublimation vapour rainfall combined with super‑tides.
+Indian Rigveda: “Aditi gave birth to eight sons; the ninth, Martanda, was abandoned.” — 8 of 9 disappeared, 1 remained, exactly parallel to Hou Yi leaving one sun, and matches the physical process where ~8 large fragments impacted the main nucleus and the main nucleus remained.
+Maya Popol Vuh: “The Moon goddess was scarred on the face by the Rabbit God, leaving permanent visible marks.” — Direct description of the dark patches (maria) on the near side, consistent with the mare basin explanation in §5.2.
+Norse Edda: “The fire giant Surtr threw fire across the world; the sky was set aflame.” — The sight of multiple low‑orbit comets with tails spanning the sky, consistent with the “multiple suns” period ~30‑29 ka in the timeline (§4).
+7. Explanation of the Archaeological Discontinuity
+
+7.1 Palaeolithic → Neolithic Shift in Celestial Worship
+
+Based on the time anchors in Chapters 3‑4, this shift can be explained within a precise timeline:
+
+Palaeolithic (40‑20 ka): The Palaeo‑Moon was too small and dim (apparent diameter 0.15°‑0.3°) to be visually prominent in rock art. No global astronomical drama occurred. Unequivocal celestial depictions are extremely rare.
+Event period (32‑12 ka): A ~20,000‑year‑long astronomical catastrophe—multiple suns, successive impact flashes, airglow, super‑tides, global floods—left deep cultural imprints on survivors. The New Moon’s apparent diameter (4°‑10°, 8‑20 times larger) was visually transformative. Eyewitnesses encoded these phenomena into oral narratives, transmitted across generations.
+Neolithic (from ~12 ka): As climate stabilised and agriculture began, descendants institutionalised and deified these disaster memories, giving rise to global celestial worship and astronomical traditions. This is the natural result of disaster memory being fixed through oral tradition and ritual.
+7.2 The Universal Motif “Sun and Moon Born After Heaven and Earth”
+
+China (Pangu’s eyes), Greece (Selene as second‑generation deity), and Norse (gods created Sun and Moon after heaven and earth) all share the narrative structure that Sun and Moon appeared only after heaven and earth stabilised. This is fully consistent with the model: before the event, the Palaeo‑Moon was too dim to be culturally recognised as “Moon”; after the event, the New Moon became extremely bright and large, becoming the protagonist of myth.
+
+8. Testable Unique Predictions
+
+Table 13: The Model’s Testable Predictions
+
+No.	Prediction	Falsification Condition	Exclusivity
+1	Topmost (cm‑m) quenched glassy layer in mare basins dates to ~30 ka; underlying basalts are 3.3‑3.8 Ga	If top and deep ages show no significant difference	High
+2	Lunar polar water ice D/H ratio close to cometary value (~5.3×10⁻⁴)	If close to Earth value (~1.56×10⁻⁴)	Medium
+3	Global strata at ~27 ka contain silicate particle anomaly and Os/Ir/Pt enrichment (cometary fingerprint)	If no such layer, or ratios close to crustal values	High
+4	MWP‑1A (~14.5 ka) meltwater has anomalous D/H ratio	If D/H ratio normal	High
+5	Mare basins lack central peaks; morphology resembles ice/porous‑target craters (width/depth >20)	If typical high‑speed rocky impact structures (width/depth ~5‑10) found	Medium
+6	Measurable oxygen isotope difference between near and far sides (Δ¹⁷O >0.05‰)—near side cometary/outer Solar System, far side Earth/inner Solar System	If isotopic compositions identical	High
+7	Ice core at ~30 ka contains sulfate, silicate, and trace metal anomaly layers (cometary dust fallout)	If no such layer	High
+8	Multiple independent ice cores show two peak anomaly layers at ~30 ka (first for capture‑disruption‑impact, second for merger‑sublimation)	If only a single anomalous layer	Medium
+9	Two distinct D/H water ice layers in LGM ice sheets—lower (~30 ka) close to cometary, upper mixed with later atmospheric precipitation	If ice sheet water D/H shows no layering	Medium
+10	Unequivocal large‑satellite depictions in Late Palaeolithic (~40‑20 ka) rock art are extremely rare and contested; first recognisable Moon motifs appear in Neolithic (~12 ka onwards) art	If reliable dating confirms unequivocal large‑satellite depictions at 40 ka	Medium
+9. Limitations and Future Work
+
+The following key aspects currently rely only on analytical order‑of‑magnitude estimates and have not been validated by numerical simulation:
+
+Table 14: Key Model Aspects and Validation Needs
+
+Aspect	Required Simulation	Current Status
+Comet nucleus capture probability	N‑body + tidal dissipation integration (including disruption and porous body deformation)	Post‑disruption capture probability qualitatively higher than single body, but exact value unknown
+Fragment orbital evolution and impact timing	N‑body orbital integration (including fragment‑main nucleus gravitational interactions)	Qualitative analogue to SL9; exact impact intervals and order unknown
+Fragment impact on ice shell/porous matrix	SPH impact simulation (ice‑ice‑porous, with phase changes)	Order‑of‑magnitude estimates valid; exact crater morphology and ejecta mass unknown
+Palaeo‑Moon melting through ice shell merger	SPH impact simulation (rock‑ice‑porous, with shock melting and vaporisation)	Sutton parameter + latent heat estimates; exact critical conditions and final topology unknown
+Big ice ball sublimation and orbital migration	Thermal evolution + angular momentum coupling (including anisotropic sublimation)	Analytical estimates valid; exact time scale and orbital path unknown
+Global water vapour transport and deposition	General Circulation Model (GCM)	Qualitatively feasible; precipitation amount and distribution unknown
+Palaeolithic‑Neolithic transition rock art semiotics	Cross‑cultural standardised database analysis	Currently lacks systematic study
+The model is at the “heuristic hypothesis” stage; its eventual validity depends on future numerical simulations and deep‑space exploration data testing the exclusive predictions in Chapter 8.
+
+10. Conclusion
+
+This paper proposes the Comet Capture‑Disruption‑Merger‑Sublimation Hypothesis, with the following core conclusions:
+
+(1) Myth as physical constraint. The four visual features of global creation myths—all‑covering dome, vertical light pillar, sequential falls, colourful canopy—constitute a unique “astronomical fingerprint.” After systematically excluding asteroid impacts, supervolcanoes, supernovae, etc., only a super‑comet nucleus passing extremely close to the Roche limit can simultaneously produce all four. The mythological data themselves are hard constraints filtering physical models.
+
+(2) Triple time anchoring. Three independent chains—astronomical (Scholz’s Star flyby ~70 ka + debris travel ~30‑40 ka), geological (MWP‑1A ~14.5 ka, Younger Dryas ~12.8‑11.5 ka), and archaeological/mythological (Palaeolithic “moonless” → Neolithic explosion of celestial worship)—converge on the ~32‑12 ka window.
+
+(3) Full physical chain. The Palaeo‑Moon (diameter 1000‑2000 km) provided billions of years of tidal braking; Scholz’s Star perturbed the Oort Cloud ~70 ka; the comet nucleus underwent tidal disruption below the Roche limit ~30 ka; fragments impacted the near side to form maria; the main nucleus merged with the Palaeo‑Moon at low speed (the Palaeo‑Moon melted through the thick ice shell and embedded in the porous matrix); the merged body’s thick ice shell sublimated massively under heat, driving orbital migration via angular momentum conservation (R ∝ 1/M²) from ~50,000 km to ~380,000 km—the physical reality of “Separation of Heaven and Earth”; impact and sublimation water vapour totalled 10²⁰‑10²¹ kg, released in two phases—immediate rainfall combined with super‑tides created the “Great Flood” memory, half stored in ice sheets and released ~14.5 ka; the cometary injection of matter and energy triggered abrupt global cooling, pushing the Last Glacial Maximum to its peak.
+
+(4) Observational explanations and falsifiable predictions. The model independently explains lunar dichotomy, the absence of central peaks in maria, regolith characteristics, the co‑existence of ancient basaltic ages with young surface structures, Earth‑Moon compositional similarity, the fossil record of day length, and the Palaeolithic‑Neolithic cultural break. Exclusive predictions distinguishing it from all competing hypotheses include: a ~30‑ka quenched glassy top layer in maria, polar water ice D/H close to cometary values, Δ¹⁷O >0.05‰ between near and far sides, and a cometary material anomaly layer at ~27 ka in global strata.
+
+The Moon is a two‑hemisphere composite—its far hemisphere is the Palaeo‑Moon, its near hemisphere is cometary porous residue. Our ancestors encoded this ~15,000‑year‑long astronomical drama as creation myths, transmitted across generations. The history of human civilisation is the history of moving from “observation and encoding” to “understanding and decoding.”
+
+📚 References
+
+[1] Mamajek, E. E., et al. (2015). The closest known flyby of a star to the Solar System. Astrophysical Journal Letters, 800(1), L17.
+
+[2] 周琴, 吴福元, 刘传周. (2010). 月球同位素地质年代学与月球演化. 地球化学, 39(1), 37-49.
+
+[3] Wieczorek, M. A., et al. (2013). The crust of the Moon as seen by GRAIL. Science, 339(6120), 671-675.
+
+[4] Head, J. W. (1976). Lunar volcanism in space and time. Reviews of Geophysics, 14(2), 265-300.
+
+[5] McKay, D. S., et al. (1991). The lunar regolith. In Lunar Sourcebook (pp. 285-356). Cambridge University Press.
+
+[6] Williams, G. E. (2000). Geological constraints on the Precambrian history of Earth's rotation and the Moon's orbit. Reviews of Geophysics, 38(1), 37-59.
+
+[7] Fairbanks, R. G. (1989). A 17,000-year glacio-eustatic sea level record. Nature, 342(6250), 637-642.
+
+[8] Broecker, W. S. (2006). Was the Younger Dryas triggered by a flood? Science, 312(5777), 1146-1148.
+
+[9] Pieters, C. M., et al. (2009). Character and spatial distribution of OH/H₂O on the surface of the Moon seen by M³ on Chandrayaan-1. Science, 326(5952), 568-572.
+
+[10] Honniball, C. I., et al. (2021). Molecular water detected on the sunlit Moon by SOFIA. Nature Astronomy, 5(2), 121-127.
+
+[11] Canup, R. M., & Asphaug, E. (2001). Origin of the Moon in a giant impact near the end of the Earth's formation. Nature, 412(6848), 708-712.
+
+[12] Dickey, J. O., et al. (1994). Lunar laser ranging: A continuing legacy of the Apollo program. Science, 265(5171), 482-490.
+
+[13] Weaver, H. A., et al. (1994). The Hubble Space Telescope (HST) observing campaign on comet Shoemaker-Levy 9. Science, 263(5148), 787-791.
+
+[14] Asphaug, E., & Benz, W. (1996). Size, density, and structure of comet Shoemaker-Levy 9 inferred from the dynamics of its fragments. Icarus, 121(2), 225-248.
+
+[15] Nunn, P. D., & Reid, N. J. (2016). Aboriginal memories of inundation of the Australian coast dating from more than 7000 years ago. Australian Geographer, 47(1), 11-47.
+
+[16] San Wu Li Ji. (Wu, Xu Zheng, Three Kingdoms period).
+
+[17] Huainanzi, Lanming Xun. (Western Han).
+
+[18] Huainanzi, Benjing Xun. (Western Han).
+
+[19] Huainanzi, Tianwen Xun. (Western Han).
+
+[20] Shangshu, Yugong. (Zhou dynasty).
+
+[21] Rigveda. (c. 1500-1200 BCE).
+
+[22] Popol Vuh. (K'iche' Maya, c. 1550 CE).
+
+[23] Edda. (c. 13th century CE).
+
+Appendix A: Key Order‑of‑Magnitude Estimates
+
+A1 Minimum Tidal Braking Mass of the Palaeo‑Moon
+
+Tidal dissipation power scales with the square of satellite mass and inversely with the sixth power of orbital radius:
+
+τ ∝ m² / R⁶
+Equate the Palaeo‑Moon’s tidal braking effect to that of the present Moon:
+
+(m<sub>p</sub> / m<sub>now</sub>)² ∝ (R<sub>p</sub> / R<sub>now</sub>)⁶
+Taking R<sub>p</sub> = 2×10⁷ m (safe orbit outside Roche limit), R<sub>now</sub> = 3.84×10⁸ m:
+
+m<sub>p</sub> ≈ 7.3×10²² / 7140 ≈ 1.0×10¹⁹ kg
+This corresponds to a diameter of ~180‑270 km. Considering orbital decay and cumulative effects over billions of years, applying a safety factor of ×5‑10 gives 5×10¹⁹‑1×10²⁰ kg (diameter ~300‑500 km). The model’s 10²¹‑10²² kg (diameter 1000‑2000 km) far exceeds the requirement, providing ample tidal braking.
+
+A2 Impact Cumulative Momentum and Orbital Change
+
+One large fragment impact (fragment mass ~10¹⁷ kg, relative velocity ~3 km/s):
+
+Δp = m<sub>f</sub> × v<sub>rel</sub> ≈ 10¹⁷ × 3000 = 3×10²⁰ kg⋅m/s
+Total (8‑10 effective impacts):
+
+Δp<sub>total</sub> ≥ 2.4×10²¹ kg⋅m/s
+Main nucleus mass M ≈ 10²³ kg, resulting velocity change:
+
+Δv ≈ Δp / M ≈ 0.02 - 0.05 m/s
+On a timescale of months‑years, each perigee velocity perturbation accumulates, potentially raising apogee by tens to hundreds of thousands of kilometres. Exact values depend on timing and direction, requiring N‑body simulations.
+
+A3 Energy Budget for Palaeo‑Moon Melting Through Ice Shell (Feasibility of Merger)
+
+Palaeo‑Moon impact kinetic energy E<sub>k</sub> = 2.0×10²⁸ J.
+
+Energy required to melt through 500 km of ice (heating ice from ‑100°C to 0°C and melting):
+
+Specific heat of ice c<sub>p</sub> ≈ 2.1×10³ J/(kg·K), heating 200 K: 4.2×10⁵ J/kg
+Latent heat of fusion L<sub>f</sub> ≈ 3.3×10⁵ J/kg
+Total: 7.5×10⁵ J/kg
+Cross‑sectional area of melting path ≈ π × (750 km)² ≈ 1.77×10¹² m²
+Volume of 500 km ice = 8.85×10¹⁷ m³, mass = 8.0×10¹⁷ kg
+Required energy = 6.0×10²³ J
+This is only 0.003% of the impact energy (2.0×10²⁸ J). Even if the path were 10 times larger and part of the ice vaporised, the required energy would remain far smaller than the total kinetic energy. Therefore, the Palaeo‑Moon melting through the ice shell is energetically easily feasible.
+
+A4 Sublimation‑Driven Orbital Migration Calculation
+
+Initial: M<sub>0</sub> = 1.1×10²³ kg, R<sub>0</sub> = 5.0×10⁴ km
+Final: M<sub>f</sub> = 7.3×10²² kg
+
+From angular momentum conservation R ∝ 1/M²:
+
+R<sub>f</sub> = R<sub>0</sub> × (M<sub>0</sub> / M<sub>f</sub>)² = 5.0×10⁴ × (1.1/0.73)² = 5.0×10⁴ × 2.27 = 1.135×10⁵ km
+Sublimation‑driven expansion pushes the Moon from 50,000 km to ~114,000 km. Tidal recession then takes over from 114,000 km to 384,000 km. The tidal timescale via standard tidal evolution equations is efficient at lower altitudes (<150,000 km), and can complete the remaining recession in ~10,000‑20,000 years.
+
+A5 Regolith Thickness Estimate
+
+Mass of debris stripped from the Palaeo‑Moon’s far side:
+
+m<sub>debris</sub> ≈ 10¹⁶ - 10¹⁸ kg
+This debris falls back onto the New Moon’s near side (area A<sub>front</sub> ≈ 2×10⁷ km² = 2×10¹³ m²), regolith density ρ ≈ 2.5×10³ kg/m³:
+
+h = m / (A × ρ) ≈ 0.2 - 20 m
+Observed regolith thickness: 5‑20 m (McKay et al., 1991) ✓
+
+A6 Super‑Tide Magnitude Estimate
+
+F<sub>tide</sub> ∝ M<sub>comet</sub> / R³
+M<sub>comet</sub> ≈ M<sub>moon</sub> ≈ 7.3×10²² kg
+R<sub>comet</sub> = 2×10⁷ m, R<sub>moon</sub> = 3.84×10⁸ m
+
+F<sub>tide_comet</sub> / F<sub>tide_moon</sub> = (R<sub>moon</sub> / R<sub>comet</sub>)³ = (19.2)³ ≈ 7,077
+Even accounting for comparable masses, the tide is thousands of times stronger → daily tidal waves of hundreds to thousands of metres.
+
+A7 Roche Limit and Inevitability of Disruption
+
+For a fluid/no‑cohesion body:
+
+d<sub>Roche</sub> = 2.44 × R<sub>E</sub> × (ρ<sub>E</sub> / ρ<sub>c</sub>)<sup>1/3</sup>
+Taking ρ<sub>c</sub> = 1000‑1500 kg/m³:
+
+d<sub>Roche</sub> ≈ 24,000 - 28,000 km
+The model’s perigee geocentric distance 22,000‑32,000 km covers the Roche interval.
+
+Orbital period differences after disruption:
+
+Main nucleus semi‑major axis a₀ ≈ 2.5×10⁴ km → T₀ ≈ 2π√(a³/GM<sub>E</sub>) ≈ 10‑24 hours
+If fragment semi‑major axis difference Δa/a ≈ 0.5‑2%, then period difference ΔT/T ≈ 0.75‑3%
+Each orbit slips by 0.75‑3%; after 10‑50 orbits (~5‑20 days), fragments rendezvous and impact the main nucleus
+This is precisely analogous to SL9: after tidal disruption by Jupiter, fragments had period differences that caused them to impact Jupiter sequentially after ~8 Jupiter orbits (~2 years). Near Earth, the orbital period is much shorter (~10‑24 h), so the impact sequence would complete in days to weeks.
+
+Appendix B: Glossary of Key Terms
+
+Table 15: Key Term Definitions
+
+Term	Explanation
+BP	Before Present, radiocarbon dating reference year 1950 CE.
+Oort Cloud	Outer Solar System spherical reservoir of icy bodies, at ~5,000‑100,000 AU from the Sun.
+Scholz’s Star	WISE J072003.20‑084651.2, a brown dwarf binary system.
+Palaeo‑Moon	Earth’s original small satellite, scattered from the asteroid belt to Earth’s vicinity early in Solar System history; diameter ~1000‑2000 km, dense rocky.
+Roche Limit	The minimum distance at which a body can maintain structural integrity against tidal forces; in this model, the comet nucleus fell below this limit and was disrupted.
+Tidal Disruption	The process by which a body splits due to tidal forces exceeding self‑gravity when below the Roche limit.
+Main Nucleus	The largest fragment retaining most mass after disruption, which eventually merges with the Palaeo‑Moon to form the main framework of the present Moon.
+Three‑Layer Structure Model	Comet nucleus composed of outer thick ice shell (~1000‑1500 km), intermediate ice‑dust transition zone, and inner porous aggregate core.
+Porous Aggregate	The solid residue left after the ice shell evaporates: high porosity (30%‑50%), low density (1.0‑1.8 g/cm³), low cohesion, loosely accumulated from early Solar System planetesimal debris.
+Sublimation‑Driven Orbital Migration	The mechanism by which the merged body’s ice shell sublimates, losing mass and pushing the orbit outward via angular momentum conservation (R ∝ 1/M²)—the physical essence of “Separation of Heaven and Earth.”
+Regolith	The loose fragmental layer covering the lunar surface; in this model it originates from debris stripped from the Palaeo‑Moon’s far side and fallback from the merger.
+Meltwater Pulse 1A	A rapid sea‑level rise of ~20 m in 500 years at ~14,500 BP (Fairbanks, 1989).
+Younger Dryas	An abrupt cooling event in the Northern Hemisphere ~12,800‑11,500 BP (Broecker, 2006).
+Sutton Impact Energy Ratio (Q)	The ratio of impact kinetic energy to total mass, used to judge whether the outcome is merger or disruption; in this model, because the target is thick ice and porous material, latent heat dissipation greatly reduces the effective Q.
+Visual Fingerprint	The combination of four recurring visual features in myths (all‑covering dome, vertical light pillar, sequential falls, colourful canopy), used to inversely constrain candidate physical models.
+💬 Author’s Note
+
+The above represents my personal reflection on astrophysics, global mythology, archaeology, and lunar geological data. It is not strictly scientific research, but expresses a personal viewpoint. Any errors are mine, and I welcome correction.
+
+I have always tended to believe that ancient peoples were more inclined toward “realistic” than “fictional” recording modes. Limited by their incomplete knowledge and overwhelmed by phenomena far beyond ordinary experience, their descriptions inevitably contain distortions and even fantasies—but at their core, they refer to real, observable physical events. Perhaps these myths should be considered among the earliest astronomical and archaeological records before the invention of writing, rather than merely “literary imagination” or “primitive thought.”
+
+If, in the future, astrophysical, geological, or archaeological data can vindicate these ancient narratives—confirming them as history, not fiction—and if myths are rigorously studied as part of humanity’s actual past, then this amateur work will have fulfilled its mission.
+
+Given the breadth of interdisciplinary coverage, some data cited may be inaccurate, and the derivations and assumptions may not be sufficiently professional, precise, or refined. I ask for your understanding.
+
+Data Availability Statement: All input parameters and derivations for the order‑of‑magnitude estimates are fully disclosed in the main text and appendices.
+
+Acknowledgements: The author thanks online AI conversation systems for assistance with literature retrieval, text organisation, and cross‑chapter consistency checks. All scientific hypotheses, physical derivations, and core arguments were completed independently by the author.
+
+（End of Document）
