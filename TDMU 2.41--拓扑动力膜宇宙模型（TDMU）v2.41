@@ -1,0 +1,662 @@
+Topological Dynamic Membrane Universe Model (TDMU) v2.41
+
+——A Discrete Topological Cosmology Framework Based Entirely on First Principles
+
+[Preliminary Declaration]
+
+The model described in this paper is a conceptual framework based on the first principles of discrete topological structures. It proceeds from a set of explicit postulates through rigorous logical deduction, without introducing any additional assumptions or empirical parameters beyond the postulate system. The conclusions of the model have not yet been verified by observation, nor does the model claim to have reached the predictive precision of a mature physical theory.
+
+The relationship between version v2.41 and v2.31 is as follows: v2.31 extends the postulates into applied domains (such as nuclear transition channels, astrophysical evolutionary spectra, elemental abundance criteria, etc.); while these extensions are compatible with the postulate system, they introduce empirical mappings that go beyond first principles. v2.41 is strictly limited to what can be reached through logical deduction from the postulates, and contains no speculative content whatsoever. The two versions are complementary: v2.41 provides the rigorous foundation, while v2.31 indicates possible directions of extension.
+
+The value of the present paper lies in demonstrating a path of reasoning that starts from discrete topology without presupposing continuous spacetime, while clearly marking the logical origin of each step and the current points of incompleteness, in order to invite subsequent criticism, correction, or development.
+
+Chapter 1: Fundamental Elements
+
+1.1 The Network Postulate
+
+We postulate the existence of a discrete, background-free combinatorial network ℳ. It consists of nodes and directed edges connecting the nodes.
+
+This network is not embedded in any pre-existing space or time. The only primitive relation between nodes and edges is “connected” or “not connected.” The sole primitive attribute of an edge is its direction — pointing from one node to another.
+
+Consideration: This is a postulate, the starting point of our model construction. We choose to begin from a discrete structure because it avoids the problem of “where does continuous space come from” — continuity is emergent here, not fundamental. The network does not presuppose any geometric structure, metric, or dimension; all subsequent concepts must be constructed solely from the connectivity relations among nodes and edges.
+
+1.2 Reconnection Operations
+
+The sole dynamics of the network is local reconnection: when two edges meet at the same node, they may disconnect and reconnect according to directional rules. Reconnection is local — it involves only a small number of edges sharing the same node, not distant structures.
+
+Direction rule: In any reconnection operation, the difference between the number of counterclockwise-directed edges and clockwise-directed edges along any closed path remains invariant.
+
+This rule implies that the algebraic sum of directions along any closed path is a conserved quantity under reconnection operations. This is the only conservation law in the network; all subsequent conserved quantities derive from it.
+
+1.3 Loops and Topological Charge
+
+A closed path that starts from a node, travels along directed edges, and eventually returns to the starting node is called a loop. A loop is the only structure in the network possessing “global identifiability” — it can be defined entirely by the connectivity relations within the network, without reference to any external frame.
+
+On any closed loop, the net directional algebraic sum along the loop (counterclockwise count minus clockwise count) is an integer. This integer is conserved under reconnection operations — because the direction rule guarantees it. We call this integer the topological charge of the loop.
+
+Important note: Topological charge is not a pre-assumed physical quantity. It is the naming of a purely geometric fact: “the algebraic sum of directions along a closed path.” It does not need to be implanted — it exists naturally in any loop satisfying the direction rule. Topological charge is a discovery, not an invention.
+
+1.4 Emergence of the Membrane
+
+When the loop density (number of closed paths per unit node count) within a closed region of the network exceeds a certain critical value, the loops in that region, through collective reconnection, tend to weave into a closed surface. This surface divides the region into “inside” and “outside” — the internal loop density differs from the external, and the surface itself becomes the boundary between the two regions.
+
+This closed surface is called the membrane.
+
+The membrane is not “placed into” the network. It is a structural mode that the network naturally tends toward under conditions of specific loop density. The membrane is a state of the network, not something outside it.
+
+Honest note: The specific numerical value of this “critical density” cannot currently be derived analytically from pure combinatorial rules. We can only describe it qualitatively as “exceeding the value at which the loop connectivity of the closed region can sustain the formation of a closed surface.” This is an open problem, left for future numerical simulations or analytical proofs in combinatorial dynamics.
+
+1.5 Two Descriptive Languages
+
+The membrane admits two equivalent modes of description:
+
+Discrete description: When we focus attention on scales larger than a certain fundamental scale, the membrane can be regarded as a network composed of “units” carrying integer topological charges. The internal structure of each unit is coarse-grained away, but its topological charge attribute is preserved.
+
+Continuous description: In the range far larger than the fundamental scale but far smaller than the macroscopic radius of curvature, we can average the topological charge to obtain a continuous density function. This continuous approximation is valid only when the region under consideration contains a sufficiently large number of fundamental units.
+
+The two descriptions are presentations of the same object at different magnifications, and they are interconvertible through coarse-graining operations. This is an intrinsic feature of the model, not two distinct theories. The discrete description is fundamental, and the continuous description is derived — the validity of the continuous description is always subject to its conditions of applicability.
+
+1.6 The Necessity of Topological Defects
+
+Derivation from first principles: Postulate 1.1 defines the discreteness and finiteness of the network. Postulate 1.4 defines the emergence of the membrane as a closed surface. Any closed surface woven from loops on a finite discrete network faces a mathematical constraint.
+
+On a finite discrete network, a closed weave cannot simultaneously satisfy the following three conditions:
+(i) The weave completely covers all nodes on the surface;
+(ii) Every node on the surface attains its maximum coordination number (i.e., all possible connection directions are occupied);
+(iii) The number of edges used in the weave is finite.
+
+The reason is this: a perfectly defect-free closed surface requires the coordination numbers of all nodes to be perfectly balanced, but such global balance is the privilege of infinite periodic lattices and cannot be realized on an arbitrarily shaped finite closed surface. The closed nature of the surface itself demands the existence of non-periodic connections at certain nodes, while finiteness precludes eliminating these non-periodic connections by extending to infinity.
+
+Consequently, the surface weave of any finite topological knot inevitably possesses regions that cannot be fully covered by the weave — namely, topological defects. The size and distribution of defects depend on the weaving complexity of the knot: knots with fewer total edges have loose weaving and a relatively larger defect area fraction; knots with more total edges have dense weaving and a relatively smaller defect area fraction.
+
+The sole premises of this deduction are the discreteness of the network and the finiteness of the closed surface — both of which are already given by the first principles. The existence of defects is a mathematical necessity of closed weaves on finite discrete networks, a discovery rather than an invention. Topological defects are the “active sites” for interactions between topological knots — whether two topological knots can undergo weaving reconfiguration through defect complementarity depends entirely on the geometric matching degree of their surface defects.
+
+Chapter 2: Emergence of Spacetime and Matter
+
+2.1 Distance and Space
+
+The distance between two nodes is defined by the number of edges on the shortest path connecting them. The distance between two structures is defined by the number of edges on the shortest path connecting the regions to which they belong.
+
+Distance is not a metric pre-existing in space. It is a direct reading of the connectivity relations between nodes. This definition of distance satisfies non-negativity, symmetry, and the triangle inequality — these properties are not assumed but follow automatically from the definition of “shortest path.”
+
+The totality of distance relations among all structures on the membrane constitutes the spatial structure of the membrane. Space is not a container that holds the membrane. It is the set of relations among structures on the membrane.
+
+When a structure “moves,” it is not traveling through space — it is changing its connectivity relations with all other structures. “Motion” is the record of reconnection history in distance relations.
+
+2.1.1 Constraints on the Emergence of Dimensionality
+
+Derivation from first principles: Space is the totality of distance relations among all nodes on the membrane (Postulate 2.1). Distance is defined by the number of edges on the shortest path (Definition 1.3). On any finite discrete network, the set of shortest-path lengths between all pairs of nodes forms a distance matrix. Whether this distance matrix can be embedded into a low-dimensional continuous manifold depends on the geometric properties of the matrix.
+
+For most random discrete networks, the effective embedding dimension will be a relatively small integer. The reason that three dimensions is the observed spatial dimension of “our membrane” is not pre-set but rather the natural outcome of three conditions: (1) the membrane is a two-dimensional surface (Postulate 1.4); (2) the thickness of the woven structures on the membrane contributes the third dimension in the macroscopic limit; (3) higher dimensions require more complex connection patterns topologically, and under the current loop density conditions, their probability of occurrence is far lower than that of the three-dimensional configuration.
+
+This deduction introduces no new assumptions. It reframes the dimensionality problem from “unsolved” to a tractable problem “to be derived from first principles.” The premises all come from Postulates 1.1, 1.3, 1.4, and 2.1.
+
+2.2 Time and Direction
+
+The ordering of two events A and B on the membrane is determined by the cumulative number of reconnection events on paths connecting them. If on any path from A to B the total number of reconnections is N, with N > 0, then A precedes B; if N = 0, then A and B are simultaneous.
+
+Time is not a dimension, not a coordinate, not a parameter. It is the cumulative count of reconnection events.
+
+2.2.1 The Statistical Necessity of the Arrow of Time
+
+Derivation from first principles: Reconnection operations logically permit reverse execution (Postulate 1.2). However, reverse execution requires the system to retain complete information about the connection state prior to reconnection.
+
+In a combinatorial network, the state space is discrete, but the number of possible states grows super-exponentially with the number of nodes and edges. For a network containing a large number of nodes (e.g., on the order of ~10⁵⁷), to exactly replicate within a local region the complete connection configuration prior to a reconnection event, the required information storage capacity would exceed the information-carrying capacity of that local region itself — because the amount of information that can be encoded by the nodes and edges within the local region is far smaller than all the degrees of freedom involved over the entire reconnection history.
+
+Thus, irreversibility at the informational level emerges from the finiteness of the network and the disparity in the scales of state spaces. This is not an absolute logical necessity — logically, reverse execution is still permitted — but it is a physical statistical necessity: the probability of finding, within a finite local region, an information configuration that can exactly undo all prior reconnection operations tends to zero as the reconnection history extends.
+
+The model adopts the following working hypothesis: The evolutionary history of the membrane constitutes a statistically irreversible sequence of events. This hypothesis points toward the origin of the arrow of time. Its rigorous logical proof — i.e., proving that no topological operation on the membrane can read out and restore the complete reconnection history — has not yet been completed; this is a problem marked as “unfinished.” However, the statistical necessity of the arrow of time can be adequately demonstrated from the two first-principles premises of network finiteness and the super-exponential scale of the state space.
+
+2.3 Definition of Matter
+
+Stable woven subgraphs on the membrane, composed of loops that do not spontaneously disintegrate under reconnection dynamics, are called topological knots.
+
+A subgraph does not spontaneously disintegrate if and only if the number of successive reconnections required to separate it from the rest of the membrane exceeds a threshold. This threshold ensures that no local reconnection operation can release the internal stress without destroying the overall structure.
+
+The stability of a topological knot is determined by two factors:
+
+Total internal links: the number of independent connection paths among loops within the knot. The larger the total, the more reconnections are needed for disassembly.
+Boundary connectivity: the number of connection paths between the knot’s surface and the exterior. The lower the boundary connectivity, the harder it is for external reconnections to invade the interior.
+Matter is precisely such topological knots. Matter is not pre-existing particles. It is woven structures on the membrane that have attained stability conditions.
+
+Under current cosmic conditions, the most fundamental topological knots permitted to exist stably are called primitive bricks. The primitive brick is the effective fundamental unit at the current energy scale. Its “fundamentalness” is scale-dependent — should future higher energy scales reveal that a primitive brick is composed of smaller structures, the model can naturally be extended. We do not claim that the primitive brick is the “ultimate fundamental unit.”
+
+The mass of a primitive brick is defined as its capacity to resist directional reconnection — i.e., the number of reconnection events required to change the net directional algebraic sum of its loops. Mass is the dynamical manifestation of topological charge.
+
+Chapter 3: Interactions
+
+3.1 Shared Links
+
+The multiple connection paths established between two topological knots via intermediate loops on the membrane are called shared links. Shared links are the sole medium of interaction between topological knots.
+
+There is no independent entity of “force.” All interactions are manifestations of the geometric properties of shared links.
+
+Five geometric parameters of shared links determine the macroscopic behavior of interactions:
+
+Parameter	Definition	Macroscopic Manifestation
+Total link count	Number of independent connection paths between two topological knots	Gravitational strength
+Link orientation degree	Statistical uniformity of shared links in spatial directions	Magnetic strength
+Link density gradient	Rate of change of link count in space	Electric strength
+Link saturation	Ratio of link count to all possible connection paths	Strong nuclear force (attraction/repulsion)
+Link fragility	Probability of breaking under perturbation	Weak force decay rate
+3.2 The Origin of Gravity
+
+The larger the total number of shared links between two topological knots, the stronger the tendency of the membrane to reduce overall stress — this tendency manifests macroscopically as pulling the two knots toward each other.
+
+Gravity is a large-number statistical effect of the total shared link count. No gravitons are needed.
+
+3.2.1 Restricted Applicability of the Equivalence Principle
+
+Derivation from first principles: Gravity in TDMU is defined as the large-number statistical effect of the total shared link count (Postulates 3.1–3.2). The total number of shared links established by a topological knot depends on its own weaving complexity (corresponding to its mass) and the density of topological knots in its environment.
+
+In a local environment, if all objects reside within the same shared link network — i.e., the local link density is approximately uniform, and the scale of an object is far smaller than that of the local region — then the gravitational acceleration depends only on the statistical convergence effect of the shared links and is independent of the object’s own internal structure. This corresponds macroscopically to the weak equivalence principle (universality of free fall).
+
+However, when the weaving scale of an object is comparable to the scale of its environment (e.g., a massive celestial body whose internal shared link network makes a non-negligible contribution), or when the shared link density in the environment exhibits a significant gradient (e.g., tidal regions near a strong gravitational field), the internal structure of the object will produce secondary corrections to its acceleration by influencing its shared link distribution.
+
+The equivalence principle in TDMU is a local approximation, not a strict physical law. This constitutes a fundamental opposition to the formulation of the equivalence principle in standard general relativity — in the latter, the equivalence principle holds exactly in any local inertial frame; in TDMU, the equivalence principle is a statistical approximation when the shared link network is uniform on large scales, and its precision depends on the degree of uniformity of the local shared link density.
+
+The logical chain of this deduction rests entirely on first principles: step (1) gravity = large-number statistical effect of total shared link count (Postulates 3.1–3.2); step (2) total shared link count is influenced by the object’s own structure and environmental density (Postulate 3.1); step (3) when the object’s structural contribution is negligible and the environment is uniform, acceleration is universal; step (4) when these conditions are not satisfied, corrections arise. Every step requires no new assumptions.
+
+3.3 The Origin of Magnetism
+
+When shared links exhibit statistically non-uniform distribution in spatial directions, a macroscopic torsional stress field is produced. The streamlines of this stress field are magnetic field lines.
+
+3.3.1 The Topological Necessity of the Prohibition of Magnetic Monopoles
+
+Derivation from first principles: Shared links are multiple connection paths established between two topological knots via intermediate loops on the membrane (Postulate 3.1). The degree of statistical uniformity of shared links in spatial directions produces a macroscopic torsional stress field — i.e., magnetic field lines (Postulate 3.3).
+
+Magnetic field lines are thus the streamline representation of the statistical distribution pattern of shared links in space. Since shared links must begin at one topological knot and end at another (or form a closed path on the same topological knot) — this is an inevitable corollary of the definition of a shared link as a “connection path between two topological knots” — shared links cannot have isolated endpoints in space.
+
+Therefore, magnetic field lines must be closed. Magnetic monopoles are topologically forbidden.
+
+This derivation elevates “the non-existence of magnetic monopoles” from “a corollary of the model” to “a topological necessity from first principles.” The premises all come from existing postulates: the definition of shared links requires anchoring at topological knots at both ends, and magnetic field lines are the statistical streamlines of shared links — combining the two automatically yields that magnetic field lines are closed. No additional assumptions whatsoever are needed.
+
+3.4 The Origin of Electricity
+
+The density gradient of shared links produces normal stress waves. A stress difference exists between regions of density excess and regions of density deficit.
+
+Density excess–density excess (or deficit–deficit) → stress difference is repulsive
+Density excess–deficit → stress difference is attractive
+Electricity is the orthogonal deformation mode of magnetism — the two together constitute the complete linear response of shared link perturbations.
+
+3.5 The Origin of the Strong Nuclear Force
+
+When the distance between two topological knots is reduced such that the saturation of shared links approaches its maximum value:
+
+Shared links form an indivisible shared network → dismantling requires simultaneously cutting a large number of links → attraction
+If the distance is further reduced, the shared link paths are forced to bend → generating repulsive bow stress → repulsion
+The strong nuclear force is the nonlinear behavior mode of shared links at extremely close distances. The competition of the two effects forms the potential-well structure of the nuclear force.
+
+3.6 The Origin of the Weak Interaction
+
+When the distance between two topological knots lies in the critical range where shared links can “barely be established,” the number of shared links is very small. This few-link state is metastable — any local reconnection perturbation may lead to link breakage and trigger a cascade disintegration.
+
+The weak interaction is not a “force”; it is the spontaneous decay mode of a metastable shared link network.
+
+3.7 Electric Current
+
+In a conductor, the shared links on the surface topological knots of atomic nuclei distribute along closed paths in the absence of an external field — this is the lowest energy mode of shared links in cylindrical geometry.
+
+An external field (density gradient of shared links) stretches these closed paths into helical paths along the conductor direction. The helically advancing shared links drag peripheral electron bricks into synchronous motion.
+
+Electric current is the collective manifestation of the helical motion of shared links. Electrical resistance is the statistical frequency of collisions and reconnections of shared links during motion.
+
+3.8 Superconductivity
+
+When the helical motion of shared links achieves complete synchronization — all links are in phase, and the collision frequency drops to zero — the shared links enter a dissipationless transmission state.
+
+Superconductivity is the synchronous phase transition of the collective motion mode of shared links.
+
+Important Note for This Chapter
+
+The above mechanisms describe the “geometric origins” of the four fundamental interactions. We have not yet provided exact derivations from the five geometric parameters of shared links to specific force functions (such as the inverse-square law, Yukawa potential, or Fermi coupling constant). That is to say, we have established a qualitative framework but have not yet completed the quantitative mapping. This is the most central unfinished work of the model at present.
+
+Chapter 4: Evolution of the Universe
+
+4.1 Origin
+
+In a region of the network, the loop density exceeded the critical value for membrane formation due to random fluctuation. A large number of loops with positive and negative directions formed paired structures, which were compressed by peripheral circulation until they exceeded their elastic recovery point. At the critical point, the system lost stability, and the topological elastic potential energy drove the loop surface to roll outward, forming a closed membrane.
+
+The Big Bang is the elastic release of the membrane from a super-knotted state.
+
+Honest note: “Random fluctuation” is currently the simplest description of the initial condition. The model cannot explain why it occurred in this particular region, at this particular moment, or why a single membrane rather than multiple membranes. These are incompletenesses of the same level as the “initial singularity” problem in standard cosmology. The ignorance of initial conditions does not weaken the logical structure of the rest of the model — it merely marks the current boundary of the model.
+
+4.2 Evolution
+
+After formation, the membrane continues to expand. Expansion causes the overall loop density on the membrane to decrease — i.e., cosmic cooling. Temperature is a local manifestation of the loop density gradient.
+
+During the cooling process, topological knots emerge in sequence: from the simplest primitive bricks, to more complex composite structures, and further to large-scale structures woven from composite structures. Each step is the most stable woven structure “permitted to exist” at the current loop density.
+
+The current universe is in an intermediate state of “loop density low enough but not yet low enough for membrane disintegration.”
+
+4.3 Final End
+
+The membrane remains a part of the network. The circulatory pressure from regions outside the membrane does not decay with membrane expansion. When the loop density on the membrane drops below a critical value, the compressive strength of the membrane will fall below the external circulatory pressure, and the membrane will enter irreversible structural instability.
+
+The final outcome: global topological reconnection disintegration — the membrane shatters into discrete loops and returns to the ground state of the network.
+
+The universe as a coherent topological entity terminates.
+
+Honest note: The specific numerical values of this critical density, as well as the dynamical pathway of instability and the time scale of the final end, cannot be derived from the model. The model can only qualitatively predict that “there exists an irreversible critical point.”
+
+Chapter 5: Directional Hints at the Observational Level
+
+Since the model has not yet completed its quantitative mapping, only directions that may be worth attention at the observational level are provided here:
+
+Relation between gravitational behavior and environment: If gravitational strength is related to local topological charge density (derived from the restricted applicability of the equivalence principle in Section 3.2.1), then the effective gravitational strength in high-density regions may differ from that in the Solar System. This could be sought in comparisons of the dynamics of galactic centers with the Solar System.
+
+Local differences in cosmic expansion: If the expansion behavior of the membrane is influenced by local topological structure, then locally measured values of the Hubble constant may exhibit systematic differences from globally inferred values. The magnitude of the difference should be positively correlated with the local loop density fluctuation.
+
+Inner edge structure of black hole shadows: If the centers of compact objects lack singularities — because the connection saturation rigidity of the network forbids further compression at a finite density (there exists a supremum for topological charge density) — and instead possess an extremely compact physical surface, then EHT-class imaging may reveal fine structures at the inner edge of the shadow that differ from the predictions of pure general relativity.
+
+Secondary components in gravitational wave signals: If the merger product possesses a physical surface (rather than an event horizon), the gravitational wave signal may exhibit delayed secondary echoes after the main waveform, corresponding to reflections of the shock wave at the surface.
+
+Non-existence of magnetic monopoles: Any experimental result claiming to have detected a magnetic monopole, if confirmed, would directly falsify this model (derived from Section 3.3.1).
+
+Secondary corrections to the equivalence principle: In regions of strong gravitational field gradients, objects with different internal structures may exhibit tiny differences in acceleration (derived from Section 3.2.1). This could be searched for in future high-precision tests of the equivalence principle.
+
+These are only directional hints, not precise numerical predictions. Their significance lies in the fact that once the quantitative mapping of the model is completed, these directions can be transformed into testable numerical bounds.
+
+Chapter 6: Current State and Boundaries of the Model
+
+6.1 What Has Been Established
+
+Basic conceptual system: Discrete network, loop, topological charge, membrane, topological knot, topological defect, shared link — the interrelationships among these concepts are self-consistent within the postulate system. Every concept has a clear definition, and the definition depends solely on the postulates or on concepts already derived from the postulates.
+
+Necessity of topological defects: From the two first-principles premises of network discreteness and finiteness of the closed surface, it has been proven that topological defects are a mathematical necessity for any finite topological knot. This establishes a foundation for subsequent discussions of interactions without requiring any additional assumptions.
+
+Topological definition of matter: The definition of matter as stable topological knots provides an alternative path that does not rely on a presupposition of “fundamental particles.” The stability conditions provide clear criteria for judging the existence of matter.
+
+Unified perspective on interactions: The four fundamental interactions are reduced to five geometric parameters of shared links, providing a unified descriptive framework. Gravity, electromagnetism, the strong nuclear force, and the weak force are no longer four independent forces but distinct manifestations of the same underlying structure under different geometric conditions.
+
+Topological necessity of the prohibition of magnetic monopoles: From the definition of shared links and the streamline nature of magnetic field lines, it has been rigorously proven that magnetic monopoles are topologically impossible.
+
+Restricted applicability of the equivalence principle: From the shared-link mechanism of gravity, it has been demonstrated that the equivalence principle is a statistical approximation in the locally uniform limit, not a strict physical law — and the criterion for when the approximation holds has been provided.
+
+Emergent explanation of spacetime: Space as the totality of distance relations and time as the cumulative count of reconnections provide a mechanism for the emergence of spacetime from a more fundamental structure. The definitions of distance and time each satisfy the required basic properties.
+
+Statistical necessity of the arrow of time: From the finiteness of the network and the super-exponential scale of the state space, it has been demonstrated that irreversibility is statistically necessary — not an absolute logical necessity, but physically inevitable.
+
+Constraint direction for dimensionality: It has been argued that three-dimensional space can be understood as a result of the membrane being a two-dimensional surface plus the emergent effect of weaving thickness, and that higher dimensions are probabilistically suppressed at the current loop density.
+
+Stage framework of cosmic evolution: Origin (membrane emergence), evolution (cooling and structural emergence), and final end (membrane disintegration) — the temporal sequence of these three stages is self-consistent within the postulate system.
+
+6.2 What Remains Incomplete
+
+Critical density values: The loop density threshold required for membrane emergence, and the density lower limit required for membrane disintegration, can at present only be described qualitatively and cannot be calculated analytically. These two thresholds determine the beginning and end of the universe.
+
+Quantitative mapping from topological charge to mass: We have defined the positive correlation between mass and the number of reconnections required for disassembly, but have not provided a computational function from topological charge configuration to a specific mass value. This is a crucial missing link connecting the model to measurable physical quantities.
+
+Derivation of interaction functions: The quantitative derivation from the five geometric parameters of shared links to the known force laws (inverse-square law, Yukawa potential, Fermi coupling constant) has not yet been completed. This is the most central unfinished work of the model at present, and the key factor determining whether the model can be tested.
+
+Rigorous proof of the arrow of time: The statistical necessity of the arrow of time has been demonstrated in Section 2.2.1, but its rigorous logical proof — i.e., proving that no topological operation on the membrane can read out and restore the complete reconnection history — has not yet been completed.
+
+Specific conditions for the cosmic final end: The precise parameters and time scale of the membrane disintegration critical point are unknown. The model can only qualitatively predict the existence of such a critical point.
+
+Exact derivation of three-dimensionality: The constraints on the emergence of dimensionality have been provided in Section 2.1.1, but a rigorous proof of “why exactly three dimensions” requires a complete derivation starting from the embedding properties of the distance matrix, which has not yet been completed.
+
+Complete correspondence with the Standard Model: All particles and interactions of the Standard Model of particle physics have not yet been mapped one by one within the current framework. This is an important criterion for whether the model can become an effective physical theory.
+
+Precise conditions for topological knot stability: An analytical expression for the stability threshold has not yet been derived.
+
+Logical proof of reconnection irreversibility: The current argument for irreversibility relies on statistical necessity rather than a rigorous logical proof.
+
+6.3 Statement on the Status of the Model
+
+TDMU v2.41 at its current stage is a conceptual framework based on first principles, not a mature physical theory. Its core value lies in the following:
+
+It provides a logically self-consistent narrative that starts from the first principles of discrete topology and covers the major domains of cosmology (ontology, emergence of spacetime, definition of matter, unification of interactions, cosmic evolution).
+It possesses clear foundational assumptions (network, reconnection, direction rule), an explicit chain of conceptual deduction (from loops to topological charge, from membrane to topological knots, from shared links to interactions), and honestly labeled points of incompleteness.
+Unlike v2.31, this version contains no speculative content that lies beyond the scope of logical deduction from first principles. It is not a tool capable of making precise numerical predictions, nor is it a computational framework that can replace general relativity and quantum field theory. It is a signpost pointing to a possible direction, not a road already paved.
+v2.41 provides a rigorous foundation for the extended applications in v2.31 — the conceptual basis of the nuclear transition channels, astrophysical evolutionary spectra, and other content in v2.31 (topological knots, defect complementarity, shared links, stability conditions) has all been established from first principles in v2.41.
+Final Chapter: The Significance of the Model
+
+TDMU v2.41 attempts to answer a fundamental question: If we take discrete topological structures as the starting point of the universe — presupposing no space, no time, no matter, no forces — can everything we observe be naturally reformulated as a logical extension of this starting point?
+
+The answer given by the current version to this question is: In part, yes.
+
+Space is explained as the totality of connectivity relations — a direct corollary of the definition of distance.
+Time is explained as the accumulation of reconnections — the natural definition of event ordering.
+Matter is explained as stable topological knots — persistent structures necessarily produced by network dynamics.
+Interactions are unified as geometric effects of shared links — four forces no longer need to be postulated separately.
+Topological defects are proven to be a mathematical necessity of closed weaves on finite discrete networks — no additional assumption required.
+The prohibition of magnetic monopoles is proven to be a topological necessity of the definition of shared links — no additional assumption required.
+The equivalence principle is proven to be a statistical approximation in the locally uniform limit — no additional assumption required.
+The arrow of time is demonstrated to be a statistical consequence of network finiteness and the scale of the state space — no additional assumption required.
+Whether these explanations are ultimately correct depends on whether they can be transformed in the future into precise numerical predictions and compared with observational data.
+
+If such a transformation can be completed and the predictions are confirmed, then TDMU will become an effective physical theory. If the transformation cannot be completed, or the predictions are falsified, then it will be revised or abandoned.
+
+This is the first-principles formulation of TDMU v2.41. It does not rely on any pre-assumed physical quantities, does not borrow any concepts that cannot be translated back to nodes and edges, and does not evade any unresolved problems.
+
+
+（中文原版）拓扑动力膜宇宙模型（TDMU）v2.41
+
+——完全基于第一性原理的离散拓扑宇宙学框架
+
+【前置声明】
+
+本文所描述的模型是一个基于离散拓扑结构第一性原理的概念框架。它从一组明确的公设出发进行严格的逻辑推演，不引入任何超出公设体系的额外假设或经验性参量。模型的结论尚未经过观测验证，也不声称已经达到成熟物理理论的预测精度。
+
+版本v2.41与v2.31的关系：v2.31在公设基础上进行了拓展应用（如核转变通道、天体演化谱系、元素丰度判据等），这些拓展虽与公设体系相容，但引入了超出第一性原理的经验映射。v2.41严格限定在从公设逻辑推导所能到达的范围，不包含任何推测性内容。两个版本互补：v2.41提供严格基础，v2.31展示可能的延伸方向。
+
+本文的价值在于展示一条从离散拓扑出发、不借助连续时空预设的思考路径，并明确标识出每一步的逻辑来源和当前的不完备之处，以邀请后续的批判、修正或发展。
+
+第一章：基础要素
+
+1.1 网络的设定
+
+我们假设存在一个离散的组合网络ℳ。它由节点和连接节点的有向边构成。
+
+这个网络不嵌入任何预先存在的空间或时间中。节点与边之间唯一的原始关系是“被连接”或“不被连接”。边的唯一原始属性是其方向——从一个节点指向另一个节点。
+
+此处的考虑： 这是一个公设，是我们构建模型的起点。我们选择从离散结构出发，因为它避免了“连续空间从何而来”的问题——连续在这里是涌现的，而非基本的。网络不预设任何几何结构、度量或维度，所有后续概念都必须从节点和边的连接关系中构造出来。
+
+1.2 重联操作
+
+网络的唯一动力学是局域重联：当两条边在同一节点相遇时，它们可以断开，并按方向规则重新连接。重联是局部的——它只涉及共享同一节点的少数边，不涉及远处结构。
+
+方向规则： 在任何重联操作中，沿任意闭合路径遍历时，逆时针方向边数与顺时针方向边数之差保持不变。
+
+这个规则意味着：沿闭合路径的方向代数和是重联操作下的守恒量。这是网络中唯一的守恒律，所有后续的守恒量都源于此。
+
+1.3 环路与拓扑荷
+
+从某节点出发、沿有向边行进、最终回到出发节点的闭合路径，称为环路。环路是网络中唯一具有“整体可识别性”的结构——它不依赖于外部参照系，仅凭网络内部的连接关系即可定义。
+
+在任意闭合环路上，沿环路行进的净方向代数和（逆时针计数减顺时针计数）是一个整数。该整数在重联操作中守恒——因为方向规则保证了这一点。我们称这个整数为该环路的拓扑荷。
+
+重要说明： 拓扑荷不是预先假设的物理量。它是“方向在闭合路径上的代数和”这一纯几何事实的命名。它不需要被植入——它天然存在于任何满足方向规则的环路中。拓扑荷是发现，不是发明。
+
+1.4 膜的涌现
+
+当网络的某个闭包区域中，环路密度（单位节点数中包含的闭合路径数）超过某一临界值时，该区域的环路通过集体重联倾向于织成一张闭合曲面。这张曲面将该区域划分为“内部”与“外部”——内部环路密度与外部不同，曲面本身成为两个区域之间的边界。
+
+这张闭合曲面称为膜。
+
+膜不是被“放入”网络的。它是网络在特定环路密度条件下自然趋向的结构模式。膜是网络的一种状态，不是网络之外的东西。
+
+诚实说明： 这个“临界密度”的具体数值，在当前阶段无法从纯组合规则中解析导出。我们只能定性地描述为“超过该值时，闭包区域的环路连通度足以支撑闭合曲面的形成”。这是一个未解决的问题，留待后续的组合动力学数值模拟或解析证明。
+
+1.5 两种描述语言
+
+膜允许两种等价的描述方式：
+
+离散描述： 当我们将注意力集中在大于某个基本尺度的范围时，膜可以看作由携带整数拓扑荷的“单元”组成的网络。每个单元的内部结构被粗粒化处理，其细节在描述中被忽略，但它的拓扑荷属性被保留。
+
+连续描述： 在远大于基本尺度但远小于宏观曲率半径的范围内，我们可以将拓扑荷取平均，得到一个连续的密度函数。这种连续近似仅在所考虑的区域包含足够多的基本单元时才有效。
+
+两种描述是同一对象在不同放大倍率下的呈现，它们之间通过粗粒化操作相互转换。这是模型的一个内在特征，而非两套不同理论。离散描述是基本的，连续描述是派生的——连续描述的有效性始终受其适用条件的约束。
+
+1.6 拓扑缺陷的必然性
+
+依据第一性原理： 公设1.1定义了网络的离散性和有限性。公设1.4定义了膜作为闭合曲面的涌现。任何在有限离散网络上由环路编织而成的闭合曲面，都面临一个数学上的约束。
+
+在有限离散网络上，一个闭合编织不可能同时满足以下三个条件：
+（i）编织完全覆盖曲面上的所有节点；
+（ii）曲面上的每个节点都达到最大配位数（即其所有可能的连接方向都被占用）；
+（iii）编织使用的边数是有限的。
+
+这是因为：完美无缺陷的闭合曲面要求所有节点的配位数完全均衡，而这种全局均衡是无限周期性晶格的特权，不可能在任意形状的有限闭合曲面上实现。曲面的闭合性本身要求在某些节点处存在非周期性的连接，而有限性排除了通过无限延伸来消除这些非周期性连接的可能。
+
+因此，任何有限拓扑结的表面编织都必然存在无法被编织完全覆盖的区域——即拓扑缺陷。缺陷的大小与分布取决于结的编织复杂度：总边数少的结编织松散，缺陷面积占比较大；总边数多的结编织致密，缺陷面积占比较小。
+
+这一推论的唯一前提是网络的离散性和闭合曲面的有限性——两者都是第一性原理已给定的。缺陷的存在是离散有限网络上闭合编织的数学必然，是发现而非发明。 拓扑缺陷是拓扑结之间发生相互作用的“活性位点”——两个拓扑结能否通过缺陷互补发生编织重构，完全取决于它们表面缺陷的几何匹配程度。
+
+第二章：时空与物质的涌现
+
+2.1 距离与空间
+
+两个节点之间的距离，由连接它们的最短路径上的边数定义。两个结构之间的距离，由连接它们所属区域的最短路径上的边数定义。
+
+距离不是空间中预先存在的度量。它是节点之间连接关系的直接读数。这一距离定义满足非负性、对称性和三角不等式——这些性质不是被假设的，而是从“最短路径”的定义自动产生的。
+
+膜上所有结构之间距离关系的总和，构成膜的空间结构。空间不是承载膜的容器。它是膜上结构之间关系的集合。
+
+当一个结构发生“移动”时，它并不是在空间中穿行——它是在改变它与所有其他结构之间的连接关系。“移动”是重联历史在距离关系上的记录。
+
+2.1.1 维度涌现的约束条件
+
+依据第一性原理： 空间是膜上所有节点之间距离关系的总和（公设2.1）。距离由最短路径上的边数定义（定义1.3）。在任意一个有限离散网络上，所有节点对之间的最短路径长度构成一个距离矩阵。这个距离矩阵是否可以嵌入到一个低维连续流形中，取决于矩阵的几何性质。
+
+对于大多数随机离散网络，有效的嵌入维数会是一个相对较小的整数。三维之所以是“我们的膜”被观测到的空间维度，并非预先设定，而是满足以下三个条件的自然结果：（1）膜是一个二维曲面（公设1.4）；（2）膜上编织结构的厚度在宏观极限下贡献了第三维；（3）更高维数在拓扑上需要更复杂的连接模式，在当前环路密度条件下，出现概率远低于三维构型。
+
+这一推论没有引入任何新假设。它将维度问题从“未解决”调整为一个“有待从第一性原理中推导”的可处理问题的提法。前提全部来自公设1.1、1.3、1.4和2.1。
+
+2.2 时间与方向
+
+膜上两个事件A与B之间的先后顺序，由连接它们的路径上的累积重联事件数决定。若从A到B的任意路径上重联总数为N，且N>0，则A先于B；若N=0，则A与B同时。
+
+时间不是维度，不是坐标，不是参数。它是重联事件的累积计数。
+
+2.2.1 时间箭头的统计必然性
+
+依据第一性原理： 重联操作在逻辑上允许反向进行（公设1.2）。然而，反向操作要求系统保留重联前的完整连接状态信息。
+
+在组合网络中，网络的状态空间是离散的，但可能的状态数量随着节点数和边数呈超指数增长。对于一个包含大量节点的网络（例如~10⁵⁷量级），要在一个局域区域内精确复制重联前的完整连接配置，所需的信息存储空间将超过该局域区域本身的信息承载能力——因为局域区域内的节点和边所能编码的信息量，远小于整个重联历史中涉及的所有自由度。
+
+因此，信息层面的不可逆性是从网络的有限性和状态空间的规模差异中涌现的。这在逻辑上不是绝对必然——逻辑上反向操作仍被允许——但在物理上是统计必然的：在有限局域区域内找到恰好能还原此前所有重联操作的信息配置的概率，随着重联历史的延伸而趋于零。
+
+本模型采用以下工作假设： 膜演化的历史构成一个统计上不可逆的事件序列。此假设指向了时间箭头的来源。其严格的逻辑证明——即证明膜上不存在任何能够读取并还原完整重联历史的拓扑操作——尚未完成，这是一个被标记为“未完成”的问题。但时间箭头的统计必然性，可以从网络的有限性和状态空间的超指数规模这两个第一性原理前提中得到充分论证。
+
+2.3 物质的定义
+
+膜上由环路构成的、在重联动力学下不自动解体的稳定编织子图，称为拓扑结。
+
+一个子图不自动解体，当且仅当：将其与膜的其他部分分离所需的连续重联次数超过一个阈值。该阈值使得任何局域重联操作都无法在不破坏整体结构的前提下释放内部应力。
+
+拓扑结的稳定性由两个因素决定：
+
+内部链接总数： 结内环路之间的独立连接路径数量。总数越大，拆解所需的重联次数越多。
+边界连通度： 结表面与外部之间的连接路径数量。边界连通度越低，外部重联越难入侵内部。
+物质就是这样的拓扑结。物质不是预先存在的粒子。它是膜上达到稳定性条件的编织结构。
+
+在当前的宇宙环境下，允许稳定存在的最基本拓扑结被称为原砖。原砖是当前能标下的有效基本单元。它的“基本性”是能标依赖的——若未来在更高能标下发现原砖由更小的结构组成，模型可自然延伸。我们并不宣称原砖是“最终的基本单元”。
+
+原砖的质量定义为其抵抗方向重联的能力——即改变其环路净方向代数和所需的重联事件数。质量是拓扑荷的动力学表现。
+
+第三章：相互作用
+
+3.1 共享链接
+
+两个拓扑结之间，通过膜上中间环路建立的多重连接路径，称为共享链接。共享链接是拓扑结之间唯一的相互作用媒介。
+
+不存在独立的“力”实体。全部相互作用都是共享链接的几何属性的表现。
+
+共享链接的五个几何参数决定了相互作用的宏观表现：
+
+参数	定义	宏观表现
+链接总数	两个拓扑结之间独立连接路径的数量	引力强度
+链接取向度	共享链接在空间方向上的统计均匀程度	磁性强度
+链接密度梯度	链接数量在空间中的变化率	电力强度
+链接饱和度	链接数占所有可能连接路径的比例	强核力（吸引/排斥）
+链接脆弱性	在扰动下断开的概率	弱力衰变率
+3.2 引力的来源
+
+两个拓扑结之间的共享链接总数越大，膜趋向于降低整体应力的趋势越强——这种趋势在宏观上表现为将两个结拉向彼此。
+
+引力是共享链接总数的大数统计效应。不需要引力子。
+
+3.2.1 等效原理的受限适用性
+
+依据第一性原理： 引力在TDMU中被定义为共享链接总数的大数统计效应（公设3.1-3.2）。一个拓扑结所建立的共享链接总数，取决于其自身的编织复杂度（对应其质量）及其所处环境中的拓扑结密度。
+
+在局域环境中，若所有物体处于相同的共享链接网络中——即它们所处的局域链接密度近似均匀，且物体自身的尺度远小于该局域的尺度——那么引力加速度仅取决于共享链接的统计汇聚效应，与物体自身的内部结构无关。这在宏观上对应等效原理的弱等效原理部分（自由落体普适性）。
+
+然而，当物体自身的编织规模与其所处环境的尺度可比时（例如，一个巨大的天体，其内部共享链接网络的贡献不可忽略），或者当环境中的共享链接密度存在显著梯度时（例如，强引力场附近的潮汐区域），物体的内部结构将通过影响其共享链接的分布而对加速度产生次级修正。
+
+等效原理在TDMU中是一种局域近似，而非严格的物理定律。 这与标准广义相对论中的等效原理表述形成根本性对立——在前者，等效原理在任意局域惯性系中严格成立；在TDMU中，等效原理是共享链接网络在大尺度均匀时的统计近似，其精度取决于局域共享链接密度的均匀程度。
+
+这一推论的逻辑链条完全基于第一性原理：步骤（1）引力=共享链接总数的大数统计效应（公设3.1-3.2）；步骤（2）共享链接总数受物体自身结构和环境密度影响（公设3.1）；步骤（3）当物体结构贡献可忽略且环境均匀时，加速度普适；步骤（4）当上述条件不满足时，修正出现。每一步都不需要新假设。
+
+3.3 磁性的来源
+
+当共享链接在空间方向上呈现统计上的非均匀分布时，产生宏观扭转应力场。该应力场的流线即磁力线。
+
+3.3.1 磁单极子被禁止的拓扑必然性
+
+依据第一性原理： 共享链接是两个拓扑结之间通过膜上中间环路建立的多重连接路径（公设3.1）。共享链接在空间方向上的统计均匀程度，产生宏观扭转应力场——即磁力线（公设3.3）。
+
+磁力线因此是共享链接在空间中的统计分布模式的流线表达。由于共享链接必须起始于一个拓扑结并终止于另一个拓扑结（或在同一拓扑结上形成闭合路径）——这是共享链接作为“两个拓扑结之间的连接路径”这一定义的必然推论——共享链接在空间中不可能存在孤立端点。
+
+因此，磁力线必然闭合。磁单极子在拓扑上被禁止。
+
+这一推导将“磁单极子不存在”从“模型的一个推论”提升为“第一性原理的拓扑必然”。 前提全部来自已有公设：共享链接的定义要求两端有拓扑结锚定，磁力线是共享链接的统计流线——两者结合自动推出磁力线闭合。无需任何额外假设。
+
+3.4 电力的来源
+
+共享链接的密度梯度产生法向应力波。密度过剩的区域与密度亏缺的区域之间存在应力差。
+
+密度过剩-密度过剩（或亏缺-亏缺）→ 应力差为排斥
+密度过剩-亏缺 → 应力差为吸引
+电力是磁力的正交变形模式——两者共同构成共享链接扰动的完整线性响应。
+
+3.5 强核力的来源
+
+当两个拓扑结的距离缩小到使共享链接的饱和度接近最大值时：
+
+共享链接形成不可分割的共享网络 → 解体需要同时切断大量链接 → 吸引
+如果距离进一步缩小，共享链接路径被迫弯曲 → 产生排斥性的弓形应力 → 排斥
+强核力是共享链接在极近距离下的非线性行为模式。两种效应的竞争形成了核力的势阱结构。
+
+3.6 弱相互作用的来源
+
+当两个拓扑结之间的距离处于共享链接“刚好能建立”的临界范围时，共享链接数量极少。这种少数链接状态是亚稳态的——任何局域重联扰动都可能导致链接断裂并引发级联解体。
+
+弱相互作用不是“力”，是亚稳态共享链接网络的自发衰变模式。
+
+3.7 电流
+
+在导体中，原子核表面拓扑结的共享链接在没有外场时沿闭合路径分布——这是共享链接在圆柱几何中的最低能量模式。
+
+外场（共享链接的密度梯度）将这些闭合路径拉伸为沿导体方向的螺旋路径。螺旋前进的共享链接拖动外围电子砖同步运动。
+
+电流是共享链接螺旋运动的集体表现。电阻是共享链接在运动中碰撞与重联的频率统计。
+
+3.8 超导
+
+当共享链接的螺旋运动达到完全同步——所有链接的相位一致、碰撞频率降为零——共享链接进入无耗散传输状态。
+
+超导是共享链接集体运动模式的同步相变。
+
+本章重要说明
+
+上述机制描述了四种基本相互作用的“几何源头”。我们目前尚未给出从共享链接的五个几何参数到具体作用函数（如距离平方反比律、汤川势、费米耦合常数）的精确推导。也就是说，我们建立了一个定性框架，但尚未完成定量映射。这是模型当前最核心的未完成工作。
+
+第四章：宇宙的演化
+
+4.1 起源
+
+在网络的一个区域中，环路密度因随机涨落超过了形成膜的临界值。大量正反方向环路形成配对结构，被外围环流挤压收缩至超过其弹性回复点。临界点处系统失稳，拓扑弹性势能驱动环面向外翻卷形成闭合膜。
+
+大爆炸是膜从超结状态的弹性释放。
+
+诚实说明： “随机涨落”是当前对初始条件的最简描述。模型无法解释为何是此区域、此时刻、为何是单膜而非多膜。这些是与标准宇宙学中“初始奇点”问题同层级的不完备。对初始条件的无知并不削弱模型其余部分的逻辑结构——它只是标识了当前模型的边界。
+
+4.2 演化
+
+膜形成后持续膨胀。膨胀导致膜上环路密度整体下降——即宇宙冷却。温度是环路密度梯度的局域表现。
+
+冷却过程中，拓扑结依次涌现：从最简单的原砖，到更复杂的复合结构，再到由复合结构进一步编织而成的大尺度结构。每一步都是在当前环路密度下“允许存在”的最稳定编织结构。
+
+当前宇宙处于“环路密度足够低但尚未低到膜解体”的中间状态。
+
+4.3 终局
+
+膜始终是网络的一部分。膜外区域的环流压力不随膜膨胀而衰减。当膜上环路密度降至临界值以下时，膜的抗压强度将低于外部环流压力，膜进入不可逆的结构失稳。
+
+最终结局：全局拓扑重联解体——膜破碎为离散环路，回归网络基态。
+
+宇宙作为连贯拓扑实体终结。
+
+诚实说明： 这个临界密度的具体数值，以及失稳的动力学路径和终局的时间尺度，均无法从模型中导出。模型只能定性地预言“存在一个不可逆的临界点”。
+
+第五章：观测意义上的方向性提示
+
+由于模型尚未完成定量映射，这里只给出观测意义上可能值得关注的方向：
+
+引力行为与环境的关系： 如果引力强度与局域拓扑荷密度有关（从3.2.1节等效原理的受限适用性推出），那么高密度区域的有效引力强度可能与太阳系不同。这可以在星系中心与太阳系的动力学比较中寻找线索。
+
+宇宙膨胀的局域差异： 如果膜的膨胀行为受到局域拓扑结构的影响，那么局域测量的哈勃常数与全局推算的哈勃常数可能存在系统性差异。差异的大小应与局域环路密度涨落正相关。
+
+黑洞阴影的内缘结构： 如果致密天体中心没有奇点——因为网络的连接饱和刚性在有限密度下即禁止进一步压缩（拓扑荷密度存在上确界）——而是存在一个极紧密的物理表面，那么EHT级别的成像可能在阴影内缘显示出与纯广义相对论预言不同的精细结构。
+
+引力波信号的次级成分： 如果并合产物存在物理表面（而非事件视界），引力波信号可能在主波形之后出现延迟的次级回响，对应于冲击波在表面的反射。
+
+磁单极子不存在： 任何声称探测到磁单极子的实验结果，若被确认，将直接证伪本模型（从3.3.1节推出）。
+
+等效原理的次级修正： 在强引力场梯度区域，不同内部结构的物体可能表现出微小的加速度差异（从3.2.1节推出）。这可以在未来的高精度等效原理检验实验中寻找信号。
+
+这些只是方向性的提示，不是精确的数值预言。它们的存在意义是：当模型的定量映射完成之后，这些方向可以转化为可检验的数值边界。
+
+第六章：模型的当前状态与边界
+
+6.1 已建立的部分
+
+基础概念体系： 离散网络、环路、拓扑荷、膜、拓扑结、拓扑缺陷、共享链接——这些概念的相互关系在公设体系内是自洽的。每个概念都有明确的定义，且定义仅依赖于公设或已从公设导出的概念。
+
+拓扑缺陷的必然性： 从网络的离散性和闭合曲面的有限性这两个第一性原理前提，证明了拓扑缺陷是有限拓扑结的数学必然。这为后续相互作用的讨论奠定了无需额外假设的基础。
+
+物质的拓扑定义： 物质作为稳定拓扑结的定义，提供了一个不依赖“基本粒子”预设的替代路径。稳定性条件给出了判断物质存在与否的明确标准。
+
+相互作用的统一视角： 四种基本相互作用被归约为共享链接的五个几何参数，提供了一个统一描述的框架。引力、电磁力、强核力、弱力不再是四种独立的力，而是同一种底层结构在不同几何条件下的不同表现。
+
+磁单极子被禁止的拓扑必然性： 从共享链接的定义和磁力线的流线性质，严格证明了磁单极子在拓扑上不可能存在。
+
+等效原理的受限适用性： 从引力的共享链接机制出发，证明了等效原理是局域均匀极限下的统计近似，而非严格的物理定律——并给出了近似条件成立的判据。
+
+时空的涌现解释： 空间作为距离关系总和、时间作为重联累积计数，给出了时空从更基础结构中涌现的机制。距离和时间的定义均满足基本属性要求。
+
+时间箭头的统计必然性： 从网络的有限性和状态空间的超指数规模，论证了不可逆性是统计必然的——虽非逻辑绝对，但物理上不可避免。
+
+维度的约束方向： 论证了三维空间可以从膜作为二维曲面加上编织厚度的涌现效应中得到理解，更高维数在当前环路密度下概率极低。
+
+宇宙演化的阶段框架： 起源（膜涌现）、演化（冷却与结构涌现）、终局（膜解体）——三个阶段的时间序列在公设体系内是自洽的。
+
+6.2 未完成的部分
+
+临界密度值： 膜涌现所需的环路密度阈值，以及膜解体所需的密度下限，当前只能定性描述，无法解析计算。这两个阈值决定了宇宙的起点和终点。
+
+拓扑荷到质量的定量映射： 我们定义了质量与拆解所需重联数的正相关关系，但没有给出从拓扑荷配置到具体质量值的计算函数。这是连接模型与可测量物理量的关键缺失。
+
+相互作用函数的推导： 从共享链接的五个几何参数到已知的作用力定律（平方反比律、汤川势、费米耦合常数）的定量推导尚未完成。这是模型当前最核心的未完成工作，也是决定模型可否被检验的关键。
+
+时间箭头的严格证明： 时间箭头的统计必然性已在2.2.1节中得到论证，但其严格的逻辑证明——即证明膜上不存在任何能够读取并还原完整重联历史的拓扑操作——尚未完成。
+
+宇宙终局的具体条件： 膜解体临界点的精确参数与时间尺度未知。模型只能定性预言存在这样一个临界点。
+
+三维维度的精确推导： 维度涌现的约束条件已在2.1.1节中给出，但严格证明“为什么恰好是三维”需要从距离矩阵的嵌入性质出发的完整推导，目前尚未完成。
+
+与标准模型的完整对照： 粒子物理标准模型中的所有粒子和相互作用，在当前框架中尚未被逐一映射。这是模型能否成为有效物理理论的重要判据。
+
+拓扑结稳定性的精确条件： 稳定性阈值的解析表达式尚未导出。
+
+重联不可逆性的逻辑证明： 当前对其不可逆性的论证依赖于统计必然性，而非严格逻辑证明。
+
+6.3 关于模型地位的声明
+
+TDMU v2.41在目前阶段，是一个基于第一性原理的概念框架，而非成熟物理理论。它的核心价值在于：
+
+提供了一个从离散拓扑第一性原理出发、覆盖宇宙学主要领域（本体论、时空涌现、物质定义、相互作用统一、宇宙演化）的逻辑自洽的叙事。
+拥有清晰的基础假设（网络、重联、方向规则），明确的概念推导链条（从环路到拓扑荷、从膜到拓扑结、从共享链接到相互作用），以及坦诚标示的未完成部分。
+与v2.31不同，本版本不包含任何超出第一性原理逻辑推演范围的推测性内容。它不是一个可以作出精确数值预言的工具，也不是一个可以替代广义相对论和量子场论的计算框架。它是一个指向可能方向的路标，而非已经铺设完成的道路。
+v2.41为v2.31中的拓展应用提供了严格的基础——v2.31中的核转变通道、天体演化谱系等内容，其概念基础（拓扑结、缺陷互补、共享链接、稳定性条件）均已在v2.41中从第一性原理建立。
+终章：模型的意义
+
+TDMU v2.41试图回答一个根本问题：如果我们将离散拓扑结构作为宇宙的起点——不预设空间、时间、物质、力——那么我们所观察到的这一切，能否被自然地重新表述为这个起点的逻辑延伸？
+
+对这个问题的回答，当前版本给出的答案是：部分可以。
+
+空间被解释为连接关系的总体——这是距离定义的直接推论。
+时间被解释为重联的累积——这是事件顺序的自然定义。
+物质被解释为稳定的拓扑结——这是网络动力学必然产生的持久结构。
+相互作用被统一解释为共享链接的几何效应——四种力不再需要分别假设。
+拓扑缺陷被证明是离散有限网络上闭合编织的数学必然——不需要额外假设。
+磁单极子被禁止被证明是共享链接定义的拓扑必然——不需要额外假设。
+等效原理被证明是局域均匀极限下的统计近似——不需要额外假设。
+时间箭头被论证为网络有限性与状态空间规模的统计后果——不需要额外假设。
+这些解释是否最终正确，取决于它们能否在未来被转化为精确的数值预言，并与观测数据对照。
+
+如果这样的转化能够完成，并且预言被证实，那么TDMU将成为一种有效的物理理论。如果转化无法完成，或者预言被证伪，那么它将被修正或放弃。
+
+这就是TDMU v2.41的第一性原理表述。它不依赖任何预先设定的物理量，不借助任何无法回译到节点与边的概念，不回避任何未解决的问题。
