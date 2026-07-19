@@ -1,0 +1,167 @@
+The Collective Exodus of Endosymbionts: A Thought Experiment
+
+I
+
+Mitochondria and chloroplasts were once free-living bacteria. Approximately two billion years ago, they were engulfed by another cell but escaped digestion. They remained, and have since become inseparable parts of plant cells—mitochondria oxidizing sugars for energy, chloroplasts converting sunlight into sugars. This relationship, known as endosymbiosis, is the foundational compact upon which all complex life on Earth depends.
+
+Now consider a thought experiment: what if, in a single branch of a plant, they collectively departed? What might we witness?
+
+It is worth noting that such a “departure” differs fundamentally from the gradual trait adjustments often observed in plant evolution. The latter represents a slow negotiation between the plant and a changing environment; the former entails the simultaneous cancellation, within a localized tissue, of the two core metabolic functions that sustain the organism itself.
+
+II
+
+For this thought experiment to be logically tenable, it can be broken down into three technological components. These are not fabrications; most have already been validated at the laboratory level.
+
+Selective inactivation of mitochondria. Iodoacetamide (IOA) and rhodamine 6G (R-6G) can irreversibly inhibit mitochondrial oxidative phosphorylation. Aviv et al. (1986) showed that rhodamine 6G, as a lipophilic dye that degrades mitochondria, prevents protoplast division in Nicotiana. In protoplasts of non-heading Chinese cabbage (Brassica campestris ssp. chinensis), treatment with 0.5 mmol/L IOA at 25°C for 20 minutes reduced the plating efficiency from 15.0% to 6.6%. Through electrofusion with X‑ray‑treated protoplasts, cybrid plants with novel mitochondrial DNA compositions have been obtained. In chicory (Cichorium intybus), 1.625 mmol/L IOA was confirmed as the minimum concentration that almost completely suppresses sustained cell division.
+
+Genetic blockade of chloroplast development. The CRISPR/Cas9 system has been used to precisely knock out key chloroplast development genes in various plants. In rice (Oryza sativa), OsSecY1 knockout results in abnormal chloroplast development and yellowing leaves, followed by seedling death at the late two‑leaf stage; in Arabidopsis thaliana, CDA1 RNAi lines exhibit chloroplasts lacking thylakoid membrane structures and showing severe vacuolation. Chloroplast development can thus be precisely blocked.
+
+Feasibility of heterotrophic sustenance. Grafting techniques have been used for millennia. Sugars serve as important signaling molecules in plants, providing carbon sources and energy for growth. The delivery of sugars from healthy tissues to inactivated tissues to maintain their survival has precedent in plant somatic hybridization.
+
+Although these components currently operate under different conditions—some limited to in vitro cells, others at the cost of whole‑plant viability—each demonstrates the same point: the targeted ablation of endosymbiont functions is technically achievable.
+
+Integrating these technologies into a complete protocol for simultaneously disabling endosymbiont functions in specific tissues of an intact plant currently faces engineering gaps.
+
+It must be stated that all technical fragments cited herein are basic scientific studies documented in the open literature, each pursued for independent agricultural, biomedical, or evolutionary‑biological objectives. They do not necessarily lead to the scenario described here. This article merely poses the following thought experiment: if the above three technological components could be integrated and directed toward a specific goal, where might their logical extension point? This question does not presume an answer; it is left for the reader’s reflection.
+
+III
+
+Now, back to the thought experiment itself.
+
+A single branch. Its mitochondrial function is lost—it can no longer oxidize sugars for energy; its chloroplast development is blocked—it can no longer photosynthesize. It is grafted onto a healthy host plant, whose phloem continuously delivers sugars to it—sustaining its most basic cellular survival.
+
+After several weeks, this branch ceases to produce new leaves; its photosynthetic and respiratory functions are essentially nil. Deprived of an independent energy base, cell division and expansion stall, and it subsists solely on the host‑supplied sugars to maintain basal osmotic pressure and cellular integrity. It merely swells slowly—its vacuoles accumulate sugars transported from the host, osmotic pressure drives continuous water influx, and the tissue becomes soft, turgid, and translucent.
+
+It has become a purely heterotrophic tissue mass. Its entire reason for existence is to receive, store, and release sugars supplied by the host.
+
+From this thought experiment, at least five questions merit pursuit:
+
+First, does this branch still count as part of a “plant”? It has lost independent metabolism and energy sourcing. Its relationship with the host is no longer endosymbiotic—that was mutual dependency—but a one‑sided, total subjugation. When the endosymbionts have “departed” from this branch, what exactly are we facing?
+
+Second, if this scenario were scaled up to an agricultural level, what would happen? It bypasses pollination and seasons, seemingly improving efficiency, yet it may push agricultural systems toward extreme monoculture. Decades later, the fields might retain only “mother‑plant factories” capable of producing eligible tissue masses. The fragility of such monocultures has been repeatedly demonstrated in the histories of potato late blight and banana Fusarium wilt.
+
+Third, who would control the mode of production? Dependent tissues cannot perpetuate themselves; every batch of output relies on continuous support from the host. The party that controls the maternal stock lines would gain decisive leverage over downstream producers. Agricultural producers would shift from “growers” to “maintainers,” downgraded from “seed‑saving autonomy” to “terminal operators.” This is not the outcome of free trade, but a power transfer embedded in the technological architecture itself.
+
+Fourth, how would our understanding of “food” change? For millennia, humans have consumed fruits, seeds, and roots—natural products of the plant life cycle. But this tissue mass never undergoes any stage of a complete life cycle. It is not a fruit, not a seed, not a root. It is a purely artificial intervention product. When we regard it as “food,” are we redefining the relationship between food and life?
+
+Fifth, does this state still qualify as a complete form of “life”? The plant’s inherent right to independently absorb light energy and autonomously complete energy metabolism is permanently severed. Has this state already degenerated into a “metabolic appendage” that parasitizes another intact organism and lacks independent existential status?
+
+IV
+
+To the above five questions, this article does not attempt to provide answers.
+
+The value of a thought experiment lies not in offering conclusions, but in ensuring that a question is seen by enough people before the technology truly matures. By the time technologies are deployed, industrial chains are established, and commercial interests are solidified, it is already too late to ask, “Do we really want this?”
+
+This article has only one objective: to raise early those questions that no one will be willing to ask at that later stage.
+
+As for how these questions should be answered—that is not something a single article can accomplish, but a matter that calls for collective societal deliberation. All this article does is ensure that the issue has a chance to be considered.
+
+The photosynthesis of plants is the oldest declaration of independence on Earth—every leaf turned toward the sun proclaims an existence that needs no external aid. When we imagine the collective exodus of endosymbionts, what we are truly imagining may not be merely the departure of two organelles, but a boundary test of the integrity of life itself.
+
+References
+
+[1] Aviv D, et al. Does pretreatment by rhodamine 6‑G affect the mitochondrial composition of fusion‑derived Nicotiana cybrids? Plant Cell Reports, 1986, 5(3): 227‑230.
+
+[2] Effects of iodoacetamide and rhodamine on mitochondrial inactivation in cotyledon protoplasts of non‑heading Chinese cabbage. China Vegetables, 2002(4). (in Chinese)
+
+[3] Deryckere D, Eeckhaut T, Van Huylenbroeck J, et al. Fragmentation and asymmetric fusion of Cichorium protoplasts. 8th International Symposium on In Vitro Culture and Horticultural Breeding, 2013.
+
+[4] Melchers G, et al. One‑step generation of cytoplasmic male sterility by fusion of mitochondrial‑inactivated tomato protoplasts with nuclear‑inactivated Solanum protoplasts. Proceedings of the National Academy of Sciences, 1992, 89: 6832‑6836.
+
+[5] Application of a rice chloroplast development gene OsSecY1. Chinese Patent CN121362785A, 2026. (in Chinese)
+
+[6] Application of gene CDA1 in regulating chloroplast development. Chinese Patent. (in Chinese)
+
+[7] CRISPR/Cas9‑mediated knockout of rice OsMORF9 causes albino lethal phenotype.
+
+[8] Sun Y H. Production and molecular marker identification of interspecific cybrids and symmetric somatic hybrids in tobacco. Doctoral dissertation, 2004. (in Chinese)
+
+[9] Fu C H, Yu L J. Cell fusion and improvement of cytoplasmic male sterility traits in plants. Chinese Bulletin of Botany, 2005, 22(Suppl): 99‑107. (in Chinese)
+
+[10] Sugar metabolism and inter‑organ allocation in cucumber/pumpkin grafted seedlings and their effects on growth and development. Master’s thesis, Chinese Academy of Agricultural Sciences. (in Chinese)
+
+[11] Substances exchanged between rootstock and scion and their effects on graft union healing. Chinese Journal of Cell Biology, 2024, 46(2): 327‑335. (in Chinese)
+
+（中文版）内共生体的集体出走：一项思想实验
+
+一
+
+线粒体与叶绿体，曾是自由生活的细菌。约二十亿年前，它们被另一种细胞吞入腹中，却没有被消化。它们留了下来，从此成为植物细胞中不可分割的部分——线粒体负责将糖分氧化为能量，叶绿体负责将阳光转化为糖分。这种关系被称为内共生，是地球上一切复杂生命得以存在的底层契约。
+
+现在，设想一个思想实验：假如植株的某根枝条上的它们集体出走，会看到什么样的图景？
+
+值得留意的是，这种“出走”不同于植物在演化中常见的性状调整。后者是植物与变化中的环境之间缓慢的博弈，而前者意味着在植株的局部，其维持自身存续的两大基础代谢功能被同时取消。
+
+二
+
+要让这个思想实验在逻辑上成立，可以拆解为三项技术片段。它们并非虚构，大部分已在实验室层面获得验证。
+
+线粒体的选择性失活。 碘乙酰胺（IOA）与罗丹明6G（R-6G）能够不可逆地抑制线粒体的氧化磷酸化功能。Aviv等（1986）研究表明，罗丹明6G作为一种降解线粒体的亲脂性染料，能够阻止烟草（Nicotiana）原生质体的分裂。在不结球白菜（Brassica campestris ssp. chinensis）的原生质体中，0.5 mmol/L的IOA在25℃下处理20分钟，植板率从15.0%降至6.6%。通过电融合与X射线处理的另一份原生质体融合，已能获得具有新型线粒体DNA组成的胞质杂种植株。在菊苣（Cichorium intybus）中，1.625 mmol/L的IOA被证实为几乎完全抑制持续细胞分裂的最低浓度。
+
+叶绿体发育的基因阻断。 CRISPR/Cas9系统已能在多种植物中精准敲除叶绿体发育关键基因。水稻（Oryza sativa）OsSecY1基因敲除后叶绿体发育异常、叶片黄化，二叶期后期开始凋亡；拟南芥（Arabidopsis thaliana）CDA1基因干涉株系的叶绿体无类囊体膜结构、空泡化严重。叶绿体的发育可以被精准阻断。
+
+异养供养的可行性。 嫁接技术已有数千年历史。糖是植物体内重要的信号物质，为植物生长提供碳源与能量。通过健康组织向失活组织输送糖分以维持其存活，在植物体细胞杂交中已有先例。
+
+尽管这些片段目前的实现条件各不相同——有的局限于离体细胞，有的以整体植株的存活为代价——但它们各自证明了同一点：内共生体功能的定向剥离，在技术上是可以实现的。
+
+将这些技术整合为“在完整植株的特定组织中同步使内共生体功能丧失”的完整方案，目前仍存在工程层面的缺口。
+
+需要声明的是：本文引用的所有技术片段，均为公开文献中记载的基础科学研究，各有其独立的农业、生物医学或演化生物学目标。它们并不必然导向本文所述的图景。本文仅作如下思想实验：如果上述三项技术片段能够被整合，并服务于特定目标，其逻辑延伸将指向何处？此问题不预设答案，仅供读者思考。
+
+三
+
+那么，回到思想实验本身。
+
+一根枝条。它的线粒体功能丧失，不再能氧化糖分获取能量；它的叶绿体发育被阻断，不再能进行光合作用。它被嫁接在一株健康的母体上，母体的韧皮部持续向其输送糖分——维持它最基本的细胞存活。
+
+数周之后，这根枝条不再抽生新叶，光合与呼吸功能基本归零。因缺乏独立的能量基础，其细胞分裂与扩张趋向停滞，仅靠母体输送的糖分维持基础水平的渗透压与细胞完整性。它只是缓慢地膨大——细胞液泡中不断积累从母体输送来的糖分，渗透压驱动水分持续进入，使组织变得柔软、饱满、半透明。
+
+它变成了一个纯粹的异养组织块。它的全部存在意义，就是接收、储存和释放从母体输送来的糖分。
+
+从这个思想实验出发，至少五个问题值得被追问：
+
+第一，这根枝条，还算不算“植物”的一部分？它失去了独立代谢与能量来源。它与母体之间，不再是内共生——那是相互依存；而是一种单向的、彻底的依附。当内共生体从这根枝条中“出走”之后，我们所面对的，究竟是什么？
+
+第二，如果这种图景被放大到农业尺度，会发生什么？它跳过授粉与季节，看似提高效率，实则可能将农业系统推向极端的单一化。几十年后，田间留下的将只是能长出合格组织块的“母体工厂”。这种单一化结构的脆弱性，已在马铃薯晚疫病、香蕉枯萎病的历史中反复验证。
+
+第三，谁将掌握这种生产模式的控制权？依附型组织无法自我延续，每一批产出都依赖母体的持续供养。掌握母本株系的一方，将获得对下游生产者的决定性控制。农业生产者从“种植者”变为“维护者”，从“留种自主”降格为“终端操作员”。这不是自由贸易的结果，而是技术架构本身所蕴含的权力转移。
+
+第四，我们对“食物”的理解将因此发生何种变化？千百年来，人类食用的果实、种子、根茎，都是植物生命历程中的自然产物。而这种组织块，从未经历完整生命周期的任何阶段。它不是果实，不是种子，不是根茎。它是一个纯粹的人工干预产物。当我们将其视为“食物”时，我们是否在重新定义食物与生命之间的关系？
+
+第五，这种状态，是否仍属于“生命”的完整形态？植物独立吸收光能、自主完成能量代谢的权利被永久切断。这种状态，是否已经演变为一种寄生于另一完整生命体之上的、缺乏独立存在资格的“代谢附属物”？
+
+四
+
+以上五个问题，本文不试图给出答案。
+
+思想实验的价值，不在于提供结论，而在于让一个问题在技术真正成熟之前，有机会被足够多的人看见。等到技术已经铺开、产业链已经形成、商业利益已经固化的时候，再问“我们是否真的想要这个”——那时已经太晚。
+
+本文的目标只有一个：提前提出那些届时将不再有人愿意提出的问题。
+
+至于这些问题应当如何回答——那不是一篇文章能完成的事，而是一个社会需要集体思考的议题。本文所做的，仅仅是确保这个议题有被思考的机会。
+
+植物的光合作用是地球上最古老的自立宣言——每一片朝向阳光的叶子，都在声明无需任何外援的独立存在。当我们想象内共生体集体出走的图景时，我们真正在想象的，也许不只是两个细胞器的离场，而是生命完整性的一次边界测试。
+
+参考文献
+
+[1] Aviv D, et al. Does pretreatment by rhodamine 6-G affect the mitochondrial composition of fusion-derived Nicotiana cybrids? Plant Cell Reports, 1986, 5(3): 227-230.
+
+[2] 碘乙酰胺和罗丹明对不结球白菜子叶原生质体线粒体失活效果的影响. 中国蔬菜, 2002(4).
+
+[3] Deryckere D, Eeckhaut T, Van Huylenbroeck J, et al. Fragmentation and asymmetric fusion of Cichorium protoplasts. 8th International Symposium on In Vitro Culture and Horticultural Breeding, 2013.
+
+[4] Melchers G, et al. One-step generation of cytoplasmic male sterility by fusion of mitochondrial-inactivated tomato protoplasts with nuclear-inactivated Solanum protoplasts. Proceedings of the National Academy of Sciences, 1992, 89: 6832-6836.
+
+[5] 一种水稻叶绿体发育基因OsSecY1的应用. 中国专利CN121362785A, 2026.
+
+[6] 基因CDA1在调控叶绿体发育中的应用. 中国专利.
+
+[7] CRISPR/Cas9系统敲除水稻OsMORF9基因导致白化苗致死表型.
+
+[8] 孙玉合. 烟草种间胞质杂种、对称体细胞杂种的获得及其分子标记鉴定. 博士论文, 2004.
+
+[9] 付春华, 余龙江. 细胞融合与植物细胞质雄性不育性状改良. 植物学通报, 2005, 22(增刊): 99-107.
+
+[10] 黄瓜/南瓜嫁接苗中糖代谢和器官间分配及其对生长发育的影响. 中国农业科学院硕士论文.
+
+[11] 砧/穗间交流的物质及其嫁接愈合效应. 中国细胞生物学学报, 2024, 46(2): 327-335.
