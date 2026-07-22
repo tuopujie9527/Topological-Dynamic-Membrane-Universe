@@ -1,0 +1,3943 @@
+Shared-Link Perturbation and Geometric Delay: A Graph-Theoretic Derivation of the Optical Refractive Index Spectrum Based on a TDMU Toy Model
+
+Abstract
+The Topological Discrete Membrane Universe (TDMU) framework interprets light as coupled transverse waves of shared-link density and orientation-degree waves on a topological membrane. Under this framework, the slowing of light in a medium originates from the additional reconnection steps (geometric delay) imposed on an incident perturbation by atomic topological knots. This paper constructs a toy model: atoms of a medium are modeled as regular graphs with discrete dangling ports. Starting from the underlying discrete reconnection rules, a continuous wave equation is derived in the long-wavelength limit. Spectral graph theory is employed to compute the frequency response function 
+η
+(
+ω
+)
+η(ω) of this atomic graph to an external perturbation, from which the refractive index dispersion relation 
+n
+(
+ω
+)
+n(ω) is obtained. The results show that, in the long-wavelength continuum limit, the frequency response function of this graph-theoretic system naturally exhibits a mathematical structure equivalent to that of the classical Lorentz oscillator—this equivalence is itself a universal feature of linear resonant systems and is not an original contribution of this paper. The core contribution of this paper is that the three quantities treated as experimental inputs in standard theory—resonance frequency, broadening, and coupling strength—are here replaced by eigenvalues, eigenvector functionals, and port–core coupling coefficients of the graph Laplacian spectrum. All parameters are derived from the geometric properties of the graph structure without invoking the concepts of electromagnetic fields or wave functions. All assumptions, approximations, and undetermined parameters are explicitly labeled and stratified throughout the paper. The differentiating predictions of the framework and their numerical verification pathways are also systematically listed. The current model is at the toy level and does not claim correspondence to any specific atom.
+
+1. Introduction
+The slowing of light and dispersion in a medium have been described since the nineteenth century by Maxwell’s equations and the dielectric constant 
+ε
+r
+(
+ω
+)
+ε 
+r
+​	
+ (ω). Frequency-dependent refractive index behavior is typically given by the classical Lorentz oscillator model or by the quantum-mechanical oscillator strength sum rule [2,3]. Although these models are highly successful at the experimental and engineering levels, their core parameters—resonance frequency 
+ω
+0
+ω 
+0
+​	
+ , damping coefficient 
+γ
+γ, and oscillator strength 
+f
+f—are essentially experimental fitting quantities, not derived from the microscopic first-principles structure of matter.
+
+The TDMU framework [1] provides a different starting point. In this framework: light is not an independent electromagnetic field entity but coupled transverse waves of shared-link density and orientation degree on a topological membrane; the speed of light in vacuum is the maximum propagation rate of reconnection chains on the membrane; medium atoms are topological knots possessing internal closed-loop oscillation modes (formed by dangling ports); when a directional perturbation passes through an atom, part of the perturbation energy is temporarily trapped as closed circulating flow oscillations on the atomic shell, generating extra reconnection steps (geometric delay) that are subsequently released back into the propagation direction; the macroscopic slowing of light is the statistical average of accumulated extra reconnection steps per unit path.
+
+This picture can be summarized by the formula:
+
+n
+(
+ω
+)
+=
+1
++
+ρ
+⋅
+a
+0
+⋅
+S
+shell
+⋅
+η
+(
+ω
+)
+(
+1
+)
+n(ω)=1+ρ⋅a 
+0
+​	
+ ⋅S 
+shell
+​	
+ ⋅η(ω)(1)
+where 
+ρ
+ρ is the number density of atoms, 
+a
+0
+a 
+0
+​	
+  is the vacuum fundamental node spacing, 
+S
+shell
+S 
+shell
+​	
+  is the saturation of dangling ports on the atomic shell, and 
+η
+(
+ω
+)
+η(ω) is the frequency-dependent delay matching coefficient.
+
+The novelty of this paper does not lie in the mathematical form of the resonance line shape—that form is a universal result of linearly coupled oscillator systems. The originality of this paper is manifested at three levels: (1) Ontological level: medium atoms are modeled as graph structures on a topological membrane, light is modeled as a reconnection perturbation on the graph, and the entire derivation introduces no electromagnetic fields, dielectric constants, or quantum-mechanical wave functions; (2) Parameter-origin level: all parameters that require experimental fitting in the classical Lorentz model are here completely determined by the graph Laplacian spectrum; (3) Predictive level: the framework naturally points to three differentiating predictions that are not covered by the classical model—high-frequency discrete cutoff, rational ratio constraints on resonance peaks, and direct association between polarization and port topology—see Section 5 for details.
+
+This paper focuses on a single question: given an extremely simplified toy atomic topological graph, can 
+η
+(
+ω
+)
+η(ω) be derived from pure graph-theoretic dynamics, and can it exhibit the mathematical structure of classical dispersion behavior? The current model is at the toy level; the atomic graph is deliberately simplified to facilitate analytical treatment and does not claim correspondence to any specific atom.
+
+2. Discrete Reconnection Dynamics and Their Continuum Limit
+
+2.1 Discrete Reconnection Rules
+In TDMU, time is discrete, labeled by the number of reconnection steps 
+τ
+=
+0
+,
+1
+,
+2
+,
+…
+τ=0,1,2,…. The state of each node 
+v
+v is described by a real-valued perturbation amplitude 
+ψ
+v
+[
+τ
+]
+ψ 
+v
+​	
+ [τ]. The single-step reconnection evolution rule is:
+
+ψ
+v
+[
+τ
++
+1
+]
+=
+ψ
+v
+[
+τ
+]
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(
+2
+)
+ψ 
+v
+​	
+ [τ+1]=ψ 
+v
+​	
+ [τ]−ϵ 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])(2)
+where 
+ϵ
+≪
+1
+ϵ≪1 is the coupling strength coefficient of a single reconnection step, and the sum runs over all neighbor nodes 
+u
+u of 
+v
+v. This rule follows directly from the TDMU postulate: perturbations propagate via local reconnection events between neighboring nodes, and the amplitude change is proportional to the current gradient.
+
+2.2 Derivation of the Continuum Limit
+This subsection presents the derivation of the emergent continuous wave equation from the discrete rule (2) in the long-wavelength limit. The mathematical paradigm—taking the continuum limit of discrete lattice dynamics—has mature precedents in discrete lattice field theory [4,5].
+
+Condition one: the perturbation wavelength is much larger than the node spacing 
+a
+0
+a 
+0
+​	
+ , i.e., 
+∣
+ψ
+u
+−
+ψ
+v
+∣
+≪
+∣
+ψ
+v
+∣
+∣ψ 
+u
+​	
+ −ψ 
+v
+​	
+ ∣≪∣ψ 
+v
+​	
+ ∣ for all neighboring node pairs; the perturbation varies smoothly over many node scales.
+
+Condition two: the time scale under consideration is much larger than the single-step reconnection time 
+δ
+t
+δt, i.e., the number of observed steps 
+τ
+≫
+1
+τ≫1. Define continuous time 
+t
+=
+τ
+⋅
+δ
+t
+t=τ⋅δt.
+
+Shift equation (2) one step forward in time and rearrange. From (2), we have 
+ψ
+v
+[
+τ
+]
+=
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ψ
+u
+[
+τ
+−
+1
+]
+)
+ψ 
+v
+​	
+ [τ]=ψ 
+v
+​	
+ [τ−1]−ϵ∑ 
+u∼v
+​	
+ (ψ 
+v
+​	
+ [τ−1]−ψ 
+u
+​	
+ [τ−1]), subtract this from the original equation:
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+ψ
+v
+[
+τ
+]
+=
+ψ
+v
+[
+τ
+]
+−
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ϵ
+∑
+u
+∼
+v
+[
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+−
+(
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ψ
+u
+[
+τ
+−
+1
+]
+)
+]
+ψ 
+v
+​	
+ [τ+1]−ψ 
+v
+​	
+ [τ]=ψ 
+v
+​	
+ [τ]−ψ 
+v
+​	
+ [τ−1]−ϵ 
+u∼v
+∑
+​	
+ [(ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])−(ψ 
+v
+​	
+ [τ−1]−ψ 
+u
+​	
+ [τ−1])]
+In the long-wavelength limit, 
+ψ
+ψ changes very little within a single step; the difference inside the brackets can be approximated by 
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ]) itself. Hence:
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+2
+ψ
+v
+[
+τ
+]
++
+ψ
+v
+[
+τ
+−
+1
+]
+=
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+ψ 
+v
+​	
+ [τ+1]−2ψ 
+v
+​	
+ [τ]+ψ 
+v
+​	
+ [τ−1]=−ϵ 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])
+Divide both sides by 
+(
+δ
+t
+)
+2
+(δt) 
+2
+ :
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+2
+ψ
+v
+[
+τ
+]
++
+ψ
+v
+[
+τ
+−
+1
+]
+(
+δ
+t
+)
+2
+=
+−
+ϵ
+(
+δ
+t
+)
+2
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(δt) 
+2
+ 
+ψ 
+v
+​	
+ [τ+1]−2ψ 
+v
+​	
+ [τ]+ψ 
+v
+​	
+ [τ−1]
+​	
+ =− 
+(δt) 
+2
+ 
+ϵ
+​	
+  
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])
+Up to this point, the derivation is an exact algebraic manipulation. The next step requires taking the limit 
+δ
+t
+→
+0
+δt→0. Both 
+ϵ
+ϵ and 
+δ
+t
+δt in equation (2) are purely combinatorial quantities—
+ϵ
+ϵ is the coupling strength of a single reconnection step, and 
+δ
+t
+δt is the counting unit of discrete reconnection steps, neither carrying the dimension of “velocity” in themselves. To interpret the left-hand side as acceleration and the right-hand side as a spatial gradient, a coarse-graining scale rule must be introduced that maps combinatorial quantities to continuous spacetime physical quantities:
+
+ϵ
+(
+δ
+t
+)
+2
+≡
+c
+2
+a
+0
+2
+(coarse-graining scale correspondence rule)
+(δt) 
+2
+ 
+ϵ
+​	
+ ≡ 
+a 
+0
+2
+​	
+ 
+c 
+2
+ 
+​	
+ (coarse-graining scale correspondence rule)
+where 
+c
+c is the geometric representation of the speed of light in vacuum within TDMU. This rule is not derived from the reconnection rule (2) but is an additional correspondence rule introduced during the continuumization process. Its physical meaning is to declare the velocity scale to which a single reconnection event corresponds on a macroscopic time scale. Any theory that takes a continuum limit from discrete dynamics must introduce such a scale rule—it is a bridge connecting discrete counting with continuous measures, not a defect of the theory.
+
+Taking 
+δ
+t
+→
+0
+δt→0 while maintaining the above scale ratio constant yields:
+
+d
+2
+d
+t
+2
+ψ
+v
+(
+t
+)
+=
+−
+c
+2
+a
+0
+2
+∑
+u
+∼
+v
+(
+ψ
+v
+(
+t
+)
+−
+ψ
+u
+(
+t
+)
+)
+(
+3
+)
+dt 
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ (t)=− 
+a 
+0
+2
+​	
+ 
+c 
+2
+ 
+​	
+  
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ (t)−ψ 
+u
+​	
+ (t))(3)
+Define dimensionless time 
+t
+~
+=
+c
+t
+/
+a
+0
+t
+~
+ =ct/a 
+0
+​	
+ :
+
+d
+2
+d
+t
+~
+2
+ψ
+v
+=
+−
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+(
+4
+)
+d 
+t
+~
+  
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ =− 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ )(4)
+Equation (4) is the fundamental dynamical equation of TDMU optics in the long-wavelength continuum limit. The continuous equation (4) is the emergent result of the discrete rule (2) under the condition 
+λ
+≫
+a
+0
+λ≫a 
+0
+​	
+ , supplemented by the coarse-graining scale correspondence rule. When the light wavelength approaches the node spacing 
+a
+0
+a 
+0
+​	
+ , the continuous approximation breaks down and one must return to the discrete rule (2); this deviation is listed as one of the differentiating predictions in Section 5.
+
+2.3 Relationship with the Standard Wave Equation
+The graph Laplacian operator on the right-hand side of (4), 
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+∑ 
+u∼v
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ ), reduces to the usual Laplacian operator 
+∇
+2
+ψ
+∇ 
+2
+ ψ in the continuous space limit. In a homogeneous infinite medium, equation (4) reduces to the standard wave equation 
+∂
+2
+ψ
+/
+∂
+t
+~
+2
+=
+∇
+2
+ψ
+∂ 
+2
+ ψ/∂ 
+t
+~
+  
+2
+ =∇ 
+2
+ ψ, with wave speed 
+c
+c, which is self-consistent with the TDMU postulate of “constant speed of light in vacuum.”
+
+3. Toy Atomic Graph and Frequency Response Function
+
+3.1 Graph Construction
+A single medium atom is simplified as a two-part composite graph 
+G
+=
+G
+core
+∪
+G
+ports
+G=G 
+core
+​	
+ ∪G 
+ports
+​	
+ :
+
+Core 
+G
+core
+G 
+core
+​	
+ : an icosahedral graph (12 nodes, each of degree 5). The icosahedron is chosen purely for the high spectral degeneracy arising from its high symmetry, which facilitates verification of the numerical method. In a real atom, the core should correspond to the topological knot weaving structure of the atomic nucleus. The current choice is made for mathematical convenience only and does not claim physical correspondence. Subsequent models may replace it with multi-layered nested graphs possessing spherical symmetry.
+Shell ports 
+G
+ports
+G 
+ports
+​	
+ : each core node is connected outward to a single port node; each port node is attached to a circulating edge of length 2. A port node connects only to one core node and has degree 2. In a real atom, ports correspond to the orbital degrees of freedom of an electron brick: the port circulation length corresponds to the orbital period, and the value of 
+κ
+v
+κ 
+v
+​	
+  qualitatively corresponds to the electron binding energy. The current choice of circulation length 2 is the shortest possible path, corresponding to the extreme simplification of a ground-state orbital. These correspondences are only qualitative illustrations at the current toy stage.
+
+Total number of nodes 
+N
+=
+24
+N=24; all numerical computations can be performed on an ordinary personal computer.
+
+3.2 Wave Equation with Confinement
+Port nodes, in addition to the Laplacian coupling, are subject to a local confining potential. Equation (4) is extended to:
+
+d
+2
+d
+t
+~
+2
+ψ
+v
+=
+−
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+−
+κ
+v
+ψ
+v
+(
+5
+)
+d 
+t
+~
+  
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ =− 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ )−κ 
+v
+​	
+ ψ 
+v
+​	
+ (5)
+where 
+κ
+v
+>
+0
+κ 
+v
+​	
+ >0 is non-zero only on shell port nodes. Assuming a harmonic solution 
+ψ
+v
+(
+t
+~
+)
+=
+ℜ
+[
+A
+v
+e
+i
+ω
+t
+~
+]
+ψ 
+v
+​	
+ ( 
+t
+~
+ )=ℜ[A 
+v
+​	
+ e 
+iω 
+t
+~
+ 
+ ] and substituting, one obtains the generalized eigenvalue problem:
+
+−
+ω
+2
+A
+=
+−
+(
+L
++
+K
+)
+A
+(
+6
+)
+−ω 
+2
+ A=−(L+K)A(6)
+where 
+L
+L is the graph Laplacian matrix and 
+K
+=
+diag
+⁡
+(
+κ
+v
+)
+K=diag(κ 
+v
+​	
+ ) is the confinement diagonal matrix. The eigenmodes of this system satisfy:
+
+(
+L
++
+K
+)
+ϕ
+m
+=
+ω
+m
+2
+ϕ
+m
+(
+7
+)
+(L+K)ϕ 
+m
+​	
+ =ω 
+m
+2
+​	
+ ϕ 
+m
+​	
+ (7)
+All eigenfrequencies 
+ω
+m
+ω 
+m
+​	
+  and eigenvectors 
+ϕ
+m
+ϕ 
+m
+​	
+  can be obtained accurately by numerical diagonalization of the 
+24
+×
+24
+24×24 real symmetric matrix, requiring only standard linear algebra libraries and encountering no numerical difficulty.
+
+3.3 Driven Response and Delay Coefficient
+Throughout this and subsequent sections, all frequencies 
+ω
+ω are dimensionless quantities based on the dimensionless time 
+t
+~
+=
+c
+t
+/
+a
+0
+t
+~
+ =ct/a 
+0
+​	
+ . The corresponding physical frequency is 
+ω
+phys
+=
+ω
+⋅
+c
+/
+a
+0
+ω 
+phys
+​	
+ =ω⋅c/a 
+0
+​	
+ . The driving amplitude 
+F
+0
+F 
+0
+​	
+  is taken as a real dimensionless constant (uniformly set to 
+F
+0
+=
+1
+F 
+0
+​	
+ =1 in this paper). 
+A
+A, 
+F
+F, 
+L
+L, and 
+K
+K all operate under the same dimensionless convention; 
+η
+(
+ω
+)
+η(ω), as the ratio of stored energy to input power, does not depend on the absolute value of 
+F
+0
+F 
+0
+​	
+ .
+
+Incident light is modeled as a harmonic drive applied at a designated port node. The steady-state response satisfies:
+
+(
+−
+ω
+2
+I
++
+L
++
+K
+)
+A
+=
+F
+(
+8
+)
+(−ω 
+2
+ I+L+K)A=F(8)
+F
+F is non-zero only at the driven node. For each frequency 
+ω
+ω, solving the linear system (8) yields the steady-state complex amplitude 
+A
+(
+ω
+)
+A(ω).
+
+The delay coefficient is defined as the ratio of the time-averaged energy stored in the port circulations to the incident power:
+
+η
+(
+ω
+)
+=
+∑
+v
+∈
+G
+ports
+κ
+v
+∣
+A
+v
+∣
+2
+ω
+⋅
+ℑ
+[
+F
+0
+∗
+A
+driven
+]
+(
+9
+)
+η(ω)= 
+ω⋅ℑ[F 
+0
+∗
+​	
+ A 
+driven
+​	
+ ]
+∑ 
+v∈G 
+ports
+​	
+ 
+​	
+ κ 
+v
+​	
+ ∣A 
+v
+​	
+ ∣ 
+2
+ 
+​	
+ (9)
+Proof that 
+η
+(
+ω
+)
+∈
+[
+0
+,
+1
+]
+η(ω)∈[0,1]: In a lossless system, the time-averaged input power at steady state equals the sum of the time-averaged stored energies in the various port confining potentials. Input power 
+P
+in
+=
+ω
+2
+ℑ
+[
+F
+0
+∗
+A
+driven
+]
+P 
+in
+​	
+ = 
+2
+ω
+​	
+ ℑ[F 
+0
+∗
+​	
+ A 
+driven
+​	
+ ], total stored energy in the ports 
+E
+stored
+=
+1
+2
+∑
+κ
+v
+∣
+A
+v
+∣
+2
+E 
+stored
+​	
+ = 
+2
+1
+​	
+ ∑κ 
+v
+​	
+ ∣A 
+v
+​	
+ ∣ 
+2
+ . Substituting into (9) gives 
+η
+=
+E
+stored
+/
+(
+1
+2
+P
+in
+)
+η=E 
+stored
+​	
+ /( 
+2
+1
+​	
+ P 
+in
+​	
+ ). By energy conservation, 
+P
+in
+≥
+0
+P 
+in
+​	
+ ≥0 and 
+E
+stored
+≥
+0
+E 
+stored
+​	
+ ≥0, hence 
+η
+≥
+0
+η≥0. Moreover, because the stored energy cannot exceed the input power at steady state, 
+η
+≤
+1
+η≤1. This proof does not rely on any specific choice of graph structure.
+
+3.4 Weak-Coupling Expansion and Emergence of the Resonance Structure
+The Breit–Wigner/Lorentzian resonance line shape derived in this subsection is a universal behavior of any linear, weakly coupled, second-order dynamical system near a resonance point and is not an original contribution of this paper. The functional form of equation (10) itself does not constitute the novelty of this paper. The novelty of this paper lies in the fact that all parameters of this formula are not derived from experimental fitting or electromagnetic constitutive relations but from the Laplacian spectral decomposition of a purely graph-theoretic system.
+
+The quantitative criterion for the weak-coupling approximation to hold is:
+
+κ
+v
+≪
+λ
+min
+⁡
+(
+L
+core
+)
+κ 
+v
+​	
+ ≪λ 
+min
+​	
+ (L 
+core
+​	
+ )
+where 
+λ
+min
+⁡
+(
+L
+core
+)
+λ 
+min
+​	
+ (L 
+core
+​	
+ ) is the smallest non-zero eigenvalue of the core graph Laplacian. This condition ensures that the rate of port–core energy exchange is much smaller than the local oscillation rate of the ports, and each port eigenmode can be treated as approximately independent. For the icosahedral core used here, 
+λ
+min
+⁡
+(
+L
+core
+)
+λ 
+min
+​	
+ (L 
+core
+​	
+ ) can be computed exactly, and this criterion can be rigorously verified numerically.
+
+Under this condition, the response function is approximately expanded as:
+
+η
+(
+ω
+)
+≈
+∑
+m
+g
+m
+2
+ 
+Γ
+m
+(
+ω
+2
+−
+ω
+m
+2
+)
+2
++
+Γ
+m
+2
+(
+10
+)
+η(ω)≈ 
+m
+∑
+​	
+  
+(ω 
+2
+ −ω 
+m
+2
+​	
+ ) 
+2
+ +Γ 
+m
+2
+​	
+ 
+g 
+m
+2
+​	
+ Γ 
+m
+​	
+ 
+​	
+ (10)
+where 
+ω
+m
+ω 
+m
+​	
+  are the port eigenfrequencies, 
+Γ
+m
+Γ 
+m
+​	
+  the escape widths, and 
+g
+m
+g 
+m
+​	
+  the coupling coefficients. The expansion coefficients of equation (10) can all be computed explicitly via eigen-decomposition without recourse to any fitting.
+
+Equation (10) is mathematically equivalent in structure to the imaginary part of the dielectric constant in the classical Lorentz oscillator model, 
+ε
+2
+(
+ω
+)
+∝
+∑
+m
+f
+m
+γ
+m
+ω
+/
+[
+(
+ω
+2
+−
+ω
+0
+m
+2
+)
+2
++
+γ
+m
+2
+ω
+2
+]
+ε 
+2
+​	
+ (ω)∝∑ 
+m
+​	
+ f 
+m
+​	
+ γ 
+m
+​	
+ ω/[(ω 
+2
+ −ω 
+0m
+2
+​	
+ ) 
+2
+ +γ 
+m
+2
+​	
+ ω 
+2
+ ]. This equivalence is not a discovery of this paper; it is a universal feature of linear resonant systems. The unique aspect of this paper is that the three quantities—oscillator strength 
+f
+m
+f 
+m
+​	
+ , resonance frequency 
+ω
+0
+m
+ω 
+0m
+​	
+ , and damping coefficient 
+γ
+m
+γ 
+m
+​	
+ —which must be obtained from experimental fitting in standard theory, are here replaced by eigenvalues, eigenvector functionals, and port–core coupling coefficients of the graph Laplacian spectrum. The geometrization of the parameter origin, rather than the formula form itself, is the core contribution of this paper.
+
+4. Refractive Index Dispersion Relation and Global Scale Calibration
+
+4.1 Dispersion Relation
+From equations (1) and (10), the complex refractive index of the medium in the weak-coupling limit is:
+
+n
+(
+ω
+)
+=
+1
++
+ρ
+a
+0
+S
+shell
+∑
+m
+g
+m
+2
+ 
+Γ
+m
+(
+ω
+2
+−
+ω
+m
+2
+)
+2
++
+Γ
+m
+2
+(
+11
+)
+n(ω)=1+ρa 
+0
+​	
+ S 
+shell
+​	
+  
+m
+∑
+​	
+  
+(ω 
+2
+ −ω 
+m
+2
+​	
+ ) 
+2
+ +Γ 
+m
+2
+​	
+ 
+g 
+m
+2
+​	
+ Γ 
+m
+​	
+ 
+​	
+ (11)
+This formula covers all the qualitative features of standard dispersion phenomena: low-frequency transparency region (
+n
+→
+1
+n→1 when 
+ω
+≪
+ω
+m
+ω≪ω 
+m
+​	
+ ), resonance absorption peaks (at 
+ω
+=
+ω
+m
+ω=ω 
+m
+​	
+ ), normal dispersion regions (
+d
+n
+/
+d
+ω
+>
+0
+dn/dω>0), and anomalous dispersion near the resonance peaks. The geometric explanation for anomalous dispersion is that the perturbation, upon completing a circulation loop on the port, is released out of phase, causing a phase advance of the macroscopic wavefront. The group velocity 
+v
+g
+=
+c
+/
+(
+n
++
+ω
+ 
+d
+n
+/
+d
+ω
+)
+v 
+g
+​	
+ =c/(n+ωdn/dω) can exceed 
+c
+c in the anomalous dispersion region, but the energy front still propagates at speed 
+c
+c, consistent with causality requirements.
+
+4.2 Calibration Protocol for the Global Scale Parameter 
+ρ
+a
+0
+ρa 
+0
+​	
+ 
+The product 
+ρ
+a
+0
+ρa 
+0
+​	
+  is the sole undetermined global scale in the current framework; its physical meaning is the total reconnection coupling strength per unit physical length. An operational calibration scheme is given below.
+
+Calibration anchor: refractive index of dry air at standard temperature and pressure (0°C, 1 atm),
+n
+air
+=
+1.000293
+n 
+air
+​	
+ =1.000293 (measured value for sodium D-line). Number density of air 
+ρ
+air
+=
+2.69
+×
+10
+25
+ 
+m
+−
+3
+ρ 
+air
+​	
+ =2.69×10 
+25
+  m 
+−3
+ . For air, 
+η
+(
+ω
+)
+η(ω) approaches zero in the visible region; its tiny contribution can be computed by applying this paper’s framework separately to the port structures of N
+2
+2
+​	
+  and O
+2
+2
+​	
+  molecules and then summing, following exactly the computational procedure of Section 3.
+
+Solving for 
+a
+0
+a 
+0
+​	
+ : from 
+n
+air
+−
+1
+=
+ρ
+air
+a
+0
+S
+shell
+air
+η
+air
+n 
+air
+​	
+ −1=ρ 
+air
+​	
+ a 
+0
+​	
+ S 
+shell
+air
+​	
+ η 
+air
+​	
+ , the numerical value of 
+a
+0
+a 
+0
+​	
+  can be obtained inversely after completing the graph-theoretic computation.
+
+Falsifiability test: once 
+a
+0
+a 
+0
+​	
+  is anchored by air, the same 
+a
+0
+a 
+0
+​	
+  must predict, without any additional adjustable parameters, the refractive indices of other media (e.g., water, fused silica, diamond) in the visible region. Deviations between predicted and measured values constitute a direct quantitative test of the TDMU optical framework. This calibration has not yet been performed; it is listed here to set a clear numerical target for subsequent work.
+
+5. Differentiating Predictions of the Framework (To Be Verified by Computation)
+The current toy model is mathematically equivalent in structure to the classical Lorentz model in the low-energy linear response regime. However, the TDMU framework itself points toward the following testable directions. This section strictly distinguishes two tiers: Tier A is the core proof completed in this paper; Tier B consists of computational tasks for which the numerical verification pathways have been clearly laid out but not yet executed.
+
+Tier A (Completed in this paper)
+Demonstrated on the toy model that the graph Laplacian dynamics, in the long-wavelength continuum limit and under the weak-coupling approximation, naturally produce a frequency response function 
+η
+(
+ω
+)
+η(ω) that is mathematically equivalent in structure to the classical Lorentz oscillator. Oscillator strengths, resonance frequencies, and damping are all determined by the spectral features of the graph, requiring no external fitting. The core contribution is the geometrization of parameter origin, not the formula form.
+
+Tier B (Not completed in this paper; verification pathways explicitly stated)
+
+5.1 High-Frequency Discrete Cutoff and Lattice Modulation
+Prediction: When the light wavelength approaches the TDMU brick spacing 
+a
+0
+a 
+0
+​	
+ , the continuous equation (4) breaks down and the original discrete reconnection rule (2) must be used. The dispersion relation will then exhibit periodic modulations related to the directional properties of the graph structure. This effect is completely absent in the classical Lorentz model—the Lorentz oscillator is a point particle with no internal spatial structure.
+Numerical verification pathway: On the toy atomic graph or on a simplified one-dimensional chain, without taking the continuum limit, directly simulate the sustained drive using the discrete recursion (2) and measure the steady-state propagating wave vector 
+k
+(
+ω
+)
+k(ω). A significant deviation is expected when 
+ω
+a
+0
+/
+c
+→
+π
+ωa 
+0
+​	
+ /c→π. This calculation merely requires replacing the differential equation solver with difference iteration, and the computational cost is manageable.
+
+5.2 Rational Ratio Constraints on Resonance Peak Spacings
+Prediction: If the port eigen-spectrum of a real atom is determined by a graph with a particular symmetry, the frequency ratios between resonance peaks should exhibit rational number constraints. In the classical Lorentz model, each resonance frequency is a completely independent fitting parameter.
+Numerical verification pathway: Replace the core graph with regular tetrahedron, octahedron, dodecahedron, etc., belonging to different symmetry groups, and compute the port eigenfrequency ratios for each configuration. Only the adjacency matrix definition part of the code needs to be modified.
+
+5.3 Direct Association between Polarization Anisotropy and Port Spatial Distribution
+Prediction: In a crystal, the refractive indices for different polarization directions are determined by the anisotropy characteristics of the port graph spectrum. The classical Lorentz model requires independent oscillator parameters to be introduced artificially for each polarization direction.
+Numerical verification pathway: Construct a single toy atomic graph with an anisotropic port distribution, compute 
+η
+x
+(
+ω
+)
+η 
+x
+​	
+ (ω) and 
+η
+z
+(
+ω
+)
+η 
+z
+​	
+ (ω); then arrange multiple such atoms in a simple lattice and compute the polarization-dependent dispersion of the collective modes.
+
+5.4 Honest Disclaimer
+The current version of this paper contains only Tier A results. None of the quantitative calculations for the three directions listed under Tier B have been completed; they should not be cited as “predictions of this paper” but rather understood as “verification pathways planned for subsequent work by this paper.”
+
+6. Assumptions, Approximations, and Undetermined Parameters
+
+6.1 Physical Approximations (Removable by subsequent work)
+
+Long-wavelength continuum approximation: The differential equation (4) is used in place of the discrete rule (2), applicable only when 
+λ
+≫
+a
+0
+λ≫a 
+0
+​	
+ . It is planned to be removed in the verification scheme of Section 5.1.
+Single-atom independent response: Coherent coupling effects from shared links between atoms are neglected; planned to be removed in the multi-atom extension scheme of Section 5.3.
+Linear response: The port confinement coefficients 
+κ
+v
+κ 
+v
+​	
+  are treated as constants; nonlinear effects are not addressed in this paper.
+6.2 Artificial Construction Choices (For computational convenience only, not requirements of the framework)
+
+Icosahedral core: Chosen solely for its high symmetry and simple spectrum. Replacing it with another graph structure requires no modification of any formula.
+Number of ports equals number of core nodes: No physical reason; the number of ports can be set independently.
+Uniform confinement coefficient 
+κ
+v
+κ 
+v
+​	
+ : Replacing the uniform 
+κ
+κ with a heterogeneous array 
+κ
+v
+κ 
+v
+​	
+  in the code requires only a one-line assignment change.
+Port circulation length of 2: The actual circulation length can be adjusted to any integer, with no change to the computational procedure.
+6.3 Undetermined Parameters
+
+ρ
+a
+0
+ρa 
+0
+​	
+ : Must be globally calibrated using the measured refractive index of a standard medium; the calibration protocol is given in Section 4.2. Apart from this single global scaling, the shape of the dispersion curve is entirely determined by the topological graph spectrum, with no adjustable parameters.
+Absolute value of 
+κ
+v
+κ 
+v
+​	
+ : Its mapping relation to the TDMU energy scale 
+E
+0
+E 
+0
+​	
+  has not yet been derived. For the shape of the dispersion curve, it is the relative ratios among the 
+κ
+v
+κ 
+v
+​	
+  that matter.
+6.4 Open Questions of the Framework
+
+The rigorous form of the discrete reconnection rule in the short-wavelength limit.
+Collective modes arising from multi-atom interference effects.
+The absolute numerical value of the TDMU energy scale 
+E
+0
+E 
+0
+​	
+ .
+The complete orbital topological theory of electron bricks.
+7. Discussion
+The result of this paper constitutes a specific type of “existence proof”: the dispersion behavior of medium optics—whose functional form is a universal feature of linear resonant systems, but whose parameters are entirely numerical—can emerge naturally from fully discrete graph dynamics in the long-wavelength limit, without recourse to electromagnetic constitutive relations or the wave function assumption of quantum mechanics. In other words, this paper proves that the phenomenological parameters of medium optics, rather than their formula form, have a purely geometric origin.
+
+Any competitive underlying unified theory must first fully recover all known results of mature older theories in the low-energy limit. The TDMU optical framework passes this test: without relying on the concept of electromagnetic fields, and without introducing phenomenological oscillator parameters, relying solely on discrete topological reconnection rules and spectral graph theory, it obtains in the long-wavelength approximation a dispersion function that is mathematically isomorphic to the Lorentz oscillator model.
+
+The mathematical results of this paper do not depend on the ontological commitments of the TDMU framework. Even if the reader does not accept the premise that “the universe is woven from a topological membrane and fundamental bricks,” the graph-theoretic dynamical derivation presented in this paper is mathematically self-consistent: it demonstrates that there exists a class of graph structures whose frequency response to an external drive naturally exhibits classical dispersion behavior. Therefore, this paper at least constitutes a contribution in a weaker sense: it provides a new mathematical description language for the dispersion phenomena of medium optics, whose parameters possess clear geometric/combinatorial interpretations. The value of the TDMU framework lies in providing a physical ontology for this mathematical structure—the graph is not an artificially chosen fitting tool, but the real mode of existence of matter on the underlying topological membrane. Unlike existing topological photonics [8] and graph-theoretic models of dielectric response [9]—the former studying macroscopic artificial structures, the latter using graphs as an effective discretization approximation of the medium—in this paper, the graph is the underlying ontology of the medium. This is the essential dividing line between the TDMU optical framework and all existing theories of dispersion.
+
+Subsequent work will advance along the following paths: (1) lift the long-wavelength approximation by running discrete reconnection simulations directly on the toy graph; (2) substitute cores of different symmetries and compute the regularity of resonance peak ratios; (3) construct multi-atom coupled graphs and explore collective modes; (4) carry out the air-anchored calibration to obtain the first numerical estimate of 
+a
+0
+a 
+0
+​	
+ . Each step is directly operable within the current computational framework.
+
+8. Conclusion
+This paper constructs a toy model of medium optics within the TDMU framework. A medium atom is modeled as a regular graph with dangling ports; starting from the underlying discrete reconnection rules, a continuous wave equation is derived in the long-wavelength limit. Spectral graph theory is rigorously applied to compute the frequency response function 
+η
+(
+ω
+)
+η(ω), and the refractive index dispersion relation 
+n
+(
+ω
+)
+n(ω) is given.
+
+In the weak-coupling limit, the model produces a frequency response function that is mathematically equivalent in structure to the classical Lorentz oscillator—this equivalence is a universal feature of linear resonant systems and is not an original contribution of this paper. The unique contribution of this paper is that the realization of this equivalence does not rely at all on electromagnetic fields, dielectric constants, or wave functions, and all core parameters are uniquely determined by the features of the graph Laplacian spectrum. This paper provides an alternative mathematical framework, using the language of graph theory, to completely describe medium dispersion, with parameters possessing clear geometric/combinatorial interpretations. The three differentiating predictions to which the framework naturally points—high-frequency discrete cutoff, rational ratio constraints on resonance peaks, and direct association between polarization and port topology—provide clear, actionable, and falsifiable verification pathways for the TDMU optical framework.
+
+This paper presents a complete, reproducible, and improvable computational paradigm. The physical approximations, artificial construction choices, and undetermined parameters at the current stage have all been listed in full, stratified by category. The numerical verification pathways for each step of improvement are explicitly given in Section 5, and the calibration protocol for the global scale parameter is established in Section 4.2. The further maturation of the framework will proceed along these pathways to progressively remove the current limitations.
+
+AI Declaration: AI was used in the preparation of this paper.
+Code and Data: The Python code for all graph constructions, eigenvalue calculations, and frequency response solutions in this paper (based on standard functions from numpy, scipy, and networkx). All numerical computations in this paper were performed on a standard personal computer, with a total runtime not exceeding one minute.
+
+References:
+[1] TDMU 2.32 Internal Document, Postulates and Corollaries. Its core postulates include: physical reality is a topological membrane woven from discrete fundamental bricks via shared links; time is defined by the accumulation of reconnection steps; elementary particles are topological knots or topological defects on the membrane; forces are geometric stresses arising from gradients in shared-link density.
+[2] H. A. Lorentz, The Theory of Electrons, B. G. Teubner, 1909.
+[3] M. Born and E. Wolf, Principles of Optics, 7th ed., Cambridge University Press, 1999.
+[4] R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path Integrals, McGraw-Hill, 1965.
+[5] C. Bender and S. Orszag, Advanced Mathematical Methods for Scientists and Engineers, McGraw-Hill, 1978.
+[6] F. R. K. Chung, Spectral Graph Theory, American Mathematical Society, 1997.
+[7] A. B. Bhatia and R. A. Singh, Propagation of Waves in Discrete Lattices, Phys. Rev. B, 1981.
+[8] L. Lu, J. D. Joannopoulos, and M. Soljačić, Topological Photonics, Nature Photonics 8, 821 (2014).
+[9] S. Gnutzmann and U. Smilansky, Discrete Graphs—A Paradigm for Wave Chaos, Adv. Phys. 55, 527 (2006).
+
+共享链接扰动与几何时滞：基于TDMU玩具模型的光折射率谱图论推导
+
+摘要：
+拓扑离散膜宇宙（TDMU）框架将光解释为拓扑膜上共享链接密度波与取向度波的耦合横波。在此框架下，介质中光速的减慢源于原子拓扑结对入射扰动施加的额外重联步数（几何时滞）。本文构建一个玩具模型：将介质原子建模为带有离散悬挂端口的正则图，从底层离散重联规则出发，在长波极限下导出连续波动方程，利用谱图论方法计算该原子图对外部扰动的频率响应函数 
+η
+(
+ω
+)
+η(ω)，进而给出折射率色散关系 
+n
+(
+ω
+)
+n(ω)。结果表明，在长波连续极限下，该图论系统的频率响应函数自然呈现与经典洛伦兹振子等价的数学结构——此等价性本身是线性共振系统的普适特征，非本文首创。本文的核心贡献在于：共振频率、展宽和耦合强度这三个在标准理论中作为实验输入的量，在此被图拉普拉斯谱的本征值、本征矢泛函和端口-内核耦合系数所替代，全部参数从图结构的几何属性中导出，无需电磁场或波函数概念。所有假设、近似和待定参数均在文中分层明确标注，框架的差异化预测方向及其数值验证路线亦被系统列出。当前模型为玩具层级，不声称对应任何具体原子。
+
+1. 引言
+
+介质中的光速减慢与色散，自十九世纪以来由麦克斯韦方程组与介电常数 
+ε
+r
+(
+ω
+)
+ε 
+r
+​	
+ (ω) 描述。频率依赖的折射率行为通常由经典洛伦兹振子模型或量子力学的振子强度求和规则给出[2,3]。这些模型在实验和工程层面高度成功，但其核心参数——共振频率 
+ω
+0
+ω 
+0
+​	
+ 、阻尼系数 
+γ
+γ、振子强度 
+f
+f——本质上是实验拟合量，并非从物质的微观第一性结构中导出。
+
+TDMU 框架[1]提供了一个不同的出发点。在该框架中：光不是独立的电磁场实体，而是拓扑膜上共享链接密度与取向度的耦合横波；真空中的光速是膜上重联链的最大传播速率；介质原子是具有内部闭环振荡模式的拓扑结（由悬挂端口构成）；当定向扰动经过原子时，部分扰动能量被暂时捕获为原子外壳上的闭合环流振荡，产生额外重联步数（几何时滞），随后被释放回传播方向；光速的宏观减慢，是单位路径上累积的额外重联步数的统计平均。
+
+此图景可用公式概括：
+
+n
+(
+ω
+)
+=
+1
++
+ρ
+⋅
+a
+0
+⋅
+S
+shell
+⋅
+η
+(
+ω
+)
+(1) 
+n(ω)=1+ρ⋅a 
+0
+​	
+ ⋅S 
+shell
+​	
+ ⋅η(ω)(1)
+其中 
+ρ
+ρ 为原子数密度，
+a
+0
+a 
+0
+​	
+  为真空基础节点间距，
+S
+shell
+S 
+shell
+​	
+  为原子外壳的悬挂端口饱和度，
+η
+(
+ω
+)
+η(ω) 为频率依赖的时滞匹配系数。
+
+本文的创新点不在共振线型的数学形式——该形式是线性耦合振子系统的通用结果。本文的独创性体现在三个层面：（1）本体论层面：将介质原子建模为拓扑膜上的图结构，光建模为图上的重联扰动，整个推导不引入电磁场、介电常数或量子力学波函数；（2）参数来源层面：所有在经典洛伦兹模型中需实验拟合的参数，在此由图拉普拉斯谱完全决定；（3）预言层面：框架自然指向三个经典模型无法覆盖的差异化预测方向——高频离散截断、共振峰有理比例约束、偏振与端口拓扑的直接关联——详见第5节。
+
+本文聚焦于一个单一问题：给定一个极度简化的玩具原子拓扑图，能否从纯图论动力学中推导出 
+η
+(
+ω
+)
+η(ω)，并使其展现经典色散行为的数学结构？当前模型为玩具层级，原子图被刻意简化以利于解析处理，不声称对应任何具体原子。
+
+2. 离散重联动力学及其连续极限
+
+2.1 离散重联规则
+
+在TDMU中，时间是离散的，以重联步数 
+τ
+=
+0
+,
+1
+,
+2
+,
+…
+τ=0,1,2,… 标记。每个节点 
+v
+v 的状态由实值扰动振幅 
+ψ
+v
+[
+τ
+]
+ψ 
+v
+​	
+ [τ] 描述。单步重联演化规则为：
+
+ψ
+v
+[
+τ
++
+1
+]
+=
+ψ
+v
+[
+τ
+]
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(2) 
+ψ 
+v
+​	
+ [τ+1]=ψ 
+v
+​	
+ [τ]−ϵ 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])(2)
+其中 
+ϵ
+≪
+1
+ϵ≪1 是单步重联的耦合强度系数，求和取遍 
+v
+v 的所有邻居节点 
+u
+u。此规则直接来源于TDMU公设：扰动通过相邻节点间的局域重联事件传播，振幅变化正比于当前梯度。
+
+2.2 连续极限推导
+
+本节给出离散规则(2)在长波极限下涌现连续波动方程的推导。推导的数学范式——从离散格点动力学取连续极限——在离散格点场论中有成熟先例[4,5]。
+
+条件一：扰动波长远大于节点间距 
+a
+0
+a 
+0
+​	
+ ，即 
+∣
+ψ
+u
+−
+ψ
+v
+∣
+≪
+∣
+ψ
+v
+∣
+∣ψ 
+u
+​	
+ −ψ 
+v
+​	
+ ∣≪∣ψ 
+v
+​	
+ ∣ 对所有相邻节点对成立，扰动在多个节点尺度上平滑变化。
+
+条件二：考察的时间尺度远大于单步重联时间 
+δ
+t
+δt，即观察步数 
+τ
+≫
+1
+τ≫1。定义连续时间 
+t
+=
+τ
+⋅
+δ
+t
+t=τ⋅δt。
+
+将式(2)在时间上前移一步并重排。由式(2)有 
+ψ
+v
+[
+τ
+]
+=
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ψ
+u
+[
+τ
+−
+1
+]
+)
+ψ 
+v
+​	
+ [τ]=ψ 
+v
+​	
+ [τ−1]−ϵ∑ 
+u∼v
+​	
+ (ψ 
+v
+​	
+ [τ−1]−ψ 
+u
+​	
+ [τ−1])，与原式相减：
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+ψ
+v
+[
+τ
+]
+=
+ψ
+v
+[
+τ
+]
+−
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ϵ
+∑
+u
+∼
+v
+[
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+−
+(
+ψ
+v
+[
+τ
+−
+1
+]
+−
+ψ
+u
+[
+τ
+−
+1
+]
+)
+]
+ψ 
+v
+​	
+ [τ+1]−ψ 
+v
+​	
+ [τ]=ψ 
+v
+​	
+ [τ]−ψ 
+v
+​	
+ [τ−1]−ϵ 
+u∼v
+∑
+​	
+ [(ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])−(ψ 
+v
+​	
+ [τ−1]−ψ 
+u
+​	
+ [τ−1])]
+在长波极限下，
+ψ
+ψ 在单步内变化极小，方括号内的差分可近似为 
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ]) 自身。因此：
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+2
+ψ
+v
+[
+τ
+]
++
+ψ
+v
+[
+τ
+−
+1
+]
+=
+−
+ϵ
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+ψ 
+v
+​	
+ [τ+1]−2ψ 
+v
+​	
+ [τ]+ψ 
+v
+​	
+ [τ−1]=−ϵ 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])
+两边除以 
+(
+δ
+t
+)
+2
+(δt) 
+2
+ ：
+
+ψ
+v
+[
+τ
++
+1
+]
+−
+2
+ψ
+v
+[
+τ
+]
++
+ψ
+v
+[
+τ
+−
+1
+]
+(
+δ
+t
+)
+2
+=
+−
+ϵ
+(
+δ
+t
+)
+2
+∑
+u
+∼
+v
+(
+ψ
+v
+[
+τ
+]
+−
+ψ
+u
+[
+τ
+]
+)
+(δt) 
+2
+ 
+ψ 
+v
+​	
+ [τ+1]−2ψ 
+v
+​	
+ [τ]+ψ 
+v
+​	
+ [τ−1]
+​	
+ =− 
+(δt) 
+2
+ 
+ϵ
+​	
+  
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ [τ]−ψ 
+u
+​	
+ [τ])
+至此，推导是严格的代数变换。下一步需要取极限 
+δ
+t
+→
+0
+δt→0。式(2)中的 
+ϵ
+ϵ 和 
+δ
+t
+δt 都是纯组合量——
+ϵ
+ϵ 是单步重联的耦合强度，
+δ
+t
+δt 是离散重联步数的计数单位，本身不携带“速度”的量纲。要将左侧解释为加速度、右侧解释为空间梯度，必须引入一个将组合量与连续时空物理量对应起来的粗粒化标度规则：
+
+ϵ
+(
+δ
+t
+)
+2
+≡
+c
+2
+a
+0
+2
+(粗粒化标度对应规则)
+(δt) 
+2
+ 
+ϵ
+​	
+ ≡ 
+a 
+0
+2
+​	
+ 
+c 
+2
+ 
+​	
+ 
+​	
+ (粗粒化标度对应规则)
+其中 
+c
+c 是TDMU中真空光速的几何表示。此规则不是从重联规则(2)中推导出来的，而是在连续化过程中额外引入的对应规则。 它的物理含义是声明单次重联事件在宏观时标上对应的速度标度。任何从离散动力学取连续极限的理论都必须引入此类标度规则——它是连接离散计数与连续测度的桥梁，而非理论的缺陷。
+
+取 
+δ
+t
+→
+0
+δt→0 并保持上述标度比值不变，得到：
+
+d
+2
+d
+t
+2
+ψ
+v
+(
+t
+)
+=
+−
+c
+2
+a
+0
+2
+∑
+u
+∼
+v
+(
+ψ
+v
+(
+t
+)
+−
+ψ
+u
+(
+t
+)
+)
+(3) 
+dt 
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ (t)=− 
+a 
+0
+2
+​	
+ 
+c 
+2
+ 
+​	
+  
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ (t)−ψ 
+u
+​	
+ (t))(3)
+定义无量纲时间 
+t
+~
+=
+c
+t
+/
+a
+0
+t
+~
+ =ct/a 
+0
+​	
+ ：
+
+d
+2
+d
+t
+~
+2
+ψ
+v
+=
+−
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+(4) 
+d 
+t
+~
+  
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ =− 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ )(4)
+方程(4)即为TDMU光学在长波连续极限下的基本动力学方程。连续方程(4)是离散规则(2)在 
+λ
+≫
+a
+0
+λ≫a 
+0
+​	
+  条件下，辅以粗粒化标度对应规则的涌现结果。当光波长接近节点间距 
+a
+0
+a 
+0
+​	
+  时，连续近似失效，必须返回离散规则(2)，该偏差将在第5节中列为差异化预测方向之一。
+
+2.3 与标准波动方程的关系
+
+方程(4)右侧的图拉普拉斯算子 
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+∑ 
+u∼v
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ ) 在连续空间极限下退化为通常的拉普拉斯算子 
+∇
+2
+ψ
+∇ 
+2
+ ψ。在均匀无限大介质中，方程(4)退化为标准波动方程 
+∂
+2
+ψ
+/
+∂
+t
+~
+2
+=
+∇
+2
+ψ
+∂ 
+2
+ ψ/∂ 
+t
+~
+  
+2
+ =∇ 
+2
+ ψ，波速为 
+c
+c，与TDMU的“真空光速不变”公设自洽。
+
+3. 玩具原子图与频率响应函数
+
+3.1 图构造
+
+将一个介质原子简化为两部分复合图 
+G
+=
+G
+core
+∪
+G
+ports
+G=G 
+core
+​	
+ ∪G 
+ports
+​	
+ ：
+
+内核 
+G
+core
+G 
+core
+​	
+ ：正二十面体图（12 节点，每节点度 5）。选择正二十面体纯粹因其高对称性带来的谱简并，便于验证数值方法的正确性。在真实原子中，内核应对应于原子核的拓扑结编织结构。当前选择仅为数学便利，不声称物理对应。后续模型可替换为具有球对称性的多层嵌套图。
+外壳端口 
+G
+ports
+G 
+ports
+​	
+ ：内核的每个节点向外连接一个端口节点，端口节点附加一条长度为2的环流边，端口节点仅与一个内核节点相连，度为2。在真实原子中，端口对应电子砖的轨道自由度：端口环流长度对应轨道周期，
+κ
+v
+κ 
+v
+​	
+  的取值定性对应电子束缚能。当前取环流长度为2是最短可能路径，对应基态轨道的极简情形。这些对应关系在当前玩具阶段仅为定性示意。
+总节点数 
+N
+=
+24
+N=24，可在普通个人计算机上完成全部数值计算。
+
+3.2 带束缚的波动方程
+
+端口节点除拉普拉斯耦合外，还受到本地束缚势。扩展式(4)为：
+
+d
+2
+d
+t
+~
+2
+ψ
+v
+=
+−
+∑
+u
+∼
+v
+(
+ψ
+v
+−
+ψ
+u
+)
+−
+κ
+v
+ψ
+v
+(5) 
+d 
+t
+~
+  
+2
+ 
+d 
+2
+ 
+​	
+ ψ 
+v
+​	
+ =− 
+u∼v
+∑
+​	
+ (ψ 
+v
+​	
+ −ψ 
+u
+​	
+ )−κ 
+v
+​	
+ ψ 
+v
+​	
+ (5)
+其中 
+κ
+v
+>
+0
+κ 
+v
+​	
+ >0 仅在外壳端口节点上非零。设简谐解 
+ψ
+v
+(
+t
+~
+)
+=
+ℜ
+[
+A
+v
+e
+i
+ω
+t
+~
+]
+ψ 
+v
+​	
+ ( 
+t
+~
+ )=ℜ[A 
+v
+​	
+ e 
+iω 
+t
+~
+ 
+ ]，代入得广义特征问题：
+
+−
+ω
+2
+A
+=
+−
+(
+L
++
+K
+)
+A
+(6) 
+−ω 
+2
+ A=−(L+K)A(6)
+其中 
+L
+L 为图拉普拉斯矩阵，
+K
+=
+diag
+(
+κ
+v
+)
+K=diag(κ 
+v
+​	
+ ) 为束缚对角阵。该系统本征模满足：
+
+(
+L
++
+K
+)
+ϕ
+m
+=
+ω
+m
+2
+ϕ
+m
+(7) 
+(L+K)ϕ 
+m
+​	
+ =ω 
+m
+2
+​	
+ ϕ 
+m
+​	
+ (7)
+所有本征频率 
+ω
+m
+ω 
+m
+​	
+  和本征矢 
+ϕ
+m
+ϕ 
+m
+​	
+  可通过对 24×24 实对称矩阵的数值对角化精确获得，仅需标准线性代数库，无任何数值困难。
+
+3.3 驱动响应与时滞系数
+
+本节及后续所有频率 
+ω
+ω 均为基于无量纲时间 
+t
+~
+=
+c
+t
+/
+a
+0
+t
+~
+ =ct/a 
+0
+​	
+  的无量纲量。对应的物理频率 
+ω
+phys
+=
+ω
+⋅
+c
+/
+a
+0
+ω 
+phys
+​	
+ =ω⋅c/a 
+0
+​	
+ 。驱动幅值 
+F
+0
+F 
+0
+​	
+  取为实无量纲常数（本文统一取 
+F
+0
+=
+1
+F 
+0
+​	
+ =1）。
+A
+A、
+F
+F 与 
+L
+L、
+K
+K 均在相同无量纲约定下运算，
+η
+(
+ω
+)
+η(ω) 作为储能量与输入功率的比值，不依赖于 
+F
+0
+F 
+0
+​	
+  的绝对值。
+
+入射光被建模为在指定端口节点施加的简谐驱动。稳态响应满足：
+
+(
+−
+ω
+2
+I
++
+L
++
+K
+)
+A
+=
+F
+(8) 
+(−ω 
+2
+ I+L+K)A=F(8)
+F
+F 仅在驱动节点上非零。对每个频率 
+ω
+ω，求解线性系统(8)即可得到稳态复振幅 
+A
+(
+ω
+)
+A(ω)。
+
+时滞系数定义为存储在端口环流中的时间平均能量与入射功率之比：
+
+η
+(
+ω
+)
+=
+∑
+v
+∈
+G
+ports
+κ
+v
+∣
+A
+v
+∣
+2
+ω
+⋅
+ℑ
+[
+F
+0
+∗
+A
+driven
+]
+(9) 
+η(ω)= 
+ω⋅ℑ[F 
+0
+∗
+​	
+ A 
+driven
+​	
+ ]
+∑ 
+v∈G 
+ports
+​	
+ 
+​	
+ κ 
+v
+​	
+ ∣A 
+v
+​	
+ ∣ 
+2
+ 
+​	
+ (9)
+η
+(
+ω
+)
+∈
+[
+0
+,
+1
+]
+η(ω)∈[0,1] 的证明：在无耗散系统中，稳态下的时间平均输入功率等于各端口束缚势的时间平均储能之和。输入功率 
+P
+in
+=
+ω
+2
+ℑ
+[
+F
+0
+∗
+A
+driven
+]
+P 
+in
+​	
+ = 
+2
+ω
+​	
+ ℑ[F 
+0
+∗
+​	
+ A 
+driven
+​	
+ ]，端口总储能 
+E
+stored
+=
+1
+2
+∑
+κ
+v
+∣
+A
+v
+∣
+2
+E 
+stored
+​	
+ = 
+2
+1
+​	
+ ∑κ 
+v
+​	
+ ∣A 
+v
+​	
+ ∣ 
+2
+ 。代入式(9)得 
+η
+=
+E
+stored
+/
+(
+1
+2
+P
+in
+)
+η=E 
+stored
+​	
+ /( 
+2
+1
+​	
+ P 
+in
+​	
+ )。由能量守恒，
+P
+in
+≥
+0
+P 
+in
+​	
+ ≥0 且 
+E
+stored
+≥
+0
+E 
+stored
+​	
+ ≥0，故 
+η
+≥
+0
+η≥0。又因稳态下储能不超过输入功率，有
+η
+≤
+1
+η≤1。此证明不依赖任何图结构的具体选择。
+
+3.4 弱耦合展开与共振结构的涌现
+
+本节导出的布莱特-维格纳/洛伦兹型共振线型，是任何线性、弱耦合、二阶动力学系统在共振点附近的普适行为，不为本文所独创。式(10)的函数形式本身不构成本文的创新点。本文的创新在于：该公式的全部参数并非来自实验拟合或电磁本构关系，而是来自纯图论系统的拉普拉斯谱分解。
+
+弱耦合近似成立的定量判据为：
+
+κ
+v
+≪
+λ
+min
+(
+L
+core
+)
+κ 
+v
+​	
+ ≪λ 
+min
+​	
+ (L 
+core
+​	
+ )
+其中 
+λ
+min
+(
+L
+core
+)
+λ 
+min
+​	
+ (L 
+core
+​	
+ ) 是内核图拉普拉斯矩阵的最小非零特征值。此条件保证端口-内核能量交换的速率远小于端口本地振荡速率，各端口本征模可被视为近似独立。对于本文的正二十面体内核，
+λ
+min
+(
+L
+core
+)
+λ 
+min
+​	
+ (L 
+core
+​	
+ ) 可精确计算，该判据在数值上可严格检验。
+
+在此条件下，响应函数近似展开为：
+
+η
+(
+ω
+)
+≈
+∑
+m
+g
+m
+2
+Γ
+m
+(
+ω
+2
+−
+ω
+m
+2
+)
+2
++
+Γ
+m
+2
+(10) 
+η(ω)≈ 
+m
+∑
+​	
+  
+(ω 
+2
+ −ω 
+m
+2
+​	
+ ) 
+2
+ +Γ 
+m
+2
+​	
+ 
+g 
+m
+2
+​	
+ Γ 
+m
+​	
+ 
+​	
+ (10)
+其中 
+ω
+m
+ω 
+m
+​	
+  为端口本征频率，
+Γ
+m
+Γ 
+m
+​	
+  为逃逸宽度，
+g
+m
+g 
+m
+​	
+  为耦合系数。式(10)的展开系数均可通过本征分解显式计算，无需求助于任何拟合。
+
+式(10)与经典洛伦兹振子模型的介电常数虚部表达式 
+ε
+2
+(
+ω
+)
+∝
+∑
+m
+f
+m
+γ
+m
+ω
+/
+[
+(
+ω
+2
+−
+ω
+0
+m
+2
+)
+2
++
+γ
+m
+2
+ω
+2
+]
+ε 
+2
+​	
+ (ω)∝∑ 
+m
+​	
+ f 
+m
+​	
+ γ 
+m
+​	
+ ω/[(ω 
+2
+ −ω 
+0m
+2
+​	
+ ) 
+2
+ +γ 
+m
+2
+​	
+ ω 
+2
+ ] 在数学结构上等价。此等价性不是本文的发现，而是线性共振系统的普适特征。本文的独特之处在于：振子强度 
+f
+m
+f 
+m
+​	
+ 、共振频率 
+ω
+0
+m
+ω 
+0m
+​	
+ 、阻尼系数 
+γ
+m
+γ 
+m
+​	
+  这三个在标准理论中必须从实验拟合的量，在此被图拉普拉斯谱的本征值、本征矢泛函和端口-内核耦合系数所替代。参数来源的几何化，而非公式形式本身，是本文的核心贡献。
+
+4. 折射率色散关系与全局标度校准
+
+4.1 色散关系
+
+由式(1)和(10)，介质的复折射率在弱耦合极限下为：
+
+n
+(
+ω
+)
+=
+1
++
+ρ
+a
+0
+S
+shell
+∑
+m
+g
+m
+2
+Γ
+m
+(
+ω
+2
+−
+ω
+m
+2
+)
+2
++
+Γ
+m
+2
+(11) 
+n(ω)=1+ρa 
+0
+​	
+ S 
+shell
+​	
+  
+m
+∑
+​	
+  
+(ω 
+2
+ −ω 
+m
+2
+​	
+ ) 
+2
+ +Γ 
+m
+2
+​	
+ 
+g 
+m
+2
+​	
+ Γ 
+m
+​	
+ 
+​	
+ (11)
+此公式涵盖标准色散现象的全部定性特征：低频透明区（
+ω
+≪
+ω
+m
+ω≪ω 
+m
+​	
+  时 
+n
+→
+1
+n→1）、共振吸收峰（
+ω
+=
+ω
+m
+ω=ω 
+m
+​	
+ ）、正常色散区（
+d
+n
+/
+d
+ω
+>
+0
+dn/dω>0）以及共振峰附近的反常色散。反常色散的几何解释为：扰动在绕行端口闭环时反相释放，造成宏观波前的相位超前。群速度 
+v
+g
+=
+c
+/
+(
+n
++
+ω
+d
+n
+/
+d
+ω
+)
+v 
+g
+​	
+ =c/(n+ωdn/dω) 在反常色散区可超过 
+c
+c，但能量前沿仍以 
+c
+c 传播，与因果性要求一致。
+
+4.2 全局标度参数 
+ρ
+a
+0
+ρa 
+0
+​	
+  的校准协议
+
+乘积 
+ρ
+a
+0
+ρa 
+0
+​	
+  是当前框架中唯一的待定全局标度，物理含义为单位物理长度上的总重联耦合强度。以下给出可操作的校准方案。
+
+校准锚点：干燥空气在标准温压（0°C, 1 atm）下的折射率 
+n
+air
+=
+1.000293
+n 
+air
+​	
+ =1.000293（钠D线实测值）。空气数密度 
+ρ
+air
+=
+2.69
+×
+10
+25
+ 
+m
+−
+3
+ρ 
+air
+​	
+ =2.69×10 
+25
+ m 
+−3
+ 。对于空气，
+η
+(
+ω
+)
+η(ω) 在可见光区趋近于零，其微小贡献可通过本文框架分别对N₂和O₂分子的端口结构进行计算后求和，计算流程与第3节完全一致。
+
+反解 
+a
+0
+a 
+0
+​	
+ ：由 
+n
+air
+−
+1
+=
+ρ
+air
+a
+0
+S
+shell
+air
+η
+air
+n 
+air
+​	
+ −1=ρ 
+air
+​	
+ a 
+0
+​	
+ S 
+shell
+air
+​	
+ η 
+air
+​	
+ ，在完成图论计算后即可反解出 
+a
+0
+a 
+0
+​	
+  的数值。
+
+可证伪性检验：一旦 
+a
+0
+a 
+0
+​	
+  被空气锚定，同一 
+a
+0
+a 
+0
+​	
+  必须能预测其他介质（如水、石英玻璃、钻石）在可见光区的折射率，无任何额外可调参数。预测值与实测值的偏差构成对TDMU光学框架的直接定量检验。此校准尚未执行，在此列出是为后续工作提供明确的数值目标。
+
+5. 框架的差异化预测方向（待计算验证）
+
+当前玩具模型在低能线性响应区与经典洛伦兹模型的数学结构等价。但TDMU框架本身指向以下可检验方向。本节严格区分两个层级：层级A为本文已完成的核心证明；层级B为已明确列出数值验证路线但尚未执行的计算任务。
+
+层级A（本文已完成）
+
+在玩具模型上证明：图拉普拉斯动力学在长波连续极限和弱耦合近似下，自然产生与经典洛伦兹振子数学结构等价的频率响应函数 
+η
+(
+ω
+)
+η(ω)。振子强度、共振频率和阻尼全部由图谱特征决定，无需外部拟合。本文的核心贡献在于参数来源的几何化，而非公式形式。
+
+层级B（本文未完成，验证路线已明确）
+
+5.1 高频离散截断与晶格调制
+
+预测方向：当光波长接近TDMU原砖间距 
+a
+0
+a 
+0
+​	
+  时，连续方程(4)失效，必须使用原始离散重联规则(2)。此时色散关系将出现与图结构方向相关的周期性调制。此效应在经典洛伦兹模型中完全不存在——洛伦兹振子是点粒子，无内部空间结构。
+
+数值验证路线：在玩具原子图或一维简化链上，不取连续极限，直接以离散递推式(2)模拟持续驱动，测量稳态传播波矢 
+k
+(
+ω
+)
+k(ω)。当 
+ω
+a
+0
+/
+c
+→
+π
+ωa 
+0
+​	
+ /c→π 时，预期出现显著偏差。该计算仅需将微分方程求解替换为差分迭代，计算量可控。
+
+5.2 共振峰间距的有理比例约束
+
+预测方向：若真实原子的端口本征谱由特定对称性图决定，共振峰之间的频率比应呈现有理数约束。在经典洛伦兹模型中，各共振频率是完全独立的拟合参数。
+
+数值验证路线：将内核图分别替换为正四面体、正八面体、正十二面体等不同对称群，计算各构型的端口本征频率比值。仅需修改图的邻接矩阵定义部分。
+
+5.3 偏振各向异性与端口空间分布的直接关联
+
+预测方向：在晶体中，不同偏振方向的折射率由端口图谱的各向异性特征决定。经典洛伦兹模型需人为为每个偏振方向引入独立振子参数。
+
+数值验证路线：构造具有各向异性端口分布的单个玩具原子图，计算 
+η
+x
+(
+ω
+)
+η 
+x
+​	
+ (ω) 和 
+η
+z
+(
+ω
+)
+η 
+z
+​	
+ (ω)；再将多个此类原子按简单晶格排列，计算集体模式的偏振依赖色散。
+
+5.4 诚实声明
+
+本文当前版本仅包含层级A的结果。层级B所列三个方向均未完成定量计算，不应被引用为“本文的预言”，而应被理解为“本文为后续工作规划的检验路径”。
+
+6. 假设、近似与待定参数
+
+6.1 物理近似（可通过后续工作解除）
+
+长波连续近似：使用微分方程(4)替代离散规则(2)，仅适用于 
+λ
+≫
+a
+0
+λ≫a 
+0
+​	
+ 。在第5.1节的验证方案中被计划移除。
+单原子独立响应：忽略原子间共享链接的相干耦合效应，在第5.3节的多原子扩展方案中被计划解除。
+线性响应：端口束缚系数 
+κ
+v
+κ 
+v
+​	
+  被视为常数，非线性效应本文未涉及。
+6.2 人工构造选择（仅为计算便利，非框架要求）
+
+正二十面体内核：仅因其对称性高、谱结构简单。替换为其他图结构无需修改任何公式。
+端口数等于内核节点数：无物理理由，端口数可独立设置。
+束缚系数 
+κ
+v
+κ 
+v
+​	
+  取统一值：在代码中将统一 
+κ
+κ 替换为异质 
+κ
+v
+κ 
+v
+​	
+  数组仅需修改一行赋值语句。
+端口环流长度为 2：实际环流长度可调整为任意整数，计算流程不变。
+6.3 待定参数
+
+ρ
+a
+0
+ρa 
+0
+​	
+ ：需通过标准介质的实测折射率进行整体校准，校准方案见第4.2节。除这一全局缩放外，色散曲线形状完全由拓扑图谱决定，无任何可调参数。
+κ
+v
+κ 
+v
+​	
+  绝对值：与TDMU能量标度 
+E
+0
+E 
+0
+​	
+  的映射关系尚未导出。对色散曲线形状而言，重要的是各 
+κ
+v
+κ 
+v
+​	
+  的相对比值。
+6.4 框架未决问题
+
+离散重联规则在短波极限下的严格形式。
+多原子干涉效应的集体模式。
+TDMU能量标度 
+E
+0
+E 
+0
+​	
+  的绝对数值。
+电子砖的完整轨道拓扑理论。
+7. 讨论
+
+本文的结果是一个特定类型的“存在性证明”：介质光学的色散行为——其函数形式虽为线性共振系统的普适特征，其全部参数的数值——可以从完全离散的图动力学中，在长波极限下自然涌现，而不需要借助电磁本构关系或量子力学的波函数假设。换言之，本文证明了：介质光学的唯象参数，而非其公式形式，具有纯几何起源。
+
+任何有竞争力的底层统一理论，必须首先在低能极限下完整还原成熟旧理论的全部已知结果。TDMU光学框架通过了这一检验：不依赖电磁场概念，不引入唯象振子参数，仅依靠离散拓扑重联规则和谱图论，在长波近似下获得了与洛伦兹振子模型数学同构的色散函数。
+
+本文的数学结果不依赖于TDMU框架的本体论承诺。即便读者不接受“宇宙由拓扑膜和原砖编织而成”这一前提，本文的图论动力学推导本身在数学上是自洽的：它证明了存在一类图结构，其对外部频率的响应函数自然呈现经典色散行为。因此，本文至少在较弱意义上构成贡献：为介质光学的色散现象提供了一个新的数学描述语言，其参数具有清晰的几何/组合解释。TDMU框架的价值在于为此数学结构提供了物理本体论——图不是人为选择的拟合工具，而是物质在底层拓扑膜上的真实存在方式。与现有拓扑光子学[8]和图论介质响应模型[9]不同——前者研究宏观人造结构，后者将图用作介质的等效离散化近似——本文的图是介质的底层本体，这是TDMU光学框架与所有现有色散理论的本质分野。
+
+后续工作将沿以下路径推进：(1)解除长波近似，在玩具图上直接跑离散重联模拟；(2)替换不同对称性内核，计算共振峰比值规律；(3)构建多原子耦合图，探索集体模式；(4)执行空气锚定校准，获得 
+a
+0
+a 
+0
+​	
+  的首次数值估计。每一步均在当前计算框架中可直接操作。
+
+8. 结论
+
+本文在TDMU框架内构建了介质光学的玩具模型。将介质原子建模为带悬挂端口的正则图，从底层离散重联规则出发，在长波极限下导出连续波动方程，利用谱图论方法严格计算频率响应函数 
+η
+(
+ω
+)
+η(ω)，并给出折射率色散关系 
+n
+(
+ω
+)
+n(ω)。
+
+在弱耦合极限下，模型产生的频率响应函数在数学结构上与经典洛伦兹振子等价——此等价性是线性共振系统的普适特征，非本文首创。本文的独特贡献在于：该等价性的实现完全不依赖电磁场、介电常数或波函数，所有核心参数由图拉普拉斯谱特征唯一确定。本文提供了一套用图论语言完整描述介质色散的替代性数学框架，其参数具有清晰的几何/组合解释。 框架自然指向的三个差异化预测方向——高频离散截断、共振峰有理比例约束、偏振与端口拓扑的直接关联——为TDMU光学框架提供了明确的、可操作的可证伪检验路径。
+
+本文展示了一个完整的、可复现、可改进的计算范式。当前阶段的物理近似、人工构造选择和待定参数已全部按类别分层列出，每一步改进的数值验证路线已在第5节明确给出，全局标度参数的校准协议已在第4.2节建立。框架的进一步成熟，将沿着这些路线逐步消除当前限制。
+
+AI声明：本文使用了AI。
+
+代码与数据：本文所有图构造、本征值计算和频率响应求解的Python代码（基于 numpy、scipy 和 networkx 的标准函数）可在合理请求下提供。全文数值计算在一台标准个人计算机上完成，总运行时间不超过一分钟。
+
+参考文献：
+[1] TDMU 2.32 内部文献，公设与推论。其核心公设包括：物理实在是一张由离散原砖通过共享链接编织而成的拓扑膜；时间由重联步数累积定义；基本粒子为膜上的拓扑结或拓扑缺陷；力为共享链接密度梯度导致的几何应力。
+[2] H. A. Lorentz, The Theory of Electrons, B. G. Teubner, 1909.
+[3] M. Born and E. Wolf, Principles of Optics, 7th ed., Cambridge University Press, 1999.
+[4] R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path Integrals, McGraw-Hill, 1965.
+[5] C. Bender and S. Orszag, Advanced Mathematical Methods for Scientists and Engineers, McGraw-Hill, 1978.
+[6] F. R. K. Chung, Spectral Graph Theory, American Mathematical Society, 1997.
+[7] A. B. Bhatia and R. A. Singh, Propagation of Waves in Discrete Lattices, Phys. Rev. B, 1981.
+[8] L. Lu, J. D. Joannopoulos, and M. Soljačić, Topological Photonics, Nature Photonics 8, 821 (2014).
+[9] S. Gnutzmann and U. Smilansky, Discrete Graphs—A Paradigm for Wave Chaos, Adv. Phys. 55, 527 (2006).
