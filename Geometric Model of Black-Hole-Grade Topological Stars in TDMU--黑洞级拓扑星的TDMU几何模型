@@ -1,0 +1,3675 @@
+Geometric Model of Black-Hole-Grade Topological Stars in TDMU: Physical Entity, Optical Appearance, Triple Mass Constraints, and Testable Predictions
+
+MJP
+Date: July 22, 2026
+
+Abstract
+Within the framework of Topological Dynamic Membrane Universe (TDMU 2.32), this paper constructs a geometric model of black-hole-grade topological stars. The physical entity is a superfluid vortex core in a state of global phase locking (
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0). Released energy is transformed into vortex twist energy via a three-step mechanism, contributing an effective mass 
+Δ
+M
+v
+o
+r
+t
+e
+x
+ΔM 
+vortex
+​	
+ , while a triple geometric confinement tames the centrifugal storm. The optical appearance is governed by first-order and second-order effects of the shared-link density gradient, producing a four-layer structure, in which the photon capture shell possesses a finite thickness 
+Δ
+R
+p
+h
+>
+0
+ΔR 
+ph
+​	
+ >0, constituting a discriminating divide from the zero-thickness photon sphere of general relativity. The same set of geometric parameters (
+M
+0
+,
+D
+,
+P
+s
+c
+,
+F
+c
+o
+r
+e
+M 
+0
+​	
+ ,D,P 
+sc
+​	
+ ,F 
+core
+​	
+ ) provides a unified description of the lower mass limit, the mass gap, and the upper mass limit—corresponding respectively to the critical closure of the superfluid shell, the unstable region of the semi-closed phase transition, and the collapse point of the vortex-network phase locking. Sgr A* and M87 are used as case studies to demonstrate the observational differences of the same engine operating under starved and full-load conditions. The rapid formation of high-redshift supermassive black holes is achieved through three-channel parallel growth, without the need for a seed black hole hypothesis. The model provides five testable predictions with clear discriminative power.
+
+1. Introduction
+
+1.1 Unclosed Problems of the Standard Model
+The black hole model within the framework of general relativity (GR) harbors deep theoretical tensions:
+
+Singularity problem: the divergence of spacetime curvature signals the failure of the theory itself.
+Information paradox: the purely thermal spectrum of Hawking radiation conflicts with the unitarity of quantum mechanics.
+Multi-mechanism patchwork: gravity (GR), accretion disk radiation (magnetohydrodynamics), jets (Blandford–Znajek mechanism), and Hawking radiation (quantum field theory in curved spacetime)—four phenomena invoke four independent mechanisms, lacking a unified underlying language.
+Seed black hole dilemma: supermassive black holes exceeding 
+10
+9
+ 
+M
+⊙
+10 
+9
+ M 
+⊙
+​	
+  have already been observed at high redshifts (e.g., ULAS J1342+0928 at 
+z
+=
+7.54
+z=7.54), when the Universe was only about 700 million years old. The time required to grow from a stellar-mass seed via continuous accretion at the Eddington limit far exceeds this limit. The abundance of light seeds (Population III stars, 
+∼
+10
+2
+ 
+M
+⊙
+∼10 
+2
+ M 
+⊙
+​	
+ ) is questionable, and the formation conditions for heavy seeds (direct collapse of primordial gas clouds, 
+∼
+10
+5
+ 
+M
+⊙
+∼10 
+5
+ M 
+⊙
+​	
+ ) are stringent; both lack direct observational evidence.
+No unified explanation for the triple mass constraints: the lower limit (
+∼
+2
+∼2–
+3
+ 
+M
+⊙
+3M 
+⊙
+​	
+ ) invokes the neutron-star equation of state, the mass gap (
+2.5
+2.5–
+5
+ 
+M
+⊙
+5M 
+⊙
+​	
+ ) invokes supernova explosion asymmetry, and the upper limit (
+∼
+5
+×
+10
+10
+ 
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ ) invokes the Eddington accretion rate limit—three independent assumptions without a unified language.
+1.2 Underlying Postulates of TDMU
+TDMU 2.32 [1] provides a first-principles language based on combinatorial networks:
+
+Matter is a topological knot woven from shared links.
+Light is a coupled transverse wave of shared-link density and orientation-degree waves.
+Gravity is the vacancy-driven involutional reconnection flow of shared links (Definition 9.4).
+The superfluid state is rigorously defined by the global phase-locking condition 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 (Definition 9.3).
+Path One (defect complementary weaving) and Path Two (forced chain reconnection) are the two fundamental channels for nuclear transformation.
+1.3 Task of This Paper
+To systematically apply the TDMU postulates to black hole physics: construct a singularity-free, information-conserving physical entity governed by a single mechanism throughout; rigorously clarify the correspondence between the physical entity and its optical appearance; provide a unified explanation for the triple mass constraints, the formation of high-redshift SMBHs, and the differences between Sgr A* and M87*; and deliver testable predictions that are clearly distinguishable from GR.
+
+2. Four-Parameter Geometric Description
+Any compact topological star is completely described by the following four independent geometric parameters:
+
+Parameter	Symbol	Geometric Meaning	TDMU 2.32 Anchor
+Total number of fundamental bricks	
+M
+0
+M 
+0
+​	
+ 	Core brick count	Definition 7.4
+Vacancy fraction	
+D
+D	Fraction of missing bricks in the core (intensity of involutional stress)	Corollary 8.1
+Surface coherence	
+P
+s
+c
+P 
+sc
+​	
+ 	Fraction of the surface with 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0	Definition 9.3
+Core filling factor	
+F
+c
+o
+r
+e
+F 
+core
+​	
+ 	Actual brick count / theoretical closure count (
+12
+3
+12 
+3
+ )	Definition 8.4a
+Signature of a black-hole-grade topological star: 
+M
+0
+M 
+0
+​	
+  extremely large, 
+D
+D extremely high,
+P
+s
+c
+→
+1
+P 
+sc
+​	
+ →1 (perfect superfluid shell), 
+F
+c
+o
+r
+e
+→
+1
+F 
+core
+​	
+ →1 (link saturation). The “singularity” of the standard model is replaced here by a “finite saturated network”.
+
+3. Physical Entity: The Superfluid Vortex Engine
+
+3.1 Phase Locking and Thermal Phonon Confinement
+The core shared-link network satisfies global phase locking (Definition 9.3):
+
+D
+i
+j
+Θ
+=
+0
+,
+∀
+⟨
+i
+,
+j
+⟩
+,
+D
+i
+j
+Θ
+≡
+Θ
+(
+r
+j
+)
+−
+Θ
+(
+r
+i
+)
+−
+A
+i
+j
+D 
+ij
+​	
+ Θ=0,∀⟨i,j⟩,D 
+ij
+​	
+ Θ≡Θ(r 
+j
+​	
+ )−Θ(r 
+i
+​	
+ )−A 
+ij
+​	
+ 
+This condition rigidly locks the orientation degree 
+A
+i
+j
+A 
+ij
+​	
+  to the phase difference: 
+A
+i
+j
+=
+Θ
+(
+r
+j
+)
+−
+Θ
+(
+r
+i
+)
+A 
+ij
+​	
+ =Θ(r 
+j
+​	
+ )−Θ(r 
+i
+​	
+ ). This equality eliminates all independent fluctuation degrees of freedom of
+A
+i
+j
+A 
+ij
+​	
+ . Thermal phonons (incoherent fluctuations of the orientation degree) do not exist in phase space. Viscous dissipation (which requires dangling ports) is blocked by 
+F
+c
+o
+r
+e
+→
+1
+F 
+core
+​	
+ →1. The core maintains a zero-entropy ground state.
+
+3.2 Three-Step Energy Release Mechanism
+Path One (defect complementary weaving) and Path Two (forced chain reconnection) continuously release stress energy, which undergoes a three-step fate:
+
+Step 1 — Local generation: reconnection events generate local stress shock waves (phonon intermediate states).
+Step 2 — Lock-in and blockage:
+
+Outward escape is locked in by the radial shared-link gradient potential well;
+Inward dissipation is blocked by 
+F
+c
+o
+r
+e
+→
+1
+F 
+core
+​	
+ →1 (absence of dangling ports).
+Step 3 — Coherent phase transition: phonons accumulate to a nonlinear threshold and are transformed into quantized topological vortices via collective reconnection of the shared-link network:
+
+∮
+C
+D
+Θ
+⋅
+d
+l
+=
+2
+π
+n
+,
+n
+∈
+Z
+∮ 
+C
+​	
+ DΘ⋅dl=2πn,n∈Z
+All initially released energy is ultimately frozen in the form of vortex twist energy (Writhe 
+×
+× Twist), producing no observable thermal radiation or entropy increase.
+
+3.3 Effective Mass and Vortex Accretion Boost
+The vortex twist energy directly resists external reconnection and is incorporated into the effective mass:
+
+M
+e
+f
+f
+=
+M
+0
++
+Δ
+M
+v
+o
+r
+t
+e
+x
+,
+Δ
+M
+v
+o
+r
+t
+e
+x
+∝
+∑
+i
+W
+i
+M 
+eff
+​	
+ =M 
+0
+​	
+ +ΔM 
+vortex
+​	
+ ,ΔM 
+vortex
+​	
+ ∝ 
+i
+∑
+​	
+ W 
+i
+​	
+ 
+where 
+W
+i
+W 
+i
+​	
+  is the product of the writhe and twist numbers of the 
+i
+i-th vortex tube. The external gravitational field (total number of shared links) is determined by 
+M
+e
+f
+f
+M 
+eff
+​	
+ .
+
+Key corollary: the growth of 
+Δ
+M
+v
+o
+r
+t
+e
+x
+ΔM 
+vortex
+​	
+  is not constrained by the Eddington limit—the released energy is locked into the vortex network and produces no outward radiation pressure. This provides a rapid formation channel for high-redshift SMBHs (see Section 7 for details).
+
+3.4 Triple Geometric Confinement
+The enormous centrifugal tendency of the core vortex turbulence (excess orientation degree in the equatorial direction) is rigorously confined by three mechanisms:
+
+Gravitational self-confinement: 
+M
+e
+f
+f
+M 
+eff
+​	
+  generates a global shared-link pullback stress (Definition 9.4).
+Topological saturation barrier: 
+F
+c
+o
+r
+e
+→
+1
+F 
+core
+​	
+ →1 forbids the new links required for radial displacement, forming a hard-wall-free elastic potential well.
+Vortex short-range cohesion: adjacent vortex tubes fall within the attractive regime of Definition 9.7 (geometric correspondence of the strong nuclear force), producing an arched surface tension.
+Macroscopic consequence: the centrifugal tendency does not lead to dispersal but manifests as equatorial flattening and jet collimation along the polar axis—the polar axis is the path of least resistance under triple confinement.
+
+4. Optical Appearance: Four-Layer Structure and Finite-Thickness Photon Capture Shell
+
+The spatial distribution of the shared-link density 
+ρ
+l
+i
+n
+k
+(
+r
+)
+ρ 
+link
+​	
+ (r) governs light propagation. The first-order radial gradient 
+d
+ρ
+/
+d
+r
+dρ/dr determines radial light trapping; the second-order curvature gradient 
+d
+2
+ρ
+/
+d
+r
+2
+d 
+2
+ ρ/dr 
+2
+  determines tangential light capture.
+
+4.1 Triple Capture Surfaces
+
+Radius	Geometric Condition	Physical Meaning
+R
+trap
+R 
+trap
+​	
+ 	
+(
+d
+ρ
+/
+d
+r
+)
+c
+r
+i
+t
+(dρ/dr) 
+crit
+​	
+ 	Inner capture surface: corresponds to the observed shadow radius
+R
+escape
+R 
+escape
+​	
+ 	
+(
+d
+ρ
+/
+d
+r
+)
+s
+u
+b
+c
+r
+i
+t
+(dρ/dr) 
+subcrit
+​	
+ 	Outer escape surface: radial outward propagation becomes possible
+R
+tang
+R 
+tang
+​	
+ 	
+(
+d
+2
+ρ
+/
+d
+r
+2
+)
+c
+r
+i
+t
+(d 
+2
+ ρ/dr 
+2
+ ) 
+crit
+​	
+ 	Tangential capture surface: location of photon ring formation
+R
+fiss
+R 
+fiss
+​	
+ 	
+σ
+i
+n
+f
+a
+l
+l
+=
+E
+compressive
+σ 
+infall
+​	
+ =E 
+compressive
+​	
+ 	Fission surface: boundary where Path Two is triggered
+Strict hierarchical relationship:
+
+R
+trap
+<
+R
+escape
+<
+R
+tang
+<
+R
+fiss
+R 
+trap
+​	
+ <R 
+escape
+​	
+ <R 
+tang
+​	
+ <R 
+fiss
+​	
+ 
+4.2 Four-Layer Optical Structure
+
+Layer	Radius Range	Light Behavior	Observational Appearance
+Absolute dark region	
+r
+≤
+R
+trap
+r≤R 
+trap
+​	
+ 	Totally locked inward	Shadow core
+Dark ring layer	
+R
+trap
+<
+r
+≤
+R
+escape
+R 
+trap
+​	
+ <r≤R 
+escape
+​	
+ 	Radially locked inward	Merges with shadow (invisible)
+Photon capture shell	
+R
+escape
+<
+r
+≤
+R
+tang
+R 
+escape
+​	
+ <r≤R 
+tang
+​	
+ 	Radially can propagate outward, tangentially captured	Finite-thickness photon ring
+Bright ring layer	
+R
+tang
+<
+r
+≤
+R
+fiss
+R 
+tang
+​	
+ <r≤R 
+fiss
+​	
+ 	Complete escape	Diffuse radiation from accretion disk
+Key discriminant:
+
+Δ
+R
+p
+h
+=
+R
+tang
+−
+R
+escape
+>
+0
+ΔR 
+ph
+​	
+ =R 
+tang
+​	
+ −R 
+escape
+​	
+ >0
+The GR photon sphere is a zero-thickness geometric surface (
+r
+=
+3
+G
+M
+/
+c
+2
+r=3GM/c 
+2
+ , determined by the zero of the derivative of 
+g
+t
+t
+g 
+tt
+​	
+  in the Schwarzschild metric). The TDMU photon capture shell is a finite-thickness shell, whose width is determined by the curvature of the second-order gradient of the shared-link density. This is the direct discriminating divide between the two theories in their optical appearance.
+
+*4.3 TDMU Interpretation of the EHT M87* Photon Ring*
+
+Observational Feature	TDMU Geometric Correspondence
+Central dark region	Absolute dark region + dark ring layer
+Bright ring peak	
+R
+tang
+R 
+tang
+​	
+  (maximum of second-order gradient)
+Finite width of the ring	
+Δ
+R
+p
+h
+=
+R
+tang
+−
+R
+escape
+ΔR 
+ph
+​	
+ =R 
+tang
+​	
+ −R 
+escape
+​	
+ 
+Ring asymmetry	Spin-induced non-uniform angular distribution of vortex density
+5. Unified Geometric Explanation of the Triple Mass Constraints
+The standard model invokes different mechanisms for each of the three mass constraints. TDMU explains them in a unified manner using the same set of geometric parameters.
+
+5.1 Lower Mass Limit (
+∼
+2
+∼2–
+3
+ 
+M
+⊙
+3M 
+⊙
+​	
+ ): Critical Closure of the Superfluid Shell
+A black-hole-grade topological star must simultaneously satisfy 
+P
+s
+c
+→
+1
+P 
+sc
+​	
+ →1 (perfect superfluid shell on the surface) and 
+F
+c
+o
+r
+e
+→
+1
+F 
+core
+​	
+ →1 (core link saturation).
+
+When 
+M
+0
+<
+M
+c
+r
+i
+t
+,
+m
+i
+n
+M 
+0
+​	
+ <M 
+crit,min
+​	
+ :
+
+The surface link density is insufficient to form a closed superfluid shell 
+→
+→ dangling ports exist 
+→
+→ Path Two shock waves can penetrate the surface 
+→
+→ observed as a pulsar.
+The interior has not reached link saturation 
+→
+→ vacancy stress concentration 
+I
+>
+0
+→
+I>0→ brittle fracture possible.
+When 
+M
+0
+>
+M
+c
+r
+i
+t
+,
+m
+i
+n
+M 
+0
+​	
+ >M 
+crit,min
+​	
+ :
+
+Surface superfluid shell closes spontaneously 
+→
+→ dangling ports vanish 
+→
+→ shock waves are absorbed 
+→
+→ pulsations cease.
+Horizon (
+R
+trap
+R 
+trap
+​	
+ ) emerges 
+→
+→ light is geometrically locked.
+Conclusion: the lower mass limit is the topological phase transition point of superfluid shell closure, determined by whether the link density reaches the phase-locking threshold, and is independent of any equation of state.
+
+5.2 Mass Gap (
+2.5
+2.5–
+5
+ 
+M
+⊙
+5M 
+⊙
+​	
+ ): Unstable Phase Transition Region of the Semi-Closed Shell
+When 
+M
+0
+∼
+M
+c
+r
+i
+t
+,
+m
+i
+n
+M 
+0
+​	
+ ∼M 
+crit,min
+​	
+ , the surface is in a locally closed state:
+
+Superfluid regions (
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0) and non-superfluid regions (
+D
+i
+j
+Θ
+≠
+0
+D 
+ij
+​	
+ Θ
+
+=0) form an interleaved patchwork.
+The dissipation-free/dissipative boundary between the two regions generates enormous shear stress.
+This stress has no steady-state solution: it either drives the rapid closure of remaining defects (
+→
+→ black hole) or tears apart existing superfluid regions (
+→
+→ falls back to pulsar state).
+The phase transition time is extremely short—the semi-closed state is a dynamically unstable manifold, with an existence time far shorter than the temporal resolution of astronomical observations. Hence the mass gap appears observationally as “almost no compact objects,” not because they do not exist, but because the transition state is too rapid, and only the two sides are steady states.
+Conclusion: the mass gap is an unstable region of a non-equilibrium phase transition, not a “forbidden mass interval.”
+
+5.3 Upper Mass Limit (
+∼
+5
+×
+10
+10
+ 
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ ): Collapse of Superfluid Phase Locking
+As the effective mass grows continuously, the internal vortex twist energy density 
+∑
+i
+W
+i
+∑ 
+i
+​	
+ W 
+i
+​	
+ increases steadily. Global phase locking 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 can only be maintained when the vortex density is below a critical value 
+W
+c
+r
+i
+t
+W 
+crit
+​	
+ .
+Once the critical value is exceeded:
+
+Local fluctuations with 
+D
+i
+j
+Θ
+≠
+0
+D 
+ij
+​	
+ Θ
+
+=0 appear 
+→
+→ the superfluid state begins to “melt” locally.
+Melted regions create dissipation channels 
+→
+→ energy begins to radiate outward.
+Defects appear in the surface superfluid shell 
+→
+→ the horizon (
+R
+trap
+R 
+trap
+​	
+ ) locally fails 
+→
+→ some light can escape.
+Statistical nature of the upper limit: the critical mass for different topological stars depends on the initial vacancy fraction 
+D
+D and the distribution of vortex tube winding numbers, but statistically there exists a typical upper limit, corresponding to the observed SMBH mass cutoff at 
+∼
+5
+×
+10
+10
+ 
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ .
+Conclusion: the upper mass limit is the collapse point of the geometric capacity of the vortex network, not the Eddington luminosity limit.
+
+5.4 Unified Summary
+
+Mass Constraint	Standard Model (Multi-mechanism)	TDMU (Single Geometry)
+Lower limit (
+∼
+3
+ 
+M
+⊙
+∼3M 
+⊙
+​	
+ )	Neutron star equation of state limit	
+P
+s
+c
+→
+1
+P 
+sc
+​	
+ →1 critical brick number
+Gap (
+2.5
+2.5–
+5
+ 
+M
+⊙
+5M 
+⊙
+​	
+ )	Supernova explosion asymmetry (controversial)	Unstable region of semi-closed phase transition (no steady state)
+Upper limit (
+∼
+5
+×
+10
+10
+ 
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ )	Eddington accretion rate limit	Collapse point of 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0
+6. Case Studies: Two Operating Conditions from the Same Blueprint
+
+6.1 Sgr A*: The Starved Geometric Engine
+
+Property	Description
+M
+e
+f
+f
+M 
+eff
+​	
+ 	
+∼
+4
+×
+10
+6
+ 
+M
+⊙
+∼4×10 
+6
+ M 
+⊙
+​	
+ 
+Current state	Long-term low-accretion state
+External matter supply	Extremely low (Galactic Center environment relatively sparse)
+Observational appearance	“Dormant”—only occasional X-ray and infrared flares
+Flare mechanism: not a core eruption, but the accidental triggering of the Path Two threshold by local matter density fluctuations in the quiet region. A small amount of matter falls within 
+R
+fiss
+R 
+fiss
+​	
+ , locally triggering Path Two. Because the mass is too small, a sustained bright ring cannot be maintained, and the flare decays rapidly. The frequency and intensity reflect the random fluctuations of the external matter supply.
+
+Origin of spin: 
+a
+∗
+∼
+0.5
+a 
+∗
+​	
+ ∼0.5–
+0.9
+0.9 is not “inherited” from a progenitor star. During accretion, the internal vortex tubes are gradually aligned into an ordered configuration by the rotation direction of the involutional flow—the angular momentum carried by the accreted matter “combs” the orientation of the vortex tubes through the shared-link network. The spin value reflects the cumulative combing effect of all matter accreted over the history of the Milky Way.
+
+Stability: even with an extremely low external matter supply, the triple geometric confinement ensures core stability. 
+M
+e
+f
+f
+M 
+eff
+​	
+  is “frozen” in the form of vortex twist energy, independent of external pressure.
+
+6.2 M87*: The Full-Load Geometric Engine
+
+Property	Description
+M
+e
+f
+f
+M 
+eff
+​	
+ 	
+∼
+6.5
+×
+10
+9
+ 
+M
+⊙
+∼6.5×10 
+9
+ M 
+⊙
+​	
+ 
+Current state	High-accretion active state
+External matter supply	Abundant (dense environment at the center of the M87 galaxy)
+Observational appearance	Continuous bright ring radiation; extremely long and highly collimated jet
+Geometric origin of the jet: the jet is a natural byproduct of the triple confinement mechanism—
+
+Equatorial pile-up: the centrifugal tendency of vortex tubes is strongest in the equatorial plane and is locked by triple confinement, causing equatorial flattening.
+Polar axis path of least resistance: the centrifugal tendency is zero along the polar axis, and the involutional flow shear force is minimal.
+Vortex extrusion: the vortex stress excessively piled up in the equatorial plane is released along the polar axis—the jet is the “exhaust port” of the geometric engine.
+Fundamental difference from the standard model: the standard model requires hypotheses for magnetic field generation and maintenance to drive jets; in TDMU, the jet is an inevitable concomitant phenomenon of geometric confinement and requires no magnetic field hypothesis.
+
+6.3 The Essence of the Difference
+
+Feature	Sgr A* (Starved Engine)	M87* (Full-Load Engine)	TDMU Explanation
+Vortex network power	Moderate	Extremely high	Accretion rate determines vortex injection rate
+Bright ring layer	Extremely low (occasional flares)	Continuously high	Brightness = Path-Two triggered area 
+×
+× matter supply rate
+Jet	No significant structure	Extremely long, highly collimated	Degree of equatorial pile-up determines polar extrusion
+Photon ring	Theoretically exists, not yet clearly imaged	Imaged	Mass difference makes the scale of 
+Δ
+R
+p
+h
+ΔR 
+ph
+​	
+ different
+The essential difference lies not in internal structure but in the external environment. Both host a superfluid vortex engine internally—the same 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 locking, the same triple confinement, the same four-layer optical structure. Sgr A* idles due to insufficient external fuel supply; M87* operates at full load due to abundant external fuel.
+
+If the Galactic Center were suddenly supplied with a large amount of matter (e.g., a tidal disruption event), Sgr A* would undergo: activation of the quiet region 
+→
+→ surge in bright ring layer brightness 
+→
+→ emergence of a jet from nothing—a transition that is directly observable.
+
+7. High-Redshift Supermassive Black Holes: Three-Channel Parallel Growth
+The “not enough time” dilemma of the standard model for early SMBHs such as ULAS J1342+0928 (
+z
+=
+7.54
+z=7.54, 
+M
+∼
+8
+×
+10
+8
+ 
+M
+⊙
+M∼8×10 
+8
+ M 
+⊙
+​	
+ ) is resolved in TDMU by three-channel parallel growth:
+
+M
+0
+M 
+0
+​	
+  growth (conventional accretion): increases the total number of bricks, constrained by the Eddington limit.
+Δ
+M
+v
+o
+r
+t
+e
+x
+ΔM 
+vortex
+​	
+  growth (vortex accretion boost): accretion-released energy is locked into vortex twist energy, directly contributing to 
+M
+e
+f
+f
+M 
+eff
+​	
+ ; its rate is not limited by radiation pressure—energy does not radiate outward.
+F
+c
+o
+r
+e
+F 
+core
+​	
+  positive feedback: 
+M
+e
+f
+f
+M 
+eff
+​	
+  increases 
+→
+→ lock-in efficiency improves 
+→
+→ more released energy is converted to vortices 
+→
+→ growth rate further increases.
+Effective mass growth rate:
+
+d
+M
+e
+f
+f
+d
+t
+=
+d
+M
+0
+d
+t
++
+d
+(
+Δ
+M
+v
+o
+r
+t
+e
+x
+)
+d
+t
+,
+d
+(
+Δ
+M
+v
+o
+r
+t
+e
+x
+)
+d
+t
+∝
+E
+˙
+a
+c
+c
+dt
+dM 
+eff
+​	
+ 
+​	
+ = 
+dt
+dM 
+0
+​	
+ 
+​	
+ + 
+dt
+d(ΔM 
+vortex
+​	
+ )
+​	
+ , 
+dt
+d(ΔM 
+vortex
+​	
+ )
+​	
+ ∝ 
+E
+˙
+  
+acc
+​	
+ 
+and 
+d
+(
+Δ
+M
+v
+o
+r
+t
+e
+x
+)
+/
+d
+t
+d(ΔM 
+vortex
+​	
+ )/dt is not constrained by the Eddington limit.
+
+No seed black hole needed: aggregates of fundamental bricks in high-density regions of the early Universe directly form compact topological stars (
+10
+4
+10 
+4
+ –
+10
+6
+ 
+M
+⊙
+10 
+6
+ M 
+⊙
+​	
+ ). The formation mechanism is not “gas cloud collapse” but large-scale spontaneous aggregation of topological defects—a cosmological-scale application of TDMU Postulates Seven and Eight. After the initial core forms, three-channel parallel growth can reach 
+10
+9
+ 
+M
+⊙
+10 
+9
+ M 
+⊙
+​	
+  within
+<
+700
+<700 million years.
+
+8. TDMU Formulation of the No-Hair Theorem
+The GR no-hair theorem holds within its own postulates: the exterior spacetime of a stationary black hole is completely determined by three parameters: mass, charge, and angular momentum.
+
+The corresponding TDMU formulation:
+
+The exterior is likewise determined by 
+M
+e
+f
+f
+M 
+eff
+​	
+ , charge (link density gradient), and spin (preferred alignment of vortices).
+However, 
+M
+e
+f
+f
+=
+M
+0
++
+Δ
+M
+v
+o
+r
+t
+e
+x
+M 
+eff
+​	
+ =M 
+0
+​	
+ +ΔM 
+vortex
+​	
+  contains contributions from the internal vortex configuration, which carries the full information of the accretion history.
+The internal configuration manifests externally through the following channels:
+Internal structure information	Externally measurable manifestation	Observational means
+Total vortex twist energy
+∑
+W
+i
+∑W 
+i
+​	
+ 	Systematic deviation of 
+Δ
+R
+p
+h
+ΔR 
+ph
+​	
+ 	EHT/ngEHT/VLBI
+Anisotropy of vortex distribution	Deviation relation between jet and accretion luminosity	Radio + X-ray
+Topological invariants of vortex network	Non-thermal correction spectrum of Hawking radiation	Future terahertz detection
+Radial distribution of 
+F
+c
+o
+r
+e
+F 
+core
+​	
+ 	Spacing pattern of photon ring substructure	Next-generation submillimeter arrays
+Core assertion: the no-hair theorem is a mathematical consequence of GR under its vacuum assumption, not a physical fact. In TDMU, black holes possess a rich “geometric hair”—the topological configuration of the vortex network—which manifests externally in computable and observable ways. Two black holes with the same external mass but different accretion histories should exhibit systematic deviations in 
+Δ
+R
+p
+h
+ΔR 
+ph
+​	
+ .
+
+9. Testable Predictions
+The following predictions are all clearly distinguishable from the GR model and are unique to the TDMU framework.
+
+Prediction 1: Finite Thickness of the Photon Ring
+
+Δ
+R
+p
+h
+=
+R
+tang
+−
+R
+escape
+>
+0
+ΔR 
+ph
+​	
+ =R 
+tang
+​	
+ −R 
+escape
+​	
+ >0
+GR predicts a zero-thickness photon sphere. TDMU predicts a finite-thickness shell, whose width is determined by the second-order gradient of the shared-link density; the thickness should show a systematic trend with increasing 
+M
+e
+f
+f
+M 
+eff
+​	
+  and be anti-correlated with spin 
+a
+∗
+a 
+∗
+​	
+ . Measurements of 
+Δ
+R
+p
+h
+ΔR 
+ph
+​	
+  for multiple SMBHs by EHT/ngEHT can test this.
+
+Prediction 2: Stable Black Holes with Extreme Spin
+The triple geometric confinement (gravitational self-confinement + topological saturation barrier + vortex cohesion) provides structural stability beyond the GR Thorne limit, allowing the existence of stable black holes with 
+a
+∗
+→
+1
+a 
+∗
+​	
+ →1. The GR Thorne limit (
+a
+∗
+≲
+0.998
+a 
+∗
+​	
+ ≲0.998) is a limit from accretion disk radiation reaction, not a structural limit of the black hole. If LIGO/Virgo/KAGRA O5 discovers stable candidates with 
+a
+∗
+>
+0.998
+a 
+∗
+​	
+ >0.998, that would be consistent with the TDMU prediction.
+
+Prediction 3: Offset Between Bright Ring Peak and Matter Truncation
+The brightness peak of the bright ring is located at 
+R
+tang
+R 
+tang
+​	
+  (second-order gradient critical point), while the matter disruption boundary is located at 
+R
+fiss
+R 
+fiss
+​	
+  (isosurface of 
+E
+compressive
+E 
+compressive
+​	
+ ), and 
+R
+tang
+<
+R
+fiss
+R 
+tang
+​	
+ <R 
+fiss
+​	
+ . In GR, the two coincide near the ISCO. High-resolution joint X-ray and radio observations can resolve this offset.
+
+Prediction 4: Discrete Spectrum of Post-Merger Gravitational Wave Echoes
+After a merger, the new vortex network undergoes a series of quasi-normal mode damped oscillations in the process of re-establishing 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0. The GR no-hair theorem predicts no subsequent signal after the merger. TDMU predicts echoes exhibiting a discrete spectral sequence (corresponding to different orders of vortex reconnection modes), with peak frequencies 
+ω
+∝
+F
+c
+o
+r
+e
+/
+I
+(
+suture
+)
+ω∝ 
+F 
+core
+​	
+ /I(suture)
+​	
+ . This discrete sequence is a unique imprint that distinguishes TDMU from other alternative theories (firewalls, boson stars, etc.).
+
+Prediction 5: Matter-Dependence of the Truncation Radius
+R
+fiss
+R 
+fiss
+​	
+  is determined by the 
+E
+compressive
+E 
+compressive
+​	
+  (Definition 8.4a, the total topological compressive binding energy of matter) of the accreted material, and directly depends on the matter composition. In GR, the accretion disk truncation has no direct connection with matter composition. Accretion disks with different metallicities should exhibit systematic differences in truncation radii—metal-rich disks (complex nuclides, higher 
+E
+compressive
+E 
+compressive
+​	
+ ) are truncated further out. High-resolution X-ray spectroscopy can test this.
+
+10. Honest Boundary
+The following issues currently have only qualitative descriptions within TDMU and have not yet been quantitatively derived:
+
+Precise numerical value of the critical brick number for superfluid shell closure, 
+M
+c
+r
+i
+t
+,
+m
+i
+n
+M 
+crit,min
+​	
+ —requires statistical mechanics of the surface link network.
+Typical value and scaling factor of the vortex accretion boost ratio 
+Δ
+M
+v
+o
+r
+t
+e
+x
+/
+M
+0
+ΔM 
+vortex
+​	
+ /M 
+0
+​	
+ —requires statistical mechanics of the vortex network.
+The precise functional relationship between the superfluid collapse threshold 
+W
+c
+r
+i
+t
+W 
+crit
+​	
+  and
+F
+c
+o
+r
+e
+F 
+core
+​	
+ —requires global stability analysis of the vortex network.
+The exact functional dependence of the capture surface radii 
+R
+trap
+,
+R
+escape
+,
+R
+tang
+R 
+trap
+​	
+ ,R 
+escape
+​	
+ ,R 
+tang
+​	
+  on
+M
+e
+f
+f
+M 
+eff
+​	
+ , 
+F
+c
+o
+r
+e
+F 
+core
+​	
+ , and spin 
+a
+∗
+a 
+∗
+​	
+ .
+Mapping from TDMU geometric units to SI units: reconnection steps 
+→
+→ action, link density 
+→
+→ gravitational constant 
+G
+G, etc.
+11. Conclusion
+This paper constructs a complete geometric model of black-hole-grade topological stars within the TDMU 2.32 framework. Core conclusions:
+
+Physical entity: a black hole is a superfluid vortex geometric engine. The interior is locked by 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0, released energy is transformed into vortex twist energy via a three-step “phonon 
+→
+→ vortex” mechanism, contributing 
+Δ
+M
+v
+o
+r
+t
+e
+x
+ΔM 
+vortex
+​	
+ . The triple geometric confinement tames the centrifugal storm; equatorial flattening and polar jets are its macroscopic manifestations.
+Optical appearance: the first-order and second-order gradient effects of the shared-link density produce a four-layer structure. The photon capture shell has a finite thickness
+Δ
+R
+p
+h
+>
+0
+ΔR 
+ph
+​	
+ >0, forming a direct divide from the zero-thickness GR photon sphere.
+Triple mass constraints: the lower limit (critical 
+P
+s
+c
+→
+1
+P 
+sc
+​	
+ →1), the gap (unstable region of semi-closed phase transition), and the upper limit (collapse of 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0) are unifiedly explained by the same set of geometric parameters, without invoking equations of state, explosion asymmetry, or radiation pressure limits.
+Sgr A and M87**: different operating conditions of the same blueprint—identical internal structure, differing only in the external matter supply rate.
+High-redshift SMBHs: three-channel parallel growth (
+M
+0
+M 
+0
+​	
+  accretion + 
+Δ
+M
+v
+o
+r
+t
+e
+x
+ΔM 
+vortex
+​	
+  boost +
+F
+c
+o
+r
+e
+F 
+core
+​	
+  positive feedback) naturally explains the rapid formation of early SMBHs, without the seed black hole hypothesis.
+No-hair theorem: it is a descriptive capacity boundary of GR, not a physical fact. The internal vortex topological configuration (“geometric hair”) of a black hole manifests externally through channels such as the fine structure of 
+Δ
+R
+p
+h
+ΔR 
+ph
+​	
+  and the post-merger echo spectrum.
+Five predictions: finite thickness of the photon ring, extreme spin stability, bright-ring–truncation offset, discrete spectrum of merger echoes, and matter-dependence of the truncation radius—provide clear pathways for observational discrimination between TDMU and GR.
+The “blackness” of a black hole is not the end of matter, but an optical illusion caused by light being gradient-locked under extreme geometric conditions. Its interior is a ceaseless vortex storm, tamed by a triple geometric shackle. TDMU restores the black hole to its full status as a physical entity possessing a rich internal structure and observable “geometric hair.”
+
+AI Usage Declaration
+
+The entire theoretical framework, mathematical derivations, physical modeling, and interpretation of conclusions in this paper were independently completed by the author based on the TDMU framework. The use of artificial intelligence tools (including but not limited to large language models) in this research was limited to:
+
+Text integration and formal typesetting: assisting in summarizing, reorganizing, and structured presentation of content from multiple rounds of discussion;
+Reference formatting: assisting in organizing the citation format of references, without participation in the screening or evaluation of reference content.
+AI tools did not participate in the following:
+
+Construction of theoretical postulates and corollaries (all derived from the core TDMU literature [1] and its extensions);
+Establishment of physical models and formulation of hypotheses (entirely by the author);
+Mathematical derivations and verification (entirely performed by the author);
+Interpretation of results and drawing of physical conclusions (entirely based on the author's independent judgment).
+Therefore, the full academic responsibility for this paper rests with the author. The use of AI tools does not affect the originality, independence, and testability of the scientific content of this paper.
+
+References
+[1] Topological Dynamic Membrane Universe Model (TDMU) 2.32—A Complete First-Principles Formulation Integrating Recursive Weaving, Nuclear Transformation Channels, Astrophysical Evolution Criteria, and Formal Completeness Supplement.
+
+(中文版）黑洞级拓扑星的TDMU几何模型
+
+——物理实体、光学表象、质量三限制与可检验预言
+
+作者：MJP
+日期：2026年7月22日
+
+
+摘要
+
+在拓扑动力膜宇宙（TDMU 2.32）框架内，本文构建黑洞级拓扑星的几何模型。物理实体为处于全局相位锁定（
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0）的超流涡旋核心，释能经三步机制转化为涡旋扭曲能，贡献有效质量
+Δ
+M
+vortex
+ΔM 
+vortex
+​	
+ ，三重几何束缚驯服离心风暴。光学表象由共享链接密度梯度的一阶与二阶效应控制，产生四层结构，其中光子捕获壳层具有有限厚度 
+Δ
+R
+ph
+>
+0
+ΔR 
+ph
+​	
+ >0，与广义相对论的零厚度光子球形成可检验分野。同一组几何参数（
+M
+0
+,
+D
+,
+P
+sc
+,
+F
+core
+M 
+0
+​	
+ ,D,P 
+sc
+​	
+ ,F 
+core
+​	
+ ）统一描述质量下限、质量间隙与质量上限——分别为超流壳闭合临界、半闭合相变不稳定区、与涡旋网络相位锁定崩溃点。以Sgr A与M87为案例，展示同一引擎在饥饿与满负荷工况下的观测差异。高红移超大质量黑洞的快速形成通过三通道并行增长实现，无需种子黑洞假设。模型提供五项具有明确区分度的可检验预言。
+
+1. 引言
+
+1.1 标准模型的未闭合问题
+
+广义相对论框架下的黑洞模型存在深层理论张力：
+
+奇点问题：时空曲率发散标志着理论自身的失效。
+信息悖论：霍金辐射纯热谱与量子力学幺正性冲突。
+多机制拼凑：引力（广义相对论）、吸积盘辐射（磁流体力学）、喷流（Blandford-Znajek机制）、霍金辐射（弯曲时空量子场论）——四种现象调用四种独立机制，缺乏统一底层语言。
+种子黑洞困境：高红移处已观测到超过 
+10
+9
+M
+⊙
+10 
+9
+ M 
+⊙
+​	
+  的超大质量黑洞（如ULAS J1342+0928，
+z
+=
+7.54
+z=7.54），宇宙年龄仅约7亿年。从恒星级种子以爱丁顿极限连续吸积所需时间远超此限。轻种子（Population III恒星，
+∼
+10
+2
+M
+⊙
+∼10 
+2
+ M 
+⊙
+​	
+ ）数量存疑，重种子（原初气体云直接坍缩，
+∼
+10
+5
+M
+⊙
+∼10 
+5
+ M 
+⊙
+​	
+ ）形成条件苛刻，两者均缺乏直接观测证据。
+质量三限制无统一解释：下限（
+∼
+2
+∼2-
+3
+M
+⊙
+3M 
+⊙
+​	
+ ）调用中子星物态方程，间隙（
+2.5
+2.5-
+5
+M
+⊙
+5M 
+⊙
+​	
+ ）调用超新星爆炸不对称性，上限（
+∼
+5
+×
+10
+10
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ ）调用爱丁顿吸积率限制——三种独立假设，无统一语言。
+1.2 TDMU的底层公设
+
+TDMU 2.32 [1] 提供了一套以组合网络为基底的第一性原理语言：
+
+物质是共享链接编织的拓扑结。
+光是共享链接密度波与取向度波的耦合横波。
+引力是缺位驱动的共享链接内卷重联流（定义9.4）。
+超流态由全局相位锁定条件 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 严格定义（定义9.3）。
+路径一（缺陷互补编织）与路径二（强制链式重联）是核转变的两条基本通道。
+1.3 本文任务
+
+将TDMU公设系统性地应用于黑洞物理：构造无奇点、信息守恒、单机制贯通的物理实体；厘清物理实体与光学表象的严格对应；统一解释质量三限制、高红移SMBH形成、Sgr A*/M87*差异；提供与GR明确区分的可检验预言。
+
+2. 四参数几何描述
+
+任何致密拓扑星由以下四个独立几何参数完整描述：
+
+参数	符号	几何含义	TDMU 2.32锚点
+原砖总数	
+M
+0
+M 
+0
+​	
+ 	内核原砖计数	定义7.4
+缺位率	
+D
+D	内核原砖缺失比例（内卷应力强度）	推论8.1
+表面相干度	
+P
+sc
+P 
+sc
+​	
+ 	表面 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 占比	定义9.3
+内核填充因子	
+F
+core
+F 
+core
+​	
+ 	实际原砖数/理论闭包数（
+12
+3
+12 
+3
+ ）	定义8.4a
+黑洞级拓扑星标志：
+M
+0
+M 
+0
+​	
+  极大，
+D
+D 极高，
+P
+sc
+→
+1
+P 
+sc
+​	
+ →1（完美超流壳），
+F
+core
+→
+1
+F 
+core
+​	
+ →1（连接饱和）。标准模型中的“奇点”在此被“有限饱和网络”取代。
+
+3. 物理实体：超流涡旋引擎
+
+3.1 相位锁定与热声子禁闭
+
+核心共享链接网络满足全局相位锁定（定义9.3）：
+
+D
+i
+j
+Θ
+=
+0
+,
+∀
+⟨
+i
+,
+j
+⟩
+,
+D
+i
+j
+Θ
+≡
+Θ
+(
+r
+j
+)
+−
+Θ
+(
+r
+i
+)
+−
+A
+i
+j
+D 
+ij
+​	
+ Θ=0,∀⟨i,j⟩,D 
+ij
+​	
+ Θ≡Θ(r 
+j
+​	
+ )−Θ(r 
+i
+​	
+ )−A 
+ij
+​	
+ 
+该条件将取向度 
+A
+i
+j
+A 
+ij
+​	
+  严格锁定于相位差：
+A
+i
+j
+=
+Θ
+(
+r
+j
+)
+−
+Θ
+(
+r
+i
+)
+A 
+ij
+​	
+ =Θ(r 
+j
+​	
+ )−Θ(r 
+i
+​	
+ )。此等式消去了 
+A
+i
+j
+A 
+ij
+​	
+  的全部独立涨落自由度。热声子（取向度非相干涨落）在相空间中不存在。粘性耗散（需悬挂端口）被
+F
+core
+→
+1
+F 
+core
+​	
+ →1 阻塞。核心保持零熵基态。
+
+3.2 释能三步机制
+
+路径一（缺陷互补编织）与路径二（强制链式重联）持续释放应力能，经历三步命运：
+
+第一步——局域产生：重联事件产生局域应力冲击波（热声子中间态）。
+
+第二步——闭锁与阻塞：
+
+向外逃逸被径向共享链接梯度势阱闭锁；
+向内耗散被 
+F
+core
+→
+1
+F 
+core
+​	
+ →1（悬挂端口缺失）阻塞。
+第三步——相干相变：声子积累至非线性阈值，通过共享链接网络集体重联转化为量子化拓扑涡旋：
+
+∮
+C
+D
+Θ
+⋅
+d
+l
+=
+2
+π
+n
+,
+n
+∈
+Z
+∮ 
+C
+​	
+ DΘ⋅dl=2πn,n∈Z
+全部初始释能最终以涡旋扭曲能（Writhe × Twist）形式冻结，不产生可观测热辐射或熵增。
+
+3.3 有效质量与涡旋增溢
+
+涡旋扭曲能直接抵抗外部重联，计入等效质量：
+
+M
+eff
+=
+M
+0
++
+Δ
+M
+vortex
+,
+Δ
+M
+vortex
+∝
+∑
+i
+W
+i
+M 
+eff
+​	
+ =M 
+0
+​	
+ +ΔM 
+vortex
+​	
+ ,ΔM 
+vortex
+​	
+ ∝ 
+i
+∑
+​	
+ W 
+i
+​	
+ 
+其中 
+W
+i
+W 
+i
+​	
+  为第 
+i
+i 条涡旋管的缠绕数与扭曲数之积。外部引力场（共享链接总数）由 
+M
+eff
+M 
+eff
+​	
+  决定。
+
+关键推论：
+Δ
+M
+vortex
+ΔM 
+vortex
+​	
+  的增长不受爱丁顿极限约束——释能闭锁于涡旋网络，不产生向外的辐射压。这为高红移SMBH提供了快速形成通道（详见第7节）。
+
+3.4 三重几何束缚
+
+核心涡旋湍流的巨大离心趋势（赤道方向取向度过剩）被三重机制严格束缚：
+
+引力自束缚：
+M
+eff
+M 
+eff
+​	
+  产生全局共享链接回拉应力（定义9.4）。
+拓扑饱和势垒：
+F
+core
+→
+1
+F 
+core
+​	
+ →1 禁止径向位移所需的新增链接，形成无硬壁弹性势阱。
+涡旋近程内聚：相邻涡旋管落入定义9.7（强核力几何对应）的吸引区间，产生弓形表面张力。
+宏观后果：离心趋势不导致飞散，而是表现为赤道面扁平化与极轴方向喷流准直——极轴是三重束缚下的最小阻力通道。
+
+4. 光学表象：四层结构与有限厚度光子捕获壳层
+
+共享链接密度 
+ρ
+link
+(
+r
+)
+ρ 
+link
+​	
+ (r) 的空间分布控制光传播。一阶径向梯度 
+d
+ρ
+/
+d
+r
+dρ/dr 决定径向光禁锢；二阶曲率梯度 
+d
+2
+ρ
+/
+d
+r
+2
+d 
+2
+ ρ/dr 
+2
+  决定切向光捕获。
+
+4.1 三重捕获面
+
+半径	几何条件	物理含义
+R
+陷光
+R 
+陷光
+​	
+ 	
+(
+d
+ρ
+/
+d
+r
+)
+crit
+(dρ/dr) 
+crit
+​	
+ 	内捕获面：对应观测阴影半径
+R
+逃逸
+R 
+逃逸
+​	
+ 	
+(
+d
+ρ
+/
+d
+r
+)
+subcrit
+(dρ/dr) 
+subcrit
+​	
+ 	外逃逸面：径向向外传播成为可能
+R
+切陷
+R 
+切陷
+​	
+ 	
+(
+d
+2
+ρ
+/
+d
+r
+2
+)
+crit
+(d 
+2
+ ρ/dr 
+2
+ ) 
+crit
+​	
+ 	切向捕获面：光子环形成位置
+R
+裂
+R 
+裂
+​	
+ 	
+σ
+infall
+=
+E
+抗压
+σ 
+infall
+​	
+ =E 
+抗压
+​	
+ 	裂变面：路径二触发边界
+严格层级关系：
+
+R
+陷光
+<
+R
+逃逸
+<
+R
+切陷
+<
+R
+裂
+R 
+陷光
+​	
+ <R 
+逃逸
+​	
+ <R 
+切陷
+​	
+ <R 
+裂
+​	
+ 
+4.2 四层光学结构
+
+层次	半径范围	光行为	观测表现
+绝对暗区	
+r
+≤
+R
+陷光
+r≤R 
+陷光
+​	
+ 	全锁死向内	阴影核心
+暗环层	
+R
+陷光
+<
+r
+≤
+R
+逃逸
+R 
+陷光
+​	
+ <r≤R 
+逃逸
+​	
+ 	径向锁死向内	与阴影融为一体（不可见）
+光子捕获壳层	
+R
+逃逸
+<
+r
+≤
+R
+切陷
+R 
+逃逸
+​	
+ <r≤R 
+切陷
+​	
+ 	径向可外推，切向捕获	有限厚度光子环
+亮环层	
+R
+切陷
+<
+r
+≤
+R
+裂
+R 
+切陷
+​	
+ <r≤R 
+裂
+​	
+ 	完全逃逸	吸积盘弥散辐射
+关键分野：
+
+Δ
+R
+ph
+=
+R
+切陷
+−
+R
+逃逸
+>
+0
+ΔR 
+ph
+​	
+ =R 
+切陷
+​	
+ −R 
+逃逸
+​	
+ >0
+GR光子球是零厚度几何面（
+r
+=
+3
+G
+M
+/
+c
+2
+r=3GM/c 
+2
+ ，由施瓦西度规的 
+g
+t
+t
+g 
+tt
+​	
+  导数零点决定）。TDMU光子捕获壳层是有限厚度壳层，其宽度由共享链接密度的二阶梯度曲率决定。这是两个理论在光学表象上的直接分野。
+
+4.3 EHT M87*光子环的TDMU解读
+
+观测特征	TDMU几何对应
+中心暗区	绝对暗区 + 暗环层
+亮环峰值	
+R
+切陷
+R 
+切陷
+​	
+ （二阶梯度最大处）
+环的有限宽度	
+Δ
+R
+ph
+=
+R
+切陷
+−
+R
+逃逸
+ΔR 
+ph
+​	
+ =R 
+切陷
+​	
+ −R 
+逃逸
+​	
+ 
+环的不对称性	自旋导致的涡旋密度角向分布不均
+5. 质量三限制的统一几何解释
+
+标准模型对三个质量限制分别调用不同机制。TDMU用同一组几何参数统一解释。
+
+5.1 质量下限（
+∼
+2
+∼2-
+3
+M
+⊙
+3M 
+⊙
+​	
+ ）：超流壳闭合临界
+
+黑洞级拓扑星需同时满足：
+P
+sc
+→
+1
+P 
+sc
+​	
+ →1（表面完美超流壳）和 
+F
+core
+→
+1
+F 
+core
+​	
+ →1（核心连接饱和）。
+
+当 
+M
+0
+<
+M
+crit,min
+M 
+0
+​	
+ <M 
+crit,min
+​	
+  时：
+
+表面链接密度不足以形成闭合超流壳 
+→
+→ 存在悬挂端口 
+→
+→ 路径二冲击波可穿透表面 
+→
+→ 观测为脉冲星。
+内部未达连接饱和 
+→
+→ 缺位应力集中 
+I
+>
+0
+I>0 
+→
+→ 脆性断裂可能。
+当 
+M
+0
+>
+M
+crit,min
+M 
+0
+​	
+ >M 
+crit,min
+​	
+  时：
+
+表面超流壳自发闭合 
+→
+→ 悬挂端口消失 
+→
+→ 冲击波被吸收 
+→
+→ 脉冲停止。
+视界（
+R
+陷光
+R 
+陷光
+​	
+ ）涌现 
+→
+→ 光被几何锁定。
+结论：质量下限是表面超流壳闭合的拓扑相变点，由链接密度能否达到相位锁定阈值决定，与物态方程无关。
+
+5.2 质量间隙（
+2.5
+2.5-
+5
+M
+⊙
+5M 
+⊙
+​	
+ ）：半闭合壳的不稳定相变区
+
+当 
+M
+0
+∼
+M
+crit,min
+M 
+0
+​	
+ ∼M 
+crit,min
+​	
+  时，表面处于局部闭合状态：
+
+超流区（
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0）与非超流区（
+D
+i
+j
+Θ
+≠
+0
+D 
+ij
+​	
+ Θ
+
+=0）形成交错斑图。
+两区之间的无耗散/耗散边界产生巨大剪切应力。
+该应力无稳态解：要么驱动剩余缺陷快速闭合（
+→
+→ 黑洞），要么撕裂已有超流区（
+→
+→ 退回脉冲星态）。
+相变时间极短——半闭合态是动力学不稳定流形，存在时间远小于天文观测的时间分辨率。因此质量间隙在观测上表现为“几乎没有致密天体”，不是因为不存在，而是因为过渡态太快，稳态只有两侧。
+
+结论：质量间隙是非平衡相变的不稳定区域，而非“禁止质量区间”。
+
+5.3 质量上限（
+∼
+5
+×
+10
+10
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ ）：超流相位锁定崩溃
+
+当有效质量持续增长，内部涡旋扭曲能密度 
+∑
+i
+W
+i
+∑ 
+i
+​	
+ W 
+i
+​	
+  不断增加。全局相位锁定 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 只能在涡旋密度低于临界值 
+W
+crit
+W 
+crit
+​	
+  时维持。
+
+超过临界值后：
+
+局域 
+D
+i
+j
+Θ
+≠
+0
+D 
+ij
+​	
+ Θ
+
+=0 涨落出现 
+→
+→ 超流态开始局部“熔化”。
+熔化区域产生耗散通道 
+→
+→ 能量开始向外辐射。
+表面超流壳出现缺陷 
+→
+→ 视界（
+R
+陷光
+R 
+陷光
+​	
+ ）局部失效 
+→
+→ 部分光可逃逸。
+上限的统计性质：不同拓扑星的临界质量取决于初始缺位率 
+D
+D 和涡旋管缠绕数分布，但统计上存在典型上限，对应观测上 
+∼
+5
+×
+10
+10
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+  的SMBH质量截断。
+
+结论：质量上限是涡旋网络几何容限的崩溃点，非爱丁顿光度极限。
+
+5.4 统一汇总
+
+质量限制	标准模型（多机制）	TDMU（单一几何）
+下限（
+∼
+3
+M
+⊙
+∼3M 
+⊙
+​	
+ ）	中子星物态方程极限	
+P
+sc
+→
+1
+P 
+sc
+​	
+ →1 临界原砖数
+间隙（
+2.5
+2.5-
+5
+M
+⊙
+5M 
+⊙
+​	
+ ）	超新星爆炸不对称性（争议）	半闭合相变不稳定区（无稳态）
+上限（
+∼
+5
+×
+10
+10
+M
+⊙
+∼5×10 
+10
+ M 
+⊙
+​	
+ ）	爱丁顿吸积率限制	
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 崩溃点
+6. 案例：同一张蓝图下的两种工况
+
+6.1 Sgr A*：饥饿的几何引擎
+
+属性	描述
+M
+eff
+M 
+eff
+​	
+ 	
+∼
+4
+×
+10
+6
+M
+⊙
+∼4×10 
+6
+ M 
+⊙
+​	
+ 
+当前状态	长期低吸积态
+外部物质供给	极低（银心环境相对稀疏）
+观测表现	“休眠”——仅偶发X射线和红外耀斑
+耀斑机制：不是核心爆发，而是沉默区局部物质密度涨落导致路径二阈值被偶然突破。少量物质落入 
+R
+裂
+R 
+裂
+​	
+  以内，路径二局部触发。因质量太小，无法维持持续亮环，耀斑迅速衰减。频率和强度反映外部物质供给的随机涨落。
+
+自旋来源：
+a
+∗
+∼
+0.5
+a 
+∗
+​	
+ ∼0.5-
+0.9
+0.9 非“继承”自前身星。内部涡旋管在吸积过程中，被内卷流的旋转方向逐渐排列为有序构型——吸积物质携带的角动量通过共享链接网络“梳理”涡旋管取向。自旋值反映了银河系历史上所有被吸积物质累积的梳理效果。
+
+稳定性：即使外部物质供给极低，三重几何束缚确保核心稳定。
+M
+eff
+M 
+eff
+​	
+  以涡旋扭曲能形式“冻结”，不依赖外部压力。
+
+6.2 M87*：满负荷的几何引擎
+
+属性	描述
+M
+eff
+M 
+eff
+​	
+ 	
+∼
+6.5
+×
+10
+9
+M
+⊙
+∼6.5×10 
+9
+ M 
+⊙
+​	
+ 
+当前状态	高吸积活跃态
+外部物质供给	充沛（M87星系中心环境致密）
+观测表现	亮环层持续辐射，极长极准直喷流
+喷流的几何起源：喷流是三重束缚机制的自然副产物——
+
+赤道面堆积：涡旋管离心趋势在赤道面最强，被三重束缚锁住，造成赤道扁平化。
+极轴最小阻力通道：极轴方向离心趋势为零，内卷流剪切力最小。
+涡旋挤出：赤道面过度堆积的涡旋应力沿极轴方向释放——喷流是几何引擎的“排气口”。
+与标准模型的根本区别：标准模型需假设磁场产生和维持机制来驱动喷流；TDMU中喷流是几何约束的必然伴随现象，无需磁场假设。
+
+6.3 差异的本质
+
+特征	Sgr A*（饥饿引擎）	M87*（满负荷引擎）	TDMU解释
+涡旋网络功率	中等	极高	吸积率决定涡旋注入速率
+亮环层	极低（偶发耀斑）	持续高亮	亮度 = 路径二触发面积 × 物质供给率
+喷流	无显著结构	极长、极准直	赤道堆积程度决定极轴挤出
+光子环	理论存在，尚未清晰成像	已成像	质量差异使 
+Δ
+R
+ph
+ΔR 
+ph
+​	
+  尺度不同
+本质差异不在内部结构，而在外部环境。两者内部都是超流涡旋引擎——同样的 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 锁定、同样的三重束缚、同样的四层光学结构。Sgr A因外部燃料供给不足而空转，M87因外部燃料充沛而满负荷运行。
+
+如果银河系中心突然获得大量物质供给（如潮汐撕裂事件），Sgr A*将经历：沉默区激活 
+→
+→ 亮环层亮度飙升 
+→
+→ 喷流从无到有——该转变可直接观测。
+
+7. 高红移超大质量黑洞：三通道并行增长
+
+ULAS J1342+0928（
+z
+=
+7.54
+z=7.54，
+M
+∼
+8
+×
+10
+8
+M
+⊙
+M∼8×10 
+8
+ M 
+⊙
+​	
+ ）等早期SMBH的标准模型“时间不够”困境，TDMU以三通道并行增长解决：
+
+M
+0
+M 
+0
+​	
+  增长（常规吸积）：增加原砖总数，受爱丁顿极限约束。
+Δ
+M
+vortex
+ΔM 
+vortex
+​	
+  增长（涡旋增溢）：吸积释能被闭锁为涡旋扭曲能，直接贡献 
+M
+eff
+M 
+eff
+​	
+ ，速率不受辐射压限制——能量不向外辐射。
+F
+core
+F 
+core
+​	
+  正反馈：
+M
+eff
+M 
+eff
+​	
+  增大 
+→
+→ 闭锁效率提高 
+→
+→ 更多释能转化为涡旋 
+→
+→ 增长率进一步提升。
+有效质量增长率：
+
+d
+M
+eff
+d
+t
+=
+d
+M
+0
+d
+t
++
+d
+(
+Δ
+M
+vortex
+)
+d
+t
+,
+d
+(
+Δ
+M
+vortex
+)
+d
+t
+∝
+E
+˙
+acc
+dt
+dM 
+eff
+​	
+ 
+​	
+ = 
+dt
+dM 
+0
+​	
+ 
+​	
+ + 
+dt
+d(ΔM 
+vortex
+​	
+ )
+​	
+ , 
+dt
+d(ΔM 
+vortex
+​	
+ )
+​	
+ ∝ 
+E
+˙
+  
+acc
+​	
+ 
+且 
+d
+(
+Δ
+M
+vortex
+)
+/
+d
+t
+d(ΔM 
+vortex
+​	
+ )/dt 不受爱丁顿极限约束。
+
+无需种子黑洞：早期宇宙高密度区域的原砖聚合体直接形成致密拓扑星（
+10
+4
+10 
+4
+ -
+10
+6
+M
+⊙
+10 
+6
+ M 
+⊙
+​	
+ ）。形成机制不是“气体云坍缩”，而是拓扑缺陷的大规模自发聚合——TDMU公设七和公设八的宇宙学尺度应用。初始核心形成后，三通道并行增长即可在 
+<
+7
+<7 亿年内达到 
+10
+9
+M
+⊙
+10 
+9
+ M 
+⊙
+​	
+ 。
+
+8. 无毛定理的TDMU表述
+
+GR的无毛定理在其公设内成立：稳态黑洞外部时空完全由质量、电荷和角动量三个参数决定。
+
+TDMU的对应表述：
+
+外部同样由 
+M
+eff
+M 
+eff
+​	
+ 、电荷（链接密度梯度）和自旋（涡旋择优排列）决定。
+但 
+M
+eff
+=
+M
+0
++
+Δ
+M
+vortex
+M 
+eff
+​	
+ =M 
+0
+​	
+ +ΔM 
+vortex
+​	
+  包含内部涡旋构型的贡献，后者携带吸积历史的完整信息。
+内部构型通过以下通道对外显现：
+内部结构信息	外部可测表现	观测手段
+涡旋扭曲能总量 
+∑
+W
+i
+∑W 
+i
+​	
+ 	
+Δ
+R
+ph
+ΔR 
+ph
+​	
+  的系统偏差	EHT/ngEHT/VLBI
+涡旋分布的各向异性	喷流与吸积光度的偏离关系	射电+X射线
+涡旋网络拓扑不变量	霍金辐射非热修正谱	未来太赫兹探测
+F
+core
+F 
+core
+​	
+  径向分布	光子环子结构间距模式	下一代亚毫米波阵列
+核心论断：无毛定理是GR在其真空假设下的数学结论，非物理事实。在TDMU中，黑洞拥有丰富的“几何毛”——涡旋网络的拓扑构型——它们以可计算的、可观测的方式对外显现。两个外部质量相同的黑洞，若吸积历史不同，
+Δ
+R
+ph
+ΔR 
+ph
+​	
+  应存在系统偏差。
+
+9. 可检验预言
+
+以下预言均与GR模型存在明确区分，且为TDMU框架所独有。
+
+预言一：光子环有限厚度
+
+Δ
+R
+ph
+=
+R
+切陷
+−
+R
+逃逸
+>
+0
+ΔR 
+ph
+​	
+ =R 
+切陷
+​	
+ −R 
+逃逸
+​	
+ >0
+GR预言零厚度光子球。TDMU预言有限厚度壳层，其宽度由共享链接密度二阶梯度决定，厚度应随
+M
+eff
+M 
+eff
+​	
+  增大呈系统趋势，且与自旋 
+a
+∗
+a 
+∗
+​	
+  反相关。EHT/ngEHT对多个SMBH的 
+Δ
+R
+ph
+ΔR 
+ph
+​	
+  测量可检验。
+
+预言二：极端自旋稳定黑洞
+
+三重几何束缚（引力自束缚+拓扑饱和势垒+涡旋内聚）提供超出GR Thorne极限的结构稳定性，允许 
+a
+∗
+→
+1
+a 
+∗
+​	
+ →1 的稳定黑洞存在。GR Thorne极限（
+a
+∗
+≲
+0.998
+a 
+∗
+​	
+ ≲0.998）是吸积盘辐射反作用极限，非黑洞结构极限。LIGO/Virgo/KAGRA O5若发现 
+a
+∗
+>
+0.998
+a 
+∗
+​	
+ >0.998 的稳定候选体，与TDMU预言一致。
+
+预言三：亮环峰值与物质截断的偏移
+
+亮环亮度峰值位于 
+R
+切陷
+R 
+切陷
+​	
+ （二阶梯度临界），物质撕裂边界位于 
+R
+裂
+R 
+裂
+​	
+ （
+E
+抗压
+E 
+抗压
+​	
+  等值面），且
+R
+切陷
+<
+R
+裂
+R 
+切陷
+​	
+ <R 
+裂
+​	
+ 。GR中两者重合于ISCO附近。高分辨率X射线与射电联合观测可分辨该偏移。
+
+预言四：并合后引力波回声离散频谱
+
+并合后新涡旋网络在重新建立 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 的过程中，经历一系列准正规模衰减振荡。GR无毛定理预言并合后无后续信号。TDMU预言回声呈现离散频谱序列（对应不同阶次涡旋重联模式），峰值频率 
+ω
+∝
+F
+core
+/
+I
+(
+suture
+)
+ω∝ 
+F 
+core
+​	
+ /I(suture)
+​	
+ 。该离散序列是TDMU区别于其他替代理论（火墙、玻色星等）的独特印记。
+
+预言五：截断半径的物质依赖性
+
+R
+裂
+R 
+裂
+​	
+  由被吸积物质的 
+E
+抗压
+E 
+抗压
+​	
+ （定义8.4a，物质的拓扑抗压结合能总和）决定，直接依赖物质组成。GR吸积盘截断与物质组成无直接关联。不同金属丰度吸积盘的截断半径应存在系统性差异——富金属盘（复杂核素，
+E
+抗压
+E 
+抗压
+​	
+  更高）截断更靠外。高分辨率X射线光谱可检验。
+
+10. 诚实边界
+
+以下问题在TDMU中仅有定性描述，尚未完成定量推导：
+
+超流壳闭合临界原砖数：
+M
+crit,min
+M 
+crit,min
+​	
+  的精确数值——需表面链接网络统计力学。
+涡旋增溢比例：
+Δ
+M
+vortex
+/
+M
+0
+ΔM 
+vortex
+​	
+ /M 
+0
+​	
+  的典型值与比例因子——需涡旋网络统计力学。
+超流崩溃临界：
+W
+crit
+W 
+crit
+​	
+  与 
+F
+core
+F 
+core
+​	
+  的精确函数关系——需涡旋网络全局稳定性分析。
+捕获面半径函数：
+R
+陷光
+,
+R
+逃逸
+,
+R
+切陷
+R 
+陷光
+​	
+ ,R 
+逃逸
+​	
+ ,R 
+切陷
+​	
+  与 
+M
+eff
+M 
+eff
+​	
+ 、
+F
+core
+F 
+core
+​	
+ 、自旋 
+a
+∗
+a 
+∗
+​	
+  的精确关系。
+TDMU几何单位到SI单位的映射：重联步数 
+→
+→ 作用量，链接密度 
+→
+→ 引力常数 
+G
+G 等。
+11. 结论
+
+本文在TDMU 2.32框架内构建了黑洞级拓扑星的完备几何模型。核心结论：
+
+物理实体：黑洞是超流涡旋几何引擎。内部 
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 锁定，释能经“声子
+→
+→涡旋”三步机制转化为涡旋扭曲能，贡献 
+Δ
+M
+vortex
+ΔM 
+vortex
+​	
+ 。三重几何束缚驯服离心风暴，赤道扁平化与极轴喷流是其宏观表现。
+光学表象：共享链接密度的一阶与二阶梯度效应产生四层结构。光子捕获壳层具有有限厚度
+Δ
+R
+ph
+>
+0
+ΔR 
+ph
+​	
+ >0，与GR零厚度光子球形成直接分野。
+质量三限制：下限（
+P
+sc
+→
+1
+P 
+sc
+​	
+ →1 临界）、间隙（半闭合相变不稳定区）、上限（
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​	
+ Θ=0 崩溃）由同一组几何参数统一解释，无需调用物态方程、爆炸不对称性或辐射压极限。
+Sgr A与M87：同一张蓝图的不同工况——内部结构相同，差异仅来自外部物质供给率。
+高红移SMBH：三通道并行增长（
+M
+0
+M 
+0
+​	
+  吸积 + 
+Δ
+M
+vortex
+ΔM 
+vortex
+​	
+  增溢 + 
+F
+core
+F 
+core
+​	
+  正反馈）自然解释早期SMBH的快速形成，无需种子黑洞假设。
+无毛定理：是GR的描述能力边界，非物理事实。黑洞内部涡旋拓扑构型（“几何毛”）通过
+Δ
+R
+ph
+ΔR 
+ph
+​	
+  精细结构、并合回声频谱等通道对外显现。
+五项预言：光子环有限厚度、极端自旋稳定性、亮环-截断偏移、并合回声离散频谱、截断半径物质依赖性——为TDMU与GR的观测区分提供了明确路径。
+黑洞的“黑”不是物质的终结，而是极端几何状态下光被梯度锁定的光学幻象。其内部是永不停歇的涡旋风暴，被几何三重枷锁驯服。TDMU恢复了黑洞作为具有丰富内部结构和可观测“几何毛”的完整物理实体的面貌。
+
+AI使用声明
+
+本文的全部理论框架、数学推导、物理建模及结论解读均由作者基于TDMU框架独立完成。人工智能工具（包括但不限于大语言模型）在本研究中的使用范围限定为：
+
+文本整合与形式化编排：辅助完成多轮讨论内容的归纳、重组与结构化呈现；
+文献格式规范化：协助整理参考文献的著录格式，不参与文献内容的筛选或评估。
+人工智能工具未参与以下环节：
+
+理论公设与推论的构建（全部来自TDMU框架的核心文献[1]及其扩展）；
+物理模型的建立与假设的制定（全部由作者完成）；
+结果的解释与物理结论的得出（全部由作者独立判断）。
+因此，本文的全部学术责任由作者承担。AI工具的使用不影响本文在科学内容上的原创性、独立性和可检验性。
+
+参考文献
+
+[1] 拓扑动力膜宇宙模型（TDMU）2.32——融合递归编织、核转变通道、天体演化判据与形式化完备性补遗的完整第一性原理表述.
+
+（全文完）
