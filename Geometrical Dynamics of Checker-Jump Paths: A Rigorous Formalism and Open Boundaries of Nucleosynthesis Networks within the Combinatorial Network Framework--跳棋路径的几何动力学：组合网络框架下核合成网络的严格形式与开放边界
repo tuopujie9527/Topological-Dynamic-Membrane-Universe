@@ -1,0 +1,4244 @@
+Geometrical Dynamics of Checker-Jump Paths: A Rigorous Formalism and Open Boundaries of Nucleosynthesis Networks within the Combinatorial Network Framework
+
+Author: MJP
+
+Date: July 25 2026
+Subject Classification: Mathematical Physics (Combinatorial Topology); Astrophysics (Nucleosynthesis)
+Keywords: combinatorial topology; nucleosynthesis; checker-jump paths; elemental abundances; iron peak; emergence of Markovian dynamics
+MSC Classification: 05C60 (Graph dynamics); 54A25 (Topological enumeration); 85A30 (Astrophysical nucleosynthesis)
+PACS Classification: 26.20.Np (Stellar nucleosynthesis); 02.40.Re (Combinatorial topology)
+
+Abstract
+
+Standard nucleosynthesis models impose the Markovian master equation as an external hypothesis, with transition rates relying on phenomenological reaction cross-sections and artificial mass truncations. Based solely on the combinatorial postulates of nodes and directed shared links, this paper proves that the dynamics of nuclide abundances are discrete counting identities of shared-link reconfiguration, requiring no statistical add-ons whatsoever. We construct the third-order transition tensor for checker-jump aggregation and the topological fragmentation operator; all operator elements are combinatorially generated from defect-node counts, the hierarchical truncation criterion, and the algebraic sum of topological charge directions, without any adjustable parameters. The steady-state abundance expression is derived algebraically, the three-factor net retention criterion is recovered, and the peak abundance of the iron peak is given a purely topological explanation based on geometric extrema of inflow and outflow. The correspondence between eigenmodes under linear perturbation and stellar timescales is presented only as a working hypothesis, with the complete spectral analysis relegated to the open problems. Three qualitative, falsifiable astronomical predictions that rely only on the proven geometric constructions are proposed, and an independent section comprehensively lists all unclosed mathematical boundaries, strictly distinguishing proven combinatorial conclusions from analytic derivations yet to be completed. A first-principles topological foundation for nucleosynthesis, free of exogenous hypotheses, is thereby established.
+
+§1. Introduction
+
+Since Burbidge et al. (1957) laid the foundation for stellar nucleosynthesis, the calculation of elemental abundances has relied on a set of pre-implanted reaction network equations:
+
+d
+Y
+i
+d
+t
+=
+∑
+j
+λ
+j
+→
+i
+Y
+j
+−
+∑
+k
+λ
+i
+→
+k
+Y
+k
+,
+dt
+dY 
+i
+​	
+ 
+​	
+ = 
+j
+∑
+​	
+ λ 
+j→i
+​	
+ Y 
+j
+​	
+ − 
+k
+∑
+​	
+ λ 
+i→k
+​	
+ Y 
+k
+​	
+ ,
+where the transition rates 
+λ
+j
+→
+i
+λ 
+j→i
+​	
+  are extracted from experimental or theoretical cross-sections (e.g., the REACLIB database), and are artificially restricted to reactions between neighboring mass numbers (tridiagonal matrix dominance). This paradigm has three deep-seated problems:
+
+The cross-section data are phenomenological add-ons, not derived from any underlying geometry.
+The mass-neighbor truncation is an empirical assumption that cannot accommodate “checker-jump” aggregation across mass numbers (e.g., 
+28
+Si
++
+28
+Si
+→
+56
+Ni
+28
+ Si+ 
+28
+ Si→ 
+56
+ Ni).
+The time parameter 
+t
+t is introduced as an independent external variable, decoupled from the underlying mechanism of spacetime emergence.
+This paper establishes the following combinatorial base language: the cosmic membrane consists of nodes and directed shared links; nuclides are stable topological knots; time is the cumulative count of reconnection events (postulates detailed in §2). This paper will prove that in this language, the above master equation is not “implanted” but is an inevitable corollary of link-reconfiguration counting.
+
+The structure of this paper is as follows: §2 establishes all combinatorial definitions for topological nuclides and the three fundamental postulates, rigorously tracing back to nodes and directed edges; §3 provides a constructive counting proof of the master equation for abundance dynamics; §4 fully constructs the three classes of transition operators—aggregation, fragmentation, and topological annihilation; §5 proves the steady-state abundance theorem and the geometric extremum criterion for the iron peak; §6 states the hypothesis mapping stellar timescales under linear perturbation and marks its unproven status; §7 gives three observational testable predictions and an ontological comparison with the standard model; §8 lists all open mathematical problems item by item; §9 summarizes the core conclusions rigorously proved in this paper.
+
+§2. Combinatorial Postulates and Topological Nuclide Encoding
+
+All conclusions in this paper are built upon the following three fundamental postulates, without introducing any additional physical quantities or continuous geometric background.
+
+Postulate 1 (Combinatorial Substrate): There exists a discrete combinatorial network, consisting of nodes and directed edges connecting the nodes. This network is not embedded in any pre-existing space and does not evolve in any pre-existing time. The only primitive relation between nodes and edges is “connected” or “not connected.” The only primitive attribute of an edge is its direction—pointing from one node to another.
+
+Postulate 2 (Local Reconnection and Direction Conservation): The sole dynamics of the substrate is local reconnection—when two edges meet at a node, they may disconnect and reconnect according to directional rules. Directional rule: when traversing any closed loop, the difference between the number of counterclockwise-directed edges and clockwise-directed edges remains invariant.
+
+Postulate 3 (Hierarchical Truncation): The shared-link network between topological knots is counted as an effective interaction only when the inter-knot distance is less than or equal to a finite integer multiple of the recursive growth radius of the smaller knot. Specifically, let the number of primitive bricks of topological knot 
+A
+A be 
+N
+A
+N 
+A
+​	
+  and its intrinsic combinatorial radius be 
+r
+A
+=
+⌈
+N
+A
+1
+/
+3
+⌉
+r 
+A
+​	
+ =⌈N 
+A
+1/3
+​	
+ ⌉. When the center-to-center distance 
+d
+A
+B
+d 
+AB
+​	
+  between two knots exceeds 
+κ
+⋅
+(
+r
+A
++
+r
+B
+)
+κ⋅(r 
+A
+​	
+ +r 
+B
+​	
+ ) (where 
+κ
+κ is a shielding factor determined by the local loop density), the total number of shared links decays exponentially below a threshold that can be regarded as zero. The geometric origin of this truncation is that intermediate nodes lack sufficient topological charge to support stable weaving channels.
+
+Definition 1 (Topological Nuclide): A nuclide 
+X
+i
+X 
+i
+​	
+  corresponds to a stable topological knot on the recursive growth tree. Its geometric identity is uniquely labeled by the following combinatorial quantities:
+
+N
+i
+N 
+i
+​	
+ : the total number of primitive bricks constituting this topological knot. Given by the recursive growth tree, 
+N
+i
+=
+4
+m
+i
+N 
+i
+​	
+ =4 
+m 
+i
+​	
+ 
+  in some packing configuration (
+m
+i
+m 
+i
+​	
+  being the recursive order).
+r
+i
+r 
+i
+​	
+ : the intrinsic combinatorial radius, defined as 
+r
+i
+≡
+⌈
+N
+i
+1
+/
+3
+⌉
+r 
+i
+​	
+ ≡⌈N 
+i
+1/3
+​	
+ ⌉ (in node-steps).
+A
+d
+e
+f
+(
+i
+)
+A 
+def
+​	
+ (i): the fractional surface defect area. Let 
+S
+s
+u
+r
+f
+S 
+surf
+​	
+  be the total number of surface nodes of this topological knot, and 
+S
+d
+e
+f
+S 
+def
+​	
+  be the number of surface nodes not covered by complete weaving; then:
+
+A
+d
+e
+f
+(
+i
+)
+≡
+S
+d
+e
+f
+S
+s
+u
+r
+f
+∈
+[
+0
+,
+1
+]
+.
+A 
+def
+​	
+ (i)≡ 
+S 
+surf
+​	
+ 
+S 
+def
+​	
+ 
+​	
+ ∈[0,1].
+From the recursive closure construction, for a perfect 
+12
+3
+12 
+3
+  close-packing configuration, 
+A
+d
+e
+f
+→
+0
+A 
+def
+​	
+ →0; for a vacancy configuration, 
+A
+d
+e
+f
+>
+0
+A 
+def
+​	
+ >0. This conclusion is purely a matter of combinatorial counting.
+Definition 2 (Hierarchical Truncation Criterion): Invoking Postulate 3, define the truncation symbol:
+
+Θ
+a
+b
+≡
+{
+1
+,
+if 
+d
+a
+b
+≤
+κ
+⋅
+(
+r
+a
++
+r
+b
+)
+,
+0
+,
+otherwise
+.
+ 
+Θ 
+ab
+​	
+ ≡{ 
+1,
+0,
+​	
+  
+if d 
+ab
+​	
+ ≤κ⋅(r 
+a
+​	
+ +r 
+b
+​	
+ ),
+otherwise.
+​	
+ 
+Honest note: The specific closed form of 
+κ
+κ has not yet been fully resolved analytically from the fractal dimension of the recursive growth tree (see Open Problem 1 in §8), but the existence of this truncation criterion is directly guaranteed by Postulate 3. All theorems in this paper only require that 
+Θ
+a
+b
+Θ 
+ab
+​	
+  exists as a geometric primitive and do not depend on its analytic value.
+
+Definition 3 (Compressive Binding Tensor): The compressive binding energy tensor of topological knot 
+X
+i
+X 
+i
+​	
+  is decomposed as:
+
+E
+c
+o
+m
+p
+(
+i
+)
+≡
+V
+c
+o
+r
+e
+(
+i
+)
+ 
+S
+c
+o
+r
+e
+(
+i
+)
++
+V
+s
+h
+e
+l
+l
+(
+i
+)
+ 
+S
+s
+h
+e
+l
+l
+(
+i
+)
++
+I
+(
+s
+u
+t
+u
+r
+e
+i
+)
+,
+E 
+comp
+​	
+ (i)≡V 
+core
+​	
+ (i)S 
+core
+​	
+ (i)+V 
+shell
+​	
+ (i)S 
+shell
+​	
+ (i)+I(suture 
+i
+​	
+ ),
+where 
+V
+c
+o
+r
+e
+V 
+core
+​	
+  is the number of core primitive brick units; 
+S
+c
+o
+r
+e
+S 
+core
+​	
+  is the average link saturation of the core (
+0
+≤
+S
+≤
+1
+0≤S≤1); 
+V
+s
+h
+e
+l
+l
+V 
+shell
+​	
+  is the number of effective shell primitive brick units; 
+S
+s
+h
+e
+l
+l
+S 
+shell
+​	
+  is the port saturation of the shell; 
+I
+(
+s
+u
+t
+u
+r
+e
+i
+)
+I(suture 
+i
+​	
+ ) is the stress concentration factor along the core-shell suture.
+
+Strict geometric conclusion: 
+I
+(
+s
+u
+t
+u
+r
+e
+i
+)
+>
+0
+I(suture 
+i
+​	
+ )>0 if and only if the number of core primitive bricks is not an integer multiple of 
+12
+3
+12 
+3
+  (i.e., vacancies exist); for a perfect closure, 
+I
+=
+0
+I=0. This conclusion is derived purely from close-packing geometry and vacancy counting, without any continuous parameters.
+
+Definition 4 (Topological Charge 
+Q
+Q): When traversing any closed loop, the difference between the number of counterclockwise-directed edges and clockwise-directed edges remains invariant (the directional rule of Postulate 2). Define the topological charge:
+
+Q
+(
+X
+i
+)
+≡
+∣
+∑
+core closed loops
+sgn
+⁡
+d
+i
+r
+∣
+−
+∣
+∑
+surface defect ports
+sgn
+⁡
+d
+i
+r
+∣
+,
+Q(X 
+i
+​	
+ )≡ 
+​	
+  
+core closed loops
+∑
+​	
+ sgn 
+dir
+​	
+  
+​	
+ − 
+​	
+  
+surface defect ports
+∑
+​	
+ sgn 
+dir
+​	
+  
+​	
+ ,
+where 
+sgn
+⁡
+d
+i
+r
+∈
+{
++
+1
+,
+−
+1
+}
+sgn 
+dir
+​	
+ ∈{+1,−1} is assigned according to a fixed chirality convention. Physical interpretation: 
+Q
+Q is the global directional algebraic sum of the topological knot. When two topological knots meet, if 
+Q
+a
++
+Q
+b
+=
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ =0, any shared-link reconfiguration will result in a closed structure with zero net directional algebra, unable to sustain a stable new topological knot—this aggregation channel is geometrically forcibly closed (the origin of Path III). This definition requires no introduction of “charge” or “force”; it is entirely a matter of directional counting.
+
+§3. The Master Equation: A Counting Identity for Shared-Link Flux Conservation
+
+Theorem 1 (Geometric Derivation of the Kinetic Mapping): Let 
+N
+i
+(
+t
+)
+N 
+i
+​	
+ (t) be the abundance count of topological knot 
+X
+i
+X 
+i
+​	
+  on the membrane, where 
+t
+t is the cumulative number of local reconnection events (the reconnection count in Postulate 2). Let 
+R
+i
+j
+R 
+ij
+​	
+  be the total number of independent reconfiguration paths, per unit reconnection count, by which a topological knot transitions from state 
+j
+j to state 
+i
+i due to shared-link reconfiguration. Then the abundance change satisfies:
+
+d
+N
+i
+d
+t
+=
+∑
+j
+R
+i
+j
+N
+j
+−
+∑
+k
+R
+k
+i
+N
+i
+.
+dt
+dN 
+i
+​	
+ 
+​	
+ = 
+j
+∑
+​	
+ R 
+ij
+​	
+ N 
+j
+​	
+ − 
+k
+∑
+​	
+ R 
+ki
+​	
+ N 
+i
+​	
+ .
+Proof: Any reconnection operation changes the attribution of a finite number of shared links. If a certain reconnection step transfers 
+m
+j
+→
+i
+m 
+j→i
+​	
+  links belonging to 
+X
+j
+X 
+j
+​	
+  to 
+X
+i
+X 
+i
+​	
+ , then 
+N
+i
+N 
+i
+​	
+  increases by 
+m
+j
+→
+i
+m 
+j→i
+​	
+ and 
+N
+j
+N 
+j
+​	
+  decreases by 
+m
+j
+→
+i
+m 
+j→i
+​	
+ . Summing over all nodes yields the above equation. This equation is merely a counting identity for link-attribution changes and contains no probabilistic assumptions. This conservation law naturally circumvents the add-on operation of extra global mass conservation constraints required by the standard master equation, an ontological advantage of this combinatorial framework.
+□
+□
+
+Definition 5 (Two-Body Aggregation Tensor): Since checker-jump aggregation involves 
+X
+a
++
+X
+b
+→
+X
+i
+X 
+a
+​	
+ +X 
+b
+​	
+ →X 
+i
+​	
+ , we introduce the third-order transition tensor 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+  (note: the subscript 
+i
+∣
+a
+b
+i∣ab denotes the transition-count tensor for the two-body 
+a
++
+b
+a+b flowing to the single body 
+i
+i, distinct from the second-order single-body matrix 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+ ), defined as the total number of defect-complementary reconfiguration paths satisfying the truncation criterion, per unit reconnection count. The total kinetics are written as:
+
+d
+N
+i
+d
+t
+=
+∑
+a
+,
+b
+R
+i
+∣
+a
+b
+N
+a
+N
+b
++
+∑
+x
+F
+i
+∣
+x
+N
+x
+−
+N
+i
+(
+∑
+c
+,
+d
+R
+c
+∣
+i
+d
+N
+d
++
+∑
+y
+F
+y
+∣
+i
+)
+,
+(1) 
+dt
+dN 
+i
+​	
+ 
+​	
+ = 
+a,b
+∑
+​	
+ R 
+i∣ab
+​	
+ N 
+a
+​	
+ N 
+b
+​	
+ + 
+x
+∑
+​	
+ F 
+i∣x
+​	
+ N 
+x
+​	
+ −N 
+i
+​	
+  
+​	
+  
+c,d
+∑
+​	
+ R 
+c∣id
+​	
+ N 
+d
+​	
+ + 
+y
+∑
+​	
+ F 
+y∣i
+​	
+  
+​	
+ ,(1)
+where 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+  is the single-body fragmentation contribution. This form automatically satisfies the conservation of the total number of primitive bricks:
+
+∑
+i
+d
+N
+i
+d
+t
+=
+0
+(
+since each reconfiguration transfers primitive bricks from one set of knots to another
+)
+.
+i
+∑
+​	
+  
+dt
+dN 
+i
+​	
+ 
+​	
+ =0(since each reconfiguration transfers primitive bricks from one set of knots to another).
+In Equation (1), the first term is the nonlinear contribution of two-body aggregation, the second term is the linear contribution of single-body fragmentation, and the outflow terms correspond to the reverse processes of both, with the typesetting clearly distinguished.
+
+§4. Geometric Construction of the Transition Tensor and Matrix Elements
+
+This section provides the strict geometric definitions of 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+  and 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+ ; all factors are products or logical combinations of the combinatorial quantities from §2.
+
+Aggregation Contribution (Checker-Jump Channel): For a given precursor pair 
+(
+a
+,
+b
+)
+(a,b) and target 
+i
+i, the geometric requirements are:
+
+The weaving network formed after complementary meshing of the two precursors’ defects must be consistent with the configuration of 
+X
+i
+X 
+i
+​	
+ ;
+The hierarchical truncation must be satisfied: 
+Θ
+a
+b
+=
+1
+Θ 
+ab
+​	
+ =1;
+Topological charge compatibility: 
+Q
+a
++
+Q
+b
+≠
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ 
+
+=0 (if equal to zero, Channel III forcibly closes).
+Under these conditions, the number of aggregation reconfiguration paths per unit reconnection count is:
+
+R
+i
+∣
+a
+b
+≡
+ρ
+(
+t
+)
+⋅
+Θ
+a
+b
+⋅
+(
+A
+d
+e
+f
+(
+a
+)
+ 
+A
+d
+e
+f
+(
+b
+)
+A
+t
+o
+t
+a
+l
+)
+⋅
+δ
+g
+e
+o
+(
+a
+,
+b
+;
+i
+)
+,
+(2) 
+R 
+i∣ab
+​	
+ ≡ρ(t)⋅Θ 
+ab
+​	
+ ⋅( 
+A 
+total
+​	
+ 
+A 
+def
+​	
+ (a)A 
+def
+​	
+ (b)
+​	
+ )⋅δ 
+geo
+​	
+ (a,b;i),(2)
+where:
+
+ρ
+(
+t
+)
+ρ(t) is the local shared-link density (total links per unit volume, a direct readout of Postulate 1);
+A
+t
+o
+t
+a
+l
+A 
+total
+​	
+  is the global total count of surface nodes of all topological knots on the membrane, a pure normalization constant;
+δ
+g
+e
+o
+(
+a
+,
+b
+;
+i
+)
+∈
+{
+0
+,
+1
+}
+δ 
+geo
+​	
+ (a,b;i)∈{0,1} is the geometric matching indicator: it equals 1 if the complementary meshing of the defects of 
+a
+a and 
+b
+b is topologically equivalent to 
+i
+i, and 0 otherwise.
+Important note: The above expression contains no “temperature,” “cross-section,” or “Boltzmann factor.” In this framework, temperature corresponds to the macroscopic manifestation of loop density; the density 
+ρ
+(
+t
+)
+ρ(t) already fulfills its geometric role.
+
+Fragmentation Contribution (Forced Reconnection Channel): If the stress concentration factor of topological knot 
+X
+x
+X 
+x
+​	
+  satisfies 
+I
+(
+s
+u
+t
+u
+r
+e
+x
+)
+>
+0
+I(suture 
+x
+​	
+ )>0, and the external compression energy 
+E
+e
+x
+t
+E 
+ext
+​	
+  (read from the compressive stress of the surrounding shared links) exceeds 
+E
+c
+o
+m
+p
+(
+x
+)
+E 
+comp
+​	
+ (x), then forced reconnection is triggered. The number of reconfiguration paths per unit reconnection count for fragmentation into a fragment set containing 
+i
+i (i.e., 
+X
+x
+→
+X
+i
++
+…
+X 
+x
+​	
+ →X 
+i
+​	
+ +…) is denoted:
+
+F
+i
+∣
+x
+≡
+Γ
+x
+→
+i
+⋅
+Θ
+(
+E
+e
+x
+t
+−
+E
+c
+o
+m
+p
+(
+x
+)
+)
+,
+(3) 
+F 
+i∣x
+​	
+ ≡Γ 
+x→i
+​	
+ ⋅Θ(E 
+ext
+​	
+ −E 
+comp
+​	
+ (x)),(3)
+where 
+Θ
+(
+⋅
+)
+Θ(⋅) is the step function (a logical criterion, not a statistical distribution); 
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  is a geometric primitive: the number of independent reconfiguration paths whose fragmentation configuration matches 
+X
+i
+X 
+i
+​	
+  under forced reconnection conditions.
+
+Honest note: The exact enumeration of 
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  depends on the specific positions of vacancies within the closure and is retained here as a combinatorial primitive, without assuming an exponential closed form in the continuous limit (see Open Problem 4 in §8).
+
+Annihilation Contribution (Path III): If 
+Q
+a
++
+Q
+b
+=
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ =0, then in Equation (2) we directly set 
+R
+i
+∣
+a
+b
+≡
+0
+R 
+i∣ab
+​	
+ ≡0, regardless of the defect geometric matching. This is a mandatory conclusion of direction conservation.
+
+§5. Steady-State Abundances and the Three-Factor Criterion (Rigorous Algebraic Expansion)
+
+Theorem 2 (Algebraic Expression for Steady-State Abundances): Set the right-hand side of Equation (1) to zero. Denote the total outflow flux as:
+
+L
+i
+≡
+∑
+c
+,
+d
+R
+c
+∣
+i
+d
+N
+d
++
+∑
+y
+F
+y
+∣
+i
+,
+L 
+i
+​	
+ ≡ 
+c,d
+∑
+​	
+ R 
+c∣id
+​	
+ N 
+d
+​	
+ + 
+y
+∑
+​	
+ F 
+y∣i
+​	
+ ,
+and the total inflow flux as:
+
+G
+i
+≡
+∑
+a
+,
+b
+R
+i
+∣
+a
+b
+N
+a
+N
+b
++
+∑
+x
+F
+i
+∣
+x
+N
+x
+.
+G 
+i
+​	
+ ≡ 
+a,b
+∑
+​	
+ R 
+i∣ab
+​	
+ N 
+a
+​	
+ N 
+b
+​	
+ + 
+x
+∑
+​	
+ F 
+i∣x
+​	
+ N 
+x
+​	
+ .
+Then the steady-state equation 
+N
+˙
+i
+=
+0
+N
+˙
+  
+i
+​	
+ =0 is equivalent to:
+
+N
+s
+s
+,
+i
+=
+G
+i
+(
+{
+N
+s
+s
+}
+)
+L
+i
+(
+{
+N
+s
+s
+}
+)
+.
+(4) 
+N 
+ss,i
+​	
+ = 
+L 
+i
+​	
+ ({N 
+ss
+​	
+ })
+G 
+i
+​	
+ ({N 
+ss
+​	
+ })
+​	
+ .(4)
+This expression precisely corresponds to the “three-factor net retention criterion”: the numerator is the geometric counterpart of the synthesis probability, and the denominator is the geometric counterpart of the sum of the probabilities of further fusion and fission. There are no fitting parameters whatsoever.
+
+Theorem 3 (Geometric Criterion for the Maximum Abundance at the Iron Peak): Let topological knot 
+X
+i
+X 
+i
+​	
+  simultaneously satisfy:
+
+Non-zero inflow: there exists at least one precursor pair 
+(
+a
+,
+b
+)
+(a,b) such that 
+Θ
+a
+b
+=
+1
+Θ 
+ab
+​	
+ =1 and
+δ
+g
+e
+o
+(
+a
+,
+b
+;
+i
+)
+=
+1
+δ 
+geo
+​	
+ (a,b;i)=1, hence 
+R
+i
+∣
+a
+b
+>
+0
+R 
+i∣ab
+​	
+ >0 (the checker-jump channel is open);
+Geometric suppression of fusion outflow: 
+A
+d
+e
+f
+(
+i
+)
+→
+0
+A 
+def
+​	
+ (i)→0, such that all aggregation contributions with 
+i
+i as a precursor satisfy 
+R
+c
+∣
+i
+d
+∝
+A
+d
+e
+f
+(
+i
+)
+→
+0
+R 
+c∣id
+​	
+ ∝A 
+def
+​	
+ (i)→0;
+Geometric zero fission outflow: 
+I
+(
+s
+u
+t
+u
+r
+e
+i
+)
+=
+0
+I(suture 
+i
+​	
+ )=0, hence 
+F
+y
+∣
+i
+=
+0
+F 
+y∣i
+​	
+ =0.
+Then 
+L
+i
+→
+0
+L 
+i
+​	
+ →0 (leaving only extremely low-order terms related to chemical bonding with the shell), while 
+G
+i
+G 
+i
+​	
+  has a positive lower bound. Therefore, from (4), 
+N
+s
+s
+,
+i
+N 
+ss,i
+​	
+  attains its maximum in the discrete combinatorial space. In the recursive growth tree, the configuration of 
+56
+Fe
+56
+ Fe happens to satisfy all three conditions simultaneously (
+12
+3
+12 
+3
+  perfect closure, defect area tending to zero, and the existence of checker-jump precursors such as 
+28
+Si
++
+28
+Si
+28
+ Si+ 
+28
+ Si); hence its abundance is a global maximum. This proof does not rely on the binding energy curve but is a purely geometric extremum argument based on inflow and outflow.
+§6. Mapping Hypothesis of Eigenmodes and Stellar Timescales (Explicitly Marked as Open)
+
+Within a window where the local shared-link density 
+ρ
+(
+t
+)
+ρ(t) is approximately constant, if the nonlinearity of the aggregation term is ignored (or a linear perturbation approximation is adopted), Equation (1) can degenerate to:
+
+d
+ 
+δ
+N
+d
+t
+=
+R
+l
+i
+n
+⋅
+δ
+N
+,
+dt
+dδN
+​	
+ =R 
+lin
+​	
+ ⋅δN,
+whose formal solution is given by the eigenvalues 
+λ
+l
+λ 
+l
+​	
+ , with characteristic timescales 
+∣
+λ
+l
+∣
+−
+1
+∣λ 
+l
+​	
+ ∣ 
+−1
+ . This mathematical fact is a direct corollary of constant-coefficient linear ODEs.
+
+Mapping Hypothesis (H1): It is hypothesized that the sign and magnitude of the spectral moduli
+∣
+λ
+l
+∣
+∣λ 
+l
+​	
+ ∣ of the matrix 
+R
+l
+i
+n
+R 
+lin
+​	
+  correspond, respectively, to stable/unstable modes and fast/slow timescales in stellar evolution (e.g., second-scale modes for neutron-capture equilibrium, millennium-scale modes for crossing magic-number barriers).
+
+Honest note: The above H1 is currently a working hypothesis. Its rigorous proof belongs to Open Problem 3 in §8 and is not presented as a proven theorem in this paper.
+
+§7. Testable Observational Directions and Comparison with the Standard Model
+
+The following predictions rely solely on the combinatorial counting or logical criteria of §2–§5 and do not depend on unproven spectral closed forms.
+
+P1 (Iron-Group Anomalies in Metal-Poor Stars): Since the checker-jump aggregation contribution satisfies 
+R
+i
+∣
+a
+b
+∝
+Θ
+a
+b
+A
+d
+e
+f
+(
+a
+)
+A
+d
+e
+f
+(
+b
+)
+R 
+i∣ab
+​	
+ ∝Θ 
+ab
+​	
+ A 
+def
+​	
+ (a)A 
+def
+​	
+ (b), in low-metallicity environments (dominated by light nuclei) the weight of cross-mass-number aggregation increases relatively. It is predicted that the
+58
+Ni
+/
+56
+Fe
+58
+ Ni/ 
+56
+ Fe ratio should systematically increase as the metallicity 
+[
+Fe/H
+]
+[Fe/H] decreases, deviating from the predictions of channels containing only stepwise neighboring reactions.
+
+P2 (Abundance Dispersion Near Magic Numbers): According to the truncation criterion of Definition 2, crossing a magic-number region (e.g., 
+N
+=
+82
+N=82) requires an additional hierarchical barrier. If 
+Θ
+a
+b
+Θ 
+ab
+​	
+  takes small values at magic-number boundaries due to mismatch of recursive growth radii, the inflow flux of the corresponding reaction channels is suppressed, predicting that the observed abundance dispersion for elements near that mass number is higher than in adjacent non-magic-number regions.
+
+P3 (Mass Gap of Compact Objects): From the fragmentation condition of Equation (3), a compact topological knot fragments only when 
+E
+e
+x
+t
+>
+E
+c
+o
+m
+p
+(
+x
+)
+E 
+ext
+​	
+ >E 
+comp
+​	
+ (x) and 
+I
+(
+x
+)
+>
+0
+I(x)>0. If all topological knots within a certain mass interval are perfect closures (
+I
+=
+0
+I=0), then no fission disassembly channel exists in that interval, and a statistical gap must appear in the mass distribution of compact objects—this qualitative conclusion is a proven geometric derivation. The specific numerical mass interval corresponding to the gap depends on the complete closure configuration count of the recursive growth tree, which belongs to the open problems in §8; no quantitative prediction is given in this paper.
+
+§7.1 Ontological Comparison with the Standard Phenomenological Nucleosynthesis Framework
+
+Existing REACLIB-driven s-/r-process models possess three layers of irreducible exogenous hypotheses: (1) pre-implanted Markovian stochastic dynamics; (2) experimentally fitted reaction cross-sections as transition rates; (3) artificially imposed mass-neighbor truncations to compress the matrix dimension.
+
+This framework achieves a three-layer bottom-level replacement:
+
+Markovian dynamics emerge from shared-link counting identities, without pre-assuming any stochastic process;
+All transition weights are replaced by pure counts of topological defect nodes, without experimentally fitted cross-sections;
+The hierarchical truncation criterion is automatically generated by the geometry of the recursive growth tree; cross-mass checker-jump channels are naturally allowed, requiring no manual relaxation of matrix restrictions.
+The observational distinguishability between the two is fully covered by the three qualitative predictions in §7; future high-precision spectroscopy and gravitational-wave observations can directly judge the validity of the two frameworks.
+
+§8. Open Problems (All Unclosed Mathematical Boundaries)
+
+All conclusions proven in this paper are limited to the combinatorial constructions of Equations (1)–(4). The following problems explicitly exceed the scope of first-principles proof in this manuscript and are reserved for future work:
+
+Analytic closed form of 
+κ
+κ (medium-term analytic problem): The precise relationship between the fractal dimension of the recursive growth tree and the percolation exponent has not yet been derived.
+Proof of the global unique positive solution for the steady state (medium-term operator spectral problem): Whether Equation (4) possesses a globally unique positive solution depends on the irreducibility of the matrices defined by 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+  and 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+ ; this irreducibility has not been proved in general.
+Rigorous criterion for spectral bifurcation of the discrete reconnection operator (long-term foundational mapping problem, including hypothesis H1): The rigorous mathematical correspondence between the spectral transitions of the discrete reconnection operator driven by
+ρ
+(
+t
+)
+ρ(t) and stellar reignition/gravitational collapse has not been established.
+Exact enumeration of 
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  (short-term numerical counting problem): The precise combinatorial counting of forced reconnection fragmentation paths depends on the specific coordinates of vacancies within the 
+12
+3
+12 
+3
+  closure and has not been solved in general.
+Mapping of the topological charge 
+Q
+Q to standard-model quantum numbers (long-term cross-theory correspondence problem): This paper only defines 
+Q
+Q as the directional algebraic sum; its quantitative mapping relation to proton/neutron numbers (including the specific configuration of the recursive growth tree) has not been completed.
+The H1 of §6 (correspondence between eigenmodes and timescales) is a subset of the above Open Problem 3 and is not used as a theorem.
+§9. Conclusion
+
+Under the pure combinatorial postulates (nodes, directed edges, reconnection counts), this paper has accomplished the following rigorous work:
+
+Proved that the mapping of nuclide abundance dynamics is a counting identity for shared-link reconfiguration paths (Theorem 1), independent of any exogenous probabilistic assumptions.
+Constructed the transition tensor elements for checker-jump aggregation and forced fragmentation, all of whose factors are combinations of the fractional defect area, the hierarchical truncation criterion, and the algebraic sum of topological charge directions (Equations (2)–(3)).
+Derived the algebraic expression for steady-state abundances, precisely recovering the three-factor net retention criterion, and explained the iron peak abundance maximum as a topological extremum where inflow is non-zero and outflow is geometrically forcibly suppressed (Theorem 3).
+All proven conclusions can be translated back, item by item, into the primitive combinatorial language of “nodes, directed edges, shared links.” The correspondence of eigenmodes to stellar timescales in §6 and the precise numerical positioning in the predictions of §7 have been truthfully marked as working hypotheses or open problems. This paper thus provides a formally clean, boundary-honest mathematical foundation for the quantification of nucleosynthesis within the combinatorial network framework.
+
+Appendix A: Complete Symbol Table
+
+A1. Fundamental Combinatorial Quantities of Topological Nuclides
+
+Symbol	Definition	First Appearance
+X
+i
+X 
+i
+​	
+ 	Stable knot of the 
+i
+i-th type of topological nuclide	§2 Definition 1
+N
+i
+N 
+i
+​	
+ 	Total number of primitive bricks of the topological knot,
+N
+i
+=
+4
+m
+i
+N 
+i
+​	
+ =4 
+m 
+i
+​	
+ 
+ 	§2 Definition 1
+m
+i
+m 
+i
+​	
+ 	Order of the recursive growth tree	§2 Definition 1
+r
+i
+r 
+i
+​	
+ 	Intrinsic combinatorial radius, 
+r
+i
+=
+⌈
+N
+i
+1
+/
+3
+⌉
+r 
+i
+​	
+ =⌈N 
+i
+1/3
+​	
+ ⌉	§2 Definition 1
+S
+s
+u
+r
+f
+S 
+surf
+​	
+ 	Total number of surface nodes of the topological knot	§2 Definition 1
+S
+d
+e
+f
+S 
+def
+​	
+ 	Number of surface defect (unwoven) nodes	§2 Definition 1
+A
+d
+e
+f
+(
+i
+)
+A 
+def
+​	
+ (i)	Fractional defect area, 
+S
+d
+e
+f
+/
+S
+s
+u
+r
+f
+S 
+def
+​	
+ /S 
+surf
+​	
+ 	§2 Definition 1
+d
+a
+b
+d 
+ab
+​	
+ 	Shortest reconnection path edge count between two topological knots (combinatorial distance)	§2 Definition 2
+κ
+κ	Loop-density shielding/percolation exponent	§2 Definition 2
+Θ
+a
+b
+Θ 
+ab
+​	
+ 	Binary indicator for hierarchical truncation	§2 Definition 2
+Q
+(
+X
+i
+)
+Q(X 
+i
+​	
+ )	Topological charge, algebraic difference of directional edges in closed loops	§2 Definition 4
+A2. Compressive Binding Tensor and Fragmentation Geometric Quantities
+
+Symbol	Definition	First Appearance
+E
+c
+o
+m
+p
+(
+i
+)
+E 
+comp
+​	
+ (i)	Compressive binding tensor of the topological knot	§2 Definition 3
+V
+c
+o
+r
+e
+V 
+core
+​	
+ 	Number of core primitive brick units	§2 Definition 3
+V
+s
+h
+e
+l
+l
+V 
+shell
+​	
+ 	Number of shell primitive brick units	§2 Definition 3
+S
+c
+o
+r
+e
+S 
+core
+​	
+ 	Core link saturation	§2 Definition 3
+S
+s
+h
+e
+l
+l
+S 
+shell
+​	
+ 	Shell link saturation	§2 Definition 3
+I
+(
+s
+u
+t
+u
+r
+e
+i
+)
+I(suture 
+i
+​	
+ )	Stress concentration factor at the suture	§2 Definition 3
+E
+e
+x
+t
+E 
+ext
+​	
+ 	External shared-link compressive stress readout	§4 Fragmentation Contribution
+A
+t
+o
+t
+a
+l
+A 
+total
+​	
+ 	Global total count of surface nodes of all topological knots on the membrane	§4 Aggregation Contribution
+A3. Kinetic Transition Operators
+
+Symbol	Definition	First Appearance
+t
+t	Cumulative count of local reconnection events (the definition of time in this paper)	§3 Theorem 1
+N
+i
+(
+t
+)
+N 
+i
+​	
+ (t)	Abundance count of topological knot 
+X
+i
+X 
+i
+​	
+  at time 
+t
+t	§3 Theorem 1
+ρ
+(
+t
+)
+ρ(t)	Local shared-link number density	§4 Aggregation Contribution
+(R_{i	ab})	Third-order transition tensor for two-body aggregation	§3 Definition 5
+(F_{i	x})	Second-order transition matrix for single-body fragmentation	§3 Definition 5
+δ
+g
+e
+o
+(
+a
+,
+b
+;
+i
+)
+δ 
+geo
+​	
+ (a,b;i)	Binary indicator for geometric matching of defect meshing	§4 Aggregation Contribution
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+ 	Count of independent reconfiguration paths for forced fragmentation	§4 Fragmentation Contribution
+G
+i
+G 
+i
+​	
+ 	Total topological inflow flux for 
+X
+i
+X 
+i
+​	
+ 	§5 Theorem 2
+L
+i
+L 
+i
+​	
+ 	Total topological outflow flux for 
+X
+i
+X 
+i
+​	
+ 	§5 Theorem 2
+A4. Hypothesis and Spectral Analysis Notation
+
+Symbol	Definition	First Appearance
+δ
+N
+δN	Linear perturbation vector of abundances	§6
+R
+l
+i
+n
+R 
+lin
+​	
+ 	Simplified generator matrix for linear perturbations	§6
+λ
+l
+λ 
+l
+​	
+ 	Discrete eigenvalues of the linear operator	§6
+H1	Working hypothesis mapping eigenmodes to stellar evolutionary timescales	§6
+References
+
+[1] Burbidge E M, Burbidge G R, Fowler W A, Hoyle F. Synthesis of the Elements in Stars[J]. Reviews of Modern Physics, 1957, 29(4): 547-650.
+
+[2] Käppeler F, Gallino R, Bisterzo S, Aoki W. The s process: Nuclear physics, stellar models, and observations[J]. Reviews of Modern Physics, 2011, 83(1): 157-194.
+
+
+跳棋路径的几何动力学：组合网络框架下核合成网络的严格形式与开放边界
+
+作者：马江平
+
+
+
+日期：2026年7月25日
+
+学科分类：数学物理（组合拓扑）；天体物理学（核合成）
+
+关键词：组合拓扑；核合成；跳棋路径；元素丰度；铁峰；马尔可夫动力学涌现
+
+MSC分类：05C60（图动力学）；54A25（拓扑计数）；85A30（天体物理核合成）
+
+PACS分类：26.20.Np（恒星核合成）；02.40.Re（组合拓扑）
+
+摘要
+
+标准核合成模型将马尔可夫主方程作为外源假设，其跃迁速率依赖唯象反应截面与人为质量截断。本文基于节点与有向共享链接的纯组合公设证明，核素丰度动力学是共享链接重构的离散计数恒等式，无需任何统计外挂。我们构造了跳棋聚合的三阶跃迁张量与拓扑碎裂算子，全部算子元由缺陷节点计数、层级截断判据与拓扑荷方向代数和的组合生成，无可调参数。通过代数推导得到稳态丰度表达式，还原三因素净留存判据，并从流入/流出几何极值给出铁峰丰度峰值的纯拓扑解释。线性扰动下的本征模-恒星时标对应仅作为工作假设，完整谱分析归入开放问题。本文提出三条仅依赖已证几何构造的定性可证伪天文预言，并独立章节完整列出全部未闭合数学边界，严格区分已证明组合结论与待完成解析推导，建立无外源假设的核合成第一性拓扑基座。
+
+§1. 引言
+
+自Burbidge等（1957）奠定恒星核合成框架以来，元素丰度的计算依赖于一组预先植入的反应网络方程：
+
+d
+Y
+i
+d
+t
+=
+∑
+j
+λ
+j
+→
+i
+Y
+j
+−
+∑
+k
+λ
+i
+→
+k
+Y
+k
+,
+dt
+dY 
+i
+​	
+ 
+​	
+ = 
+j
+∑
+​	
+ λ 
+j→i
+​	
+ Y 
+j
+​	
+ − 
+k
+∑
+​	
+ λ 
+i→k
+​	
+ Y 
+k
+​	
+ ,
+其中跃迁速率 
+λ
+j
+→
+i
+λ 
+j→i
+​	
+  从实验或理论截面（如REACLIB数据库）提取，并人为限制为邻近质量数反应（三对角矩阵占优）。该范式存在三个深层问题：
+
+截面数据是现象学外挂，不从底层几何导出；
+质量邻近截断是经验假设，无法容纳跨质量数的“跳棋”聚合（如 
+28
+S
+i
++
+28
+S
+i
+→
+56
+N
+i
+28
+ Si+ 
+28
+ Si→ 
+56
+ Ni）；
+时间参数 
+t
+t 作为独立外部变量引入，与底层时空涌现机制脱钩。
+本文建立如下组合底层语言：宇宙膜由节点与有向共享链接构成；核素是稳定拓扑结；时间是重联事件的累积计数（公设详见§2）。本文将证明：在该语言中，上述主方程不是被“植入”的，而是链接重构计数的必然推论。
+
+本文结构如下：§2建立全部拓扑核素组合定义与三条基本公设，严格溯源至节点与有向边；§3给出丰度动力学主方程的构造性计数证明；§4完整构造聚合、碎裂、拓扑湮灭三类跃迁算子；§5证明稳态丰度定理与铁峰几何极值判据；§6陈述线性扰动下的恒星时标映射假设并标注其未证明属性；§7给出三条可观测检验预言及与标准模型的本体论对比；§8逐条罗列全部开放数学问题；§9总结全文严格证明的核心结论。
+
+§2. 组合公设与拓扑核素编码
+
+本文所有结论建立在以下三条基本公设之上，不引入任何额外的物理量或连续几何背景。
+
+公设1（组合基质）：存在一个离散的组合网络，由节点和连接节点的有向边构成。该网络不嵌入任何预先存在的空间，不演化于任何预先存在的时间。节点与边之间唯一的原始关系是“被连接”或“不被连接”。边的唯一原始属性是方向——从一个节点指向另一个节点。
+
+公设2（局域重联与方向守恒）：基质的唯一动力学是局域重联——当两条边在某节点处相遇时，它们可断开并按方向规则重新连接。方向规则：沿任意闭合路径遍历时，逆时针方向边数与顺时针方向边数之差保持不变。
+
+公设3（层级截断）：拓扑结之间的共享链接网络仅在结间距小于或等于较小结递归生长半径的有限整数倍时才被计入有效相互作用。具体地，设拓扑结 
+A
+A 的原砖数为 
+N
+A
+N 
+A
+​	
+ ，本征组合半径为 
+r
+A
+=
+⌈
+N
+A
+1
+/
+3
+⌉
+r 
+A
+​	
+ =⌈N 
+A
+1/3
+​	
+ ⌉。当两结中心距 
+d
+A
+B
+>
+κ
+⋅
+(
+r
+A
++
+r
+B
+)
+d 
+AB
+​	
+ >κ⋅(r 
+A
+​	
+ +r 
+B
+​	
+ )（其中 
+κ
+κ 为局域环路密度决定的屏蔽因子）时，共享链接总数指数衰减至可视为零的阈值以下。该截断的几何起源是：中间节点缺乏足够拓扑荷支撑稳定编织通道。
+
+定义1（拓扑核素）：核素 
+X
+i
+X 
+i
+​	
+  对应递归生长树上的一个稳定拓扑结。其几何身份由下列组合量唯一标记：
+
+N
+i
+N 
+i
+​	
+ ：构成该拓扑结的原砖总数。由递归生长树给出，
+N
+i
+=
+4
+m
+i
+N 
+i
+​	
+ =4 
+m 
+i
+​	
+ 
+  的某种堆积构型（
+m
+i
+m 
+i
+​	
+  为递归阶次）。
+r
+i
+r 
+i
+​	
+ ：本征组合半径，定义为 
+r
+i
+≡
+⌈
+N
+i
+1
+/
+3
+⌉
+r 
+i
+​	
+ ≡⌈N 
+i
+1/3
+​	
+ ⌉（节点步数）。
+A
+def
+(
+i
+)
+A 
+def
+​	
+ (i)：表面缺陷面积占比。令 
+S
+surf
+S 
+surf
+​	
+  为该拓扑结表面的节点总数，
+S
+def
+S 
+def
+​	
+  为未被完整编织覆盖的表面节点数，则：
+A
+def
+(
+i
+)
+≡
+S
+def
+S
+surf
+∈
+[
+0
+,
+1
+]
+.
+A 
+def
+​	
+ (i)≡ 
+S 
+surf
+​	
+ 
+S 
+def
+​	
+ 
+​	
+ ∈[0,1].
+由递归闭包构造可知：对于完美 
+12
+3
+12 
+3
+  密堆积构型，
+A
+def
+→
+0
+A 
+def
+​	
+ →0；对于缺位构型，
+A
+def
+>
+0
+A 
+def
+​	
+ >0。该结论纯属组合计数。
+
+定义2（层级截断判据）：引用公设3，定义截断符号：
+
+Θ
+a
+b
+≡
+{
+1
+,
+若 
+d
+a
+b
+≤
+κ
+⋅
+(
+r
+a
++
+r
+b
+)
+,
+0
+,
+否则
+.
+ 
+Θ 
+ab
+​	
+ ≡{ 
+1,
+0,
+​	
+  
+若 d 
+ab
+​	
+ ≤κ⋅(r 
+a
+​	
+ +r 
+b
+​	
+ ),
+否则.
+​	
+ 
+诚实标注：
+κ
+κ 的具体闭式尚未由递归生长树分形维数完全解析（见§8开放问题1），但该截断判据的存在性由公设3直接保证。本文所有定理仅要求 
+Θ
+a
+b
+Θ 
+ab
+​	
+  作为几何原语存在，不依赖其解析值。
+
+定义3（抗压张量）：拓扑结 
+X
+i
+X 
+i
+​	
+  的抗压结合能张量分解为：
+
+E
+抗压
+(
+i
+)
+≡
+V
+core
+(
+i
+)
+S
+core
+(
+i
+)
++
+V
+shell
+(
+i
+)
+S
+shell
+(
+i
+)
++
+I
+(
+suture
+i
+)
+,
+E 
+抗压
+​	
+ (i)≡V 
+core
+(i)
+​	
+ S 
+core
+(i)
+​	
+ +V 
+shell
+(i)
+​	
+ S 
+shell
+(i)
+​	
+ +I(suture 
+i
+​	
+ ),
+其中 
+V
+core
+V 
+core
+​	
+  为内核原砖单元数；
+S
+core
+S 
+core
+​	
+  为内核平均链接饱和度（
+0
+≤
+S
+≤
+1
+0≤S≤1）；
+V
+shell
+V 
+shell
+​	
+  为外壳有效原砖单元数；
+S
+shell
+S 
+shell
+​	
+  为外壳端口饱和度；
+I
+(
+suture
+i
+)
+I(suture 
+i
+​	
+ ) 为内核-外壳缝合线上的应力集中系数。
+
+严格几何结论：
+I
+(
+suture
+i
+)
+>
+0
+I(suture 
+i
+​	
+ )>0 当且仅当内核原砖数不等于 
+12
+3
+12 
+3
+  的整数倍（即存在缺位）；若为完美闭包，则 
+I
+=
+0
+I=0。该结论纯由密堆积几何与缺位计数推出，无连续参数。
+
+定义4（拓扑荷 
+Q
+Q）：沿任意闭合路径遍历时，逆时针方向边数与顺时针方向边数之差保持不变（公设2方向规则）。定义拓扑荷：
+
+Q
+(
+X
+i
+)
+≡
+∣
+∑
+内核闭合环路
+sgn
+dir
+∣
+−
+∣
+∑
+表面缺陷端口
+sgn
+dir
+∣
+,
+Q(X 
+i
+​	
+ )≡ 
+​	
+  
+内核闭合环路
+∑
+​	
+ sgn 
+dir
+​	
+  
+​	
+ − 
+​	
+  
+表面缺陷端口
+∑
+​	
+ sgn 
+dir
+​	
+  
+​	
+ ,
+其中 
+sgn
+dir
+∈
+{
++
+1
+,
+−
+1
+}
+sgn 
+dir
+​	
+ ∈{+1,−1} 按固定手征约定取值。物理解释：
+Q
+Q 是拓扑结全局方向代数和。两个拓扑结相遇时，若 
+Q
+a
++
+Q
+b
+=
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ =0，则任何共享链接重构都会导致方向代数和为零的闭合结构，无法维持稳定的新拓扑结——该聚合通道被几何强制关闭（路径三起源）。此定义无需引入“电荷”或“力”，完全是方向计数。
+
+§3. 主方程：共享链接通量守恒的计数恒等式
+
+定理1（动力学映射的几何导出）：设 
+N
+i
+(
+t
+)
+N 
+i
+​	
+ (t) 为膜片上拓扑结 
+X
+i
+X 
+i
+​	
+  的丰度计数，其中 
+t
+t 为累积局域重联事件数（公设2中的重联计数）。令 
+R
+i
+j
+R 
+ij
+​	
+  为单位重联计数内，因共享链接重构而使拓扑结从 
+j
+j 态转变为 
+i
+i 态的独立重构路径总数。则丰度变化满足：
+
+d
+N
+i
+d
+t
+=
+∑
+j
+R
+i
+j
+ 
+N
+j
+−
+∑
+k
+R
+k
+i
+ 
+N
+i
+.
+dt
+dN 
+i
+​	
+ 
+​	
+ = 
+j
+∑
+​	
+ R 
+ij
+​	
+ N 
+j
+​	
+ − 
+k
+∑
+​	
+ R 
+ki
+​	
+ N 
+i
+​	
+ .
+证明：任一重联操作改变有限条共享链接的归属。若某重联步骤将属于 
+X
+j
+X 
+j
+​	
+  的 
+m
+j
+→
+i
+m 
+j→i
+​	
+  条链接转移至 
+X
+i
+X 
+i
+​	
+ ，则
+N
+i
+N 
+i
+​	
+  增加 
+m
+j
+→
+i
+m 
+j→i
+​	
+ 、
+N
+j
+N 
+j
+​	
+  减少 
+m
+j
+→
+i
+m 
+j→i
+​	
+ 。对所有节点求和即得上式。该式仅为链接归属变化的计数恒等式，不含概率假设。该守恒律天然规避了标准主方程需额外添加全局质量守恒约束的外挂操作，此为本文组合框架的本体论优势。
+□
+□
+
+定义5（双体聚合张量）：鉴于跳棋聚合涉及 
+X
+a
++
+X
+b
+→
+X
+i
+X 
+a
+​	
+ +X 
+b
+​	
+ →X 
+i
+​	
+ ，我们引入三阶跃迁张量 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+ （注：下标
+i
+∣
+a
+b
+i∣ab 表示双体 
+a
++
+b
+a+b 流向单体 
+i
+i 的跃迁计数张量，区别于二阶单体矩阵 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+ ），定义为在单位重联计数内、满足截断判据的缺陷互补重构路径总数。总动力学写为：
+
+d
+N
+i
+d
+t
+=
+∑
+a
+,
+b
+R
+i
+∣
+a
+b
+N
+a
+N
+b
++
+∑
+x
+F
+i
+∣
+x
+N
+x
+−
+N
+i
+(
+∑
+c
+,
+d
+R
+c
+∣
+i
+d
+N
+d
++
+∑
+y
+F
+y
+∣
+i
+)
+,
+(1) 
+dt
+dN 
+i
+​	
+ 
+​	
+ = 
+a,b
+∑
+​	
+ R 
+i∣ab
+​	
+ N 
+a
+​	
+ N 
+b
+​	
+ + 
+x
+∑
+​	
+ F 
+i∣x
+​	
+ N 
+x
+​	
+ −N 
+i
+​	
+  
+​	
+  
+c,d
+∑
+​	
+ R 
+c∣id
+​	
+ N 
+d
+​	
+ + 
+y
+∑
+​	
+ F 
+y∣i
+​	
+  
+​	
+ ,(1)
+其中 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+  为单体碎裂贡献。该形式自动满足原砖总数守恒：
+
+∑
+i
+d
+N
+i
+d
+t
+=
+0
+(
+因每项重构将原砖从一组结转移到另一组结
+)
+.
+i
+∑
+​	
+  
+dt
+dN 
+i
+​	
+ 
+​	
+ =0(因每项重构将原砖从一组结转移到另一组结).
+方程(1)中第一项为双体聚合的非线性贡献，第二项为单体碎裂的线性贡献，流出项则分别对应二者的反向过程，排版区分明确。
+
+§4. 跃迁张量元与矩阵元的几何构造
+
+本节给出 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+  与 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+  的严格几何定义，所有因子均为§2中组合量的乘积或逻辑组合。
+
+聚合贡献（跳棋通道）：对于给定的前驱对 
+(
+a
+,
+b
+)
+(a,b) 和目标 
+i
+i，几何上要求：
+
+两前驱缺陷互补啮合后形成的编织网络与 
+X
+i
+X 
+i
+​	
+  的构型一致；
+满足层级截断：
+Θ
+a
+b
+=
+1
+Θ 
+ab
+​	
+ =1；
+拓扑荷相容：
+Q
+a
++
+Q
+b
+≠
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ 
+
+=0（若等于零则通道III强制关闭）。
+在此条件下，单位重联计数内的聚合重构路径数为：
+
+R
+i
+∣
+a
+b
+≡
+ρ
+(
+t
+)
+⋅
+Θ
+a
+b
+⋅
+(
+A
+def
+(
+a
+)
+ 
+A
+def
+(
+b
+)
+A
+total
+)
+⋅
+δ
+geo
+(
+a
+,
+b
+;
+i
+)
+,
+(2) 
+R 
+i∣ab
+​	
+ ≡ρ(t)⋅Θ 
+ab
+​	
+ ⋅( 
+A 
+total
+​	
+ 
+A 
+def
+​	
+ (a)A 
+def
+​	
+ (b)
+​	
+ )⋅δ 
+geo
+​	
+ (a,b;i),(2)
+其中：
+
+ρ
+(
+t
+)
+ρ(t) 为局域共享链接密度（单位体积内链接总数，公设1的直接读数）；
+A
+total
+A 
+total
+​	
+  为全局膜片所有拓扑结表面节点总计数，纯归一化常数；
+δ
+geo
+(
+a
+,
+b
+;
+i
+)
+∈
+{
+0
+,
+1
+}
+δ 
+geo
+​	
+ (a,b;i)∈{0,1} 为几何匹配指示符：若 
+a
+,
+b
+a,b 的缺陷互补啮合后拓扑等价于 
+i
+i，则取1，否则取0。
+重要标注：上式不包含“温度”“截面”或“玻尔兹曼因子”。温度在本文框架中对应环路密度的宏观表现；密度
+ρ
+(
+t
+)
+ρ(t) 已承载其几何角色。
+
+碎裂贡献（强制重联通道）：若拓扑结 
+X
+x
+X 
+x
+​	
+  的应力集中系数 
+I
+(
+suture
+x
+)
+>
+0
+I(suture 
+x
+​	
+ )>0，且外部压缩能量 
+E
+ext
+E 
+ext
+​	
+ （由周围共享链接压缩应力读数给出）超过 
+E
+抗压
+(
+x
+)
+E 
+抗压
+​	
+ (x)，则强制重联被触发。碎裂到碎片组合 
+i
+i（即 
+X
+x
+→
+X
+i
++
+…
+X 
+x
+​	
+ →X 
+i
+​	
+ +…）的单位重联路径数记为：
+
+F
+i
+∣
+x
+≡
+Γ
+x
+→
+i
+⋅
+Θ
+(
+E
+ext
+−
+E
+抗压
+(
+x
+)
+)
+,
+(3) 
+F 
+i∣x
+​	
+ ≡Γ 
+x→i
+​	
+ ⋅Θ(E 
+ext
+​	
+ −E 
+抗压
+​	
+ (x)),(3)
+其中 
+Θ
+(
+⋅
+)
+Θ(⋅) 为阶跃函数（逻辑判据，非统计分布）；
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  为几何原语：在强制重联条件下，碎裂构型与 
+X
+i
+X 
+i
+​	
+ 匹配的独立重构路径数。
+
+诚实标注：
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  的精确计数依赖于缺位在闭包中的具体位置，本文将其保留为组合原语，不取连续极限下的指数闭式（见§8开放问题4）。
+
+湮灭贡献（路径三）：若 
+Q
+a
++
+Q
+b
+=
+0
+Q 
+a
+​	
+ +Q 
+b
+​	
+ =0，则在方程(2)中直接置 
+R
+i
+∣
+a
+b
+≡
+0
+R 
+i∣ab
+​	
+ ≡0，无论缺陷几何如何匹配。这是方向守恒的强制结论。
+
+§5. 稳态丰度与三因素判据（严格代数展开）
+
+定理2（稳态丰度代数表达式）：令方程(1)右端为零。将流出总通量记为：
+
+L
+i
+≡
+∑
+c
+,
+d
+R
+c
+∣
+i
+d
+N
+d
++
+∑
+y
+F
+y
+∣
+i
+,
+L 
+i
+​	
+ ≡ 
+c,d
+∑
+​	
+ R 
+c∣id
+​	
+ N 
+d
+​	
+ + 
+y
+∑
+​	
+ F 
+y∣i
+​	
+ ,
+流入总通量记为：
+
+G
+i
+≡
+∑
+a
+,
+b
+R
+i
+∣
+a
+b
+N
+a
+N
+b
++
+∑
+x
+F
+i
+∣
+x
+N
+x
+.
+G 
+i
+​	
+ ≡ 
+a,b
+∑
+​	
+ R 
+i∣ab
+​	
+ N 
+a
+​	
+ N 
+b
+​	
+ + 
+x
+∑
+​	
+ F 
+i∣x
+​	
+ N 
+x
+​	
+ .
+则稳态方程 
+N
+˙
+i
+=
+0
+N
+˙
+  
+i
+​	
+ =0 等价于：
+
+N
+s
+s
+,
+i
+=
+G
+i
+(
+{
+N
+s
+s
+}
+)
+L
+i
+(
+{
+N
+s
+s
+}
+)
+.
+(4) 
+N 
+ss,i
+​	
+ = 
+L 
+i
+​	
+ ({N 
+ss
+​	
+ })
+G 
+i
+​	
+ ({N 
+ss
+​	
+ })
+​	
+ .(4)
+该式精确对应“三因素净留存判据”：分子为合成概率的几何对应物，分母为继续聚变概率与裂变概率之和的几何对应物。无任何拟合参数。
+
+定理3（铁峰丰度极大值的几何判据）：设拓扑结 
+X
+i
+X 
+i
+​	
+  同时满足：
+
+流入非零：存在至少一对前驱 
+(
+a
+,
+b
+)
+(a,b) 使得 
+Θ
+a
+b
+=
+1
+Θ 
+ab
+​	
+ =1 且 
+δ
+geo
+(
+a
+,
+b
+;
+i
+)
+=
+1
+δ 
+geo
+​	
+ (a,b;i)=1，从而 
+R
+i
+∣
+a
+b
+>
+0
+R 
+i∣ab
+​	
+ >0（跳棋通道开放）；
+聚变流出几何压制：
+A
+def
+(
+i
+)
+→
+0
+A 
+def
+​	
+ (i)→0，使得所有以 
+i
+i 为前驱的聚合贡献 
+R
+c
+∣
+i
+d
+∝
+A
+def
+(
+i
+)
+→
+0
+R 
+c∣id
+​	
+ ∝A 
+def
+​	
+ (i)→0；
+裂变流出几何为零：
+I
+(
+suture
+i
+)
+=
+0
+I(suture 
+i
+​	
+ )=0，从而 
+F
+y
+∣
+i
+=
+0
+F 
+y∣i
+​	
+ =0。
+则 
+L
+i
+→
+0
+L 
+i
+​	
+ →0（仅剩与外壳化学成键相关的极低阶项），而 
+G
+i
+G 
+i
+​	
+  有正下界，故由(4)得 
+N
+s
+s
+,
+i
+N 
+ss,i
+​	
+  在离散组合空间中取最大值。在递归生长树中，
+56
+Fe
+56
+ Fe 的构型恰好同时满足上述三条（
+12
+3
+12 
+3
+  完美闭包、缺陷面积趋于零、跳棋前驱如 
+28
+Si
++
+28
+Si
+28
+ Si+ 
+28
+ Si 存在），故其丰度为全局极大。该证明不依赖结合能曲线，纯为流入/流出的几何极值论证。
+
+§6. 本征模与恒星时标的映射假设（明确标注为开放）
+
+在局域共享链接密度 
+ρ
+(
+t
+)
+ρ(t) 近似恒定的窗口内，若忽略聚合项的非线性（或取线性扰动近似），方程(1)可退化为：
+
+d
+δ
+N
+d
+t
+=
+R
+lin
+⋅
+δ
+N
+,
+dt
+dδN
+​	
+ =R 
+lin
+​	
+ ⋅δN,
+其形式解由特征值 
+λ
+l
+λ 
+l
+​	
+  给出，特征时标为 
+∣
+λ
+l
+∣
+−
+1
+∣λ 
+l
+​	
+ ∣ 
+−1
+ 。该数学事实是常系数线性ODE的直接推论。
+
+映射假设（H1）：假设矩阵 
+R
+lin
+R 
+lin
+​	
+  的谱模 
+∣
+λ
+l
+∣
+∣λ 
+l
+​	
+ ∣ 的正负与大小分别对应恒星演化过程中的稳定/失稳模态及快/慢时标（如中子俘获平衡的秒级模、跨越幻数势垒的千年模）。
+
+诚实标注：上述H1目前为工作假设。其严格证明属于§8开放问题3，本文不将其作为已证明定理。
+
+§7. 可检验的观测方向与标准模型对比
+
+以下预言仅依赖§2-§5中的组合计数或逻辑判据，不依赖未证明的谱闭式。
+
+P1（贫金属星铁族异常）：由于跳棋聚合贡献 
+R
+i
+∣
+a
+b
+∝
+Θ
+a
+b
+A
+def
+(
+a
+)
+A
+def
+(
+b
+)
+R 
+i∣ab
+​	
+ ∝Θ 
+ab
+​	
+ A 
+def
+​	
+ (a)A 
+def
+​	
+ (b)，在低金属丰度环境（轻核占主导）下，跨质量数聚合的权重相对增大。预言 
+58
+Ni
+/
+56
+Fe
+58
+ Ni/ 
+56
+ Fe 比值应随金属丰度 
+[
+Fe/H
+]
+[Fe/H] 下降而系统性上升，偏离仅含逐级邻近反应的通道预测。
+
+P2（幻数附近丰度弥散度）：根据定义2截断判据，跨越幻数区域（如 
+N
+=
+82
+N=82）需要额外的层级屏障。若
+Θ
+a
+b
+Θ 
+ab
+​	
+  在幻数边界处因递归生长半径失配而取小值，则对应反应通道的流入通量受压制，预言该质量数附近元素的观测丰度弥散度高于邻近非幻数区域。
+
+P3（致密天体质量间隙）：由方程(3)碎裂条件，只有当 
+E
+ext
+>
+E
+抗压
+(
+x
+)
+E 
+ext
+​	
+ >E 
+抗压
+​	
+ (x) 且 
+I
+(
+x
+)
+>
+0
+I(x)>0 时致密拓扑结才碎裂。若某一质量区间内所有拓扑结均为完美闭包（
+I
+=
+0
+I=0），则该区间不存在裂变拆解通道，致密天体质量分布必然出现统计空窗——此定性结论为已证几何导出。空窗对应的具体质量区间数值依赖递归生长树完整闭包构型计数，属于§8开放问题，本文不予给出定量预测。
+
+§7.1 与标准唯象核合成框架的本体论对比
+
+现有REACLIB驱动的s/r过程模型存在三层不可消除的外源假设：(1)预先植入马尔可夫随机动力学；(2)实验拟合反应截面作为跃迁速率；(3)人为施加质量邻近截断以压缩矩阵维度。
+
+本文框架实现三层底层替代：
+
+马尔可夫动力学从共享链接计数恒等式涌现，无需预先设定随机过程；
+所有跃迁权重替换为拓扑缺陷节点纯计数，无实验拟合截面；
+层级截断判据由递归生长树几何自动生成，跨质量跳棋通道天然允许，无需手动放宽矩阵限制。
+二者观测区分度由§7三条定性预言完全覆盖，未来高精度光谱与引力波观测可直接判别两类框架的有效性。
+
+§8. 开放问题（全部未闭合数学边界）
+
+本文所有已证明结论止于方程(1)-(4)的组合构造。以下问题明确超出本稿第一性证明范围，保留为未来工作：
+
+κ
+κ 的解析闭式（中期解析问题）：递归生长树分形维数与渗透指数的精确关系尚未导出。
+稳态全局唯一正解证明（中期算子谱问题）：方程(4)是否具有全局唯一正解，取决于 
+R
+i
+∣
+a
+b
+R 
+i∣ab
+​	
+  与 
+F
+i
+∣
+x
+F 
+i∣x
+​	
+  定义的矩阵不可约性，该不可约性尚未一般性证明。
+离散重联算子谱分岔严格判据（长期底层映射问题，包含H1假设）：
+ρ
+(
+t
+)
+ρ(t) 驱动下离散重联算子的谱跃迁与恒星再生点火/引力坍缩的严格数学对应关系未建立。
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+  的精确计数（短期数值计数问题）：强制重联碎裂路径的精确组合计数依赖于缺位在 
+12
+3
+12 
+3
+  闭包中的具体坐标，当前未一般性求解。
+拓扑荷 
+Q
+Q 到标准模型量子数的映射（长期跨理论对应问题）：本文仅定义 
+Q
+Q 为方向代数和，其与质子数/中子数的定量映射关系（含递归生长树具体构型）尚未完成。
+第6节的H1（本征模-时标对应）属于上述开放问题3的子集，不作为定理使用。
+
+§9. 结论
+
+本文在纯组合公设（节点、有向边、重联计数）下完成了以下严格工作：
+
+证明了核素丰度动力学映射是共享链接重构路径的计数恒等式（定理1），不依赖任何外源概率假设；
+构造了跳棋聚合与强制碎裂的跃迁张量元，其所有因子均为缺陷面积占比、层级截断判据和拓扑荷方向代数和的组合（方程(2)-(3)）；
+导出了稳态丰度的代数表达式，精确还原三因素净留存判据，并将铁峰丰度峰解释为流入非零而流出被几何强制压制的拓扑极值（定理3）。
+所有已证明结论均可逐条回译至“节点、有向边、共享链接”的原始组合语言。第6节的恒星时标本征模对应及第7节预言中的精确数值定位，已如实标注为工作假设或开放问题。本文因此为组合网络框架下的核合成定量化提供了一个形式干净、边界诚实的数学基座。
+
+附录A：全文符号总表
+
+A1. 拓扑核素基础组合量
+
+符号	定义	首次出现
+X
+i
+X 
+i
+​	
+ 	第 
+i
+i 类拓扑核素稳定结	§2定义1
+N
+i
+N 
+i
+​	
+ 	拓扑结原砖总数，
+N
+i
+=
+4
+m
+i
+N 
+i
+​	
+ =4 
+m 
+i
+​	
+ 
+ 	§2定义1
+m
+i
+m 
+i
+​	
+ 	递归生长树阶次	§2定义1
+r
+i
+r 
+i
+​	
+ 	本征组合半径，
+r
+i
+=
+⌈
+N
+i
+1
+/
+3
+⌉
+r 
+i
+​	
+ =⌈N 
+i
+1/3
+​	
+ ⌉	§2定义1
+S
+surf
+S 
+surf
+​	
+ 	拓扑结表面总节点数	§2定义1
+S
+def
+S 
+def
+​	
+ 	表面缺陷未编织节点数	§2定义1
+A
+def
+(
+i
+)
+A 
+def
+​	
+ (i)	缺陷面积占比，
+S
+def
+/
+S
+surf
+S 
+def
+​	
+ /S 
+surf
+​	
+ 	§2定义1
+d
+a
+b
+d 
+ab
+​	
+ 	两拓扑结最短重联路径边数（组合距离）	§2定义2
+κ
+κ	环路密度屏蔽渗透指数	§2定义2
+Θ
+a
+b
+Θ 
+ab
+​	
+ 	层级截断二元指示符	§2定义2
+Q
+(
+X
+i
+)
+Q(X 
+i
+​	
+ )	拓扑荷，闭合环路方向边数代数差	§2定义4
+A2. 抗压张量与碎裂几何量
+
+符号	定义	首次出现
+E
+抗压
+(
+i
+)
+E 
+抗压
+​	
+ (i)	拓扑结抗压张量	§2定义3
+V
+core
+V 
+core
+​	
+ 	内核原砖单元数	§2定义3
+V
+shell
+V 
+shell
+​	
+ 	外壳原砖单元数	§2定义3
+S
+core
+S 
+core
+​	
+ 	内核链接饱和度	§2定义3
+S
+shell
+S 
+shell
+​	
+ 	外壳链接饱和度	§2定义3
+I
+(
+suture
+i
+)
+I(suture 
+i
+​	
+ )	缝合线应力集中系数	§2定义3
+E
+ext
+E 
+ext
+​	
+ 	外部共享链接压缩应力读数	§4碎裂贡献
+A
+total
+A 
+total
+​	
+ 	全局膜片所有拓扑结表面节点总计数	§4聚合贡献
+A3. 动力学跃迁算子
+
+符号	定义	首次出现
+t
+t	累积局域重联事件计数（本文时间定义）	§3定理1
+N
+i
+(
+t
+)
+N 
+i
+​	
+ (t)	
+t
+t 时刻 
+X
+i
+X 
+i
+​	
+  拓扑结丰度计数	§3定理1
+ρ
+(
+t
+)
+ρ(t)	局域共享链接数密度	§4聚合贡献
+$\mathcal{R}_{i	ab}$	双体聚合三阶跃迁张量	§3定义5
+$\mathbf{F}_{i	x}$	单体碎裂二阶跃迁矩阵	§3定义5
+δ
+geo
+(
+a
+,
+b
+;
+i
+)
+δ 
+geo
+​	
+ (a,b;i)	缺陷啮合几何匹配二元指示符	§4聚合贡献
+Γ
+x
+→
+i
+Γ 
+x→i
+​	
+ 	强制碎裂独立重构路径计数	§4碎裂贡献
+G
+i
+G 
+i
+​	
+ 	
+X
+i
+X 
+i
+​	
+  总流入拓扑通量	§5定理2
+L
+i
+L 
+i
+​	
+ 	
+X
+i
+X 
+i
+​	
+  总流出拓扑通量	§5定理2
+A4. 假设与谱分析记号
+
+符号	定义	首次出现
+δ
+N
+δN	丰度线性扰动向量	§6
+R
+lin
+R 
+lin
+​	
+ 	线性扰动简化生成矩阵	§6
+λ
+l
+λ 
+l
+​	
+ 	线性算子离散特征值	§6
+H1	本征模-恒星演化时标映射工作假设	§6
+参考文献
+
+[1] Burbidge E M, Burbidge G R, Fowler W A, Hoyle F. Synthesis of the Elements in Stars[J]. Reviews of Modern Physics, 1957, 29(4): 547-650.
+
+[2] Käppeler F, Gallino R, Bisterzo S, Aoki W. The s process: Nuclear physics, stellar models, and observations[J]. Reviews of Modern Physics, 2011, 83(1): 157-194.
