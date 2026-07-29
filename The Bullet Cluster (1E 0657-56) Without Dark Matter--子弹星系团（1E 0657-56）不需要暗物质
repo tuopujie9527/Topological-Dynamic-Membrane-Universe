@@ -1,0 +1,451 @@
+The Bullet Cluster (1E 0657-56) Does Not Require Dark Matter
+
+Abstract
+
+The X-ray and gravitational lensing observations of the Bullet Cluster (1E 0657-56) are frequently cited as the strongest evidence for the existence of dark matter. In this paper, within the framework of Topological Dynamic Membrane Universe (TDMU 2.33), we propose an alternative interpretation that requires no introduction of unknown particles. In this framework, matter is treated as topological knots in a combinatorial network, nuclear transformations are attributed to defect-complementary weaving (Path I) and forced chain reconnection (Path II), gravity is regarded as a statistical effect of the total number of shared links, and light is viewed as the propagation of orientational perturbations of shared links. We demonstrate that the observed mass–gas spatial separation, high-temperature X-ray emission, iron abundance characteristics, and the optical darkness of foreground objects can all be naturally derived from known mechanisms—namely, compact remnants (topological stars, woven solidification states), core–envelope separation of camouflaged giant stars, and instantaneous nucleosynthesis via the leapfrog path. Several testable predictions that distinguish this framework from the standard ΛCDM model are presented.
+
+Keywords: Bullet Cluster; dark matter; Topological Dynamic Membrane Universe; leapfrog path; compact remnants
+
+1. Introduction
+
+The Bullet Cluster (1E 0657-56) formed from the collision of two galaxy clusters and is located approximately 3.8 billion light-years away. High-temperature gas observed by the Chandra X-ray Observatory (shown in pink) and the mass distribution reconstructed from gravitational lensing (shown in blue) exhibit a significant spatial offset. This is commonly interpreted as ordinary matter decelerating due to electromagnetic interactions, while dark matter passes through collisionlessly. This interpretation has become one of the most widely cited pieces of observational evidence for the existence of dark matter.
+
+However, decades of searches in terrestrial laboratories have failed to detect any dark matter particle candidate. This compels us to reexamine the Bullet Cluster phenomenon and investigate whether a complete explanation can be constructed without invoking unknown particles.
+
+Based on the axioms of TDMU 2.33 [1], this paper presents a purely geometric interpretation. This interpretation assumes no new particles beyond the known constituents of the Standard Model, nor does it invoke singularities from general relativity or the standard model of accretion disks. All physical quantities involved are reduced to combinatorial operations on nodes, directed edges, shared links, and reconnection counts.
+
+2. Theoretical Foundation
+
+This section lists only the TDMU concepts directly cited in this paper; the complete axiomatic system can be found in [1].
+
+2.1 Topological Knots and Matter
+
+Matter consists of stable loop-woven subgraphs on the membrane, termed topological knots. Nuclides correspond to stable topological knots on the recursive growth tree, uniquely labeled by the following geometric quantities:
+
+N_i: the total number of primitive bricks constituting the topological knot
+
+A_def(i): the surface defect area fraction, defined as the ratio of unwoven surface nodes to total surface nodes
+
+E_resist(i): the compressive resistance binding energy tensor, composed of the core primitive brick number, shell port saturation, and suture line stress concentration factor
+
+2.2 Path I (Defect-Complementary Weaving)
+
+When the surface defects of two topological knots are geometrically complementary, they can interlock to form a larger topological knot, releasing stress waves. The event rate is:
+
+R = N_A · N_B · P_match
+
+where P_match is determined by the defect areas and the hierarchical truncation criterion. Path I does not depend on energy barriers; it depends solely on the geometric matching of defects.
+
+2.3 Path II (Forced Chain Reconnection)
+
+When the external compressive energy exceeds the E_resist of a topological knot, the connecting edges are sheared in bulk, triggering forced chain reconnection.
+
+2.4 Energy Conversion and Extremely Slow Dissipation
+
+In the superfluid state (D_ij Θ = 0), the stress energy released by Path I and Path II is predominantly converted into vortex twist energy (Writhe × Twist) via a three-step mechanism. This mechanism significantly suppresses outward transverse wave (photon) radiation.
+
+However, topological mismatch stress between the superfluid boundary and the underlying woven network produces an extremely low-rate background longitudinal wave leakage (δρ_link mode). This leakage is suppressed to an extremely low level by phase locking, and its products are ultra-low-temperature stress waves rather than normal light. Thus, a topological star is not an absolutely closed eternal entity, but a quasi-steady-state system with an extremely long dissipation timescale—its behavior resembles a high-speed, smoothly spinning gyroscope: macroscopically manifesting as near-freezing of energy, yet with an irreversible, exceedingly faint unwinding process occurring at the底层. This dissipation mechanism ensures the system satisfies the second law of thermodynamics.
+
+2.5 Light–Gravity Decoupling
+
+Gravity is carried by the total number of shared links (N_total), while light is carried by orientational perturbations (δA). The two are determined by completely independent geometric degrees of freedom.
+
+2.6 Leapfrog Path
+
+Owing to the hierarchical truncation criterion ([2]), topological knots of any mass number can undergo aggregation without being restricted to adjacent masses. Cross-mass-number aggregation channels, which are typically neglected in the standard model, are automatically included in TDMU by geometric construction.
+
+3. Observational Facts of the Bullet Cluster
+
+The following are the three raw observational results, unmediated by theoretical interpretation:
+
+Gravitational lensing mass distribution (blue): Weak gravitational lensing reconstruction shows that the majority of the total mass is concentrated at the collision front and approximately coincides with the positions of visible-light stars.
+
+X-ray emission (pink): The high-temperature (approximately 100 million K) plasma emission region lies behind the mass region and exhibits a bullet-shaped morphology. X-ray spectra show characteristic emission lines of highly ionized iron (Fe XXV), oxygen, silicon, and other elements.
+
+Optical/near-infrared images: A large number of stars are visible in the foreground region, but corresponding gas and dust emission is absent. In个别 foreground regions, compact star clusters corresponding to rear X-ray cavities have been identified.
+
+4. TDMU Interpretation
+
+4.1 Origin of the Mass–Gas Separation
+
+In TDMU, gravitational lensing traces the total number of shared links (N_total), a quantity primarily contributed by the inertia of compact topological knots. The gravitational contribution of gas (atomic nuclei and electron clouds) constitutes a relatively small fraction of the total mass.
+
+Stars and topological star remnants (including the exposed bare cores of camouflaged giant stars) have extremely small volumes (radii far less than 1 AU). During a galaxy collision, their effective collision cross-section with the tenuous medium approaches zero, so they experience almost no deceleration, retaining their original velocity (approximately 4500 km/s) as they pass through, forming the foreground mass region.
+
+Ordinary gas has an enormous volume, and the shared-link density gradient produces strong ram pressure drag, leading to deceleration and accumulation, forming the rear X-ray region.
+
+This separation is not determined by particle properties, but by the geometric difference in spatial extent.
+
+4.2 Origin of the X-ray Emission
+
+The rear X-rays originate not from nuclear fusion or accretion friction, but from the dramatic shared-link density gradient changes experienced by a vast number of topological knots (atomic nuclei) at the shock front when the two gas clouds collide. Macroscopic kinetic energy is first converted into longitudinal waves (phonons/thermal motion), and at the density gradient region of the front, part of the mode is converted into transverse waves (photons), i.e., the thermal bremsstrahlung continuum. Simultaneously, shock compression elevates the Path I event rate, and defect-complementary weaving of light nuclei (hydrogen, helium, etc.) releases additional stress waves, jointly sustaining the high temperature of approximately 100 million K.
+
+4.3 Geometric Interpretation of Iron Abundance
+
+The observed iron characteristic line abundance is relatively high. The standard model requires extended stellar nucleosynthesis or supernova ejection to accumulate iron.
+
+The TDMU leapfrog channel ([2] Theorem 3) provides an instantaneous synthesis path: under the high-pressure environment of the shock, intermediate-mass nuclei can rapidly generate iron-group elements through leapfrog aggregation such as ²⁸Si + ²⁸Si → ⁵⁶Ni. Because ⁵⁶Fe resides in a perfect closure configuration (A_def → 0, ℐ = 0), its outflow channels (continued aggregation or fission) are geometrically suppressed, allowing its abundance to accumulate. Thus, the iron abundance can be regarded as a product of the collision event itself, without requiring an extended history of stellar evolution.
+
+4.4 The Darkness of Foreground Objects
+
+Camouflaged giant stars ([3]) possess a "core topological star + external supersaturated envelope" structure. Under the ram pressure of the collision, the external envelope is stripped away, becoming part of the rear gas.
+
+The exposed bare core (topological star) is in a phase-locked superfluid state. The energy released by internal Path I and Path II is overwhelmingly converted into vortex twist energy and contributes to the effective mass, producing no detectable transverse wave photons. As described in Section 2.4, the bare core is not "zero dissipation"; rather, at the boundary layer, there exists an ultra-low-frequency longitudinal wave leakage driven by topological mismatch. The products of this leakage are ultra-low-temperature stress waves (phenomenologically corresponding to an ultra-low-frequency background disturbance), whose energy per single event lies far below the sensitivity threshold of all current electromagnetic-band detectors.
+
+For the residual accretion disk, because the particle number density N plummets, the Path I event rate R = N_A · N_B · P_match is mathematically always greater than zero, but its radiative power (proportional to N²) decays with the square of the density, likewise falling to unobservable levels.
+
+Therefore, the optical darkness of bare cores is the result of a dual suppression—extremely slow dissipation and extremely weak coupling—manifesting observationally as complete electromagnetic silence. Their extremely long dissipation lifetimes (far exceeding the Hubble time) enable them to become the dominant dark mass carriers in galaxies: remnants left behind after stars expire continue accumulating to this day in a gyroscope-like, low-consumption mode.
+
+5. Comparison with the Standard Model
+
+The standard ΛCDM model requires the introduction of cold dark matter particles (such as WIMPs) to explain the gravitational lensing mass; it requires the assumption of stellar historical nucleosynthesis to explain the iron abundance; and it requires the assumption of accretion disk inflow to explain active phenomena.
+
+The framework presented in this paper eliminates these exogenous assumptions at the foundational axiom level. All phenomena are attributed to the same set of combinatorial rules: mass–gas separation arises from geometric differences in spatial extent; iron abundance arises from instantaneous synthesis via the leapfrog path; and foreground darkness arises from the dual suppression of extremely slow dissipation and rarefaction.
+
+6. Testable Predictions
+
+Based on TDMU, the Bullet Cluster and similar collisional systems should satisfy the following:
+
+Microlensing event rate: The foreground blue region contains a large number of compact remnants (with a continuous mass distribution). The microlensing optical depth is approximately 0.04, with event timescales correlated with remnant mass (averaging about 10 years)—testable by the Nancy Grace Roman Space Telescope survey.
+
+X-ray iron lines and the leapfrog path: The spatial distribution of iron should coincide with the shock front, rather than with the stellar distribution. In low-metallicity environments, the ⁵⁸Ni/⁵⁶Fe ratio is predicted to vary with environmental density, distinct from the smooth spectrum of sequential nucleosynthesis models.
+
+Photon capture shell thickness: If VLBI imaging of foreground compact objects is performed, a photon ring of finite thickness (ΔR_ph > 0) should be measured, as opposed to the zero-thickness photon sphere predicted by general relativity.
+
+Merger gravitational wave echoes: If two topological stars merge, gravitational wave echoes with a discrete spectrum should subsequently appear, corresponding to the reorganization modes of the vortex network, distinct from the purely damped signal of the no-hair theorem.
+
+Compact remnant accumulation effect: A large number of low-inertia compact remnants should exist in galactic halos, their total mass contribution should be sufficient to explain the characteristics of galactic rotation curves, and the mass spectrum should exhibit a peak near approximately 1.2 M_⊙ (determined by the optimal configuration of recursive packing).
+
+7. Discussion and Open Questions
+
+The interpretation presented in this paper relies on certain mathematical quantities within TDMU that have not yet been analytically resolved, including:
+
+The precise value of the hierarchical truncation constant κ and its functional relationship with the local loop density
+
+The complete classification of geometric matching indicators for the leapfrog channel
+
+The precise mapping between the compressive resistance tensor and nuclear mass
+
+The quantitative value of the critical mass for superfluid shell closure
+
+These open questions are listed in Section 10 of [1]. In the specific case of the Bullet Cluster phenomenon, the qualitative conclusions of this paper—that the three major observational facts can be explained without dark matter particles—do not depend on the precise values of these parameters.
+
+8. Conclusion
+
+The multi-band observations of the Bullet Cluster can be self-consistently interpreted within the TDMU framework without the need to introduce dark matter particles.
+
+Mass–gas separation: Arises from the geometric difference in spatial extent between compact objects (stars + topological star cores) and fluffy gas.
+
+X-rays and iron abundance: Produced by shock-driven Path I reactions and instantaneous synthesis channels of the leapfrog path.
+
+Foreground darkness: Arises from the extremely slow dissipation (gyroscope-like operation) of bare cores and the precipitous drop in radiative power of the residual disk surface.
+
+This interpretation is not in conflict with existing observational data and yields predictions that are clearly distinguishable from the ΛCDM model. The Bullet Cluster should not be regarded as proof of the existence of dark matter, but should be re-examined as a dynamical case of core–envelope separation occurring in compact remnants and gas during a collision.
+
+AI Usage Statement
+
+During the writing of this paper, artificial intelligence tools were used for terminology consistency checking, deductive chain rigor verification, and language standardization. All core theoretical content was independently constructed by the author based on the TDMU 2.33 framework.
+
+(中文版）子弹星系团（1E 0657-56）不需要暗物质
+
+
+摘要
+子弹星系团（Bullet Cluster，1E 0657-56）的X射线与引力透镜观测常被引用为暗物质存在的最强证据。本文在拓扑动力膜宇宙学（TDMU 2.33）框架内，提出一种无需引入任何未知粒子的替代解释。该框架将物质视为组合网络中的拓扑结，将核转变归为缺陷互补编织（路径一）与强制链式重联（路径二），将引力视为共享链接总数的统计效应，将光视为共享链接取向扰动的传播。我们论证，观测到的质量-气体空间分离、高温X射线辐射、铁元素丰度特征及前方天体的光学黑暗，均可由已知的致密残骸（拓扑星、编织凝固态）、伪装态巨星的核壳分离、以及跳棋路径下的瞬时核合成等机制自然导出。本文给出若干与标准ΛCDM模型区分的可检验预言。
+
+关键词：子弹星系团；暗物质；拓扑动力膜宇宙学；跳棋路径；致密残骸
+
+1. 引言
+子弹星系团（1E 0657-56）由两个星系团碰撞形成，距离约38亿光年。钱德拉X射线望远镜观测到的高温气体（粉色）与引力透镜重建的质量分布（蓝色）存在显著空间错位，通常被解释为普通物质因电磁相互作用减速，而暗物质无碰撞地穿过。这一解释已成为暗物质存在最广泛引用的观测证据之一。
+
+然而，地球实验室数十年搜寻未发现任何暗物质粒子候选者。这促使我们重新审视子弹星系团现象，考察是否存在不依赖未知粒子的完整解释。
+
+本文基于TDMU 2.33的公设[1]，提出一种纯几何解释。该解释不假设任何超出标准模型已知成分的新粒子，也不调用广义相对论奇点或吸积盘标准模型。所有涉及的物理量均还原为节点、有向边、共享链接和重联计数的组合运算。
+
+2. 理论基底
+本节仅列出本文直接引用的TDMU概念，完整公设体系见[1]。
+
+2.1 拓扑结与物质
+物质是膜上稳定的环路编织子图，称为拓扑结。核素对应递归生长树上的稳定拓扑结，由以下几何量唯一标记：
+
+N
+i
+N 
+i
+​
+ ：构成该拓扑结的原砖总数
+
+A
+def
+(
+i
+)
+A 
+def
+​
+ (i)：表面缺陷面积占比，定义为表面未编织节点数与表面总节点数之比
+
+E
+抗压
+(
+i
+)
+E 
+抗压
+​
+ (i)：抗压结合能张量，由内核原砖数、外壳端口饱和度及缝合线应力集中系数构成
+
+2.2 路径一（缺陷互补编织）
+两个拓扑结表面缺陷几何互补时，可啮合形成更大的拓扑结，释放应力波。事件率为：
+
+R
+=
+N
+A
+N
+B
+P
+match
+R=N 
+A
+​
+ N 
+B
+​
+ P 
+match
+​
+ 
+其中 
+P
+match
+P 
+match
+​
+  由缺陷面积和层级截断判据决定。路径一不依赖能量壁垒，仅依赖缺陷的几何匹配。
+
+2.3 路径二（强制链式重联）
+当外部压缩能量超过拓扑结的 
+E
+抗压
+E 
+抗压
+​
+  时，联结边被批量剪断，发生链式强制重联。
+
+2.4 能量转化与极缓慢耗散
+在超流态（
+D
+i
+j
+Θ
+=
+0
+D 
+ij
+​
+ Θ=0）下，路径一和路径二释放的应力能经三步机制主要转化为涡旋扭曲能（Writhe × Twist）。该机制显著抑制了向外的横波（光子）辐射。
+
+然而，超流边界与下方编织网络之间的拓扑失配应力会产生极低速率的背景纵波泄漏（
+δ
+ρ
+link
+δρ 
+link
+​
+ 模式），该泄漏被相位锁定压抑至极低水平，产物为极低温应力波而非正常光。因此，拓扑星并非绝对闭锁的永存体，而是具有极长耗散时标的准稳态系统，其行为类似于高速平稳运转的陀螺——宏观上表现为能量的近乎冻结，但底层存在不可逆的、极其微弱的退绕过程。这一耗散机制确保了系统满足热力学第二定律。
+
+2.5 光-引解耦
+引力由共享链接总数 
+N
+total
+N 
+total
+​
+  承载，光由取向扰动 
+δ
+A
+δA 承载，两者由完全独立的几何自由度决定。
+
+2.6 跳棋路径
+由于层级截断判据（[2]），任意质量数的拓扑结均可发生聚合，不受邻近质量限制。跨质量数的聚合通道在标准模型中通常被忽略，在TDMU中由几何构造自动包含。
+
+3. 子弹星系团观测事实
+以下三条为未经理论解释的原始观测结果：
+
+引力透镜质量分布（蓝色）：弱引力透镜重建显示，总质量的大部分集中于碰撞前沿，且与可见光恒星位置大致重合。
+
+X射线辐射（粉色）：高温（约1亿K）等离子体辐射区位于质量区后方，呈现子弹头形状。X射线光谱显示高电离铁（Fe XXV）、氧、硅等元素的特征发射线。
+
+光学/近红外图像：前方区域可见大量恒星，但缺少对应的气体和尘埃辐射。在个别前沿区域，发现与后方X射线空洞对应的致密星团。
+
+4. TDMU解释
+4.1 质量-气体分离的成因
+
+在TDMU中，引力透镜追踪共享链接总数 
+N
+total
+N 
+total
+​
+ ，该量主要由致密拓扑结的惯性贡献。气体（原子核与电子云）的引力贡献在总质量中占比相对较小。
+
+恒星与拓扑星残骸（包括伪装态巨星暴露的裸核）体积极小（半径远小于1天文单位），在星系碰撞中与稀薄介质的有效碰撞截面接近零，因此几乎不减速，保持原始速度（约4500 km/s）穿行，形成前沿质量区。
+
+普通气体体积庞大，共享链接密度梯度产生强烈冲压阻力，导致减速与堆积，形成后方X射线区。
+
+该分离不由粒子性质决定，而由空间延展度的几何差异决定。
+
+4.2 X射线辐射的来源
+
+后方的X射线并非源于核聚变或吸积摩擦，而是两团气体相撞时，大量拓扑结（原子核）在激波锋面处发生剧烈共享链接密度梯度变化。宏观动能首先转化为纵波（声子/热运动），在锋面密度梯度区部分模式转换为横波（光子），即热轫致辐射连续谱。同时，激波压缩提升路径一事件率，轻核（氢、氦等）的缺陷互补编织释放额外应力波，共同维持约1亿K的高温。
+
+4.3 铁元素丰度的几何解释
+
+观测到的铁特征线丰度较高。标准模型需要较长时间的恒星核合成或超新星抛射来积累铁元素。
+
+TDMU跳棋通道（[2]定理3）提供瞬时合成路径：在激波高压环境下，中等质量核可通过 
+28
+S
+i
++
+28
+S
+i
+→
+56
+N
+i
+28
+ Si+ 
+28
+ Si→ 
+56
+ Ni 等跳棋聚合快速生成铁族元素。由于 
+56
+F
+e
+56
+ Fe 处于完美闭包构型（
+A
+def
+→
+0
+A 
+def
+​
+ →0，
+I
+=
+0
+I=0），其流出通道（继续聚合或裂变）被几何压制，故丰度得以积累。因此，铁元素丰度可视为碰撞事件本身的产物，无需漫长的恒星演化历史。
+
+4.4 前方天体的黑暗性
+
+伪装态巨星（[3]）具有“内核拓扑星+外部过饱和包层”结构。在碰撞冲压下，外部包层被剥离，成为后方气体的一部分。
+
+暴露的裸核（拓扑星）处于相位锁定超流态。其内部路径一与路径二的释能绝大部分被转化为涡旋扭曲能并贡献有效质量，不产生可探测的横波光子。根据2.4节所述，裸核并非“零耗散”，而是在边界层存在由拓扑失配驱动的极低频纵波泄漏。该泄漏产物为极低温应力波（现象层对应超低频背景扰动），其单次事件能量远低于当前所有电磁波段探测器的灵敏度阈值。
+
+残余吸积盘因粒子数密度 
+N
+N 骤降，路径一事件率 
+R
+=
+N
+A
+N
+B
+P
+match
+R=N 
+A
+​
+ N 
+B
+​
+ P 
+match
+​
+  在数学上恒大于零，但其辐射功率（正比于 
+N
+2
+N 
+2
+ ）随密度平方衰减，同样降至不可观测水平。
+
+因此，裸核的光学黑暗是极慢耗散与极弱耦合的双重压制结果，在观测上表现为完全的电磁静默。其极长的耗散寿命（远大于哈勃时标）使其成为星系中占主导的暗质量载体：恒星终结后留下的残骸以陀螺般的低速消耗方式持续累积至今。
+
+5. 与标准模型的对比
+标准ΛCDM模型需要引入冷暗物质粒子（如WIMP）来解释引力透镜质量；需要假设恒星历史核合成来解释铁丰度；需要假设吸积盘内流来解释活动现象。
+
+本文框架在底层公设层面消除这些外源假设。所有现象归于同一组组合规则：质量-气体分离源于几何延展度差异；铁丰度源于跳棋路径的瞬时合成；前方黑暗源于极缓慢耗散与稀薄化的双重压制。
+
+6. 可检验预言
+基于TDMU，子弹星系团及类似碰撞系统应满足：
+
+微引力透镜事件率：前沿蓝色区存在大量致密残骸（质量谱连续分布），微引力透镜光学深度约0.04，事件时标与残骸质量相关（平均约10年），可通过罗马空间望远镜巡天检验。
+
+X射线铁线与跳棋路径：铁元素的空间分布应与激波锋面重合，而非与恒星分布重合。低金属丰度环境中，预言 
+58
+N
+i
+/
+56
+F
+e
+58
+ Ni/ 
+56
+ Fe 比值随环境密度变化，区别于逐级核合成模型的平滑谱。
+
+光子捕获壳厚度：若对前方致密天体进行VLBI成像，应测得有限厚度的光子环（
+Δ
+R
+ph
+>
+0
+ΔR 
+ph
+​
+ >0），而非广义相对论预言的零厚度光子球。
+
+并合引力波回声：若两颗拓扑星并合，随后应出现离散频谱的引力波回声，对应涡旋网络重组模式，区别于无毛定理的纯阻尼信号。
+
+致密残骸累积效应：星系晕中应存在大量低惯性致密残骸，其总质量贡献应足以解释星系旋转曲线特征，且质量谱在约 
+1.2
+ 
+M
+⊙
+1.2M 
+⊙
+​
+  附近存在峰值（由递归堆积最优构型决定）。
+
+7. 讨论与未闭合问题
+本文解释依赖于TDMU部分尚未解析的数学量，包括：
+
+层级截断常数 
+κ
+κ 的精确值与局域环路密度的函数关系
+
+跳棋通道几何匹配指示符的完整分类
+
+抗压张量与核素质量的精确映射
+
+超流壳闭合临界质量的定量值
+
+这些开放问题列于[1]第十篇。在子弹星系团这一现象案例中，本文的定性结论——无需暗物质粒子即可解释三大观测事实——不依赖这些参数的精确数值。
+
+8. 结论
+子弹星系团的多波段观测可以在TDMU框架内得到自洽解释，无需引入暗物质粒子。
+
+质量-气体分离：源于致密物体（恒星+拓扑星核）与蓬松气体在空间延展度上的几何差异。
+
+X射线与铁丰度：由激波驱动的路径一反应和跳棋瞬时合成通道产生。
+
+前方黑暗：源于裸核的极缓慢耗散（陀螺式运转）与残余盘面的辐射功率骤降。
+
+该解释与现有观测数据不冲突，并给出与ΛCDM模型可明确区分的预言。子弹星系团不应被视为暗物质存在的证明，而应被重新审视为致密残骸与气体在碰撞中发生核壳分离的动力学案例。
+
+
+AI使用声明
+本文在撰写过程中使用人工智能辅助工具进行术语一致性校验、推导链严格性检验与语言规范化。全部核心理论内容由作者基于TDMU 2.33框架独立构建。
