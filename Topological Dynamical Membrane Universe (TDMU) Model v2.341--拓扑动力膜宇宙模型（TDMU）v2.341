@@ -1,0 +1,1679 @@
+Topological Dynamical Membrane Universe (TDMU) Model v2.341
+——A Cosmological Framework Based on Discrete Combinatorial Networks
+
+Author: Ma Jiangping
+
+Abstract
+
+The standard cosmological model (ΛCDM) relies on three exogenous assumptions—the singularity, the inflaton field, and dark matter particles with a dark energy field—whose physical nature remains unexplained within the framework of known physics. This paper proposes an alternative framework: the universe is modeled as a topological interface (membrane) emerging from a discrete combinatorial network. This network consists of nodes and directed edges, and its sole dynamics is local reconnection.
+
+Within this framework: space is the ensemble of distance relations among structures on the membrane; time is the cumulative count of reconnection events; matter consists of stable loop-woven subgraphs (topological knots), the recursive growth of which is truncated by the current energy scale; gravity is a statistical effect of the total number of shared links; light is the propagation of orientation perturbations of shared links; nuclear transformations occur through defect-complementary weaving and forced reconnection (four channels); elemental abundances are determined by a three-factor criterion (synthesis probability, continued polymerization probability, and fission probability); and astrophysical evolution is a dynamical game between Path I and Path II at different scales within an accretion-dissipation cycle, with stellar types depending on total accreted mass and the state of the medium.
+
+This framework does not employ a singularity (replaced by a finite critical loop density), inflation (replaced by the initial conditions of membrane emergence), dark matter particles (replaced by the shared-link convergence effect of supermassive topological stars), or a dark energy field (replaced by the topological tension coupling between the membrane and the external substrate). All observable cosmological phenomena—homogeneous background, large-scale structure, accelerated expansion, and elemental abundance distribution—emerge from the same set of geometric rules.
+
+This paper provides a complete system of postulates, core derivations, an astrophysical evolutionary spectrum, and testable predictions.
+
+1. Introduction
+1.1 Exogenous Assumptions of the Standard Cosmological Model
+The contemporary standard model of cosmology (ΛCDM) has achieved remarkable observational success, but its theoretical architecture relies on three exogenous assumptions:
+
+Singularity: The universe is born from a mathematical singularity where spacetime curvature diverges. At this point, density, temperature, and curvature all tend to infinity, and general relativity breaks down. A physical theory that contains an indescribable singularity at its core indicates that the theory is not complete.
+
+Inflation: To explain the homogeneity and flatness of the universe, the standard model introduces a scalar field that undergoes superluminal expansion in the very early universe. This field has no known physical counterpart, and the form of its potential requires artificial tuning to match observational data.
+
+Dark Matter and Dark Energy: To explain galactic dynamics and the accelerated expansion of the universe, the standard model introduces two unknown components that constitute 95% of the total energy of the universe. Dark matter particles have never been detected in Earth-based experiments; the physical nature of dark energy is completely unknown.
+
+The common feature of these three assumptions is that they are not derived from deeper principles but are entities added layer by layer to fit observational data.
+
+1.2 The Path of This Paper
+The Topological Dynamical Membrane Universe (TDMU) model starts from a set of extremely parsimonious postulates: only nodes, directed edges, shared links, and a reconnection count. From these underlying definitions, all the above phenomena are derived or reformulated. The tasks of this paper are:
+
+To present the complete system of postulates (Parts I to II)
+
+To establish the emergence mechanism of material structure (Part III)
+
+To define the four channels of nuclear transformation and the three-factor criterion for elemental abundance (Parts IV to V)
+
+To establish the geometry of shared links and the gravity-light decoupling (Part VI)
+
+To construct the astrophysical evolutionary spectrum and cosmological framework (Parts VII to VIII)
+
+To list testable predictions (Part IX)
+
+Part I: Ontology
+Postulate 1: The Substrate
+There exists a discrete, background-free combinatorial network ℳ. It consists of nodes and directed edges connecting the nodes.
+
+This network is not embedded in any space. It does not evolve in any pre-existing time. The sole primitive relation between nodes and edges is "connected" or "not connected." The sole primitive attribute of an edge is its direction—pointing from one node to another.
+
+The sole dynamics of the substrate is local reconnection: when two edges meet at a node, they can disconnect and reconnect according to a direction rule. Reconnection is local—it involves only a few edges sharing the same node and does not involve distant structures.
+
+Direction Rule: On any closed path, when traversing the path, edges consistent with the traversal direction are counted as forward, and edges opposite to the traversal direction are counted as backward. The algebraic sum of the directedness of all edges is conserved under local reconnection operations.
+
+The substrate contains no physical quantities. There is no mass, no energy, no charge, no field. There are only nodes, directed edges, and the connection relations among them.
+
+The substrate is not "nothingness"—it is an underlying existence with definite topological structure and dynamics. Nodes exist, directed edges exist, and local reconnection events continuously occur within it. The substrate is an ever-restless topological sea, the raw material of all existence.
+
+Definition 1.1: Loop
+A closed path that starts from a node, proceeds along directed edges, and eventually returns to the starting node is called a loop. A loop is the only structure in the substrate that possesses "global identifiability."
+
+Definition 1.2: Topological Charge
+On any closed loop, the net directional algebraic sum along the loop traversal (forward edge count minus backward edge count) is an integer. This integer is conserved under reconnection operations—because the direction rule guarantees it.
+
+This integer is called the topological charge of the loop.
+
+Topological charge is not a presupposed physical quantity. It is the name given to the purely geometric fact of "the algebraic sum of directions on a closed path."
+
+Postulate 2: Spontaneous Emergence of the Membrane
+When the loop density (the number of closed paths contained per unit node) in a certain closure region of the substrate exceeds a critical value, the loops in that region, through collective reconnection, tend to weave into a closed surface. This surface divides the region into "inside" and "outside"—the inner loop density differs from the outer one, and the surface itself becomes the boundary between the two regions.
+
+This closed surface is called the membrane.
+
+The membrane is not "placed into" the substrate. It is a structural pattern that the substrate naturally tends toward under specific loop density conditions. The membrane is a state of the substrate—a phase transition product of the substrate from an unwoven state to a woven state. The moment of membrane formation establishes an inside-outside gradient: the interior is organized into a woven state, and the exterior remains in an unwoven state. Once this gradient is established, the membrane possesses topological persistence and can exist as an independent universe.
+
+Definition 2.1 (Inside-Outside Distinction of the Membrane): Let membrane M be a connected subgraph of ℳ. Membrane M partitions ℳ into two disjoint sets of nodes—the interior is the set of nodes connected to M but not connected to infinity, and the exterior is the set of nodes connected to M and also connected to infinity. The emergence of the membrane is the phase transition moment at which ℳ first acquires this partitioning property.
+
+Definition 2.2 (Ontological Status of the External Substrate): The external substrate and the internal substrate are ontologically the same entity—both are components of ℳ. Both consist of nodes and directed edges and both obey local reconnection dynamics. The difference lies only in the organizational mode: the interior of the membrane is in a woven state, possessing stable loops, shared link networks, and topological knots; the exterior of the membrane is in an unwoven state, with loop density below the critical value, unable to form a stable closed surface, and hence lacking shared link networks and topological knots. The external substrate is not nothingness—it has definite states, but its dynamical mode cannot directly couple with the interior of the membrane.
+
+Postulate 3: Weaving Hierarchy
+Material structures are formed by topological knots (indissoluble woven subgraphs) in a recursive hierarchy. Interactions between topological knots are realized through shared links. Every item on this recursive growth tree is a topological knot of a specific order, and its total number of primitive bricks is determined by the brick number of the preceding-generation knot.
+
+Corollary 3.1: Hierarchical Truncation Criterion
+
+The shared link network between topological knots is only counted as an effective interaction when the distance between the knots is less than or equal to a finite integer multiple of the recursive growth radius of the smaller knot.
+
+Specifically, let the recursive order of topological knot A be m (determined by the number of primitive bricks N_A, in some packing configuration of N_A = 4^m), and its intrinsic combinatorial radius be r_A = ⌈N_A^{1/3}⌉ (in node steps).
+
+When the center distance between two knots d_AB > κ·(r_A + r_B) (where κ is a screening factor determined by the local loop density, κ ∈ [1, 3]), the total number of shared links N_links decays exponentially to below a threshold N_thresh and can be regarded as zero in macroscopic physics.
+
+The origin of this truncation: the intermediate loop density in the substrate at distances exceeding r_A + r_B cannot maintain stable weaving channels—any extra links will spontaneously dissolve through reconnection because intermediate nodes lack sufficient topological charge support.
+
+Physical Consequences:
+
+On the atomic nucleus scale (r ~ 1 fm): the truncation radius far exceeds the internucleon spacing, and the total number of shared links is geometrically forced to lock at maximum saturation—macroscopically manifesting as the short-range saturation of the strong nuclear force.
+
+On the atomic scale (r ~ 1 Å): the truncation radius precisely matches the range of the electron cloud, and the total number of shared links naturally decreases with increasing distance according to the number of combinatorial paths—macroscopically manifesting as the 1/r form of the Coulomb potential.
+
+On the cosmic scale (r ≳ 1 Mpc): the truncation radius matches the highest order of the recursive growth tree (galaxy cluster scale)—beyond this scale, the shared link count returns to zero.
+
+Part II: Emergence of Space and Time
+Postulate 4: Combinatorial Distance
+The distance between two nodes is defined by the number of edges on the shortest path connecting them. The distance between two structures is defined by the number of edges on the shortest path connecting the regions to which they belong.
+
+Distance is not a pre-existing metric in space. It is a direct reading of the connection relations between nodes.
+
+Postulate 5: Space
+The ensemble of all distance relations among structures on the membrane constitutes the spatial structure of the membrane.
+
+Space is not a container that holds the membrane. It is the collection of relations among the structures on the membrane.
+
+When a structure moves, it is not traveling through space—it is changing its connection relations with all other structures. "Motion" is the record of reconnection history in distance relations.
+
+Postulate 6: Time
+The sequential order between two events A and B on the membrane is determined by the cumulative number of reconnection events on the paths connecting them. If the total number of reconnections on any path from A to B is N, and N > 0, then A precedes B; if N = 0, then A and B are simultaneous.
+
+Time is not a dimension, not a coordinate, not a parameter. It is the cumulative count of reconnection events.
+
+Part III: Emergence of Material Structure
+Postulate 7: Topological Knot
+A woven subgraph on the membrane, composed of loops that do not spontaneously disintegrate under reconnection dynamics, is called a topological knot.
+
+A subgraph does not spontaneously disintegrate if and only if: the number of consecutive reconnections required to separate it from the rest of the membrane exceeds a threshold. This threshold ensures that no local reconnection operation can release the internal stress without disrupting the overall structure.
+
+Matter is not pre-existing particles. It is topological knots on the membrane that have reached stability conditions.
+
+Definition 7.1: Stability Parameters of a Topological Knot
+
+The stability of a topological knot is determined by two factors:
+
+Total number of internal links: the number of independent connection paths among the loops within the knot. The larger the total number, the more reconnection steps are required to dismantle it.
+
+Boundary connectivity: the number of connection paths between the knot surface and the exterior. The lower the boundary connectivity, the harder it is for external reconnections to invade the interior.
+
+Definition 7.2: Topological Defects and Incomplete Surface Weaving
+
+The surface weaving of any topological knot can never achieve absolutely perfect closure—there always exist regions that cannot be completely covered by the existing weaving. These are called topological defects. The size and distribution of defects depend on the weaving complexity of the knot: knots with fewer primitive bricks have loose weaving and larger defect area ratios; knots with more primitive bricks have dense weaving and smaller defect area ratios.
+
+Topological defects are the "active sites" for interactions between topological knots. Whether two topological knots can undergo defect-complementary weaving depends entirely on the geometric matching degree of their surface defects.
+
+Definition 7.2a (Scale Attribute of Topological Defects): Topological defects have only differences in scale size and distribution pattern. There is no absolutely defect-free complete topological knot. Light nuclei are loosely woven and have larger defect scales; heavy nuclei are tightly woven and have smaller defect scales. The defect scale monotonically decreases as nuclear mass increases but is never zero.
+
+Definition 7.3: Primitive Brick
+
+The smallest topological knot on the membrane that can exist independently and establish stable shared links with other topological knots is called a primitive brick.
+
+The primitive brick is the effective basic unit at the current energy scale. Its "fundamentality" is energy-scale-dependent—if higher energy scales in the future reveal that the primitive brick is composed of smaller structures, the model can be naturally extended.
+
+Definition 7.4: Inertia of a Primitive Brick
+
+The ability of a primitive brick to resist directional reconnection—that is, the number of reconnection events required to change the net directional algebraic sum of its loops—is defined as the inertia of the primitive brick. In the phenomenal layer, this property is called "mass."
+
+Postulate 8: Recursive Growth and the Spectrum of Topological Knots
+Topological knots do not exist in isolation. Under appropriate energy scales and collision conditions, smaller stable topological knots can combine into larger stable topological knots through the defect-complementary weaving mechanism. When the defects of two smaller knots are exactly geometrically complementary, they mesh to form a larger woven structure—a process entirely determined by the geometric nature of the defects on both sides.
+
+The defect distributions of smaller knots that can stably combine into a larger knot must satisfy specific compatibility conditions topologically. This naturally gives rise to a recursive growth tree of topological knots—starting from primitive bricks, combining generation by generation, forming stable knots with increasingly complex structures and greater inertia.
+
+The Energy-Scale Truncation Rule for Recursive Growth
+
+The recursive growth of topological knots does not proceed indefinitely. At a given loop density (corresponding to the energy scale or temperature in the phenomenal layer), only topological knots with inertia below a certain threshold can exist stably. When the recursive growth reaches the maximum stable weaving complexity at that energy scale, more complex topological knots will fail to form due to insufficient loop density support, or will be immediately torn apart by thermal fluctuations after formation.
+
+At the current low energy scale of the universe (approximately 2.7 K cosmic microwave background), recursive growth is truncated at the level of baryon bricks (protons and neutrons). The internal structure of the primitive brick—if it exists—cannot be resolved at the current energy scale, so the primitive brick appears as an "elementary particle" in the phenomenal layer.
+
+The essence of this truncation is the same as the Hierarchical Truncation Criterion (Corollary 3.1): when the weaving complexity exceeds the stability threshold of the shared link network that can be supported by the current loop density, higher-order topological knots cannot emerge.
+
+Definition 8.1: Electron Brick
+
+On the recursive growth tree, a stable topological knot formed by 4 primitive bricks in a specific weaving pattern is called an electron brick. It is the smallest independent stable knot at the current cosmic energy scale and is the basic building block for all more complex material structures.
+
+The internal structure of the electron brick also follows the recursive weaving principle: it possesses a solid core tightly woven from those 4 primitive bricks, and possibly a soft outer layer composed of lower-level primitive bricks attached to the core through defects. At the current low energy scale of the universe, the inertia contribution of this outer layer is extremely tiny and can be neglected.
+
+Definition 8.2: Exchange Reconnection Number and Geometric Enforcement of Pauli Exclusion
+
+Definition 8.2a (Exchange Reconnection Number 𝒮): Let p_A, p_B be two dangling link ports, one on the surface of each of two identical topological knots (electron bricks). The minimum number of local reconnection operation steps required to move p_A to the original position of p_B and p_B to the original position of p_A is called the exchange reconnection number 𝒮.
+
+Lemma 8.1 (Parity of Exchange): For two identical topological knots occupying the same order on the recursive growth tree, the exchange reconnection number 𝒮 of their ports is necessarily odd.
+
+Sketch of proof: The exchange operation of two identical topological knots must be accomplished by a braiding exchange (going around a closed loop, rather than dragging nodes directly through each other). Each local reconnection operation changes the target node of one directed edge. For a complete braiding exchange of two identical objects, the length k of the exchange generator sequence of the braid group B_N must satisfy k ≡ 1 (mod 2). The simplest constructive example requires 3 local reconnections. Hence, 𝒮 must be odd.
+
+Theorem 8.1 (Geometric Enforcement of Pauli Exclusion): Two identical electron bricks cannot occupy exactly the same geometric position and phase state.
+
+Proof: If two identical electron bricks occupy exactly the same geometric state, the exchange operation degenerates into the identity operation (0 reconnection steps, even). But Lemma 8.1 requires the exchange reconnection number to be odd. The contradiction that an odd number equals an even number forces the assumption to be false. The two identical electron bricks must maintain a difference in at least one geometric degree of freedom—either a phase difference Δθ ≥ 1, or they occupy different spatial winding mode numbers.
+
+Definition 8.3: Baryon Brick and the Dual-Layer Structure
+
+At orders far higher than the electron brick on the recursive growth tree, there exist giant stable topological knots woven from a large number of electron bricks and lower-level primitive bricks according to recursive rules.
+
+The structure of such topological knots exhibits a universal dual-layer mode:
+
+Solid Core: Composed of a large number of electron bricks or equivalent primitive bricks in the closest packing arrangement. For macroscopic-scale topological knots, cubic close-packing is the optimal arrangement, and the number of core primitive bricks approaches an integer multiple of 12³ (1728) in this limit. The core provides a high binding energy to resist disintegration.
+
+Soft Outer Layer: Composed of a large number of primitive bricks or small topological knots floating on the core surface, attached to the core through defect complementarity, forming a deformable buffer layer. The outer layer bricks can slide under external force, absorbing collision energy. The defect distribution of the outer layer bricks determines the macroscopic charge manifestation of the topological knot.
+
+These two stable configurations correspond respectively to the proton (positively charged) and the neutron (electrically neutral) in the phenomenal layer. Both share the same structural pattern, differing only in the net topological charge attribute of the outer layer defects.
+
+Definition 8.4: Total Compressive Binding Energy (E_comp)
+
+As a closed woven network, a topological knot has a structural threshold to resist external compression. This threshold, jointly determined by the strength of all connecting edges within the knot, the weaving configuration, and the defect distribution, is called the total compressive binding energy, denoted E_comp.
+
+E_comp is a single unified physical quantity for resisting compression of the topological knot, without presupposing its internal microscopic decomposition structure. Its essence is the structural resistance of the topological knot as a closed woven network to maintain its configuration.
+
+Definition 8.4a: Hierarchical Compressive Tensor
+
+The compressive binding energy ℰ_comp of an atomic nucleus is decomposed into three geometrically independent contribution terms:
+
+E_comp = 𝒱_core · 𝒮_core + 𝒱_shell · 𝒮_shell + ℐ(suture)
+
+where:
+
+𝒱_core: the number of close-packed primitive brick units in the core, determining the mass number bulk of the nucleus
+
+𝒮_core: the average link saturation of the core. For perfect close-packing (e.g., the 12³ hypercube closure), 𝒮_core → 1
+
+𝒱_shell: the number of effective primitive brick units in the outer shell participating in chemical bonding
+
+𝒮_shell: the port saturation of the outer shell, determining the chemical valence state and reaction activity
+
+ℐ(suture): the topological stress concentration factor on the core-shell transition suture line, determined by the deviation of the suture layer brick arrangement from the ideal closure configuration
+
+Theorem 8.2: Chemical-Nuclear Decoupling Theorem
+
+The spatial orientation of the dangling ports on the outer shell (i.e., the chemical valence state) depends only on 𝒮_shell and the arrangement of the outer shell ports, and is independent of the total number of core primitive bricks 𝒱_core. The suture line stress concentration factor ℐ, however, is highly sensitive to discrete changes in the core brick number.
+
+Corollary 8.1 (Vacancy-Induced Stress Concentration): If the core brick arrangement has vacancies (i.e., the actual number of bricks is less than the ideal closure number for that weaving tree order), the topological stress concentration factor on the suture line ℐ > 0. If there are no vacancies, ℐ ≈ 0.
+
+Corollary 8.2 (Fission Threshold Differences of Uranium Isotopes):
+
+²³⁸U has its core brick arrangement matching the complete closure of the 12³ hypercube, ℐ_238 ≈ 0, and a high fission trigger threshold.
+
+²³⁵U lacks 3 brick units in its core, and the vacancies cause ℐ_235 > 0, making its fission trigger threshold significantly lower than that of ²³⁸U.
+
+The chemical properties (𝒮_shell) of both are completely identical—the outer shell port arrangement is unaffected by the core vacancies.
+
+Part IV: Nuclear Transformations—The Four Reaction Channels
+4.1 Matter: Stable Topological Knots and Topological Defects
+Matter particles are stable topological knots on the membrane. Every topological knot carries regions that weaving cannot completely close—topological defects. Defects differ only in scale size and distribution pattern; there is no absolutely defect-free complete topological knot. Light nuclei are loosely woven with larger defect scales; heavy nuclei are tightly woven with smaller defect scales.
+
+4.2 General Reaction Formula and the Four Mechanisms
+The interaction between topological knots is essentially the complementary matching of their surface defects and the restructuring of connecting edges. The complete general formula for a nuclear reaction is written as:
+
+a + b → x → c + d
+
+The forward polymerization (a + b → x) is driven by Path I or Path II. After the intermediate nucleus x is formed, its subsequent fate is taken over by one of three paths: if the fission threshold of x is exceeded, it fissions into c and d; if the global topological charges of a and b happen to exactly cancel, Path III directly takes over, skipping x. The four mechanisms are described below.
+
+Channel I: Defect Complementary Weaving (Path I)
+
+The essential characteristic of Path I is defect-induced, stepwise reconnection.
+
+Condition: The topological defects on the surfaces of two topological knots are exactly geometrically complementary.
+
+Process: The defect regions of the two knots mesh, and the connecting edges are restructured stepwise and orderly, forming a new stable topological knot x. The energy released in the reaction depends on the total inertia deficit of the participating topological knots.
+
+Characteristics:
+
+The polymerization probability of Path I depends on the geometric matching degree of the surface defects of the two topological knots. As nuclear mass increases, weaving tends to become denser, and the defect area ratio monotonically decreases—hence, in qualitative trend, the polymerization probability decreases with increasing mass. But this decrease is not to zero; there is a non-zero polymerization probability between any two topological knots.
+
+In an environment with sufficient heat dissipation time and thermal expansion space, Path I can form a negative-feedback self-stabilizing loop: local temperature rise induces expansion, defect spacing increases, matching probability drops, and heat release automatically decreases. The gentle burning lasting billions of years inside stars is the operation of this mechanism.
+
+Negative feedback is not automatically obtained but is a product of specific environmental conditions. It requires the medium to have rapid heat dissipation capability (such as fluid convection) and immediate thermal expansion response (density rapidly decreases as temperature rises). Gaseous and high-temperature molten celestial bodies satisfy these two conditions, so Path I can operate stably and continuously inside them. Solid celestial bodies lack both—but if the interior temperature of a solid body rises to melting, and the medium acquires fluid properties, negative feedback can be established.
+
+The polymerization route (stepwise or checker-jump) is dynamically determined by the raw material abundance ratio.
+
+Channel II: Forced Chain Reconnection (Path II)
+
+The essential characteristic of Path II is batch cutting and collective restructuring—it does not depend on defect matching probability, does not pick matching partners, and once triggered, inevitably proceeds and cannot be regulated by environmental feedback.
+
+Condition: The number of local reconnection operations exceeds the batch breaking threshold of connecting edges, i.e., the external compression energy exceeds the total compressive binding energy E_comp of the topological knot.
+
+Process: Connecting edges are batch-cut, the core weaving network is exposed, and large-scale chain forced reconnection occurs. In a single Path II event, a large number of topological knots are simultaneously dismantled and reconnected in an extremely short time, macroscopically manifesting as an instantaneous, violent release of energy.
+
+Characteristics:
+
+The final state of Path II is still topological knots (fragment nuclei c and d).
+
+The trigger condition is universal: the source of external compression energy is not limited to gravity—any form of extreme compression/heating such as laser fusion, magnetic confinement, shock waves, as long as the injected energy exceeds the E_comp of the nucleus, can forcibly trigger Path II.
+
+The core dismantling in supernova explosions falls into this category.
+
+Channel III: Topological Dissolution (Path III)
+
+Condition: The algebraic sum of the global topological charges of the two topological knots a and b is exactly zero.
+
+Process: The defect complementary meshing does not form a new stable weave—at the moment of meshing, the entire topological configuration undergoes complete dissolution due to the global stress returning to zero. All connecting edges are simultaneously dismantled, and all topological nodes return to the planar membrane with zero topological charge (network ground state). The final state is only pure radiation, containing no topological knots. The energy released is equivalent to the total inertia of the participating topological knots, with a conversion efficiency of 100%.
+
+Characteristics:
+
+In the reaction formula a + b → x → c + d, Path III corresponds to a + b → pure radiation, completely skipping the intermediate nucleus x.
+
+Path III shares the trigger condition of "defect complementary meshing" with Path I, differing in the outcome of the meshing. The probability of Path III depends on the precision of topological charge pairing and is extremely rare under natural conditions.
+
+Path III only blocks a specific reaction channel (a + b → pure radiation) and does not mean that a nuclide of that mass number cannot be synthesized through other precursor combinations.
+
+Channel IV: Stress Tearing (Fission)
+
+Condition: After the intermediate nucleus x has been formed via Path I or Path II, the accumulated stress on a certain internal suture line exceeds the instantaneous bearing limit of the connecting edges. The internal structure of the nuclide is not homogeneous—different suture lines bear different tensile stresses on their connecting edges.
+
+Process: The configuration undergoes mechanical tearing along that suture line, splitting into two smaller nuclei c and d. The energy released equals the reduction in total inertia before and after tearing.
+
+Characteristics:
+
+Fission probability depends on the stress distribution of each suture line inside the nuclide. The more concentrated the stress on a suture line and the closer it is to the bearing limit of connecting edges, the higher the fission probability of that nuclide.
+
+Fission probability is one of the three key factors determining whether a nuclide can persist long-term in nature (see the Three-Factor Criterion in Part V).
+
+4.3 Summary of the Complete Loop
+In the reaction formula a + b → x → c + d, the complete loop is:
+
+a + b → x: Path I (defect-induced, stepwise reconnection) or Path II (batch cutting, collective restructuring);
+
+x → c + d: Fission (stress tearing), with products returning to the raw material pool;
+
+a + b → pure radiation: Path III (topological dissolution), skipping x, directly returning to zero.
+
+4.4 The Deep Mechanism of the Coulomb Barrier
+Whether two topological knots can mesh depends on the configuration matching degree of their surface defects. An increase in temperature means larger thermal vibration amplitudes, more fully exposed defect sites, and a higher matching probability. The Coulomb barrier, as measured macroscopically, is the statistical failure rate of countless defect matching attempts. It is not an independent force, but the macroscopic statistical manifestation of probability.
+
+Part V: Elemental Abundance and the Iron Peak—The Three-Factor Criterion
+5.1 The Three-Factor Criterion
+In the reaction network composed of the four channels, the abundance of any nuclide in the universe is jointly determined by the following three probabilities:
+
+Synthesis Probability: The probability that the nuclide is manufactured through various precursor channels. If a channel is blocked by Path III, its contribution is zero, but the nuclide can still be synthesized through other channels.
+
+Continued Polymerization Probability: The probability that the nuclide, acting as a reactant, continues to polymerize into heavier nuclides through Path I or Path II.
+
+Fission Probability: The probability that the nuclide fissions back into lighter nuclei due to internal stress tearing.
+
+These three jointly determine the net retention of the nuclide on the mass spectrum:
+
+Net Retention ∝ Synthesis Probability × (1 - Continued Polymerization Probability - Fission Probability)
+
+Abundance peaks appear at nuclides where "the synthesis probability is relatively considerable, but both the continued polymerization probability and the fission probability are low"—the nucleon flux can reach here, but after arriving, it is neither easy to continue moving forward nor easy to be pushed back, hence net accumulation. Abundance valleys appear at nuclides where "synthesis probability is low" or "continued polymerization probability is high" or "fission probability is high"—the nucleon flux either cannot arrive, or cannot stay if it does.
+
+The entire abundance distribution of the periodic table is the comprehensive projection of these three probabilities continuously varying across the mass spectrum.
+
+5.2 Checker-Jump Path and Stepwise Path
+Under this framework, there is no "necessary route" on the nuclide mass spectrum. Any two topological knots (light, medium, or heavy) can polymerize as long as their defects match. The reaction probability depends on the geometric matching degree of the defects on both sides and has no rigid constraint with their position on the mass spectrum.
+
+The checker-jump path and the stepwise path are not mutually exclusive but are two parallel channels whose weights are determined by the raw material abundance ratio. When the matter abundance was uniform in the early universe, the checker-jump path became the dominant channel and could exponentially accelerate structural growth.
+
+5.3 The Iron Peak: Concrete Manifestation of the Three-Factor Criterion
+The prominent abundance of iron-56 is the concrete manifestation of the above three-factor criterion at mass number 56:
+
+Synthesis Probability: The nucleon flux can reach mass number 56 through both the stepwise path and the checker-jump path.
+
+Continued Polymerization Probability: The topological knot at mass number 56 has an extremely small defect area ratio, so the probability of continuing to polymerize upward as a reactant is relatively low—the nucleon flux "moving forward" from here is slow.
+
+Fission Probability: The topological knot at mass number 56 has balanced internal suture line stresses, so the probability of being torn back into lighter nuclei is also low—the nucleon flux "being pushed back" from here is also slow.
+
+The superposition of the three: the nucleon flux can reach mass number 56, but after arriving, the rates of moving forward and flowing backward are both low—net accumulation. This is the complete cause of the iron peak. As to which specific isotope form the topological knot of mass number 56 persists in, that is determined by the specific fission probability of that isotope and does not affect the fact that iron peak is an abundance peak at that mass number.
+
+The iron peak has no causal relationship with stellar evolution. Iron is prominent in abundance only because the nucleon flux has a large net accumulation there. It does not determine any evolutionary turning point of a star. A star can trigger Path II at any stage—regardless of which mass number happens to form an abundance peak on the mass spectrum.
+
+5.4 The Astrophysical Role of the Iron Core
+Abundance Aspect: The position of the iron peak is determined by the three-factor criterion.
+
+Structural Aspect: The special role of the iron core in stellar evolution stems from its extremely high total compressive binding energy E_comp. The Path I polymerization probability of iron nuclei is extremely low, but E_comp is extremely high, so the iron core can withstand very high gravitational compression energy without triggering Path II. When the peripheral material continues to accumulate and the gravitational compression energy exceeds the E_comp threshold of the iron core, Path II is triggered.
+
+5.5 Examples of Checker-Jump Reactions
+The following reaction formulas only indicate mass number polymerization and do not pre-specify which specific isotope the product persists as. Whether the product is a stable nuclide, an unstable isotope, or fissions immediately after fusion is determined by the fission probability of the topological knot of that mass number.
+
+Two carbon nuclei (A=12+12) → topological knot of mass number 24
+
+Two oxygen nuclei (A=16+16) → topological knot of mass number 32
+
+Carbon + oxygen (A=12+16) → topological knot of mass number 28
+
+Oxygen + neon (A=16+20) → topological knot of mass number 36
+
+Two helium nuclei (A=4+4) → topological knot of mass number 8 (high fission probability, fissions back immediately, or continues to capture helium → topological knot of mass number 12)
+
+5.6 Geometric Inevitability of Light Element Enrichment and Its Geological Consequences
+The polymerization probability of Path I depends on the geometric matching degree of the surface defects of the two topological knots. Light nuclei (carbon, nitrogen, oxygen, etc.) are loosely woven and have relatively large defect area ratios, so their matching probability for participating in Path I polymerization is qualitatively higher than that of heavy nuclei. Meanwhile, the particle number base of light nuclei in the initial material of the solar system is far larger than that of heavy nuclei. The superposition of the two—high matching probability and large number base—makes the total synthetic yield of light nuclides in the Path I polymerization-fission cycle far greater than that of heavy nuclides. This is the geometric root of the relatively high cosmic abundance of life-essential elements such as carbon and oxygen, involving no special mechanisms.
+
+Inside the Earth, carbon and hydrogen continuously synthesized by Path I in the core upwell to the crust through mantle plumes and deep fluid channels. This massive supply of light nuclides provides the material precondition for the abiogenic chemical synthesis of hydrocarbons in the crust. TDMU itself does not describe chemical bonding processes but offers a geometric explanation at the nucleosynthesis level for the deep inorganic origin of hydrocarbons. This is qualitatively compatible with observations that certain ultra-deep oil reservoirs lack biomarkers and are associated with mantle-derived helium (high ³He/⁴He).
+
+5.7 Checker-Jump Synthesis of Heavy Nuclei Inside Planets (Applied Corollary)
+The checker-jump path allows any two topological knots to polymerize directly without stepwise climbing. Under the conditions of the Earth's outer core (approximately 10⁵⁰ nuclides, high pressure 135–360 GPa, temperature 4000–6000 K, integrated over 4.5 billion years), two medium-heavy nuclei can fuse via a checker-jump to form an intermediate nucleus of mass number ≥197, which then sheds a light fragment to stabilize at the 197 channel; the absolute event count can reach an appreciable level. The total amount of gold synthesized in the Earth's core is estimated at about 10¹¹ tons—the vast majority remains in the core, and only a very tiny amount enters the crust through core-mantle boundary exchange (observed crustal reserve ~2×10⁹ tons), with both quantities being mutually consistent in order of magnitude.
+
+Part VI: Interactions—The Geometry of Shared Links
+Postulate 9: Shared Links
+The multiple connection paths established between two topological knots through intermediate loops on the membrane are called shared links. Shared links are the sole medium of interaction between topological knots.
+
+There is no independent "force" entity. All interactions are manifestations of the geometric properties of shared links.
+
+Definition 9.1: Five Geometric Parameters of Shared Links
+All interactions can be reduced to the following five geometric parameters of shared links:
+
+Parameter	Definition	Phenomenal Layer Manifestation
+Total Link Number	The number of independent connection paths between two topological knots	Strength of gravity
+Link Orientation Degree	The statistical uniformity of shared links in spatial directions	Strength of magnetism
+Link Density Gradient	The rate of change of link number in space	Strength of electricity
+Link Saturation	The proportion of links to all possible connection paths	Strong nuclear force (attraction/repulsion)
+Link Fragility	The probability of breaking under perturbation	Weak force decay rate
+6.1 Distinction of Geometric Degrees of Freedom between Light and Gravity
+The shared link network possesses three independent geometric degrees of freedom:
+
+Degree of Freedom I: Total Link Number N_total (static/quasi-static scalar count)
+Determines gravity. This total number is unaffected by density gradient potential wells. Even if radially propagating waves are completely trapped, the restoring stress corresponding to the total number still spans enormous radii and acts on external matter. Physical correspondence: gravitational work, rigid torque transfer.
+
+Degree of Freedom II: Density Gradient ∇ρ_link and Orientation Wave δ𝒜 (dynamic transverse wave perturbation)
+Determines light (electromagnetic radiation in the phenomenal layer). First-order/second-order gradient potential wells only act on these transverse waves. They do not act on the static tension count. Physical correspondence: normal light radiation, photon capture.
+
+Degree of Freedom III: Density Fluctuation Longitudinal Wave δρ_link
+Longitudinal compression-tension stress waves of the shared link density (phonon mode in the phenomenal layer). Optical potential wells only act on the transverse wave δ𝒜; longitudinal waves are not constrained by such potential wells.
+
+Core Conclusion (Gravity-Light Decoupling): Gravity (N_total) and light (δ𝒜) are carried by completely independent geometric degrees of freedom. The capture of light does not mean gravity is isolated; the penetration of gravity through a capture surface does not mean light can escape.
+
+6.1.1 Further Elaboration on the Ontology of Light
+Light's ontological status in TDMU is fundamentally different from that in the Standard Model. Light is not an independently existing particle, nor an entity of "wave-particle duality." Light is the dynamic transverse wave perturbation of the orientation of shared links (δ𝒜).
+
+Specifically:
+
+Carrier Medium: The propagation of light requires a medium, namely the shared link network pervading the cosmic membrane. Regions without a shared link network (such as the external substrate outside the membrane) do not contain light.
+
+Content of Vibration: What vibrates is not an electric or magnetic field, but the spatial orientation arrangement of the shared links. When shared links exhibit statistically non-uniform distribution in spatial directions, magnetism (a static torsional stress field) is generated; when this non-uniformity propagates along the shared link network in the form of a transverse wave, it manifests as light.
+
+Photon: There is no independent photon particle. A "photon" is a local excitation of the discrete phase field Θ(r_i)—a ripple on the shared link network. Its "particle nature" originates from the discretization constraints on perturbation transmission imposed by the woven network.
+
+Speed of Light: The speed of light c is an intrinsic property of the shared link network. It is determined by the local reconnection dynamics of the substrate—the shared link network has a characteristic response time, the minimum number of local reconnection operation steps required for a node to transmit a perturbation to the next node after receiving it. The speed of light equals the node spacing (minimum link step length) multiplied by the upper limit of the reconnection rate. The uniformity of the speed of light on the membrane stems from the uniformity of the elasticity and inertia of the shared link medium itself at all free-space locations. The constancy of the speed of light is not a presupposed property of spacetime geometry but an emergent result of the uniformity of the shared link medium.
+
+6.2 Construction of the Discrete Gauge Field
+Definition 9.2 (Combinatorial Covariant Derivative): Let the discrete phase field of shared links be Θ(r_i), defined on lattice node i. Let 𝒜_ij be the orientation tensor contribution of the background shared links between nodes i, j. Define the combinatorial covariant derivative:
+
+D_ij Θ ≡ Θ(r_j) - Θ(r_i) - 𝒜_ij
+
+where:
+
+Θ(r_i) ∈ ℤ is the phase of shared links at node i (reconnection step count)
+
+𝒜_ij is the background orientation field between nodes i and j generated by the periodic arrangement of atomic nuclei, defined as the minimum number of reconnection steps to go along the direction i → j
+
+All quantities are purely discrete and independent of continuous spatial metrics.
+
+6.3 Geometric Definition of the Superconducting State
+Definition 9.3 (Superconducting State): If and only if for all nearest-neighbor node pairs ⟨i, j⟩, the covariant derivative vanishes:
+
+D_ij Θ = 0, ∀⟨i, j⟩ ∈ conductive network
+
+the system is in a globally phase-locked state—the helical motions of all shared links are perfectly synchronized.
+
+6.4 Discrete Derivation of the First London Equation
+In TDMU, the phenomenal electric current density J is defined as the directed shared link flux. When the system is in a state that deviates from perfect superconductivity but still maintains phase coherence, the covariant derivative has a residual value. This residual value drives the directed link flux:
+
+J ∝ Σ_{⟨i,j⟩} D_ij Θ
+
+In the continuum limit, D_ij Θ corresponds to the covariant derivative ∇Θ - A. Under the London gauge:
+
+J = - (1/Λ) A
+
+where Λ is the geometric inertia constant of the shared link network, determined by the total link number per unit volume N_total: Λ ∝ 1/N_total. This is the purely discrete form of the first London equation.
+
+6.5 Geometric Inevitability of the Meissner Effect
+Taking the discrete curl of the London equation:
+
+∇ × J = - (1/Λ) (∇ × A) = - (1/Λ) B
+
+Inside the superconducting state, all D_ij Θ = 0, so the spatial distribution of J is completely determined by the configuration of 𝒜_ij, and ∇ × J = 0.
+
+From this, B = 0 strictly holds inside the superconductor. The penetration depth λ_L = √Λ is defined as the geometric yielding step number of the shared link network.
+
+6.6 Topological Inevitability of Flux Quantization
+Consider a closed path C on a superconducting ring. The phase Θ must return to the same discrete count after one round, so the total phase change is an integer multiple of 2π.
+
+Summing the covariant derivative along the closed path:
+
+∮_C DΘ · dl = 2π n, n ∈ ℤ
+
+In the superconducting state, DΘ = 0 holds inside the ring body, but along a closed path that encloses the ring hole, the contribution of A is not canceled. Hence:
+
+∮_C DΘ · dl = ∮_C A · dl = Φ
+
+Combining, we obtain:
+
+Φ = n · Φ₀, Φ₀ = 2π
+
+The magnetic flux is rigorously quantized in the geometric natural units of TDMU as integer multiples of the elementary unit Φ₀ = 2π.
+
+6.7 Geometric Definition of the Five Fundamental Interactions
+Definition 9.4: Gravity
+The larger the total number of shared links between two topological knots, the stronger the tendency of the membrane to reduce overall stress—this tendency manifests in the phenomenal layer as pulling the two knots toward each other. Gravity is the large-number statistical effect of the total shared link count. No graviton is needed.
+
+Definition 9.5: Magnetism
+When shared links show a statistically non-uniform distribution in spatial directions, a macroscopic torsional stress field is generated. The streamlines of this stress field are the magnetic field lines. The closed nature of magnetic field lines is a topological necessity—shared links cannot have isolated endpoints in space. Magnetic monopoles are topologically forbidden.
+
+Definition 9.6: Electricity
+The density gradient of shared links generates normal stress waves. There exists a stress difference between regions of density surplus and regions of density deficit:
+
+Surplus-surplus (or deficit-deficit) → stress difference is repulsion
+
+Surplus-deficit → stress difference is attraction
+Electricity is the orthogonal deformation mode of magnetism—the two together constitute the complete linear response of shared link perturbations.
+
+Definition 9.7: Strong Nuclear Force
+When the distance between two topological knots shrinks to near the maximum saturation of shared links:
+
+Shared links form an inseparable shared network → dismantling requires simultaneously cutting a large number of links → attraction
+
+If the distance further shrinks, the shared link paths are forced to bend → produces repulsive bow stress → repulsion
+The strong nuclear force is the nonlinear behavior mode of shared links at extremely short distances.
+
+Definition 9.8: Weak Interaction
+When the distance between two topological knots is in the critical range where shared links "can just be established," the number of shared links is very small. This few-link state is metastable—any local reconnection perturbation can cause link breakage and trigger a cascade disintegration. The weak interaction is not a "force" but the spontaneous decay mode of a metastable shared link network.
+
+Definition 9.9: Phenomenal Electric Current
+In a conductor, the shared links of topological knots on the surface of atomic nuclei are distributed along closed paths in the absence of an external field—this is the lowest energy mode of shared links in cylindrical geometry. An external field (density gradient of shared links) stretches these closed paths into helical paths along the conductor direction. The helically advancing shared links drag the peripheral electron bricks to move synchronously. Electric current is the collective manifestation of the helical motion of shared links. Resistance is the statistical frequency of collisions and reconnections of shared links during motion.
+
+Definition 9.10: Superconductivity
+When the helical motion of shared links achieves complete synchronization—all links have consistent phase and the collision frequency drops to zero—shared links enter a dissipationless transmission state. Superconductivity is the synchronized phase transition of the collective motion mode of shared links.
+
+Part VII: Life Cycle of the Universe and the Spectrum of Astrophysical Evolution
+Postulate 10: The Membrane Emergence Event
+In a region of the substrate, the loop density exceeds a critical value due to intrinsic fluctuations. A large number of forward and backward direction loops form paired structures, squeezed by peripheral circulating flows until compressed beyond their elastic recovery point. At the critical point, the system becomes unstable, and the topological elastic potential energy drives the loop surfaces to evert outward and form a closed membrane.
+
+In the phenomenal layer, this event is observed as the "beginning" of the universe, but in the underlying framework, there is no time zero point—membrane emergence is a phase transition process of the substrate from one topological state to another.
+
+Intuitive dynamical picture: a pot of unbounded, thick liquid substrate, reaching a critical phase transition threshold due to intrinsic statistical fluctuations, giving birth to a topological bubble that expands and eventually dissipates. This is the membrane emergence event of the universe.
+
+Postulate 11: Evolution
+After formation, the membrane continues to expand. Expansion leads to an overall decrease in the loop density on the membrane—phenomenally called "cooling." Temperature is the local manifestation of the loop density gradient.
+
+During the cooling process, topological knots emerge sequentially: primitive bricks → electron bricks → leptons → mesons → baryons → atomic nuclei → atoms → molecules.
+
+Each step is the most stable woven structure "allowed to exist" at the current loop density. As the loop density continues to drop, recursive growth is truncated at the level of baryon bricks—higher-order topological knots cannot exist stably due to lack of sufficient loop density support (see "Energy-Scale Truncation Rule for Recursive Growth" in Part III).
+
+The current membrane is in an intermediate state of "loop density low enough but not yet low enough for membrane dissolution."
+
+Postulate 12: The Finale
+The membrane is always a part of the substrate. The circulating pressure in the region outside the membrane does not attenuate with membrane expansion. When the loop density on the membrane falls below a critical value, the compressive strength of the membrane will be lower than the external circulating pressure, and the membrane will enter irreversible structural instability.
+
+Final outcome: global topological reconnection dissolution—the membrane shatters into discrete loops and returns to the substrate.
+
+The finality of global membrane dissolution refers only to the end of the membrane's status as a coherent topological entity, not an absolute prohibition of defect-complementary weaving among local topological knots. Although the Path I event rate R of the woven solidified remnant is perpetually positive, its coherence timescale far exceeds the Hubble time due to the exponential increase in topological knot spacing.
+
+7.1 The Continuous Spectrum of Celestial Bodies
+In TDMU, astrophysical evolution is refined into a dynamical game among Path I, Path II, Fission, and Path III at different scales. All celestial bodies follow a single fundamental law in the phenomenal layer: total inertia reduction is converted into stress-wave energy release.
+
+7.1.1 Solid Planets: The Cutoff Condition
+
+Solid media have two fatal weaknesses: extremely slow heat dissipation (heat is conducted by lattice vibrations, far less efficient than fluid convection), and severely limited thermal expansion (constrained by the crystal lattice, local temperature rise does not immediately lead to density decrease).
+
+Once the Path I reaction rate in the core of a solid planet enters positive feedback, the solid medium neither dissipates heat in time nor expands in time to lower the reaction rate. Local stress soars exponentially and breaches the connecting edge batch fracture threshold in an extremely short time. Path II is detonated, and the entire planet is dismantled layer by layer outward from the core.
+
+Critical Condition: Solid planets have a critical upper limit of inertia. For planets exceeding this inertia, regardless of initial phenomenal temperature, the thermal runaway speed of core Path I will exceed the lattice heat conduction speed, triggering irreversible positive feedback until Path II is detonated.
+
+Survival Condition: If the inertia of a solid planet is below the critical value, or if internal radioactive decay/tidal heating is sufficient to heat the core to a molten state, the medium acquires fluid properties—convective heat dissipation and thermal expansion response begin to function. The negative feedback mechanism of Path I can be established, and the star may exist stably.
+
+7.1.2 Gaseous Planets: The Smoldering Topological Furnace
+
+Fluid media dissipate heat quickly, expand when heated, and density drops, automatically down-regulating the reaction rate. From mini-Neptunes to hot Jupiters to brown dwarfs, gaseous planets exist stably over a wide range of inertia.
+
+Phenomenal layer observations: Jupiter's net internal heat flux is about 5.5×10¹⁷ W, and Saturn's internal heat flux is 2.84±0.20 W/m². Path I offers a unified explanation: both Jupiter and Saturn run Path I defect-complementary weaving reactions in their cores, differing only in the macroscopic event rate.
+
+7.1.3 The Spectrum of Topological Furnaces
+
+The Sun, Jupiter, and Saturn in the phenomenal layer form a complete spectrum from "burning" to "smoldering." Planets are not "failed stars"—they are topological furnaces where gravity has pressed the nuclear fire to just smoldering, rather than completely extinguishing it.
+
+7.1.4 Main-Sequence Stars: The Core of the Burning Path
+
+When the inertia of a gaseous clump exceeds a certain critical threshold, the defect matching probability in the core breaks through a key threshold—the defect complementary matching probability among light nuclear topological knots rises to a level sufficient to support the luminosity of the entire clump.
+
+The essence of a main-sequence star: dominated by Path I, under the conditions of rapid heat dissipation and immediate thermal expansion feedback provided by the fluid medium, it reaches a dynamic equilibrium with the environmental thermodynamic response.
+
+Checker-jump nuclear burning: the nucleon flux in the stellar core is not a one-way street. The checker-jump path allows polymerization between any two nuclides. Light-nucleus fusion dominates the luminosity, and medium-heavy nucleus fusion proceeds in parallel at a lower rate.
+
+7.2 Accretion-Dissipation Cycle and the Complete Spectrum of Astrophysical Evolution
+The fate of a star is not determined by a unidirectional sequence of "nuclear fuel exhaustion → inevitable collapse" but by a dynamical game jointly determined by total accreted mass, accretion rate, envelope dissipation rate, and core vortex decoherence rate. The evolutionary starting point is the gravitational condensation of nebular gas under the shared-link convergence effect. Depending on the total accreted mass and environmental conditions, the condensed body differentiates into three initial paths, and migration among the three paths can occur during the star's lifetime due to changes in the external matter supply rate.
+
+Initial Differentiation—Three Paths:
+
+Path A (Smoldering Path): Insufficient accreted mass. After gravitational condensation, the core defect matching probability remains consistently below the stable burning threshold. Path I operates only at a very low event rate. The star does not emit light, only producing infrared thermal radiation. This path corresponds to brown dwarfs and gas giant planets (e.g., Jupiter, Saturn). They can exist stably for long periods, with cores continuously smoldering for billions of years.
+
+Path B (Burning Path): Moderate accreted mass. After gravitational condensation and continuous accretion, the core loop density breaks through the critical point, and Path I enters negative-feedback equilibrium burning. The star stably emits light for billions of years. This path corresponds to main-sequence stars (e.g., the Sun). Main-sequence stars are the natural result of moderate accretion, not a special branch. Their stable burning is built on the rapid convective heat dissipation and immediate thermal expansion feedback provided by the fluid medium (plasma).
+
+Path C (Camouflage Path): Oversaturated accreted mass. After gravitational condensation and extremely rapid accretion, the loop density in the central region far exceeds the critical point, and a black-hole-class topological star core forms first. External matter piles up around the core into a thick, optically thick envelope. Path I dominates the surface layer of the envelope, self-stabilizing and emitting light through negative feedback. Observers can only see the thermal radiation of the envelope and cannot detect the black-hole-class topological star core inside. This path corresponds to extremely massive stars (e.g., R136a1, ~315 M_⊙) and extremely large volume stars (e.g., Stephenson 2-18, ~2150 R_⊙). The former is the case of a dense, high-temperature envelope; the latter is the case of a tenuous, low-temperature envelope.
+
+The three paths are not strictly isolated. During the star's lifetime, changes in the external matter supply rate can cause the star to migrate among different paths. A main-sequence star (Path B) can enter the camouflage path (Path C) after a sudden increase in accretion rate; a camouflage-state star can re-expose itself as a normal main-sequence star after envelope dissipation, or even degenerate into a smoldering-state body.
+
+Common Subsequent Evolution—Envelope Stage:
+
+Regardless of the initial path, as long as the star possesses an envelope, it enters the envelope evolution stage. The envelope is formed by the accumulation of accreted material, with the surface layer dominated by light nuclei, and Path I defect-complementary weaving is predominant. Because the envelope is a fluid medium, Path I has negative-feedback self-stabilizing ability: local heat release → expansion → density decrease → defect spacing increase → matching probability decrease → heat release automatically reduces → cooling contraction → density recovers → matching probability recovers.
+
+A branch event may be triggered at this stage: local Path II eruption. When the accretion compression rate exceeds the E_comp of local nuclides in the envelope, Path II is triggered inside the envelope. The gravitational binding of the envelope material is relatively shallow, so the eruption is usually limited to flares, pulsations, or localized mass ejections, without destroying the core structure. Observational correspondences: stellar flares, non-radial pulsations, certain novae or dwarf nova eruptions.
+
+When the external matter supply declines, the envelope gradually dissipates, Path I burning weakens, and luminosity drops. After the envelope is completely exhausted, the core is exposed. The nature of the core depends on the initial path and its evolutionary history:
+
+If the core mass is below the black hole critical point (from low-mass main-sequence stars in Path B), it is exposed as a degenerate thermal remnant—a white dwarf. The Path I in the white dwarf core is nearly frozen because the density is insufficient to sustain high-frequency collisions. It only glows by residual heat and slowly cools. If the white dwarf is in a binary system and accretes material from a companion star, causing its mass to grow close to the critical point, Path I is reactivated, locally triggering Path II. Moreover, because the degenerate state lacks negative feedback, the entire star instantaneously undergoes a chain reconnection—a Type Ia supernova, completely disintegrating with no remnant.
+
+If the core mass is above the black hole critical point (from Path C, or from a high-mass main-sequence star in Path B that evolves until the core density breaks through the critical point), it is exposed as a superfluid vortex condensate—a black-hole-class topological star (a "black hole" in the phenomenal layer). It now enters the black hole exposed stage, with the observational correspondence being a hungry bare core (e.g., Sgr A*). If external matter is supplied again, the star can return to the envelope evolution stage, forming a cycle.
+
+Common Subsequent Evolution—Decoherence Stage:
+
+After the black hole is exposed, it faces two possible fates.
+
+Mainstream Path—Silent Decoherence: The vortex twist energy continuously and slowly leaks away through the background longitudinal waves. The superfluid state smoothly melts on an extremely long timescale, and the black hole mass gradually decreases. When the mass drops to a critical value at which it can no longer maintain the global phase-locking condition D_ijΘ = 0, the superfluid state collapses, and the vortex decoheres—the frozen vortex twist energy is released, and the woven network solidifies. The star enters the woven solidified state—a rigid solid network with only Path I operating at an extremely low event rate. In this stage, the solid medium lacks fluid negative feedback, and the stress accumulated by Path I periodically triggers localized Path II, generating pulsed radiation. Observational correspondence: pulsars, neutron stars. If Path II is triggered on a larger scale, it manifests as a magnetar. If further accretion increases the mass, the star can return to the black hole state.
+
+Small-probability Branch—Destabilization Explosion (Core-collapse Supernova): During the decoherence process, a local fluctuation in the vortex network triggers a chain Path II, and the total energy released exceeds the residual gravitational binding energy. This is the product of three independent probabilities—local fluctuation probability × chain propagation probability × binding energy overcoming probability—which is far less than 1. When the conditions are met, the entire vortex core disintegrates, and the frozen vortex twist energy is released in a concentrated manner in an extremely short time. Observational correspondence: Type II, Type Ib/c core-collapse supernovae. The ejected material returns to the nebula, closing the cycle. The vast majority of black holes smoothly transition to the woven solidified state through silent decoherence; supernovae are a small-probability complication during decoherence.
+
+Final Destination—Woven Solidified Remnant:
+
+The woven solidified state continues to cool. Path II is permanently stopped, and only the unobservable Path I operates at an extremely low rate. The star emits no light at all and becomes a cold solid core.
+
+Complete Cycle Closure:
+
+At any stage of the evolutionary tree, changes in external matter supply can lead to path migration. If a woven solidified state body is in a binary system, accreting material from the companion star can increase its mass and allow it to re-enter the active stage. Supernova ejecta return to the nebula, starting a new round of gravitational condensation. There is no true "finale," only the dynamical switching between Path I and Path II at different stages and different scales. A star is a transient state in the accretion-dissipation cycle.
+
+7.3 Compact Topological Stars (Pulsars): Path I Accumulation → Periodic Triggering of Path II
+When the energy released by Path II is insufficient to completely blow the star apart, the remnant is compressed to the extreme under gravity. In this extreme compression state, the sphere of topological knots is pressed to the limit, and the surface structure collapses—the defect area ratio approaches 100%, and the entire star is in a state where "the entire surface can undergo reconnection."
+
+Definition of compact topological star: a compact aggregate of topological knots compressed to a defect ratio near 100%, where the distinction of "stable nuclides" no longer exists. In the compression limit state, the surface weaving of the topological knots has been completely destroyed, and all nodes are in a connection-saturated state—every edge in the network has reached its maximum coordination number and cannot accept new connections. This is connection-saturation rigidity—the topological counterpart of "degeneracy pressure" in the phenomenal layer.
+
+Pulsar Emission Mechanism—Stress Accumulation-Trigger-Release Cycle:
+
+Phase I: Path I continuously operates in the solid network. A very tiny fraction of nuclides independently reach reaction conditions locally, releasing minute amounts of heat and stress. The total number of particles is enormous, and the overall effect of these events makes the stress in the central local region of the star continuously approach the E_comp threshold.
+
+Phase II: When the stress accumulation in the core region reaches E_comp, Path II is triggered—connecting edges are batch-cut, and chain reconnection initiates. Only a small fraction of nuclides in the high-energy core region need reach the critical point. Path II releases a shock wave in a millisecond timescale. The propagation speed of the shock wave in the solid network is determined by the medium's sound speed, estimated to be on the order of 0.3c to c. The radius of a neutron star is about 10 km, and the shock wave traverses the entire star in about 0.03–0.1 ms.
+
+Phase III: The shock wave propagates across the entire sphere in the solid network. The wavefront is extremely narrow and the duration passing through a given location is very short. When the shock wave reaches the surface layer, the wavefront compresses the surface nuclides, and the energy exceeds the instantaneous bearing limit of the surface layer, producing a "spalling" effect—charged fragments are ejected. The observer is extremely far from the star and can only receive signals from a very narrow line-of-sight direction.
+
+Phase IV: After the pulse release, the star returns to Path I, re-accumulating stress, and a cycle is formed.
+
+Proof of Period Stability by the Law of Large Numbers: Millisecond pulsars (P ~1 ms) require timing precision with relative period fluctuations not exceeding 10⁻¹⁵. The total number of particles in the entire star is about 10⁵⁷, and the number of Path I events in a single period far exceeds 10³⁰. The Poisson statistical relative fluctuation is far below the femtosecond level. The femtosecond-level period stability is an inevitable result of the Law of Large Numbers.
+
+Glitches (sudden period changes) correspond to an abnormal stress concentration in a certain region of the core, triggering a larger-scale Path II, with local structural reorganization and a sudden change in the stress accumulation rate or trigger threshold. Magnetars correspond to an even larger scale of Path II triggering, with higher shock wave energy radiating into the X-ray/gamma-ray bands. The death line has no abrupt boundary—continuous mass loss gradually lengthens the accumulation time, the shock wave intensity weakens, intermittency increases, and eventually Path II is no longer triggered at all, and the pulses stop. After stopping, Path I still operates at an extremely low rate, producing weak thermal radiation.
+
+7.4 Topological Stars (Phenomenal "Black Holes")
+A aggregate of topological knots whose weaving activity is nearly frozen. Path II is completely silent—the internal stress is continuously below the E_comp threshold of all nuclides, and forced chain reconnection is no longer triggered. Path I is mathematically never zero, but its event rate can be suppressed far below the observational window of the current age of the universe, appearing macroscopically as "silent."
+
+The core of a topological star is a globally phase-locked superfluid vortex condensate (D_ijΘ = 0). The energy released by Path I and Path II is locked into vortex twist energy through a three-step mechanism: Step 1, reconnection events produce local stress shock waves (thermal phonon intermediate state); Step 2, outward escape is captured by the radial shared-link gradient potential well, and inward dissipation is blocked by the lack of dangling ports due to connection saturation; Step 3, phonons accumulate to a nonlinear threshold and are converted into quantized topological vortices through collective reconnection of the shared link network. All released energy is frozen in the form of vortex twist energy, producing no normal optical radiation.
+
+Topological stars do not rely on singularities or event horizons. They are the exposed inner core after the envelope of a camouflage-state star dissipates, a stage in the accretion-dissipation cycle, not an endpoint of evolution.
+
+7.5 Quasars: Imprisoned Internal Circulation Reconnection Storms
+Quasars are the brightest objects in the universe, with typical luminosities reaching 10⁴⁰–10⁴¹ W and light variation timescales as short as a few days. The chain reconnection waves of Path II in the core of early-universe primordial topological knot clumps are blocked by the convergence effect of the peripheral massive shared links, unable to penetrate the clump boundary, forming persistent internal circulation reconnection storms.
+
+Quasars do not go through a phenomenal main-sequence stellar progenitor stage. In the complete life cycle picture of TDMU, quasars correspond to the "full-load active" stage—their core is an already-formed compact topological star, and the envelope is a thick accretion layer supplied by a high accretion rate.
+
+7.6 The Shared-Link Origin of Planetary Magnetic Fields
+The generation of a planetary magnetic field does not require specific material composition; it is the geometric result of the shared link network achieving directional alignment on a planetary scale. Path I continuously releases heat in the planetary core, driving convective motion in the liquid region. Planetary rotation, acting as a global inertial mold, forcibly constrains random thermal convection into large-scale annular vortices symmetric about the planetary axis—this macroscopically ordered fluid is equivalent to the large-scale directional alignment of shared links. According to Definition 9.5, this directional alignment closes end-to-end on the scale of the planetary core and emerges as a stable dipole magnetic field.
+
+The polarity of the magnetic field corresponds to the chirality (left-handed or right-handed helicity) of the shared link network. Geomagnetic reversal is a global chiral phase transition caused by the outer core circulation crossing a topological bifurcation point—when the heat output of Path I in the northern and southern hemispheres accumulates asymmetrically, the asymmetric perturbation is amplified under rotation, forcing the entire shared link network to flip its chirality. The irregularity of reversal intervals stems from local Path II events randomly injecting reverse seed fiber bundles into the circulation. The slow drift of the magnetic poles is the longitudinal precession of the fluid symmetry axis.
+
+A unified test of this mechanism: Venus has a similar mass to Earth but rotates extremely slowly (243 days). The lack of rotational constraints causes fluid motion to be only local random turbulence; shared links cannot close on a large scale, hence there is no intrinsic dipole magnetic field. Jupiter's metallic hydrogen generating a magnetic field proves that magnetism does not depend on iron-nickel composition—the essence of the magnetic field is the directional alignment of shared links, not specific material.
+
+Part VIII: Geometric Explanations of Cosmological Observations
+8.1 Cosmic Microwave Background Radiation
+The cosmic microwave background radiation is a topological snapshot taken at the critical transition moment when the membrane interface went from violent change to an equilibrium state—the instant when the woven structure was frozen.
+
+Homogeneous Background: The geometric average state of the initial conditions at the moment of membrane emergence. No inflation is needed to explain homogeneity; homogeneity is the starting point of membrane emergence.
+
+Temperature Fluctuations (Anisotropies): Statistical fluctuations of the local shared link density on the interface, locked in at the moment of freezing. Hot spots correspond to slightly higher density, cold spots to slightly lower density.
+
+Multipole Structure of the Angular Power Spectrum: The spatial projection statistics of topological structures of different scales on the interface at the moment of freezing.
+
+8.2 Large-Scale Structure
+The initial homogeneity inside the membrane is broken by statistical fluctuations of local reconnection. The fluctuations are amplified by the positive feedback of Path I. The checker-jump path allows cross-order polymerization, accelerating structure formation.
+
+No dark matter halos are needed as gravitational seeds.
+
+8.3 Galactic Rotation Curves
+The gravitational effect of galactic dark matter halos originates from the shared-link convergence effect of supermassive topological stars (black hole class, mass >10⁵ M_⊙). Such objects are extremely few in number and enormously massive; their microlensing timescales are extremely long (on the order of years), and current survey data cannot exclude them as the main component of dark matter halos.
+
+Key Distinction:
+
+Low-mass compact objects (<30 M_⊙) correspond to the solid woven solidified state and do not constitute the bulk of dark matter halos.
+
+Supermassive compact objects (>10⁵ M_⊙) correspond to the fluid vortex state and constitute the bulk of dark matter halos.
+
+There is a natural mass gap between the two categories, determined by topological phase transition conditions.
+
+Response regarding dynamical friction: Long-range topological stress fields are generated between supermassive topological stars due to the shared-link convergence effect. When two topological stars get too close, the shared links reach connection saturation, producing repulsive bow stress that prevents them from sinking into the galactic center. This freezes the supermassive topological stars at various positions in the halo during the early stages of galactic evolution, forming an extended mass distribution.
+
+8.4 Accelerated Expansion of the Universe
+The topological tension coupling between the membrane and the external substrate continuously injects energy as the membrane expands, driving the accelerated expansion.
+
+In the phenomenal layer, this continuous energy injection manifests as the accelerated expansion of the universe—the observational effect attributed to dark energy in the standard model. No new field or new entity is needed.
+
+8.5 Elemental Abundance Distribution
+The cyclic dynamics (polymerization-fission cycle) of the checker-jump path, integrated over time, produces the observed elemental abundance distribution. Each particle is a transient in time and probability.
+
+8.6 High-Redshift Massive Structures
+The checker-jump path allows the direct polymerization of massive topological stars in the early membrane. No seed black holes plus long-timescale accretion are needed. This provides a natural explanation for the high-redshift (z>10) massive galaxies observed by JWST.
+
+8.7 Topological Coupling Mechanisms of a Multi-Membrane Universe
+The ontological status of the substrate (Postulate 1) dictates that the membrane is not the only possible structure. If the loop density exceeds the critical value in another region of the substrate, a membrane can spontaneously emerge there as well. This implies that multiple membranes—multiple universes—can exist in the substrate, each emerging independently and each possessing an internal woven state and a shared link network.
+
+8.7.1 Basic Constraints on Inter-Membrane Interactions
+
+The region of substrate between two membranes is in an unwoven state. In the unwoven substrate, there is no shared link network, so light (δ𝒜) cannot propagate between two membranes. There is no usual "communication by light" between membranes.
+
+But this does not mean membranes are completely isolated from each other. The unwoven substrate still consists of nodes and directed edges and still obeys local reconnection dynamics. Any violent dynamical process in one membrane will generate local reconnection perturbations in the substrate. These perturbations propagate in the substrate as reconnection event waves and may reach another membrane.
+
+8.7.2 Three Channels of Inter-Membrane Interaction
+
+Channel I: Direct Impact of Substrate Reconnection Shock Waves
+
+Any violent dynamical process in another external membrane—Path II events inside it (supernova explosions or core collapse), or global oscillations of the membrane itself—will generate local reconnection perturbations in the substrate. These perturbations are not light but reconnection event waves of the substrate.
+
+When a reconnection event wave reaches the surface of our universe's membrane, it will locally interact with the topological defects (Definition 7.2) on the membrane surface. Because the membrane surface is the interface between the woven and unwoven states, the surface topological defects are the only sites capable of interacting with external perturbations. Observable manifestations of this interaction include:
+
+Collective excitation of membrane surface defects, manifesting as coherence anomalies in the cosmic microwave background that cannot be explained by internal fluctuations.
+
+Energy injection in specific directions, possibly triggering local weaving restructuring on the membrane surface, manifesting in the phenomenal layer as diffuse gamma-ray bursts or X-ray flashes unattributable to known sources.
+
+It must be noted that reconnection shock waves of the substrate, when propagating in the unwoven state, rapidly disperse due to the lack of a coherent medium, and their intensity decays exponentially with distance. This means that only an external membrane sufficiently close to our membrane can produce an observable impact event.
+
+Channel II: Indirect Influence of Topological Tension Coupling
+
+Topological tension coupling exists between the membrane and the external substrate (an extension of Postulate 5). If another massively large membrane exists externally, its own topological tension will alter the substrate stress field in the region where our membrane resides.
+
+Anisotropy in the substrate stress field will cause anisotropy in the accelerated expansion rate of our universe—in different directions, there exist tiny systematic differences in the Hubble constant. Such differences are not random but should exhibit a large-scale dipole or quadrupole pattern related to the direction of the external membrane.
+
+Current cosmological observations have already discovered the so-called "Hubble tension"—significant differences in the Hubble constant measured by different methods. TDMU attributes this to the anisotropic stress from external topological structures, rather than measurement systematic errors or new physics. This interpretation yields a clear observational prediction: the directional dependence of the Hubble constant should exhibit a systematic pattern rather than a random distribution.
+
+Channel III: Topological Defect Handshake between Membranes—An Extremely Rare Large-Scale Coupling
+
+If two membranes approach close enough that their surface topological defects can come into direct contact, defect-complementary weaving between the two membrane surfaces can occur.
+
+Defect-complementary weaving is the basic mechanism for interactions between topological knots in TDMU (Path I). The same mechanism can operate between the surface defects of two membranes. When the defects on the surfaces of two membranes happen to be geometrically complementary, they mesh to form a shared link "bridge" connecting the two membranes.
+
+The establishment of this bridge is an instantaneous phase transition event. Afterward, a shared link passage will exist between the two membranes for the first time. Light (δ𝒜) can propagate along this bridge from one membrane to another. Observable manifestations of such an event in the phenomenal layer may include:
+
+In an extremely short time, a certain region of the universe suddenly experiences an ultra-high-energy radiation burst unexplainable by any known astrophysical process.
+
+Accompanying the burst, the fine-structure constant or the speed of light in that region exhibits an instantaneous, measurable deviation—because the shared link networks of the two membranes briefly overlapped, altering the local shared link network properties.
+
+If the bridge persists stably, it will become a permanent channel connecting the two membranes. In the phenomenal layer, this corresponds to the concept of a wormhole in standard cosmology, but its ontological foundation is entirely different: a wormhole is not a connection in spacetime topology, but a shared link bridge between two woven membranes.
+
+8.7.3 The Multi-Membrane Universe and the Ultimate Constraint on Civilizational Persistence
+
+The multi-membrane coupling mechanism of TDMU provides a physical formulation for an ancient philosophical question: can a civilization persist after the dissolution of its parent membrane?
+
+From Postulate 12, we know that any membrane—whether naturally emerged or artificially constructed—will eventually dissolve. The dissolution of a membrane means the collapse of all woven structures within it, including all topological knots, all shared link networks, and all matter and life based on these structures. There are no exceptions.
+
+Therefore, for a civilization to exceed the lifespan limit of a single membrane, it must master the technology of inter-membrane migration. This includes two possible paths:
+
+Path I: Construct an artificial membrane (Ark). Before the dissolution of the parent membrane, a civilization can use the matter and energy within the parent membrane to build a child membrane that independently maintains weaving stability. The child membrane survives the shock wave of the parent membrane's dissolution, then navigates through the substrate, searching for another natural membrane and establishing a shared link bridge with it. The technical challenges of this path have been discussed in Part VII.
+
+Path II: Find an existing external membrane and establish a connection in advance. If a civilization can detect a neighboring external membrane and establish a shared link bridge with it before the parent membrane dissolves, it can transfer its population and information to the external membrane when the parent membrane dissolves. This path avoids the engineering challenges of building a child membrane but requires extremely stringent conditions: the external membrane must be at a sufficiently close distance, its weaving pattern must be compatible with the parent membrane, and its surface defects must be capable of defect-complementary weaving with those on the parent membrane surface.
+
+Whichever path is chosen, the civilization faces a fundamental limitation: there is no shared link network in the substrate, so light cannot travel between membranes. During inter-membrane migration, the civilization will be in a state of complete information blindness—they cannot use light to perceive the external environment, cannot know in advance the internal state of the destination membrane, and cannot communicate with any external entities during the voyage. They can only perceive the world by touching the tremors of the substrate itself.
+
+This is the deepest constraint that TDMU gives to civilization: the membrane is an oasis of existence, and the substrate is a boundless desert. The journey across the desert is blind, lonely, and irreversible. The ultimate fate of a civilization depends not on its degree of development within a single membrane, but on whether it can learn to continuously migrate across the succession of membrane generations—before each membrane dissolves, building the next ark, finding the next home.
+
+There is no endpoint. There is only the cycle. Meaning is not conserved; only reconnection is ceaseless.
+
+Part IX: Testable Predictions
+Below are listed testable predictions of the TDMU framework. Each is phrased in an "If...then..." format to ensure falsifiability.
+
+Prediction 9.1: Compact Object Mass Gap
+Prediction: There should be a lack of stable compact objects in the phenomenal range of approximately 2.5–5 M_⊙. Any objects found in this range should exhibit transitional behavior. If a large number of stable compact objects are found in this range, the framework needs revision.
+
+Prediction 9.2: Solid Planet Inertia Upper Limit
+Prediction: Purely solid planets exceeding a certain critical inertia cannot exist stably. If numerous long-term stable purely solid planets are found in any inertia range, the framework is falsified.
+
+Prediction 9.3: Asteroseismological Test for Extreme Stars
+Prediction: The seismological mass M_seismo of extreme stars should be significantly larger than their photometric mass M_lum, with the ratio M_seismo/M_lum > 1.5, and should monotonically increase with radius. If the ratio is approximately equal to 1, the hidden core hypothesis does not hold.
+
+Prediction 9.4: Flux Quantization Structure
+Prediction: Magnetic flux must be an integer multiple of some irreducible elementary unit. If any superconducting system observes magnetic flux that is not an integer multiple of an irreducible elementary unit, the framework is falsified.
+
+Prediction 9.5: Impact Imprints of External Membranes
+Prediction: If there exist large-scale coherent structures in the cosmic microwave background that cannot be explained by internal fluctuations, and these structures are concentrated in specific sky regions, they may be topological defect excitation events from an external membrane. If such structures are absent in higher-precision CMB surveys, this channel is inactive in the current observational window.
+
+Prediction 9.6: Anisotropic Expansion
+Prediction: If the Hubble constant exhibits systematic differences exceeding statistical errors across different sky regions, and the distribution of differences shows a large-scale dipole or quadrupole pattern, there may exist topological tension coupling from external cosmic membranes. If the directional dependence of the Hubble constant disappears under higher precision, this prediction is falsified.
+
+Prediction 9.7: Transient Signals of Inter-Membrane Bridging
+Prediction: If ultra-high-energy radiation bursts unexplainable by any known astrophysical process are observed, and accompanying these bursts are instantaneous, localized, measurable deviations of the fine-structure constant or the speed of light, they may correspond to a topological defect handshake event between two membranes. If all such bursts do not accompany instantaneous deviations of these physical constants, this channel is not activated in the observational window.
+
+Part X: Retrospect
+The entire content of physics—space, time, matter, gravity, magnetism, electricity, nuclear force, weak force, electric current, superconductivity, nuclear transformations, elemental abundance, astrophysical evolution, the topological phase transition origin and finale of the membrane, the geometric enforcement of quantum statistics, the geometric decoupling of isotopic fission, the topological origin of superconducting gauge fields—all reduce to three things:
+
+Nodes, directed edges, shared links.
+
+Plus two emergent principles:
+
+Recursive weaving and defect complementarity.
+
+And two truncation rules:
+
+The Hierarchical Truncation Criterion (the geometric window of effective interaction is determined by the recursive growth radius) and the Energy-Scale Truncation Rule (recursive growth is truncated at the highest weaving complexity that can stably exist at the current loop density).
+
+Theorem 8.1 re-anchors Pauli exclusion—one of the most central statistical rules in quantum field theory—from the mysterious result of the "spin-statistics theorem" onto the geometric enforcement of braiding exchange. Two identical topological knots cannot occupy exactly the same geometric state, not because they obey Fermi-Dirac statistics, but because exchanging their ports requires an odd number of reconnection steps, while the identity operation requires zero steps (even)—the contradiction that odd equals even forbids the complete coincidence of states at the purely combinatorial level.
+
+There are no absolute "elementary particles," only eternal recursion and emergence—where recursion is truncated by the energy scale, there "elementary particles" manifest. There is no true "finale," only the dynamical switching of Path I and Path II in the accretion-dissipation cycle. Stars are not unidirectional arrows pointing to an endpoint, but transient states in a cyclic network—brown dwarfs, main-sequence stars, extreme stars, white dwarfs, black holes, pulsars, supernovae—all are different projections of the same set of geometric mechanisms onto the three coordinates of total accreted mass, medium state, and evolutionary stage.
+
+In Part VIII, we went even further: our membrane—our universe—may not be the only self-organized vortex in the substrate. There may be other membranes, each with its own internal spacetime and physics, each undergoing emergence and dissolution. Between membranes there is no communication by light—light is only ripples on the shared link network inside a membrane, unable to traverse the unwoven substrate. But they are not completely isolated from one another. The tremors of the substrate itself convey each other's existence. If a membrane forms or dies sufficiently close, our universe will feel a silent ripple across the topological sea—not seen in light, but heard in the rhythm of expansion.
+
+At the bottom of a summer night pond, a toad rests quietly in the water, blowing bubbles from its mouth. The bubbles rise, expand, deform, oscillate, and finally burst, returning to the water.
+
+In this image:
+
+The water is the substrate—that invisible underlying layer that carries everything. There may be other bubbles in the water, each independently rising, expanding, and bursting. There is no direct sound transmission between bubbles, but they are all in the same water, and their tremors are transmitted through the water.
+
+The bubble wall is the cosmic membrane—ordered structure emerging from the substrate.
+
+The rising of the bubble is time—irreversible unfolding.
+
+The expansion of the bubble is the cooling and evolution of the universe.
+
+The texture of the bubble is matter—woven structures on the membrane, their complexity truncated by the current energy scale.
+
+The bursting of the bubble is the finale—structures disintegrate, returning to the substrate.
+
+The toad still rests quietly in the unreachable depths of the substrate. We are born on the ripples of the membrane and can never turn back to gaze upon it—but that does not prevent us from reconstructing its form step by step through the topological imprints on the membrane.
+
+Why do I keep this image? The toad blowing bubbles was the starting point of my model. Through many rounds of iterative deepening, I cannot abandon it. Without its imagery, none of this would exist. Therefore I still keep the name "Toad Universe Model." Including my topological stars, I still prefer to call them "Toad Stars."
+
+Meaning is not conserved; only reconnection is ceaseless.
+
+References
+[1] Crowther, P. A., et al. (2010). The R136 star cluster hosts several stars whose individual masses greatly exceed the accepted 150 M⊙ stellar mass limit. MNRAS, 408(2), 731–751.
+
+[2] Arroyo-Torres, B., et al. (2015). The atmospheric structure and fundamental parameters of the red supergiants AH Sco, UY Sct, and KW Sgr. A&A, 575, A63.
+
+[3] Smartt, S. J. (2015). Observational constraints on the progenitors of core-collapse supernovae: the case for missing high-mass stars. PASA, 32, e016.
+
+[4] Event Horizon Telescope Collaboration. (2019). First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole. ApJL, 875, L1.
+
+[5] Event Horizon Telescope Collaboration. (2022). First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way. ApJL, 930, L12.
+
+[6] Bañados, E., et al. (2018). An 800-million-solar-mass black hole in a significantly neutral Universe at a redshift of 7.5. Nature, 553, 473–476.
+
+[7] Abbott, B. P., et al. (LIGO Scientific Collaboration & Virgo Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. PRL, 116, 061102.
+
+[8] Tisserand, P., et al. (EROS-2 Collaboration). (2007). Limits on the Macho content of the Galactic Halo from the EROS-2 Survey of the Magellanic Clouds. A&A, 469, 387–404.
+
+AI Usage Statement
+AI-assisted tools were used in the integration, formal typesetting, and logical review process of this paper. All core theoretical content (postulates, definitions, lemmas, theorems, corollaries) was independently constructed by the author based on the TDMU framework. The AI tools were responsible for the rigorous verification of derivation chains, language standardization, and structural summarization, and did not participate in any creative decision-making or the generation of core content.
+
+(End of paper)
+
+（中文版）
+拓扑动力膜宇宙模型（TDMU）v2.341
+——一个基于离散组合网络的宇宙学框架
+
+作者：马江平
+
+摘要
+
+标准宇宙学模型（ΛCDM）依赖三个外源假设——奇点、暴涨场、暗物质粒子与暗能量场——其物理本质均未在已知物理学框架内得到解释。本文提出一个替代框架：宇宙被建模为从离散组合网络中涌现的拓扑界面（膜）。该网络由节点与有向边构成，其唯一动力学为局域重联。
+
+在此框架内：空间是膜上结构间距离关系的总和；时间是重联事件的累积计数；物质是稳定的环路编织子图（拓扑结），其递归生长被当前能标截断；引力是共享链接总数的统计效应；光是共享链接取向扰动的传播；核转变是拓扑缺陷的互补编织与强制重联（四条通道）；元素丰度由三因素判据（合成概率、继续聚合概率、裂变概率）决定；天体演化是吸积-耗散循环中路径一与路径二在不同尺度上的动态博弈，星体类型取决于吸积总量和介质状态。
+
+本框架不使用奇点（代之以有限临界环路密度）、暴涨（代之以膜涌现的初始条件）、暗物质粒子（代之以超大质量拓扑星的共享链接汇聚效应）、暗能量场（代之以膜与外部基底之间的拓扑张力耦合）。全部可观测宇宙学现象——均匀背景、大尺度结构、加速膨胀、元素丰度分布——从同一组几何规则中涌现。
+
+本文提供完整的公设体系、核心推导、天体演化谱系、可检验预言。
+
+1. 引言
+1.1 标准宇宙学模型的外源假设
+当代宇宙学标准模型（ΛCDM）取得了非凡的观测成功，但其理论架构依赖三个外源假设：
+
+奇点：宇宙从时空曲率发散的数学奇点中诞生。该点处密度、温度、曲率均趋于无穷，广义相对论在此失效。一个物理理论在其核心包含一个无法描述的奇点，表明该理论不是完备的。
+
+暴涨：为解释宇宙的均匀性与平坦性，标准模型引入一个在极早期超光速膨胀的标量场。该场无已知物理对应物，其势能形式需人工调整以匹配观测数据。
+
+暗物质与暗能量：为解释星系动力学与宇宙加速膨胀，标准模型引入两种未知组分，占宇宙总能量的95%。暗物质粒子在地球实验中从未被探测到；暗能量的物理本质完全未知。
+
+这三个假设的共同特征：它们不是从更深层原理中推导出来的，而是为拟合观测数据逐层添加的实体。
+
+1.2 本文的路径
+拓扑动力膜宇宙模型（TDMU）从一组极简公设出发：仅节点、有向边、共享链接与重联计数。从这些底层定义中推导或重新表述上述全部现象。本文的任务是：
+
+完整陈述公设体系（第一篇至第二篇）
+
+建立物质结构的涌现机制（第三篇）
+
+定义核转变的四条通道与元素丰度的三因素判据（第四篇至第五篇）
+
+建立共享链接的几何学与光-引解耦（第六篇）
+
+构建天体演化谱系与宇宙学框架（第七篇至第八篇）
+
+列出可检验预言（第九篇）
+
+第一篇：本体论
+公设一：基质
+存在一个离散的、无背景的组合网络ℳ。它由节点和连接节点的有向边构成。
+
+该网络不嵌入任何空间。不演化于任何预先存在的时间。节点与边之间唯一的原始关系是“被连接”或“不被连接”。边的唯一原始属性是其方向——从一个节点指向另一个节点。
+
+基质的唯一动力学是局域重联：当两条边在某节点处相遇时，它们可以断开，并按方向规则重新连接。重联是局部的——它只涉及共享同一节点的少数边，不涉及远处结构。
+
+方向规则：在任意闭合路径上，沿路径遍历时，与遍历方向一致的边记为正向，与遍历方向相反的边记为反向。所有边的有向性代数和在局域重联操作下守恒。
+
+基质不包含任何物理量。没有质量、没有能量、没有荷、没有场。只有节点、有向边，以及它们之间的连接关系。
+
+基质不是“虚无”——它是拥有确定拓扑结构和动力学的底层存在。节点存在，有向边存在，局域重联事件在其中持续发生。基质是永不停歇的拓扑海，是一切实存的原材料。
+
+定义1.1：环路
+从某节点出发、沿有向边行进、最终回到出发节点的闭合路径，称为环路。环路是基质中唯一具有“整体可识别性”的结构。
+
+定义1.2：拓扑荷
+在任意闭合环路上，沿环路行进的净方向代数和（正向边计数减反向边计数）是一个整数。该整数在重联操作中守恒——因为方向规则保证了这一点。
+
+这个整数称为环路的拓扑荷。
+
+拓扑荷不是预先假设的物理量。它是“方向在闭合路径上的代数和”这一纯几何事实的命名。
+
+公设二：膜的自发涌现
+当基质的某个闭包区域中，环路密度（单位节点数中包含的闭合路径数）超过某一临界值时，该区域的环路通过集体重联倾向于织成一张闭合曲面。这张曲面将该区域划分为“内部”与“外部”——内部环路密度与外部不同，曲面本身成为两个区域之间的边界。
+
+这张闭合曲面称为膜。
+
+膜不是被“放入”基质的。它是基质在特定环路密度条件下自然趋向的结构模式。膜是基质的一种状态——基质从非编织态到编织态的相变产物。膜的形成瞬间建立了内外梯度：内部被组织成编织态，外部保持非编织态。这一梯度一旦建立，膜便拥有拓扑持久性，能够作为独立的宇宙存在。
+
+定义2.1（膜的内外区分）：设膜M为ℳ的一个连通子图。膜M将ℳ分隔为两个不相交的节点集合——内部是与M相连但不与无穷远连通的节点集，外部是与M相连且与无穷远连通的节点集。膜的涌现即是ℳ首次获得这种分隔性质的相变时刻。
+
+定义2.2（外部基质的本体论地位）：外部基质与内部基质在本体论上是同一实体——均为ℳ的组成部分。两者均由节点和有向边构成，均服从局域重联动力学。区别仅在于组织模式：膜内部处于编织态，拥有稳定环路、共享链接网络和拓扑结；膜外部处于非编织态，环路密度低于临界值，无法形成稳定闭合曲面，因而不存在共享链接网络和拓扑结。外部基质不是虚无——它拥有确定的状态，只是其动力学模式与膜内部不可直接耦合。
+
+公设三：编织层级
+物质结构由拓扑结（不可自动解体的编织子图）按递归层级构成。拓扑结之间的相互作用通过共享链接实现。该递归生长树上的每一项都是某个特定阶次的拓扑结，其原砖总数由前代结的原砖数决定。
+
+推论3.1：层级截断判据
+
+拓扑结之间的共享链接网络仅在结间距小于或等于较小结的递归生长半径的有限整数倍时才被计入有效相互作用。
+
+具体地，设拓扑结A的递归阶次为m（由原砖数N_A决定，N_A = 4^m的某种堆积构型），其本征组合半径为r_A = ⌈N_A^{1/3}⌉（节点步数）。
+
+当两结中心距d_AB > κ·(r_A + r_B)（其中κ为局域环路密度决定的屏蔽因子，κ ∈ [1, 3]）时，共享链接的总数N_links指数衰减至低于阈值N_thresh，在宏观物理中可视为零。
+
+该截断的起源：基质中的中间环路密度在距离超过r_A + r_B后，无法维持稳定编织通道——任何额外链接都会因中间节点缺乏足够的拓扑荷支撑而自发重联解散。
+
+物理后果：
+
+在原子核尺度（r ~ 1 fm）：截断半径远大于核子间距，共享链接总数被几何强制锁定在最大饱和度——宏观表现为强核力的短程饱和性。
+
+在原子尺度（r ~ 1 Å）：截断半径精确匹配电子云的范围，共享链接总数随距离增大而按组合路径数自然下降——宏观表现为库仑势的1/r形式。
+
+在宇宙尺度（r ≳ 1 Mpc）：截断半径与递归生长树的最高阶次（星系团尺度）相匹配——超出该尺度后共享链接计数归零。
+
+第二篇：时空的涌现
+公设四：组合距离
+两个节点之间的距离，由连接它们的最短路径上的边数定义。两个结构之间的距离，由连接它们所属区域的最短路径上的边数定义。
+
+距离不是空间中预先存在的度量。它是节点之间连接关系的直接读数。
+
+公设五：空间
+膜上所有结构之间距离关系的总和，构成膜的空间结构。
+
+空间不是承载膜的容器。它是膜上结构之间关系的集合。
+
+当一个结构发生移动时，它并不是在空间中穿行——它是在改变它与所有其他结构之间的连接关系。“移动”是重联历史在距离关系上的记录。
+
+公设六：时间
+膜上两个事件A与B之间的先后顺序，由连接它们的路径上的累积重联事件数决定。若从A到B的任意路径上重联总数为N，且N > 0，则A先于B；若N = 0，则A与B同时。
+
+时间不是维度，不是坐标，不是参数。它是重联事件的累积计数。
+
+第三篇：物质结构的涌现
+公设七：拓扑结
+膜上由环路构成的、在重联动力学下不自动解体的编织子图，称为拓扑结。
+
+一个子图不自动解体，当且仅当：将其与膜的其他部分分离所需的连续重联次数超过一个阈值。该阈值使得任何局域重联操作都无法在不破坏整体结构的前提下释放内部应力。
+
+物质不是预先存在的粒子。它是膜上达到稳定性条件的拓扑结。
+
+定义7.1：拓扑结的稳定性参数
+
+拓扑结的稳定性由两个因素决定：
+
+内部链接总数：结内环路之间的独立连接路径数量。总数越大，拆解所需的重联次数越多。
+
+边界连通度：结表面与外部之间的连接路径数量。边界连通度越低，外部重联越难入侵内部。
+
+定义7.2：拓扑缺陷与表面编织不完备
+
+任何拓扑结的表面编织都无法达到绝对完美的闭合——总存在若干无法被现有编织完全覆盖的区域，称为拓扑缺陷。缺陷的大小与分布取决于结的编织复杂度：原砖数少的结编织松散，缺陷面积占比较大；原砖数多的结编织致密，缺陷面积占比较小。
+
+拓扑缺陷是拓扑结之间发生相互作用的“活性位点”。两个拓扑结能否发生缺陷互补编织，完全取决于它们表面缺陷的几何匹配程度。
+
+定义7.2a（拓扑缺陷的尺度属性）：拓扑缺陷仅有尺度大小和分布模式之分，不存在绝对无缺陷的完备拓扑结。轻核编织松散，缺陷尺度较大；重核编织紧密，缺陷尺度较小。缺陷尺度随核素质量增加而单调减小，但永不为零。
+
+定义7.3：原砖
+
+膜上最小的、能够独立存在且能与其他拓扑结建立稳定共享链接的拓扑结，称为原砖。
+
+原砖是当前能标下的有效基本单元。它的“基本性”是能标依赖的——若未来在更高能标下发现原砖由更小的结构组成，模型可自然延伸。
+
+定义7.4：原砖的惯性
+
+原砖抵抗方向重联的能力——即改变其环路净方向代数和所需的重联事件数——定义为原砖的惯性。现象层中此属性被称为“质量”。
+
+公设八：递归生长与拓扑结谱系
+拓扑结并非孤立存在。在适当的能标与碰撞条件下，较小的稳定拓扑结可以通过缺陷互补编织机制结合为更大的稳定拓扑结。当两个较小结的缺陷恰好几何互补时，它们啮合形成更大的编织结构——这一过程完全由双方缺陷的几何性质决定。
+
+能够稳定结合为更大结的较小结，其缺陷分布必须在拓扑上满足特定的相容条件。由此自然产生一个拓扑结的递归生长树——从原砖开始，逐代结合，形成结构越来越复杂、惯性越来越大的稳定结。
+
+递归生长的能标截断定则
+
+拓扑结的递归生长并非无限进行。在给定的环路密度（对应现象层的能标或温度）下，只有惯性低于某一阈值的拓扑结才能稳定存在。当递归生长达到该能标下的最大稳定编织复杂度时，更复杂的拓扑结将因缺乏足够的环路密度支撑而无法形成，或在形成后立即被热涨落拆散。
+
+当前宇宙的低能标（约2.7 K宇宙微波背景）下，递归生长被截断在重子砖（质子与中子）层级。原砖的内部结构——如果存在——在当前能标下不可解构，因此原砖在现象层表现为“基本粒子”。
+
+这一截断的本质与层级截断判据（推论3.1）相同：当编织复杂度超过当前环路密度所能支撑的共享链接网络稳定性阈值时，更高阶的拓扑结无法涌现。
+
+定义8.1：电子砖
+
+在递归生长树上，由4个原砖以特定编织方式构成的稳定拓扑结，称为电子砖。它是当前宇宙能标下最小的独立稳定结，是构成所有更复杂物质结构的基本建材。
+
+电子砖的内部结构同样遵循递归编织原则：它拥有由那4个原砖紧密编织而成的坚固内核，以及可能存在的、由更底层原砖通过缺陷附着于内核的柔软外层。在当前宇宙的低能标下，该外层的惯性贡献极其微小，可忽略不计。
+
+定义8.2：交换重联数与泡利排斥的几何强制
+
+定义8.2a（交换重联数𝒮）：令p_A, p_B为两个全同拓扑结（电子砖）表面各一个悬挂链接端口。将p_A移至p_B原位、p_B移至p_A原位所需的最小局域重联操作步数，称为交换重联数𝒮。
+
+引理8.1（交换的奇偶性）：对于占据同一递归生长树阶次的两个全同拓扑结，其端口的交换重联数𝒮必然为奇数。
+
+证明要点：两个全同拓扑结的交换操作必须通过编织交换完成（沿闭合环路绕行，而非直接拖动节点穿越彼此）。每一步局域重联操作改变一条有向边的目标节点。对于交换两个全同对象的完整编织交换，辫子群B_N的交换生成元序列长度k必须满足k ≡ 1 (mod 2)。最简构造性示例需要3次局域重联。因此，𝒮必然为奇数。
+
+定理8.1（泡利不相容的几何强制）：两个全同电子砖不能占据完全相同的几何位置与相位状态。
+
+证明：若两个全同电子砖占据完全相同的几何状态，则交换操作退化为恒等操作（重联步数0，偶数）。但引理8.1要求交换重联数为奇数。奇数等于偶数的矛盾迫使假设不成立。两个全同电子砖必须保持至少一个几何自由度上的差异——或相位差Δθ ≥ 1，或占据不同的空间缠绕模数。
+
+定义8.3：重子砖与二元分层结构
+
+在递归生长树上远高于电子砖的阶次处，存在由大量电子砖及更底层原砖按递归规则编织而成的巨型稳定拓扑结。
+
+这类拓扑结的结构呈现普适的二元分层模式：
+
+坚固内核：由大量电子砖或等效原砖以最紧密堆积方式构成。对于达到宏观尺度的拓扑结，立方密堆积是最优排列，内核原砖数在此极限下趋近于12³（1728）的整数倍。内核提供了抵抗解体的高结合能。
+
+柔软外层：由大量浮置于内核表面的原砖或小拓扑结组成，它们通过缺陷互补附着于内核，形成可变形的缓冲层。外层原砖可在外力作用下滑动，吸收碰撞能量。外层原砖的缺陷分布决定了该拓扑结的宏观电荷表现。
+
+这两种稳定构型在现象层分别对应质子（带正电荷）与中子（电中性）。两者拥有相同的结构模式，差异仅在于外层缺陷的净拓扑荷属性。
+
+定义8.4：抗压结合能总和（E_抗压）
+
+拓扑结作为一个闭合编织网络，具有抵抗外部压缩的结构性阈值。这一阈值由结内部所有联结边的强度、编织构型以及缺陷分布共同决定，称为抗压结合能总和，记作E_抗压。
+
+E_抗压是拓扑结抵抗压缩的单一统一物理量，不预设其内部的微观分解结构。它的本质是拓扑结作为闭合编织网络维持其构型的结构性抵抗力。
+
+定义8.4a：层级抗压张量
+
+原子核的抗压结合能ℰ_抗压分解为三个几何独立的贡献项：
+
+E_抗压 = 𝒱_core · 𝒮_core + 𝒱_shell · 𝒮_shell + ℐ(suture)
+
+其中：
+
+𝒱_core：内核密堆积原砖单元数，决定原子核的质量数主体
+
+𝒮_core：内核平均链接饱和度。对于完美密堆积（如12³超立方体闭包），𝒮_core → 1
+
+𝒱_shell：外壳层中参与化学成键的有效原砖单元数
+
+𝒮_shell：外壳端口饱和度，决定化学价态与反应活性
+
+ℐ(suture)：内核-外壳过渡缝合线上的拓扑应力集中系数，由缝合层原砖排列与理想闭包构型的偏离度决定
+
+定理8.2：化学-核解耦定理
+
+外壳悬挂端口的空间取向（即化学价态）仅取决于𝒮_shell及外壳端口的排列方式，与内核原砖总数𝒱_core无关。而缝合线应力集中系数ℐ对内核原砖数的离散变化高度敏感。
+
+推论8.1（缺位应力集中）：若内核原砖排列存在缺位（即实际原砖数少于该编织树阶次的理想闭包数），则缝合线处的拓扑应力集中系数ℐ > 0。若无缺位，则ℐ ≈ 0。
+
+推论8.2（铀同位素的裂变阈值差异）：
+
+²³⁸U的内核原砖排列匹配12³超立方体的完整闭包，ℐ_238 ≈ 0，裂变触发阈值高
+
+²³⁵U的内核缺少3个原砖单元，缺位导致ℐ_235 > 0，裂变触发阈值显著低于²³⁸U
+
+两者的化学性质（𝒮_shell）完全一致——外壳端口排列不受内核缺位影响。
+
+第四篇：核转变——四条反应通道
+4.1 物质：稳定拓扑结与拓扑缺陷
+物质粒子是膜上的稳定拓扑结。每一拓扑结均带有编织无法完全闭合的区域——拓扑缺陷。缺陷仅有尺度大小和分布模式之分，不存在绝对无缺陷的完备拓扑结。轻核编织松散，缺陷尺度较大；重核编织紧密，缺陷尺度较小。
+
+4.2 反应通式与四条机制
+拓扑结之间的相互作用，本质是双方表面缺陷的互补匹配与联结边的重构。核反应的完整通式写作：
+
+a + b → x → c + d
+
+前向聚合（a + b → x）由路径一或路径二驱动。中间核x生成后，其后续命运由三条路径中的一条接管：若x的裂变阈值被超过则裂变为c和d；若a与b的全局拓扑荷恰好归零则路径三直接接管，跳过x。以下为四条机制的分述。
+
+通道一：缺陷互补编织（路径一）
+
+路径一的本质特征是缺陷诱导、逐级重联。
+
+条件：两拓扑结表面的拓扑缺陷恰好几何互补。
+
+过程：两结缺陷区域啮合，联结边逐级有序重构，形成新的稳定拓扑结x。反应释放的能量取决于参与重构的拓扑结总惯性亏损。
+
+特征：
+
+路径一的聚合概率取决于两拓扑结表面缺陷的几何匹配程度。随着核素质量增加，编织趋于致密，缺陷面积占比单调减小——因此聚合概率在定性趋势上随质量增加而降低。但这种降低不是零，任意两个拓扑结之间均存在非零的聚合概率。
+
+在具备充足散热时间和热膨胀空间的环境中，路径一可形成负反馈自稳回路：局部温升引发膨胀，缺陷间距增大，匹配概率下降，释热自动降低。恒星内部持续数十亿年的温和燃烧即为此机制的运行。
+
+负反馈并非自动获得，而是特定环境条件的产物。它需要介质具备快速散热能力（如流体对流），以及介质具备即时热膨胀响应（密度随温度升高而迅速降低）。气态及高温熔融态天体满足这两条件，因此内部路径一可持续稳定运行。固态天体两者皆缺——但若固态天体内部温度升高至熔融，介质获得流体特性，负反馈即可建立。
+
+聚合路径（逐级或跳棋）由原材料丰度比动态决定。
+
+通道二：强制链式重联（路径二）
+
+路径二的本质特征是批量剪断、集体重构——不依赖缺陷匹配概率，不挑匹配对象，一旦触发必然进行，无法通过环境反馈来调节。
+
+条件：局部重联操作数超过联结边批量断裂阈值，即外部压缩能量超过该拓扑结的抗压结合能总和E_抗压。
+
+过程：联结边被批量剪断，核心编织网络裸露，发生大规模链式强制重联。单次路径二事件中，大量拓扑结在极短时间内被同时拆解和重联，宏观上表现为瞬时暴烈的能量释放。
+
+特征：
+
+路径二的终态仍为拓扑结（碎片核c和d）。
+
+触发条件具有普适性：外部压缩能量的来源不限于引力——激光聚变、磁约束、冲击波等任何形式的极端加压/加热，只要注入的能量超过核素的E_抗压，即可强制触发路径二。
+
+超新星爆发中的核心拆解即属此列。
+
+通道三：拓扑消解（路径三）
+
+条件：两拓扑结a和b的全局拓扑荷代数和恰好为零。
+
+过程：缺陷互补啮合不会形成新的稳定编织——在啮合瞬间，整个拓扑构型因全局应力归零而发生完全解构。所有联结边被同时拆除，全部拓扑节点回归为无拓扑荷的平面膜（网络基态）。终态仅为纯辐射，不包含任何拓扑结。释放的能量等效于参与拓扑结的全部惯性，转化效率为100%。
+
+特征：
+
+在反应通式a + b → x → c + d中，路径三对应的是a + b → 纯辐射，完全跳过中间核x。
+
+路径三与路径一共享“缺陷互补啮合”这一触发条件，区别在于啮合的结果。路径三的概率取决于拓扑荷配对的精确度，在自然条件下极为罕见。
+
+路径三只封锁特定的反应通道（a + b → 纯辐射），不意味着该质量数的核素无法通过其他前驱组合合成。
+
+通道四：应力撕裂（裂变）
+
+条件：中间核x已通过路径一或路径二形成后，其内部某条缝合线上累积的应力超过联结边的瞬时承受极限。核素内部结构并非均质——不同缝合线上的联结边承受的拉伸应力各不相同。
+
+过程：构型沿该缝合线发生机械式撕裂，分裂为两个较小的核c和d。释放的能量等于撕裂前后总惯性的减少。
+
+特征：
+
+裂变概率取决于核素内部各缝合线应力分布。某条缝合线应力越集中、越接近联结边承受极限，该核素的裂变概率越高。
+
+裂变概率是决定核素在自然界中能否长期留存的三个关键因素之一（见第五篇三因素判据）。
+
+4.3 完整回路总结
+在反应通式a + b → x → c + d中，完整回路为：
+
+a + b → x：路径一（缺陷诱导、逐级重联）或路径二（批量剪断、集体重构）；
+
+x → c + d：裂变（应力撕裂），产物重回原料池；
+
+a + b → 纯辐射：路径三（拓扑消解），跳过x，直接归零。
+
+4.4 库仑势垒的深层机制
+两拓扑结能否发生啮合，取决于双方表面缺陷的构型匹配度。温度升高意味着热振动幅度增大，缺陷位点暴露得更充分，匹配概率上升。库仑势垒，在宏观上测量到的，是无数对缺陷匹配尝试的统计失败率。它不是一种独立的力，而是概率的宏观统计表现。
+
+第五篇：元素丰度与铁峰——三因素判据
+5.1 三因素判据
+在四条通道构成的反应网络中，任一核素在宇宙中的丰度由以下三个概率共同决定：
+
+合成概率：该核素通过各种前驱通道被制造出来的概率。若某通道被路径三封锁，则该项贡献为零，但核素仍可通过其他通道合成。
+
+继续聚合概率：该核素作为反应物，通过路径一或路径二继续聚合为更重核素的概率。
+
+裂变概率：该核素内部因应力撕裂而裂变回较轻核的概率。
+
+三者共同决定核素在质量谱上的净留存：
+
+净留存 ∝ 合成概率 × (1 - 继续聚合概率 - 裂变概率)
+
+丰度峰出现在“合成概率相对可观，但继续聚合概率和裂变概率均低”的核素处——核子流能到达这里，但到达后既不容易继续往前走，也不容易被推回去，于是净积累。丰度谷出现在“合成概率低”或“继续聚合概率高”或“裂变概率高”的核素处——核子流要么到不了，要么到了留不住。
+
+整个元素周期表的丰度分布，就是这三个概率在质量谱上连续变化的综合投影。
+
+5.2 跳棋路径与逐级路径
+在本文框架下，核素质量谱上不存在“必经之路”。任意两个拓扑结（无论轻、中、重）只要缺陷匹配，就可以发生聚合。反应概率取决于双方缺陷的几何匹配程度，与它们在质量谱上的位置无刚性约束。
+
+跳棋路径与逐级路径并非互斥，而是由原材料丰度比决定权重的两条并行通道。早期宇宙物质丰度均匀时，跳棋路径成为优势通道，可指数级加速结构成长。
+
+5.3 铁峰：三因素判据的具体表现
+铁-56的丰度突出，是上述三因素判据在质量数56处的具体表现：
+
+合成概率：核子流通过逐级路径和跳棋路径都能到达质量数56。
+
+继续聚合概率：质量数56的拓扑结缺陷面积占比极小，作为反应物继续向上聚合的概率较低——核子流在此处“往前走”的流速慢。
+
+裂变概率：质量数56的拓扑结内部缝合线应力均衡，被撕裂回较轻核的概率也较低——核子流在此处“被推回去”的流速也慢。
+
+三者叠加：核子流能到达质量数56，但到达后向前走和向后回流的速率都低——净积累。这就是铁峰的全部成因。至于质量数56的拓扑结具体以哪种同位素的形式留存，由该同位素具体的裂变概率决定，不影响铁峰作为质量数丰度峰的事实。
+
+铁峰与星体演变没有因果关系。铁在丰度上突出，只是核子流在此处净积累量大。它不决定星体的任何演化转折点。星体可以在任何阶段触发路径二——与质量谱上哪个质量数恰好形成丰度峰无关。
+
+5.4 铁核的天体物理角色
+丰度层面：铁峰的出现位置由三因素判据决定。
+
+结构层面：铁核在星体演化中的特殊角色源于其极高的抗压结合能总和E_抗压。铁核的路径一聚合概率极低，但E_抗压极高，因此铁核心能承受极高的引力压缩能量而不触发路径二。当外围物质持续累积，引力压缩能量超过铁核心的E_抗压阈值时，路径二才被触发。
+
+5.5 跳棋路径的反应示例
+以下反应式仅表示质量数聚合，不预先指定产物以哪个具体同位素留存。产物是稳定核素、不稳定同位素、还是聚变即裂变，由该质量数拓扑结的裂变概率决定。
+
+两个碳核（A=12+12）→ 质量数24的拓扑结
+
+两个氧核（A=16+16）→ 质量数32的拓扑结
+
+碳+氧（A=12+16）→ 质量数28的拓扑结
+
+氧+氖（A=16+20）→ 质量数36的拓扑结
+
+两个氦（A=4+4）→ 质量数8的拓扑结（裂变概率高，立即裂回，或继续捕获氦→质量数12的拓扑结）
+
+5.6 轻核富集的几何必然性及其地质后果
+路径一的聚合概率取决于双方拓扑结表面缺陷的几何匹配程度。轻核（碳、氮、氧等）编织松散，缺陷面积占比较大，其参与路径一聚合的匹配概率在定性趋势上高于重核。同时，太阳系初始物质中轻核的粒子数基数远大于重核。两者叠加——高匹配概率与大基数——使得轻核素在路径一聚合-裂变循环中的合成总量远大于重核素。这是碳、氧等生命必需元素在宇宙中丰度较高的几何根源，不涉及任何特殊机制。
+
+在地球内部，地核路径一持续合成的碳和氢，通过地幔柱和深部流体通道上涌至地壳。这些轻核素的巨量供给，为地壳中碳氢化合物的非生物化学合成提供了物质前提。TDMU本身不描述化学键合过程，但为碳氢化合物的深部无机来源提供了核合成层面的几何解释。这与观测上某些超深层油藏缺乏生物标志物、以及与地幔流体氦（³He/⁴He偏高）共生的现象在定性上相容。
+
+5.7 行星内部的重核跳棋合成（应用推论）
+跳棋路径允许任意两个拓扑结直接聚合，不经过逐级攀升。在地球外核条件下（约10⁵⁰个核素，高压135–360 GPa，温度4000–6000 K，积分时间45亿年），两个中重核通过跳棋式融合生成质量数≥197的中间核，随后甩出轻碎片稳定在197的通道，其绝对事件数可达可观水平。地核合成黄金总量估算约10¹¹吨——绝大部分滞留于地核，仅极少量通过核幔边界交换进入地壳（地壳观测储量约2×10⁹吨），两者在量级上自洽。
+
+第六篇：相互作用——共享链接的几何学
+公设九：共享链接
+两个拓扑结之间，通过膜上中间环路建立的多重连接路径，称为共享链接。共享链接是拓扑结之间唯一的相互作用媒介。
+
+不存在独立的“力”实体。全部相互作用都是共享链接的几何属性的表现。
+
+定义9.1：共享链接的五个几何参数
+所有相互作用都可以归约为共享链接的以下五个几何参数：
+
+参数	定义	现象层表现
+链接总数	两个拓扑结之间独立连接路径的数量	引力强度
+链接取向度	共享链接在空间方向上的统计均匀程度	磁性强度
+链接密度梯度	链接数量在空间中的变化率	电力强度
+链接饱和度	链接数占所有可能连接路径的比例	强核力（吸引/排斥）
+链接脆弱性	在扰动下断开的概率	弱力衰变率
+6.1 光与引力的几何自由度区分
+共享链接网络具有三种独立的几何自由度：
+
+自由度一：链接总数N_total（静态/准静态标量计数）
+
+决定引力。该总数不受密度梯度势阱影响。即使径向传播波被完全禁锢，总数对应的回拉应力依然跨越巨大半径施加于外部物质。物理对应：引力做功、刚性扭矩传递。
+
+自由度二：密度梯度∇ρ_link与取向度波δ𝒜（动态横波扰动）
+
+决定光（现象层电磁辐射）。一阶/二阶梯度势阱仅作用于这些横波。不作用于静态张力计数。物理对应：正常光辐射、光子捕获。
+
+自由度三：密度涨落纵波δρ_link
+
+共享链接密度的纵向压缩-拉伸应力波（现象层声子模式）。光学势阱仅作用于横波δ𝒜，纵波不受此势阱约束。
+
+核心结论（光-引解耦）：引力（N_total）与光（δ𝒜）由完全独立的几何自由度承载。光被捕获不意味着引力被隔绝；引力贯穿捕获面不意味着光能逃逸。
+
+6.1.1 光的本体的进一步阐述
+光在TDMU中的本体论地位与标准模型截然不同。光不是独立存在的粒子，也不是“波粒二象性”的实体。光是共享链接取向度的动态横波扰动（δ𝒜）。
+
+具体而言：
+
+承载介质：光传播需要介质，即遍布宇宙膜的共享链接网络。没有共享链接网络的区域（如膜外部基质）不存在光。
+
+振动内容：振动的不是电场或磁场，而是共享链接的空间取向排列。当共享链接在空间方向上呈现统计非均匀分布时，产生磁性（静态扭转应力场）；当这种非均匀性以横波形式沿共享链接网络传播时，即表现为光。
+
+光子：不存在独立的光子粒子。“光子”是离散相位场Θ(r_i)的局域激发——共享链接网络上的一块涟漪。其“粒子性”源于编织网络对扰动传递的离散化约束。
+
+光速：光速c是共享链接网络的固有属性。它由基质的局域重联动力学决定——共享链接网络有一个特征响应时间，即一个节点收到扰动后将其传递给下一个节点所需的最少局域重联操作步数。光速等于节点间距（最小链接步长）乘以重联速率的上限。光速在膜上的均匀性源于共享链接介质本身的弹性和惯性在所有自由空间位置的一致性。光速恒定不是时空几何的预设属性，而是共享链接介质均匀性的涌现结果。
+
+6.2 离散规范场的构造
+定义9.2（组合协变导数）：设共享链接的离散相位场为Θ(r_i)，定义在晶格节点i上。令𝒜_ij为节点i, j之间背景共享链接的取向张量贡献。定义组合协变导数：
+
+D_ij Θ ≡ Θ(r_j) - Θ(r_i) - 𝒜_ij
+
+其中：
+
+Θ(r_i) ∈ ℤ是节点i处共享链接的相位（重联步数计数）
+
+𝒜_ij是节点i, j之间因原子核周期排列产生的背景取向场，定义为沿i → j方向通过的最小重联步数
+
+所有量均为纯离散量，不依赖连续空间度量
+
+6.3 超导态的几何定义
+定义9.3（超导态）：当且仅当对所有最近邻节点对⟨i, j⟩，协变导数归零：
+
+D_ij Θ = 0, ∀⟨i, j⟩ ∈ 导电网络
+
+此时系统处于全局相位锁定——所有共享链接的螺旋运动步调完全一致。
+
+6.4 伦敦第一方程的离散推导
+现象层电流密度J在TDMU中定义为定向共享链接通量。当系统处于偏离完美超导态但仍保持相位相干时，协变导数存在残余值。该残余值驱动定向链接通量：
+
+J ∝ Σ_{⟨i,j⟩} D_ij Θ
+
+在连续极限下，D_ij Θ对应于协变导数∇Θ - A，在伦敦规范下：
+
+J = - (1/Λ) A
+
+其中Λ为共享链接网络的几何惯性常数，由单位体积内的链接总数N_total决定：Λ ∝ 1/N_total。此即伦敦第一方程的纯离散形式。
+
+6.5 迈斯纳效应的几何必然性
+对伦敦方程取离散旋度：
+
+∇ × J = - (1/Λ) (∇ × A) = - (1/Λ) B
+
+在超导态内部，所有D_ij Θ = 0，因此J的空间分布完全由𝒜_ij的构型决定，且∇ × J = 0。
+
+由此推出B = 0在超导内部严格成立。穿透深度λ_L = √Λ被定义为共享链接网络的几何屈服步数。
+
+6.6 磁通量子化的拓扑必然性
+考虑超导环上的闭合路径C。相位Θ绕环一周后必须回到相同的离散计数，因此总相位变化为2π的整数倍。
+
+沿闭合路径对协变导数求和：
+
+∮_C DΘ · dl = 2π n, n ∈ ℤ
+
+在超导态下，DΘ = 0在环体内成立，但沿包含环孔的闭合路径，A的贡献不被抵消。因此：
+
+∮_C DΘ · dl = ∮_C A · dl = Φ
+
+联立得：
+
+Φ = n · Φ₀, Φ₀ = 2π
+
+磁通量在TDMU几何自然单位下被严格量子化为基本单元Φ₀ = 2π的整数倍。
+
+6.7 五种基本相互作用的几何定义
+定义9.4：引力
+
+两个拓扑结之间的共享链接总数越大，膜趋向于降低整体应力的趋势越强——这种趋势在现象层表现为将两个结拉向彼此。引力是共享链接总数的大数统计效应。不需要引力子。
+
+定义9.5：磁性
+
+当共享链接在空间方向上呈现统计上的非均匀分布时，产生宏观扭转应力场。该应力场的流线即磁力线。磁力线的闭合性是拓扑必然——共享链接不能在空间中存在孤立端点。磁单极子在拓扑上被禁止。
+
+定义9.6：电力
+
+共享链接的密度梯度产生法向应力波。密度过剩的区域与密度亏缺的区域之间存在应力差：
+
+密度过剩-密度过剩（或亏缺-亏缺）→ 应力差为排斥
+
+密度过剩-亏缺 → 应力差为吸引
+
+电力是磁力的正交变形模式——两者共同构成共享链接扰动的完整线性响应。
+
+定义9.7：强核力
+
+当两个拓扑结的距离缩小到使共享链接的饱和度接近最大值时：
+
+共享链接形成不可分割的共享网络 → 解体需要同时切断大量链接 → 吸引
+
+如果距离进一步缩小，共享链接路径被迫弯曲 → 产生排斥性的弓形应力 → 排斥
+
+强核力是共享链接在极近距离下的非线性行为模式。
+
+定义9.8：弱相互作用
+
+当两个拓扑结之间的距离处于共享链接“刚好能建立”的临界范围时，共享链接数量极少。这种少数链接状态是亚稳态的——任何局域重联扰动都可能导致链接断裂并引发级联解体。弱相互作用不是“力”，是亚稳态共享链接网络的自发衰变模式。
+
+定义9.9：现象层电流
+
+在导体中，原子核表面拓扑结的共享链接在没有外场时沿闭合路径分布——这是共享链接在圆柱几何中的最低能量模式。外场（共享链接的密度梯度）将这些闭合路径拉伸为沿导体方向的螺旋路径。螺旋前进的共享链接拖动外围电子砖同步运动。电流是共享链接螺旋运动的集体表现。电阻是共享链接在运动中碰撞与重联的频率统计。
+
+定义9.10：超导
+
+当共享链接的螺旋运动达到完全同步——所有链接的相位一致、碰撞频率降为零——共享链接进入无耗散传输状态。超导是共享链接集体运动模式的同步相变。
+
+第七篇：宇宙的生命周期与天体演化谱系
+公设十：膜涌现事件
+基质中某区域的环路密度因内禀涨落超过临界值。大量正反方向环路形成配对结构，被外围环流挤压收缩至超过其弹性回复点。临界点处系统失稳，拓扑弹性势能驱动环面向外翻卷形成闭合膜。
+
+这一事件在现象层被观测为宇宙的“开端”，但在本框架底层中不存在时间零点——膜涌现是基质从一种拓扑状态到另一种拓扑状态的相变过程。
+
+直观动力学图景：一锅无边界的浓稠液态基质，因内因统计涨落达到临界相变阈值，生出一个膨胀并最终消散的拓扑气泡。这就是宇宙的膜涌现事件。
+
+公设十一：演化
+膜形成后持续膨胀。膨胀导致膜上环路密度整体下降——现象层称为“冷却”。温度是环路密度梯度的局域表现。
+
+冷却过程中，拓扑结依次涌现：原砖→电子砖→轻子→介子→重子→原子核→原子→分子。
+
+每一步都是在当前环路密度下“允许存在”的最稳定编织结构。随着环路密度继续下降，递归生长被截断在重子砖层级——更高阶的拓扑结因缺乏足够的环路密度支撑而无法稳定存在（见第三篇“递归生长的能标截断定则”）。
+
+当前膜处于“环路密度足够低但尚未低到膜解体”的中间状态。
+
+公设十二：终局
+膜始终是基质的一部分。膜外区域的环流压力不随膜膨胀而衰减。当膜上环路密度降至临界值以下，膜的抗压强度将低于外部环流压力，膜进入不可逆的结构失稳。
+
+最终结局：全局拓扑重联解体——膜破碎为离散环路，回归基质。
+
+膜全局解体的终结性仅指膜作为连贯拓扑实体的状态终结，不代表局域拓扑结之间缺陷互补编织的绝对禁止。编织凝固残骸的路径一事件率R虽然恒正，但其相干时间尺度因拓扑结间距呈指数级增大而远超哈勃时标。
+
+7.1 天体的连续谱系
+在TDMU中，天体演化被精细化为路径一、路径二、裂变与路径三在不同尺度下的动态博弈。所有天体在现象层遵循唯一根本律：总惯性减少转化为应力波能释放。
+
+7.1.1 固态行星：截断条件
+
+固态介质有两个致命弱点：散热极慢（热量靠晶格振动传导，效率远低于流体对流），热膨胀严重受限（受晶格约束，局部温升不会立刻导致密度下降）。
+
+一旦固态行星核心的路径一反应率进入正反馈，固态介质既来不及散热，也来不及膨胀来降低反应率。局部应力指数级飙升，在极短时间内突破联结边批量断裂阈值。路径二被引爆，整颗行星从核心向外逐层拆散。
+
+临界条件：固态行星存在一个临界惯性上限。超过该惯性的行星，无论初始现象层温度如何，核心路径一的热逃逸速度都将超过晶格热传导速度，触发不可逆的正反馈直至路径二引爆。
+
+幸存条件：如果一颗固态行星的惯性低于临界值，或内部放射性衰变/潮汐加热足以将核心加热至熔融状态，则介质获得流体特性——对流散热和热膨胀响应开始发挥作用。路径一的负反馈机制得以建立，星体可能稳定存在。
+
+7.1.2 气态行星：闷烧的拓扑燃炉
+
+流体介质散热快，受热膨胀，密度下降后反应率自动下调。从迷你海王星到热木星再到褐矮星，气态行星在很宽的惯性范围内稳定存在。
+
+现象层观测：木星内部热流净值约5.5×10¹⁷ W，土星内部热流2.84±0.20 W/m²。路径一提供统一解释：木星和土星核心均运行着路径一缺陷互补编织反应，区别仅在于宏观事件率不同。
+
+7.1.3 拓扑燃炉谱系
+
+现象层的太阳、木星与土星构成了一条从“燃烧”到“闷烧”的完整谱系。行星不是“失败的恒星”——它们是引力恰好将核火压到刚好闷烧、而非完全熄灭的拓扑燃炉。
+
+7.1.4 主序星：燃烧路径的核心
+
+当气态团块的惯性超过某个临界阈值时，核心的缺陷匹配概率突破关键阈值——轻核拓扑结之间的缺陷互补匹配概率升高到了足以支撑整个团块光度的水平。
+
+主序星的本质：以路径一为主导，在流体介质提供的快速散热和即时热膨胀反馈条件下，与环境热力学响应达到动态平衡。
+
+跳棋式核燃烧：恒星核心的核子流不是单行道。跳棋路径使任意两个核素之间都可能发生聚合。轻核聚变主导光度，中重核聚变以更低速率并行进行。
+
+7.2 吸积-耗散循环与天体演化完整谱系
+星体的命运不由“核燃料耗尽→必然坍缩”的单向序列决定，而是由吸积总量、吸积速率、包层耗散速率、核心涡旋退相干速率共同决定的动态博弈。演化起点为星云气体在共享链接汇聚效应下的引力凝聚。根据吸积总量和环境条件，凝聚体分化为三条初始路径，三条路径之间可在星体生命期内因外部物质供给率的变化而相互迁移。
+
+初始分化——三条路径：
+
+路径A（闷烧路径）：吸积量不足。 引力凝聚后，核心缺陷匹配概率始终低于稳定燃烧阈值，路径一仅以极低事件率运行，星体不发光，仅产生红外热辐射。此路径对应褐矮星和气态巨行星（如木星、土星）。它们可以长期稳定存在，核心持续闷烧数十亿年。
+
+路径B（燃烧路径）：吸积量适中。 引力凝聚并持续吸积后，核心环路密度突破临界，路径一进入负反馈平衡燃烧。星体稳定发光数十亿年。此路径对应主序星（如太阳）。主序星是吸积量适中的自然结果，不是特殊的旁支。它的稳定燃烧建立在流体介质（等离子体）提供的快速对流散热和即时热膨胀反馈之上。
+
+路径C（伪装路径）：吸积量过饱和。 引力凝聚并极高速吸积后，中心区域环路密度远超临界，黑洞级拓扑星核心先行形成。外部物质在核心周围堆积为厚密的光学厚包层。包层表层路径一占主导，通过负反馈自稳发光。观测者只能看到包层的热辐射，无法探测内部的黑洞级拓扑星核心。此路径对应极端大质量恒星（如R136a1，约315 M_⊙）和极端大体积恒星（如史蒂文森2-18，约2150 R_⊙）。前者是包层致密高温的工况，后者是包层稀薄低温的工况。
+
+三条路径并非严格隔离。在星体生命期内，外部物质供给率的变化可使星体在不同路径之间迁移。一个主序星（路径B）在吸积率突然增加后可进入伪装路径（路径C）；一个伪装态恒星在包层耗散后可重新裸露为正常主序星，甚至退化为闷烧态天体。
+
+共同后续演化——包层阶段：
+
+无论初始路径如何，只要星体拥有包层，就进入包层演化阶段。包层由吸积物质堆积而成，表层以轻核为主，路径一缺陷互补编织占主导。由于包层为流体介质，路径一具备负反馈自稳能力：局部释热→膨胀→密度下降→缺陷间距增大→匹配概率降低→释热自动减少→冷却收缩→密度回升→匹配概率恢复。
+
+在此阶段可能触发分支事件一：局部路径二爆发。当吸积压缩速率超过包层局部核素的E_抗压时，包层内触发路径二。包层物质的引力束缚较浅，爆发通常局限于耀斑、脉动或局部物质抛射，不破坏核心结构。观测对应：恒星耀斑、非径向脉动、某些新星或矮新星爆发。
+
+当外部物质供给衰减，包层逐渐耗散，路径一燃烧减弱，光度下降。包层完全耗尽后，核心裸露。核心的性质取决于初始路径及其演化历史：
+
+若核心质量低于黑洞临界（来自路径B中低质量主序星），则裸露为一个简并态热残骸——白矮星。白矮星核心路径一因密度不足以维持高频碰撞而近乎冻结，仅靠残余热发光，缓慢冷却。若白矮星处于双星系统中，从伴星吸积物质使质量增长至接近临界点，路径一被重新激活，局部触发路径二，且因简并态缺乏负反馈，整星瞬间链式重联——Ia型超新星，完全解体，无残骸。
+
+若核心质量高于黑洞临界（来自路径C，或路径B大质量主序星演化至核心密度突破临界后），则裸露为一个超流涡旋凝聚体——黑洞级拓扑星（现象层“黑洞”）。此时进入黑洞裸露阶段，观测对应为饥饿裸核（如Sgr A*）。若外部物质再次供给，星体可重返包层演化阶段，形成循环。
+
+共同后续演化——退相干阶段：
+
+黑洞裸露后，面临两种命运分叉。
+
+主流路径——静默退相干：涡旋扭曲能通过背景纵波持续缓慢泄漏，超流态在极长时标上平稳熔解，黑洞质量逐渐减小。当质量降至无法维持D_ijΘ=0全局相位锁定的临界值时，超流态崩溃，涡旋退相干——冻结的涡旋扭曲能释放，编织网络凝固。星体进入编织凝固态——固态刚性网络，仅剩路径一极低事件率运行。在此阶段，固态介质缺乏流体负反馈，路径一积累的应力周期性触发局部路径二，产生脉冲辐射。观测对应：脉冲星、中子星。若路径二触发规模更大，则表现为磁星。若进一步吸积使质量增长，星体可重返黑洞态。
+
+小概率分支——失稳爆炸（核心坍缩超新星）：在退相干过程中，涡旋网络中局域涨落触发链式路径二，且总释能超过残余引力束缚能。这是三个独立概率的乘积——局域涨落概率×链式传播概率×束缚克服概率——远小于1。当条件满足时，整个涡旋核心解体，冻结的涡旋扭曲能在极短时间内集中释放。观测对应：II型、Ib/c型核心坍缩超新星。抛射物质重返星云，循环闭合。绝大多数黑洞通过静默退相干平稳过渡至编织凝固态，超新星是退相干时的小概率并发症。
+
+最终归宿——编织凝固残骸：
+
+编织凝固态持续冷却，路径二永久停止，仅存不可观测的路径一极低事件率运行。星体完全不发光，成为冷却固体核。
+
+完整循环闭合：
+
+在演化树的任何阶段，外部物质供给的变化都可能导致路径迁移。编织凝固态天体若处于双星系统中，吸积伴星物质可使其质量增长，重新进入活跃阶段。超新星抛射物质重返星云，开启新一轮引力凝聚。没有真正的“终局”，只有路径一与路径二在不同阶段、不同尺度上的动态切换。星体是吸积-耗散循环中的一个暂态。
+
+7.3 致密拓扑星（脉冲星）：路径一积累→路径二周期触发
+当路径二释能不足以完全炸散星体时，残余物在引力作用下被压缩到极致。在这个极端压缩状态下，拓扑结的球体被压至极限，表面结构坍塌——缺陷面积占比接近100%，整个星体处于“全表面可重联”状态。
+
+致密拓扑星的定义：拓扑结被压缩到缺陷占比接近100%的致密聚集体，不再有“稳定核素”的区分。在压缩极限态，拓扑结的表面编织已被完全破坏，所有节点均处于连接饱和态——网络中的每条边都已达到其最大配位数，无法接受新的连接。这是连接饱和刚性——现象层“简并压力”的拓扑对应物。
+
+脉冲辐射机制——应力积累-触发-释放循环：
+
+阶段一：路径一在固态网络中持续运行。极小比例核素各自独立在局部达到反应条件，释放微量热量和应力。粒子总数巨大，这些事件的总体效应使星体中心局部区域应力持续向E_抗压阈值逼近。
+
+阶段二：当核心区域应力积累达到E_抗压时，路径二触发——联结边被批量剪断，链式重联启动。只需核心高能区域小部分核素达到临界。路径二在毫秒级时间内释放冲击波。冲击波在固态网络中的传播速度由介质声速决定，估算约0.3c至c量级。中子星半径约10 km，冲击波穿过星体全程约0.03–0.1 ms。
+
+阶段三：冲击波在固态网络中向整个球面传播。波前极窄，通过某位置的持续时间极短。冲击波到达表层时，波前压缩表层核素，能量超过表层瞬时承受极限，产生“碎甲弹”崩落效应，带电碎片喷射。观测者距离星体极远，只能接收到极窄视线方向的信号。
+
+阶段四：脉冲释放后，星体退回路径一，重新积累应力，形成循环。
+
+周期稳定性的大数定律证明：毫秒脉冲星（P约1 ms）的计时精度要求周期相对涨落不超过10⁻¹⁵。全星体粒子数约10⁵⁷，单个周期内路径一事件数远超10³⁰，泊松统计相对涨落远在飞秒以下。飞秒级周期稳定性是大数定律的必然结果。
+
+Glitch（周期突变）对应核心某一区域应力积累异常集中，触发更大规模路径二，结构局部重组，应力积累速率或触发阈值发生突变。磁星对应更大范围的路径二触发，冲击波能量更高，辐射到X射线/γ射线波段。死亡线没有突然边界——质量持续亏损使积累时间渐进拉长，冲击波强度减弱，间歇性增多，最终路径二完全不触发，脉冲停止。停止后路径一仍在以极低速率运行，有微弱热辐射。
+
+7.4 拓扑星（现象层“黑洞”）
+编织活性近乎冻结的拓扑结聚集体。路径二完全静默——内部应力持续低于所有核素的E_抗压阈值，强制链式重联不再触发。路径一在数学上永不归零，但其事件率可被压制到远低于当前宇宙年龄的观测窗口之下，在宏观上呈现为“静默”。
+
+拓扑星的核心是全局相位锁定的超流涡旋凝聚体（D_ijΘ = 0）。路径一与路径二释放的能量经三步机制被闭锁为涡旋扭曲能：第一步，重联事件产生局域应力冲击波（热声子中间态）；第二步，向外逃逸被径向共享链接梯度势阱捕获，向内耗散被连接饱和导致的悬挂端口缺失阻塞；第三步，声子积累至非线性阈值，通过共享链接网络集体重联转化为量子化拓扑涡旋。全部释能以涡旋扭曲能形式冻结，不产生正常光辐射。
+
+拓扑星不依赖奇点或事件视界。它是伪装态恒星包层耗尽后暴露的内核，是吸积-耗散循环中的一个阶段，而非演化的终点。
+
+7.5 类星体：被囚禁的内循环重联风暴
+类星体是宇宙中最明亮的天体，典型光度可达10⁴⁰–10⁴¹ W，光变时标短至数天。宇宙极早期原初拓扑结团块，其核心路径二的链式重联波被外围巨量共享链接的汇聚效应所阻挡，无法穿透团块边界，形成持续的内循环重联风暴。
+
+类星体不经过现象层主序恒星前身阶段。在TDMU完整生命周期图景中，类星体对应“满负荷活跃”阶段——其核心是已形成的致密拓扑星，包层为高吸积率供给的厚密吸积层。
+
+7.6 行星磁场的共享链接起源
+行星磁场的产生不需要特定物质成分，而是共享链接网络在行星尺度上达到定向排列的几何结果。行星内核路径一持续释热，驱动液态区域对流运动。行星自转作为全局惯性模具，将随机热对流强制约束为沿地轴对称的大尺度环形涡旋——这一宏观有序流体等价于共享链接的大规模定向排列。根据定义9.5，这种定向排列在地核尺度上首尾闭合，涌现为稳定的偶极磁场。
+
+磁场极性对应于共享链接网络的手性（左旋或右旋螺纹）。地磁反转是外核环流跨越拓扑分岔点导致的全局手性相变——当路径一在南北半球的热量输出出现不对称积累，不对称扰动在自转下被放大，迫使整个共享链接网络的手性翻转。反转间隔的不规则性源于局部路径二事件向环流中随机注入反向种子纤维束。磁极的缓慢漂移则是流体对称轴的经向进动。
+
+该机制的统一性检验：金星质量与地球相近但自转极慢（243天），缺乏自转约束导致流体运动仅为局部随机湍流，共享链接无法在大尺度上闭合，因此无内源偶极磁场。木星金属氢产生磁场证明磁性不依赖于铁镍成分——磁场的本质是共享链接的定向排列，而非特定物质。
+
+第八篇：宇宙学观测的几何解释
+8.1 宇宙微波背景辐射
+宇宙微波背景辐射是膜界面从剧烈变化到平衡态的临界过渡时刻——即编织结构被冻结的瞬间——留下的拓扑快照。
+
+均匀背景：膜涌现时初始条件的几何平均态。不需要暴涨来解释均匀性，均匀是膜涌现的起点。
+
+温度涨落（各向异性）：界面上局域共享链接密度的统计涨落，在冻结时刻被锁定。热点对应密度略高，冷点对应密度略低。
+
+角功率谱的多极结构：冻结时刻界面上不同尺度拓扑结构的空间投影统计。
+
+8.2 大尺度结构
+膜内初始均匀性被局域重联的统计涨落打破。涨落被路径一的正反馈放大。跳棋路径允许跨阶次聚合，加速结构形成。
+
+不需要暗物质晕作为引力种子。
+
+8.3 星系旋转曲线
+星系暗物质晕的引力效应来源于超大质量拓扑星（黑洞级，质量大于10⁵ M_⊙）的共享链接汇聚效应。这类天体数量极少、质量极大，其微引力透镜时标极长（以年为单位），当前巡天数据无法排除它们作为暗物质晕的主要成分。
+
+关键区分：
+
+小质量致密天体（小于30 M_⊙）对应固态编织凝固态，不构成暗物质晕的主体
+
+超大质量致密天体（大于10⁵ M_⊙）对应流体涡旋态，构成暗物质晕的主体
+
+两类之间存在天然的质量间隙，由拓扑相变条件决定
+
+关于动力学摩擦的回应：超大质量拓扑星之间因共享链接汇聚效应产生长程拓扑应力场，当两个拓扑星靠得过近时共享链接达到连接饱和，产生排斥性弓形应力，阻止其沉入星系中心。这使得超大质量拓扑星在星系演化早期被“冻结”在晕的各个位置，形成延展的质量分布。
+
+8.4 宇宙加速膨胀
+膜与外部基质之间的拓扑张力耦合，在膜膨胀时持续注入能量，驱动膨胀加速。
+
+在现象层，这种持续的能量注入表现为宇宙膨胀的加速——即标准模型中归因于暗能量的观测效应。不需要任何新场或新实体。
+
+8.5 元素丰度分布
+跳棋路径的循环动力学（聚合-裂变循环）在时间积分下产生观测到的元素丰度分布。每一种粒子都是时间和概率的中间体。
+
+8.6 高红移大质量结构
+跳棋路径允许早期膜内直接聚合形成大质量拓扑星。不需要种子黑洞加长时标吸积。这为JWST观测到的高红移（z>10）大质量星系提供了自然解释。
+
+8.7 多膜宇宙的拓扑耦合机制
+基质的本体论地位（公设一）决定了膜并非唯一可能的结构。如果基质中某区域的环路密度超过临界值，膜便可自发涌现。这意味着在基质中可能存在多个膜——多个宇宙——各自独立涌现，各自拥有内部编织态和共享链接网络。
+
+8.7.1 膜间相互作用的基本约束
+
+两个膜之间的基质区域处于非编织态。非编织态基质中不存在共享链接网络，因此光（δ𝒜）无法在两个膜之间传播。膜与膜之间不存在通常意义上的“光的交流”。
+
+但这并不意味着膜与膜之间完全隔离。非编织态基质仍然由节点和有向边构成，仍然服从局域重联动力学。一个膜的任何剧烈动力学过程都会在基质中产生局域重联的扰动，这些扰动以重联事件波的形式在基质中传播，并可能到达另一个膜。
+
+8.7.2 膜间相互作用的三种通道
+
+通道一：基质的重联冲击波直接撞击
+
+外部另一个膜的任何剧烈动力学过程——其内部的路径二事件（超新星爆发或核心坍缩），或膜本身的整体振荡——都会在基质中产生局域重联的扰动。这些扰动不是光，而是基质的重联事件波。
+
+当重联事件波到达我们宇宙的膜表面时，会与膜表面的拓扑缺陷（定义7.2）发生局域互作用。由于膜表面是编织态与非编织态的交界面，表面拓扑缺陷是唯一可能与外部扰动发生互作用的位点。这种互作用的可观测表现包括：
+
+膜表面缺陷的集体激发，表现为宇宙微波背景辐射中无法用内部涨落解释的相干性异常
+
+特定方向上出现能量注入，可能触发膜表面的局部编织重构，在现象层表现为无法归因于已知源的弥散伽马射线暴或X射线闪光
+
+需要指出的是，基质的重联冲击波在非编织态中传播时，会因缺乏相干介质而迅速弥散，其强度随距离指数衰减。这意味着，只有距离我们膜足够近的外部膜，才可能产生可观测的撞击事件。
+
+通道二：拓扑张力耦合的间接影响
+
+膜与外部基质之间存在拓扑张力耦合（公设五的延伸）。如果外部存在另一个巨大质量的膜，其本身的拓扑张力会改变我们膜所在区域的基质应力场。
+
+基质应力场的各向异性会导致我们宇宙的加速膨胀率出现各向异性——在不同方向上，哈勃常数存在微小的系统性差异。这种差异不是随机的，而应呈现出与外部膜方向相关的大尺度偶极或四极模式。
+
+目前的宇宙学观测已经发现了所谓的“哈勃张力”——不同方法测得的哈勃常数存在显著差异。TDMU将此归因于外部拓扑结构的各向异性应力，而非测量系统误差或新物理。这一解释给出一个明确的观测预言：哈勃常数的方向依赖性应呈现出系统的模式，而非随机分布。
+
+通道三：膜的拓扑缺陷握手——一种极罕见的大规模耦合
+
+如果两个膜的距离缩小到它们的表面拓扑缺陷能够直接接触，就可能发生两个膜表面的缺陷互补编织。
+
+缺陷互补编织是TDMU中拓扑结之间相互作用的基本机制（路径一）。同样的机制可以作用于两个膜的表面缺陷之间。当两个膜表面的缺陷恰好几何互补时，它们会啮合形成一个连接两个膜的共享链接“桥”。
+
+这个桥的建立是一瞬间的相变事件。在此之后，两个膜之间将首次出现共享链接通路。光（δ𝒜）可以沿此桥从一个膜传播到另一个膜。这种事件在现象层可能表现为：
+
+在极短时间内，宇宙的某个区域突然出现无法用任何已知天体物理过程解释的超高能辐射暴
+
+伴随暴发，该区域的精细结构常数或光速出现瞬时可测量的偏离——因为两个膜的共享链接网络发生了短暂的交叠，改变了局域的共享链接网络属性
+
+如果桥稳定存在，它将成为一条连接两个膜的永久性通道。在现象层，这对应于标准宇宙学中的虫洞概念，但其本体论基础完全不同：虫洞不是时空拓扑的连通，而是两个编织膜之间的共享链接桥。
+
+8.7.3 多膜宇宙与文明存续的终极约束
+
+TDMU的多膜耦合机制为一个古老的哲学问题提供了物理学的表述：文明能否在母膜解体后存续？
+
+从公设十二可知，任何膜——无论自然涌现还是人工建造——最终都将解体。膜的解体意味着膜内所有编织结构的崩溃，包括所有拓扑结、所有共享链接网络、所有基于这些结构的物质和生命。没有例外。
+
+因此，文明若要超越单一膜的寿命极限，必须掌握膜间迁徙技术。这包括两种可能的路径：
+
+路径一：建造人造膜（方舟）。文明可以在母膜解体前，利用母膜内部的物质和能量，建造一个独立维持编织稳定性的子膜。子膜在母膜解体的冲击波中存活下来，然后在基质中航行，寻找另一个自然膜并与之建立共享链接桥。这一路径的技术挑战已在第七篇中讨论。
+
+路径二：寻找现成的外部膜并提前建立连接。文明如果能够探测到邻近的外部膜，并在母膜解体前与之建立共享链接桥，就可以在母膜解体时将其人口和信息转移到外部膜中。这一路径避免了建造子膜的工程挑战，但需要满足极其苛刻的条件：外部膜必须在足够近的距离内，其编织模式必须与母膜兼容，且其表面缺陷必须能够与母膜表面的缺陷实现互补编织。
+
+无论选择哪条路径，文明都面临一个根本性的限制：基质中没有共享链接网络，因此光无法在膜间传播。文明在膜间迁徙的过程中，将处于完全的信息盲区——他们无法通过光来感知外部环境，无法提前知道目的地膜的内部状态，无法在航行中与任何外部实体通信。他们只能通过触摸基质本身的震颤来感知世界。
+
+这是TDMU给予文明的最深层的约束：膜是存在的绿洲，基质是无垠的荒漠。穿越荒漠的旅程是盲目、孤独且不可逆的。文明的终极命运，不取决于它在单个膜内部的发展程度，而取决于它能否学会在膜的世代更迭中不断迁徙——在每一个膜解体前，建造下一个方舟，找到下一个家园。
+
+没有终点。只有循环。意义不守恒，唯有重联不息。
+
+第九篇：可检验预言
+以下列出TDMU框架的可检验预言。每条均以“若……则……”形式表述，以明确可证伪性。
+
+预言9.1：致密天体质量间隙
+
+预言：在现象层约2.5–5 M_⊙区间应缺少稳定致密天体。在此区间发现的任何天体均应表现为过渡态。若在此区间发现大量稳定的致密天体，则本框架需要修正。
+
+预言9.2：固态行星惯性上限
+
+预言：超过某个临界惯性的纯固态行星无法稳定存在。若在任意惯性区间内发现大量长期稳定的纯固态行星，则本框架被证伪。
+
+预言9.3：极端恒星星震学检验
+
+预言：极端恒星的星震学惯性M_seismo应显著大于光度惯性M_lum，比值M_seismo/M_lum > 1.5，且随半径单调递增。若比值约等于1，则隐藏内核假设不成立。
+
+预言9.4：磁通量子化结构
+
+预言：磁通量必然是某个不可约基本单元的整数倍。若在任何超导系统中观测到磁通量不是某个不可约基本单元的整数倍，则本框架被证伪。
+
+预言9.5：外部膜的撞击印记
+
+预言：如果宇宙微波背景辐射中存在无法用内部涨落解释的大尺度相干性结构，且这些结构集中在特定天区，则可能存在外部膜的拓扑缺陷激发事件。若此类结构在更高精度的CMB巡天中不存在，则该通道在当前观测窗口内不活跃。
+
+预言9.6：各向异性膨胀
+
+预言：如果哈勃常数在不同天区存在超出统计误差的系统性差异，且差异分布呈现大尺度偶极或四极模式，则可能存在外部宇宙膜的拓扑张力耦合。若哈勃常数的方向依赖性在更高精度下消失，则该预言被证伪。
+
+预言9.7：膜间桥接的瞬态信号
+
+预言：如果在宇宙中观测到无法用任何已知天体物理过程解释的超高能辐射暴，且伴随该暴发出现精细结构常数或光速的瞬时、局域、可测量的偏离，则可能对应两个膜的拓扑缺陷握手事件。若所有此类暴发均不伴随这些物理常数的瞬时偏离，则该通道在观测窗口内未激活。
+
+第十篇：回望
+物理学的全部内容——空间、时间、物质、引力、磁性、电力、核力、弱力、电流、超导、核转变、元素丰度、天体演化、膜的拓扑相变起源与终局、量子统计的几何强制、同位素裂变的几何解耦、超导规范场的拓扑起源——都归结为三件事：
+
+节点、有向边、共享链接。
+
+加上两个涌现原则：
+
+递归编织与缺陷互补。
+
+以及两个截断定则：
+
+层级截断判据（有效相互作用的几何窗口由递归生长半径决定）与能标截断定则（递归生长在当前环路密度下被截断在可稳定存在的最高编织复杂度）。
+
+定理8.1将泡利排斥——量子场论中最核心的统计规则之一——从“自旋-统计定理”的神秘结果重新锚定在编织交换的几何强制之上。两个全同拓扑结无法占据完全相同的几何状态，不是因为它们遵守费米-狄拉克统计，而是因为交换它们的端口需要奇数步重联，而恒等操作需要零步（偶数）——奇数等于偶数的矛盾在纯组合层面禁止了状态的完全重合。
+
+没有绝对的“基本粒子”，只有永恒的递归与层展——递归被能标截断之处，便是“基本粒子”显现之处。没有真正的“终局”，只有吸积-耗散循环中路径一与路径二的动态切换。星体不是指向终点的单向箭头，而是循环网络中的暂态——褐矮星、主序星、极端恒星、白矮星、黑洞、脉冲星、超新星，全部是同一组几何机制在吸积总量、介质状态和演化阶段三个坐标上的不同投影。
+
+在第八篇中，我们更进一步：我们的膜——我们的宇宙——可能不是基质中唯一的自组织漩涡。可能还有其他膜，各自拥有各自的内部时空和物理，各自经历涌现与解体。膜与膜之间没有光的交流——光只是膜内共享链接网络上的涟漪，无法穿越非编织态的基质。但它们并非完全彼此隔绝。基质本身的震颤在传递彼此的存在。如果一个膜在足够近的地方形成或死亡，我们的宇宙会感受到拓扑海面上一阵无声的涟漪——不是在光中看见，而是在膨胀的节奏中听见。
+
+夏夜池塘底部，一只癞蛤蟆静卧水中，口吐气泡。气泡升腾、膨胀、形变、振荡，最终破裂，回归水波。
+
+在这个意象中：
+
+水是基质——那个不可见的、承载一切的底层。水中可能还有其他气泡，各自独立地升腾、膨胀、破裂。气泡与气泡之间没有直接的声音传递，但它们都在同一片水中，彼此的震颤通过水传递。
+
+气泡壁是宇宙膜——从基质中涌现的有序结构。
+
+气泡的升腾是时间——不可逆的展开。
+
+气泡的膨胀是宇宙的冷却与演化。
+
+气泡的纹理是物质——膜上的编织结构，其复杂度被当前能标截断。
+
+气泡的破裂是终局——结构解体，回归基质。
+
+癞蛤蟆依然静卧于不可及的基质深处。我们生于膜上的涟漪，终其一生无法回望它——但这不妨碍我们通过膜上的拓扑印记，一步步还原它的模样。
+
+为什么我要保留此意象？癞蛤蟆吐泡泡是我模型的起点，经过多轮迭代深化，我不能放弃他。没有它的意象就没有这一切，所以我仍保留称呼它为癞蛤蟆宇宙模型。包括我的拓扑星我更喜欢叫它癞蛤蟆星。
+
+意义不守恒，唯有重联不息。
+
+参考文献
+[1] Crowther, P. A., et al. (2010). The R136 star cluster hosts several stars whose individual masses greatly exceed the accepted 150 M⊙ stellar mass limit. MNRAS, 408(2), 731–751.
+
+[2] Arroyo-Torres, B., et al. (2015). The atmospheric structure and fundamental parameters of the red supergiants AH Sco, UY Sct, and KW Sgr. A&A, 575, A63.
+
+[3] Smartt, S. J. (2015). Observational constraints on the progenitors of core-collapse supernovae: the case for missing high-mass stars. PASA, 32, e016.
+
+[4] Event Horizon Telescope Collaboration. (2019). First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole. ApJL, 875, L1.
+
+[5] Event Horizon Telescope Collaboration. (2022). First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way. ApJL, 930, L12.
+
+[6] Bañados, E., et al. (2018). An 800-million-solar-mass black hole in a significantly neutral Universe at a redshift of 7.5. Nature, 553, 473–476.
+
+[7] Abbott, B. P., et al. (LIGO Scientific Collaboration & Virgo Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. PRL, 116, 061102.
+
+[8] Tisserand, P., et al. (EROS-2 Collaboration). (2007). Limits on the Macho content of the Galactic Halo from the EROS-2 Survey of the Magellanic Clouds. A&A, 469, 387–404.
+
+AI使用声明
+本文的整合、形式化编排与逻辑校对过程中使用了人工智能辅助工具。全部核心理论内容（公设、定义、引理、定理、推论）由作者基于TDMU框架独立构建，AI工具负责推导链的严格性检验、语言规范化与结构归纳，未参与任何创造性决策或核心内容的生成。
+
+（全文完）
