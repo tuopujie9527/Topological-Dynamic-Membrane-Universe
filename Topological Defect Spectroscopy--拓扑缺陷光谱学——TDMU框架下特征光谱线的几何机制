@@ -1,32 +1,26 @@
 Topological Defect Spectroscopy
-— The Geometric Mechanism of Characteristic Spectral Lines within the TDMU Framework
-TDMU Spectroscopy Supplement v1.1
+— Geometric Mechanism of Characteristic Spectral Lines within the TDMU Framework
+TDMU Spectroscopy Supplement v1.2
 
-MJP
+Author: mjp
 
 Abstract
-
-Within the axiomatic system of the Topological Dynamical Membrane Universe (TDMU v2.341), this paper proposes a purely geometric interpretation of characteristic spectra. The core thesis: the atomic nucleus is a composite body formed by the recursive weaving of topological knots. The weaving scars (healed defect-complementarity interfaces) and topological defects (unclosed dangling ports) left behind during this weaving process jointly constitute the geometric origin of spectral activity. Light—the transverse wave perturbation of shared link orientation, δ𝒜—undergoes scattering, capture, and resonant release when traversing these geometrically inhomogeneous regions. The spectral line frequency is jointly determined by the depth of the scar/defect within the recursive weave and the degree of stability of the shared link network at that location; the line width is determined by the smoothness of the scar’s healed surface; the total number of spectral lines is determined by the total number of weaving scars plus topological defects within the depth reachable by the light’s energy. This paper applies this unified mechanism to systems such as hydrogen, iron, diamond, and mercury, and discusses the depth scale in high-energy collisions. All concepts are expressed using native TDMU terminology, without recourse to standard-model concepts such as “energy levels,” “transitions,” or “electron orbits.”
+Within the axiomatic system of the Topological Dynamical Membrane Universe (TDMU v2.342), this paper proposes a purely geometric interpretation of characteristic spectra. Core thesis: the atomic nucleus is not an assembly of particles, but a continuous topological knot woven layer by layer from primitive bricks. The weaving scars (healed defect-complementarity interfaces) and topological defects (unclosed dangling ports) left behind during this weaving process jointly constitute the geometric origin of spectral activity. Light—the transverse wave perturbation of shared link orientation, δ𝒜—undergoes scattering, capture, and resonant release when traversing these geometrically inhomogeneous regions. The spectral line frequency is jointly determined by the depth of the scar within the weave body and the stress state at that location; the line width is determined by the smoothness of the scar's healed surface; the total number of spectral lines is jointly determined by the total number of scars and defects within the depth reachable by the light's energy. This paper applies this unified mechanism to systems such as hydrogen, iron, diamond, and mercury, and discusses the geometric interpretation of chemical shifts and molecular spectra. All concepts are expressed using native TDMU terminology, without recourse to standard-model concepts such as "energy levels," "transitions," or "electron orbits."
 
 1. The Geometric Origin of Spectral Activity
+1.1 The Weaving Structure of the Atomic Nucleus
+In TDMU, the atomic nucleus is not an assembly of protons and neutrons, but a continuous topological knot woven layer by layer from primitive bricks. There are no neutrons, no protons, no electrons—these are merely convenient labels for stable topological knots at different orders along the recursive growth path. Each step of recursive weaving is carried out upon an already existing structure. There are no interfaces between independent substructures, only the scars left behind by the weaving. The primitive brick is the starting point of weaving. Its structure was fixed at the moment of membrane emergence. Subsequent weaving does not alter the primitive brick itself, but the layer-by-layer wrapping continuously modifies the stress state of the environment surrounding the primitive brick.
 
-1.1 Two Types of Geometrically Inhomogeneous Regions
-
-According to TDMU Postulate 8 (Recursive Growth), the atomic nucleus is a giant stable topological knot formed by the recursive, stepwise weaving of sub-topological knots such as primitive bricks and electron bricks via defect-complementarity weaving. During this weaving process, two types of geometrically inhomogeneous regions emerge:
+1.2 Two Types of Geometrically Inhomogeneous Regions
+During this weaving process, two types of geometrically inhomogeneous regions emerge.
 
 Definition 1.1: Weaving Scar
-A region of the shared link network, formed on the meshing interface when sub-topological knots combine through defect-complementarity weaving, that is healed but geometrically non-ideal.
-Characteristics of a weaving scar:
 
-The link saturation has reached a local maximum (the weave is closed; it is no longer a “hole”).
-
-Smoothness is inferior to that of an ideal weave surface—the shared link orientation tensor 𝒜_ij on the sutured surface deviates from a uniform arrangement, and residual topological stress exists (suture line stress concentration factor ℐ > 0).
-
-The local stiffness κ_scar differs from that of the surrounding ideal weave region κ_bulk, constituting an impedance mismatch interface.
-A weaving scar is a structural imprint of the recursive weaving history inside the topological knot.
+After each step of defect-complementarity weaving is completed, a healed but geometrically non-ideal region of the shared link network forms on the meshing interface. This is called a weaving scar. Its characteristics: the link saturation has reached a local maximum (the weave is closed; it is no longer a "hole"); the smoothness is inferior to that of an ideal weave surface—the shared link orientation tensor on the sutured surface deviates from a uniform arrangement, and residual topological stress exists; the local stiffness differs from that of the surrounding ideal weave region, constituting an impedance mismatch interface. A weaving scar is a structural imprint of the recursive weaving history inside the topological knot.
 
 Definition 1.2: Topological Defect
-An unsaturated dangling port left on the surface of a topological knot where the weave cannot achieve absolutely perfect closure (TDMU Definition 7.2). A topological defect is an active site for nuclear reactions (the trigger position for Pathway I) and simultaneously an active site for spectral absorption.
+
+An unsaturated dangling port left on the surface of a weave body where the weave cannot achieve absolutely perfect closure is called a topological defect. A topological defect is an active site for nuclear reactions (the trigger position for Pathway I) and simultaneously an active site for spectral absorption.
 
 Distinction between the two types of inhomogeneous regions:
 
@@ -36,32 +30,31 @@ Link State	Saturated and closed	Unsaturated (dangling ports exist)
 Smoothness	Non-ideally smooth (healing traces exist)	Not applicable (it is an open boundary)
 Spectral Role	Impedance mismatch → scattering and resonance	Absorption (breaking the local constraint of the dangling link)
 Nuclear Reaction Role	None (already saturated)	Present (trigger site for Pathway I)
-1.2 Linkage Zone: A Collective Term for Both Types of Inhomogeneous Regions
-
+1.3 Linkage Zone: A Collective Term for Both Types of Inhomogeneous Regions
 Definition 1.3: Linkage Zone
+
 A general term encompassing both weaving scars and topological defects. A linkage zone is a localized region within the weave body where the shared link network exhibits inhomogeneity—whether a healed scar or an unclosed defect, their common feature is that the local link state differs detectably from the surrounding ideal weave region.
 
 A linkage zone possesses three geometric parameters that directly determine spectral characteristics:
 
 Parameter	Definition	Spectral Correspondence
-Depth	The spatial position of the linkage zone within the recursive weave body (measured in node steps from the nuclear surface)	Primary determinant of resonance/absorption frequency
+Depth	The spatial position of the linkage zone within the weave body (measured in node steps from the nuclear surface)	Primary determinant of resonance/absorption frequency
 Degree of Stability	The average link saturation 𝒮 of the shared links within the linkage zone (high for saturated scars, low for unsaturated defects)	Secondary determinant of resonance/absorption frequency
-Smoothness	The geometric deviation of the scar’s healed surface from the ideal weave surface; the boundary irregularity of a defect	Spectral line width
-Proposition 1 (Spectral Line Frequency): Spectral line frequency ω = f (Depth, Degree of Stability). Greater depth and higher degree of stability (link saturation 𝒮) → greater local stiffness → higher resonance frequency.
+Smoothness	The geometric deviation of the scar's healed surface from the ideal weave surface; the boundary irregularity of a defect	Spectral line width
+Proposition 1 (Spectral Line Frequency): The spectral line frequency is jointly determined by the depth of the linkage zone and the stress state at that location. Greater depth and higher degree of stability → greater local stiffness → higher resonance frequency. However, local stiffness is not an isolated property—the global stress distribution of the entire weave body can compress or stretch scars in specific regions, altering their resonance frequencies. Therefore, any given spectral line is a comprehensive manifestation of the stress equilibrium state of the entire weave body at the location of that scar.
 
-Proposition 2 (Spectral Line Width): Spectral line width Γ = g (Smoothness). Lower smoothness (rougher healed surface, more irregular defect boundary) → greater rate of excited-state energy dissipation → broader line width.
+Proposition 2 (Spectral Line Width): The spectral line width is determined by the smoothness of the scar. Lower smoothness (rougher healed surface, more irregular defect boundary) → greater rate of excited-state energy dissipation → broader line width.
 
-Proposition 3 (Total Number of Spectral Lines): Total number of spectral lines = within the depth range reachable by the light’s energy, the total number of weaving scars (contributing resonant lines) + the total number of topological defects (contributing absorption lines).
+Proposition 3 (Total Number of Spectral Lines): Total number of spectral lines = within the depth range reachable by the light's energy, the total number of weaving scars (contributing resonant lines) + the total number of topological defects (contributing absorption lines).
 
-1.3 Interaction Mechanism between Light and Linkage Zones
-
-In TDMU, light is defined as the transverse wave perturbation of shared link orientation, δ𝒜 (TDMU Definitions 9.5, 6.1.1).
+1.4 Interaction Mechanism between Light and Linkage Zones
+In TDMU, light is defined as the transverse wave perturbation of shared link orientation, δ𝒜.
 
 When δ𝒜 propagates through the shared link network and encounters a linkage zone:
 
-Impedance Mismatch: The local stiffness of the linkage zone κ_linkage differs from the surrounding κ_bulk → a portion of the perturbation is reflected (scattering).
+Impedance Mismatch: The local stiffness of the linkage zone differs from that of the surroundings → a portion of the perturbation is reflected (scattering).
 
-Resonant Capture: If the linkage zone (scar) forms an effective resonant cavity (with boundary conditions determined by the suture line geometry), δ𝒜 of a specific frequency is captured and oscillates at the cavity’s natural frequency.
+Resonant Capture: If the linkage zone forms an effective resonant cavity (with boundary conditions determined by the suture line geometry), δ𝒜 of a specific frequency is captured and oscillates at the cavity's natural frequency.
 
 Resonant Release: The captured energy is released through tunneling or boundary reconnection dissipation → emission spectral line.
 
@@ -69,314 +62,149 @@ Absorption: If the linkage zone is a topological defect (unsaturated dangling po
 
 Herein lies the geometric mechanism for both absorption and emission spectra.
 
-2. Hydrogen: The Weave Body with the Lowest Recursive Order
-
+2. Hydrogen: The Weave Body with the Shortest Weaving History
 2.1 Geometric Structure
+The hydrogen nucleus is the lowest-order stable topological knot on the recursive growth path in the TDMU framework—starting from the primitive brick, it has undergone the fewest steps of recursive weaving. Any recursive weaving produces a multi-layered structure. Even the hydrogen nucleus contains splicing interfaces between primitive bricks (weaving scars) inside and unsaturated dangling ports (topological defects) on its surface. These linkage zones are distributed across various depths from the core center to the surface.
 
-The hydrogen nucleus is the lowest-order stable topological knot on the recursive growth tree in the TDMU framework—formed by the minimum number of underlying topological knots (primitive bricks) through the fewest steps of defect-complementarity weaving.
-
-Key Clarification: “Lowest recursive order” does not equate to “having only one layer of weaving.” Any recursive weaving produces a multi-layered structure—even the hydrogen nucleus contains splicing interfaces between primitive bricks (weaving scars) inside and unsaturated dangling ports (topological defects) on its surface. These linkage zones are distributed across various depths from the core center to the surface.
-
-Geometric features of the hydrogen nucleus:
-
-Minimal number of recursive layers → shortest weaving history.
-
-Extremely few total linkage zones—yet they exist at every depth (deep: brick-splicing scars; intermediate: interlayer interface scars; surface: weave-closure scars and surface defects).
-
-Fewest weaving layers → minimal cumulative weaving error → extremely high smoothness for all linkage zones.
+Geometric features of the hydrogen nucleus: the fewest recursive steps → the shortest weaving history; an extremely small total number of linkage zones—yet they exist at every depth (deep: brick-splicing scars; intermediate: interlayer interface scars; surface: weave-closure scars and surface defects); the fewest weaving steps → minimal cumulative weaving error → extremely high smoothness for all linkage zones.
 
 2.2 Spectral Facts
-
-The hydrogen atomic spectrum consists of several series (Lyman, Balmer, Paschen, etc.), with frequencies satisfying the Rydberg formula. The number of spectral lines is relatively small, and the line widths are extremely narrow.
-
-Experimental Benchmarks:
-
-Lyman series (UV): wavelengths 91–122 nm
-
-Balmer series (visible): wavelengths 364–656 nm
-
-Paschen series (IR): wavelengths 820–1875 nm
-
-Typical natural line width: Δλ ~ 10⁻⁵ nm (corresponding lifetime ~ 10⁻⁸ s)
+The hydrogen atomic spectrum consists of several series (Lyman, Balmer, Paschen, etc.), with frequencies satisfying the Rydberg formula. The number of spectral lines is relatively small, and the line widths are extremely narrow. The Lyman series lies in the ultraviolet band (91–122 nm), the Balmer series in the visible band (364–656 nm), and the Paschen series in the infrared band (820–1875 nm). Typical natural line widths are on the order of 10⁻⁵ nm.
 
 2.3 TDMU Interpretation
-
 Small number of spectral lines: The total number of linkage zones is extremely small. However, linkage zones exist at every depth layer, so the hydrogen spectrum still presents multiple series spanning UV to IR.
 
-Extremely narrow line widths: Fewest weaving layers → minimal cumulative weaving error → extremely high smoothness for all scars → extremely slow excited-state energy dissipation → very sharp lines.
+Extremely narrow line widths: The fewest weaving steps → minimal cumulative weaving error → extremely high smoothness for all scars → extremely slow excited-state energy dissipation → very sharp lines.
 
-Integer-ratio relationship of frequencies: Harmonic structure of resonance modes in a finite-scale linkage zone—each linkage zone, acting as a resonant cavity, supports a fundamental frequency and a series of integer-multiple overtones. This is a universal mathematical property of isolated, finite-boundary resonant structures and is not unique to quantum mechanics.
+Integer-ratio relationship of frequencies: Harmonic structure of resonance modes in a finite-scale linkage zone—each linkage zone, acting as a resonant cavity, supports a fundamental frequency and a series of integer-multiple overtones. This is a universal mathematical property of isolated, finite-boundary resonant structures.
 
-Different series correspond to different depths: The Lyman series corresponds to deep linkage zone resonance (high frequency); the Balmer series corresponds to intermediate-depth linkage zone resonance; the Paschen series corresponds to shallow linkage zone resonance. The differences in wavelength ranges reflect the systematic change in linkage zone depth: deep zones have higher local stiffness → higher resonance frequency → shorter wavelengths (UV); shallow zones have lower local stiffness → lower resonance frequency → longer wavelengths (IR).
+Different series correspond to different depths: The Lyman series corresponds to deep linkage zone resonance (high frequency, short wavelength); the Balmer series corresponds to intermediate-depth linkage zone resonance; the Paschen series corresponds to shallow linkage zone resonance (low frequency, long wavelength). The wavelength differences among the three series reflect the systematic change in linkage zone depth.
 
-Consistency Check with Experiment:
-The 1/n² form of the Rydberg formula is interpreted in this framework as the harmonic structure of the linkage zone resonant cavity. In the standard model, *n* is the principal quantum number; here, *n* corresponds to the harmonic order of the resonance mode. The two are mathematically equivalent but differ in physical ontology. This framework cannot derive the precise value of the Rydberg constant from first principles (this would require knowing the specific dimensions and local stiffness constants of the linkage zone resonant cavities); it remains a free parameter to be determined by experiment.
+Regarding the Rydberg formula: The 1/n² form of the Rydberg formula is interpreted in this framework as the harmonic structure of the linkage zone resonant cavity. In the standard model, n is the principal quantum number; in this framework, n corresponds to the harmonic order of the resonance mode. The two are mathematically equivalent but differ in physical ontology. This framework cannot derive the precise numerical value of the Rydberg constant from first principles—it remains a parameter to be determined.
 
-Potential Inconsistency with Experiment:
-The Lyman and Balmer series of hydrogen possess strict selection rules (e.g., Δl = ±1) that determine which frequency lines can appear. This framework currently cannot derive an equivalent selection rule from its geometric mechanism. Preliminary speculation: Selection rules may originate from the matching condition between the polarization direction of the incident light δ𝒜 and the geometric symmetry of the resonant cavity—only modes whose symmetry axis matches the polarization can be effectively excited. This speculation awaits further justification.
+Regarding selection rules: This framework currently cannot derive an equivalent selection rule from its geometric mechanism. Preliminary speculation: selection rules may originate from the matching condition between the polarization direction of the incident light δ𝒜 and the geometric symmetry of the resonant cavity—only modes whose symmetry axis matches the polarization can be effectively excited.
 
-Conclusion: The simple spectrum of hydrogen is a direct consequence of being “the weave body with the lowest recursive order, possessing an extremely small total number of linkage zones, yet with zones distributed at all depths.”
+Conclusion: The simple spectrum of hydrogen is a direct consequence of being "the weave body with the shortest weaving history, possessing an extremely small total number of linkage zones, yet with zones distributed at all depths."
 
 3. Iron: The Rich Scar System of Deep Recursive Weaving
-
 3.1 Geometric Structure
-
-The iron nucleus (predominantly Fe-56) is a giant stable topological knot formed by the multi-level recursive weaving of 26 chiral topological clusters (carrying unit positive charge) and other neutral topological clusters. Its recursive volume far exceeds that of the hydrogen nucleus:
-
-Many recursive layers—the weaving history of 26 chiral clusters involves a large number of independent steps.
-
-Numerous splicing boundaries at each layer—defect-complementarity weaving between chiral clusters leaves scars at every level.
-
-Linkage zones are distributed across all depths from surface to core, with the number at each depth far exceeding that of hydrogen.
-
-The distribution of linkage zones across depths is relatively uniform—a natural consequence of multi-level weaving, where each weaving stage contributes scars at corresponding depths.
+The iron nucleus (predominantly Fe-56) is a giant stable topological knot formed from primitive bricks through a large number of recursive weaving steps. Its recursive volume far exceeds that of the hydrogen nucleus: its weaving history is complex, with each step leaving scars; linkage zones are distributed across all depths from surface to core, with the number at each depth far exceeding that of hydrogen; the distribution of linkage zones across depths is relatively uniform—a natural consequence of multi-step weaving, where each weaving stage contributes scars at corresponding depths.
 
 3.2 Spectral Facts
-
-The visible spectrum of iron is exceptionally line-rich (tens of thousands of recorded lines in the visible band alone), covering an extremely broad band from infrared to hard X-rays. The iron-56 nucleus is one of the most stable nuclides in the universe (highest binding energy per nucleon).
-
-Experimental Benchmarks:
-
-The spectral line database for neutral iron atoms (Fe I) records over 20,000 lines.
-
-Spectral coverage: from near-infrared (~1 μm) to hard X-rays (~0.01 nm, K-shell characteristic energy ~6.4 keV).
-
-The average binding energy per nucleon for Fe-56 is ~8.79 MeV, the highest of all nuclides.
-
-Neighboring nuclides (Fe-54, Fe-57, Fe-58) possess nearly identical chemical properties but significantly different nuclear properties (e.g., neutron capture cross-sections).
+The visible spectrum of iron is exceptionally line-rich (tens of thousands of recorded lines in the visible band alone), covering an extremely broad band from infrared to hard X-rays. Fe-56 is one of the most stable nuclides in the universe (highest binding energy per nucleon). Neighboring nuclides (Fe-54, Fe-57, Fe-58) possess nearly identical chemical properties but significantly different nuclear properties.
 
 3.3 TDMU Interpretation
-
 Extremely rich spectrum: The total number of weaving scars and topological defects in the iron nucleus is vast. Each scar corresponds to a set of resonant modes, and each defect corresponds to an absorption feature. The tens of thousands of lines are the superposition of independent contributions from a multitude of linkage zones.
 
-Broad band coverage: Linkage zones are distributed relatively uniformly across all depths—from surface to core, each depth has a sufficient number of linkage zones to respond to light of the corresponding energy scale. Surface scars produce low-frequency lines (IR-visible), while deep scars produce high-frequency lines (X-rays). This aligns with the multi-level weaving history of the iron nucleus: the recursive weaving of 26 chiral clusters is a multi-stage process, with scars accumulating uniformly at every depth level.
+Broad band coverage: Linkage zones are distributed relatively uniformly across all depths—from surface to core, each depth has a sufficient number of linkage zones to respond to light of the corresponding energy scale. Surface scars produce low-frequency lines (IR–visible), while deep scars produce high-frequency lines (X-rays). This aligns with the multi-step weaving history of the iron nucleus.
 
-Extreme nuclear stability: Although numerous surface and mid-level linkage zones exist (producing the rich spectrum), the deep linkage zones of the iron nucleus have highly ordered shared link arrangements, with core link saturation 𝒮_core approaching the maximum and suture line stress concentration factor ℐ extremely low. This is the geometric root of the iron nucleus possessing the highest E_comp (binding energy per nucleon).
+Extreme nuclear stability: Although numerous surface and mid-level linkage zones exist (producing the rich spectrum), the deep weaving regions of the iron nucleus have highly ordered shared link arrangements, with link saturation approaching the maximum and suture line stress concentration factor extremely low. This is the geometric root of the iron nucleus possessing the highest compressive binding energy.
 
 No contradiction: Linkage zones at different depths are independently probed by light of different energy scales. Low-energy light (visible) only reaches surface linkage zones; high-energy light (X-rays) is needed to probe deep linkage zones. The richness of the surface spectrum and the stability of the deep structure are carried by completely independent geometric degrees of freedom and do not conflict.
 
-Consistency Check with Experiment:
-
-The highest binding energy per nucleon for Fe-56 is consistent with this framework’s deduction of “deep linkage zones 𝒮_core→1, ℐ→0.”
-
-The far greater number of spectral lines for iron compared to light nuclei (H, He) is consistent with the deduction of “large recursive volume → many scars.”
-
-The characteristic X-ray lines of iron (Kα ~6.4 keV, Kβ ~7.1 keV) correspond to deep linkage zone resonance, consistent with the framework’s depth-frequency mapping.
-
-Conclusion: The extreme complexity of the iron spectrum is a direct result of the “iron nucleus possessing a vast number of weaving scars distributed across all depths.” The extreme stability of the iron nucleus is a result of “near-perfect deep weaving.” The two are not contradictory.
+Conclusion: The extreme complexity of the iron spectrum is a direct result of "the iron nucleus possessing a vast number of weaving scars distributed across all depths." The extreme stability of the iron nucleus is a result of "near-perfect deep weaving." The two are not contradictory.
 
 4. Diamond: Saturation Pairing of All Linkage Zones
-
 4.1 Geometric Structure
-
-In a diamond crystal, the topological defects on the surface of each carbon nucleus undergo saturation pairing with the corresponding defects of adjacent carbon nuclei through Pathway I (defect-complementarity weaving). The entire crystal forms a macroscopic, rigid-body shared link network with no isolated linkage zones.
-
-Key geometric features:
-
-All surface defects of carbon nuclei are saturation-paired → no isolated unsaturated defects.
-
-Weaving scars still exist (traces of recursive weaving inside the carbon nucleus), but the defect-complementarity weaving causes the scars of adjacent nuclei to interlock, forming a globally rigid link network spanning the whole crystal.
-
-Link lengths are highly uniform throughout the crystal (a geometric necessity of the periodic lattice structure).
+In a diamond crystal, the topological defects on the surface of each carbon nucleus undergo saturation pairing with the corresponding defects of adjacent carbon nuclei through Pathway I (defect-complementarity weaving). The entire crystal forms a macroscopic, rigid-body shared link network with no isolated linkage zones. All surface defects of carbon nuclei are saturation-paired → no isolated unsaturated defects. Weaving scars still exist, but the defect-complementarity weaving causes the scars of adjacent nuclei to interlock, forming a globally rigid link network spanning the whole crystal. Link lengths are highly uniform throughout the crystal.
 
 4.2 Spectral Facts
-
-Diamond exhibits no characteristic atomic spectral lines. It shows only a single collective lattice vibration peak (first-order Raman peak at 1332 cm⁻¹) with extremely narrow width (~2 cm⁻¹). The absorption edge is steep (indirect band gap ~5.5 eV).
-
-Experimental Benchmarks:
-
-First-order Raman peak: 1332 cm⁻¹ (room temperature), full width at half maximum ~1.5–2 cm⁻¹.
-
-UV absorption edge: ~225 nm (~5.5 eV), corresponding to the indirect band gap.
-
-Transparent in the visible to near-infrared region, with no detectable atomic absorption or emission lines.
+Diamond exhibits no characteristic atomic spectral lines. It shows only a single collective lattice vibration peak (first-order Raman peak at 1332 cm⁻¹) with extremely narrow width (~2 cm⁻¹). The absorption edge is steep (indirect band gap ~5.5 eV). It is transparent in the visible to near-infrared region, with no detectable atomic absorption or emission lines.
 
 4.3 TDMU Interpretation
-
 No characteristic atomic spectral lines: All topological defects have been saturation-paired; no isolated dangling ports exist for light absorption. Although weaving scars exist inside the carbon nuclei, their independent resonance is suppressed by the rigid global shared link network—scars cannot operate as independent resonant cavities because their boundary conditions are locked by the rigid coupling of adjacent scars.
 
 Single lattice vibration peak: The global shared link network of the entire crystal possesses only one fundamental collective vibration mode—all links stretching and contracting in phase. 1332 cm⁻¹ is the characteristic frequency of this collective mode.
 
-Extremely sharp peak: Link lengths are highly consistent throughout the crystal (periodic lattice), resulting in extremely low energy dissipation for the collective vibration mode.
+Extremely sharp peak: Link lengths are highly consistent throughout the crystal, resulting in extremely low energy dissipation for the collective vibration mode.
 
 Steep absorption edge: 5.5 eV corresponds to the minimum energy threshold required to break a link within the globally rigid link network. Below this energy, no dissipative channel is available.
 
-Consistency Check with Experiment:
-
-The Raman peak frequency and width of diamond are qualitatively consistent with this framework’s expectation of “a single collective mode of a globally rigid network.”
-
-The absence of characteristic atomic spectral lines in diamond is consistent with the deduction of “no isolated defects = no independent atomic spectral lines.”
-
-The existence and steepness of the absorption edge are consistent with the deduction of “a collective energy threshold of the globally rigid network.” However, the specific value of 5.5 eV is a free parameter that this framework cannot derive from first principles.
-
-Conclusion: Diamond is spectroscopically “silent”—all surface defects are saturation-paired with adjacent carbon nuclei, and the independent resonance of internal scars is suppressed by the globally rigid network. Light can only perceive the collective vibration of the crystal.
+Conclusion: Diamond is spectroscopically "silent"—all surface defects are saturation-paired with adjacent carbon nuclei, and the independent resonance of internal scars is suppressed by the globally rigid network. Light can only perceive the collective vibration of the crystal.
 
 5. Mercury: Collective Freezing of Linkage Zones
-
 5.1 Geometric Structure
-
-Mercury (Hg) is liquid at room temperature. The relative positions of atomic nuclei constantly change, and the linkage zones of each nucleus are in a thermally activated state—vibrating independently with no global phase correlation.
-
-When the temperature drops below Tc (~4.2 K), mercury enters the superconducting state. In the TDMU framework (Definition 9.3), the superconducting state corresponds to:
-
-D_ij Θ = 0, for all nearest-neighbor node pairs ⟨i, j⟩
-
-That is, all linkage zones achieve global phase synchronization—the helical motions of all shared links are perfectly synchronous.
+Mercury is liquid at room temperature. The relative positions of atomic nuclei constantly change, and the linkage zones of each nucleus are in a thermally activated state—vibrating independently with no global phase correlation. When the temperature drops below the superconducting transition temperature, mercury enters the superconducting state. In the TDMU framework, the superconducting state corresponds to the combinatorial covariant derivative reducing to zero for all nearest-neighbor node pairs—that is, all linkage zones achieve global phase synchronization, with the helical motions of all shared links perfectly synchronous.
 
 5.2 Spectral Facts
-
-Normal state (T > Tc): Far-infrared reflectivity is flat, around 90%.
-
-Superconducting state (T ≪ Tc): Far-infrared reflectivity jumps abruptly to nearly 100% at a characteristic frequency, with a weak absorption dip at the threshold frequency.
-
-Experimental Benchmarks: The far-infrared reflectivity of superconducting mercury jumps from ~90% to >99.9% for frequencies below about 10¹¹ Hz; an absorption threshold appears at roughly 3.5k_BT_c (~3×10¹¹ Hz, corresponding to an energy gap of ~1.2 meV).
+In the normal state, far-infrared reflectivity is flat, around 90%. In the superconducting state, far-infrared reflectivity jumps abruptly to nearly 100% at a characteristic frequency, with a weak absorption dip at the threshold frequency. The far-infrared reflectivity of superconducting mercury jumps from ~90% to >99.9% for frequencies below about 10¹¹ Hz, with an absorption threshold appearing at roughly 3×10¹¹ Hz.
 
 5.3 TDMU Interpretation
+Normal state: The linkage zones of different nuclei vibrate independently (thermally activated). Incident light δ𝒜 may encounter impedance mismatch at each linkage zone → partial scattering, partial absorption and dissipation → moderate reflectivity, no sharp spectral features.
 
-Normal state: The linkage zones of different nuclei vibrate independently (thermally activated). Incident light δ𝒜 may encounter impedance mismatch at each linkage zone → partial scattering, partial absorption and dissipation → moderate reflectivity (~90%), no sharp spectral features.
+Superconducting state: All linkage zones enter a globally phase-locked state. In this state, incident light δ𝒜 with frequency below a certain threshold cannot excite any asynchronous perturbation in the shared link network—because the motion of all links is locked, δ𝒜 must break this global lock to be absorbed. Low-frequency light cannot break the lock → it is completely reflected, with reflectivity approaching 100%.
 
-Superconducting state: All linkage zones enter a globally phase-locked state (D_ij Θ = 0, ∀⟨i, j⟩). In this state, incident light δ𝒜 with frequency below a certain threshold cannot excite any asynchronous perturbation in the shared link network—because the motion of all links is locked, δ𝒜 must break this global lock to be absorbed. Low-frequency light cannot break the lock → it is completely reflected (rigid reflection, reflectivity approaching 100%).
-
-Threshold frequency: Corresponds to the minimum energy required to break the D_ij Θ = 0 global lock. At this threshold, the incident light can just excite linkage zones out of the synchronous state, creating an absorption dip. The threshold frequency is phenomenologically equivalent to the superconducting energy gap Δ.
-
-Consistency Check with Experiment:
-
-The jump in reflectivity from ~90% to >99.9% in the superconducting state is consistent with this framework’s deduction of “rigid reflection from global locking.”
-
-The existence of a threshold frequency and its energy scale (~3.5k_BT_c) is qualitatively consistent with the framework’s description of “minimum energy required to break synchronization.” However, the specific numerical value (3.5k_BT_c) cannot be derived from first principles and is a free parameter.
-
-The flat reflectivity in the normal state is consistent with the deduction of “thermally activated independent scattering.”
+Threshold frequency: Corresponds to the minimum energy required to break the global lock. At this threshold, the incident light can just excite linkage zones out of the synchronous state, creating an absorption dip. The threshold frequency is phenomenologically equivalent to the superconducting energy gap.
 
 Conclusion: The superconducting phase transition is a collective synchronization transition of all linkage zones. In the normal state, zones scatter light independently. In the superconducting state, low-frequency light encounters a fully synchronized, rigid shared link network, cannot be absorbed, and is totally reflected.
 
 6. Chemical Shift and Molecular Spectra
-
 6.1 Chemical Shift
-
-When atoms bond to form molecules, the topological defects on the surfaces of two nuclei couple through Pathway I (defect-complementarity weaving), forming new shared link channels (chemical bonds).
-
-This coupling modifies the boundary conditions of the participating linkage zones:
-
-Compressed (link shortened): The shared link network is tightened → local stiffness κ increases → the resonance frequency of the scar rises → spectral line blue shift.
-
-Stretched (link elongated): The shared link network is relaxed → local stiffness κ decreases → the resonance frequency of the scar drops → spectral line red shift.
-
-Consistency with Experiment:
-
-Spectral frequency shifts caused by changes in chemical environment (chemical shifts) are widely observed experimentally. For example, the resonance frequency of hydrogen in different chemical environments (H₂O vs. CH₄ vs. HF) shows small but measurable differences.
-
-This framework interprets this phenomenon as: the geometric constraints of different chemical bonds (link length, link angle) alter the effective stiffness of the participating scars.
+When atoms bond to form molecules, the topological defects on the surfaces of two nuclei couple through Pathway I, forming new shared link channels (chemical bonds). This coupling modifies the boundary conditions of the participating linkage zones: compressed (link shortened) → local stiffness increases → scar resonance frequency rises → spectral line blue shift; stretched (link elongated) → local stiffness decreases → scar resonance frequency drops → spectral line red shift. Spectral frequency shifts caused by changes in chemical environment are widely observed experimentally. This framework interprets this phenomenon as: the geometric constraints of different chemical bonds alter the effective stiffness of the participating scars.
 
 6.2 New Features in Molecular Spectra
+After molecule formation, new spectral features appear beyond the linkage zone resonances of the original nuclei. Resonance modes of the molecular bond itself: the new linkage zone formed by the defect-complementarity weaving of surface defects from two or more nuclei possesses its own independent resonant frequencies, typically falling in the infrared region (the scale of the molecular bond linkage zone is larger than that of intra-nuclear linkage zones). Hierarchical coupling modes: the vibration of the molecular bond couples through the shared link network to the resonant frequencies of intra-nuclear scars, producing frequency modulation and leading to the appearance of main peaks and sideband structures. This is the geometric explanation for the emergence of new spectral lines and fine structures in molecular spectra—in the TDMU framework, this is not "electronic energy level transitions" but rather "coupled resonance of linkage zones across different weaving levels."
 
-After molecule formation, new spectral features appear beyond the linkage zone resonances of the original nuclei:
-
-Resonance modes of the molecular bond itself: The new linkage zone formed by the defect-complementarity weaving of surface defects from two (or more) nuclei possesses its own independent resonant frequencies. These frequencies typically fall in the infrared region (lower frequency, because the scale of the molecular bond linkage zone is larger than that of intra-nuclear linkage zones).
-
-Hierarchical coupling modes: The vibration of the molecular bond (change in linkage zone scale) couples through the shared link network to the resonant frequencies of intra-nuclear scars, producing frequency modulation → leading to the appearance of main peaks and sideband structures.
-
-This is the geometric explanation for the emergence of new spectral lines (characteristic IR peaks) and fine structures (vibronic coupling) in molecular spectra. In the TDMU framework, this is not “electronic energy level transitions” but rather “coupled resonance of linkage zones across different weaving levels.”
-
-7. High-Energy Collisions: The Depth Scale
-
-The energy of an incident topological knot (or equivalently, the energy of incident light/particle) determines the weaving depth it can penetrate:
-
-Energy Scale	Probeable Depth of Linkage Zones	Corresponding Phenomena
-eV range	Surface topological defects and near-surface scars	Chemical bond breaking and rearrangement
-keV–MeV	Mid-level weaving scars	Characteristic X-rays (inner-layer scar resonance)
-MeV–GeV	Deep weaving scars and suture lines	Nuclear fission (tearing along stress-concentrated suture lines)
-TeV and above	Recursive structures of sub-topological knots within the nucleus	Deep inelastic scattering (jets corresponding to sub-knot disassembly)
-Corollary 7.1 (Depth Selectivity of Fission Products):
-
-If the energy of the incident topological knot can be precisely controlled to act only on a weaving scar at a specific depth, the compound nucleus will preferentially tear along the suture line where that scar is located. In this limit, the mass distribution of fission products will tend toward determinism rather than a statistical distribution.
-
-Current Experimental Observation: When low-energy neutrons induce ²³⁵U fission, the product mass distribution exhibits a double-humped statistical distribution. This framework interprets this as: although the incident neutron energy is relatively definite (thermal neutron ~0.025 eV), the ²³⁵U nucleus has ℐ > 0 (core vacancies, see TDMU Corollary 8.2), meaning multiple stress-concentrated suture lines exist. Fission can occur along any suture line with a relatively high triggering probability, resulting in the statistical nature of the product distribution.
-
-Testable Implication: If an experiment could be designed to selectively excite a scar at a specific depth using mono-energetic gamma rays, the mass distribution of fission products should narrow and deviate from the conventional double-humped distribution, trending toward specific mass numbers. This corollary is potentially falsifiable.
-
-8. Unified Mapping Table
-
+7. Unified Mapping Table
 Substance	TDMU Geometric Description	Linkage Zone Characteristics	Spectral Manifestation
-Hydrogen	Weave body of lowest recursive order	Extremely few in total, distributed at all depths; extremely high smoothness	Few lines covering multiple bands; extremely narrow line widths
-Iron	Deep recursive weave containing 26 chiral clusters	Extremely numerous, uniformly distributed across depths; very high deep-level saturation	Exceptionally rich lines covering a wide band; extremely stable nucleus
+Hydrogen	Weave body with the shortest weaving history	Extremely few in total, distributed at all depths; extremely high smoothness	Few lines covering multiple bands; extremely narrow line widths
+Iron	Rich scar system of deep recursive weaving	Extremely numerous, uniformly distributed across depths; very high deep-level saturation	Exceptionally rich lines covering a wide band; extremely stable nucleus
 Diamond	All surface defects saturation-paired with adjacent nuclei	No isolated defects; internal scars suppressed by rigid network	No characteristic atomic spectrum; only a single lattice vibration peak
 Mercury (normal)	Linkage zones thermally activated	Individually independent vibrations	Flat reflectivity
-Mercury (superconducting)	D_ij Θ = 0, global phase lock	Collectively rigid state	Total reflection at low frequencies, absorption dip at threshold
-9. Conclusion
+Mercury (superconducting)	Global phase lock	Collectively rigid state	Total reflection at low frequencies, absorption dip at threshold
+8. Conclusion
+The atomic nucleus is a continuous topological knot woven layer by layer. During the weaving process, the weaving scars left by the healing of defect-complementarity engagements and the topological defects left unclosed on the surface are the geometric sources of spectral activity.
 
-The atomic nucleus is a recursively woven ball, pasted layer by layer. During the weaving process, the weaving scars left by the healing of defect-complementarity engagements and the topological defects left unclosed on the surface are the geometric sources of spectral activity.
+Spectral line frequency is jointly determined by the linkage zone depth and the global stress state. Deep scars → high local stiffness → high frequency. However, local stiffness is not an isolated property—the stress distribution of the entire weave body can compress or stretch existing scars, altering their resonance frequencies.
 
-Spectral line frequency = f (Linkage zone depth × Degree of stability). Deep scars → high local stiffness → high frequency.
+Spectral line width is determined by scar smoothness. Low smoothness (rough healed surface) → fast excited-state dissipation → broad line width.
 
-Spectral line width = g (Scar smoothness). Low smoothness (rough healed surface) → fast excited-state dissipation → broad line width.
+Total number of spectral lines is determined by the total number of scars and defects within the depth accessible to the light's energy. Scars contribute resonant emission, while defects contribute absorption.
 
-Total number of spectral lines = within the depth accessible to the light’s energy, the total number of scars + total number of defects. Scars contribute resonant emission/absorption; defects contribute absorption.
+Hydrogen: extremely few linkage zones but distributed at all depths → few lines yet covering multiple bands. Iron: extremely numerous linkage zones, uniformly distributed → exceptionally rich lines covering a wide band. Diamond: all surface defects saturation-paired with adjacent nuclei → spectroscopically silent. Superconducting mercury: all linkage zones globally synchronized → low-frequency light is rigidly reflected.
 
-Hydrogen: Extremely few linkage zones but distributed at all depths → few lines yet covering multiple bands.
-
-Iron: Extremely numerous linkage zones, uniformly distributed → exceptionally rich lines covering a wide band.
-
-Diamond: All surface defects saturation-paired with adjacent nuclei → spectroscopically silent.
-
-Superconducting mercury: All linkage zones globally synchronized → low-frequency light is rigidly reflected.
-
-This paper does not use standard-model concepts such as “energy levels,” “transitions,” “electron orbits,” or “photons.” All explanations are based on native terminology within the TDMU axiomatic system: weaving scars, topological defects, shared links, orientation transverse wave δ𝒜, link saturation 𝒮, smoothness, and depth.
+This paper does not use standard-model concepts such as "energy levels," "transitions," "electron orbits," or "photons." All explanations are based on native terminology within the TDMU axiomatic system: weaving scars, topological defects, shared links, orientation transverse wave δ𝒜, link saturation 𝒮, smoothness, and depth.
 
 Appendix: The Status of the Uncertainty Principle in TDMU
-
-The uncertainty relation in standard quantum mechanics, Δx·Δp ≥ ℏ/2, is equivalently expressed in TDMU as:
-
-The product of the spatial localization precision of a linkage zone (measured in node steps) and the precision of the reconnection-event count history of that zone (measured in reconnection events) has a lower bound determined by the resolution limit of the discrete weave network.
-
-This relation is not an a priori postulate of this framework but an emergent statistical property of the discrete combinatorial network in the continuum limit. Its deep reason lies in the fact that each “measurement” (local reconnection probe) of a linkage zone’s position inevitably alters the link state of that region, thereby affecting the precise count of its reconnection history. ℏ corresponds in this framework to the geometric constant of this “minimum disturbance-response product.”
+The uncertainty relation in standard quantum mechanics is equivalently expressed in TDMU as: the product of the spatial localization precision of a linkage zone (measured in node steps) and the precision of the reconnection-event count history of that zone (measured in reconnection events) has a lower bound determined by the resolution limit of the discrete weave network. This relation is not an a priori postulate of this framework but an emergent statistical property of the discrete combinatorial network in the continuum limit. Its deep reason lies in the fact that each "measurement" (local reconnection probe) of a linkage zone's position inevitably alters the link state of that region, thereby affecting the precise count of its reconnection history.
 
 Glossary
-
 Term	TDMU Native Definition
-Weaving Scar	A region of the shared link network that is healed but non-ideally smooth on the meshing interface after defect-complementarity weaving. Link-saturated but exhibits residual stress and orientation distortion. Contributes resonant spectral lines.
+Weaving Scar	After each step of defect-complementarity weaving is completed, a healed but non-ideally smooth region of the shared link network on the meshing interface. Link-saturated but exhibits residual stress and orientation distortion. Contributes resonant spectral lines.
 Topological Defect	An unclosed dangling port on the surface of a weave body. Link-unsaturated. Contributes absorption spectral lines and serves as a site for nuclear reactions (Pathway I).
 Linkage Zone	Collective term for weaving scars and topological defects. A localized region where inhomogeneity appears in the shared link network.
-Depth	The spatial position of a linkage zone within the recursive weave body, measured in node steps from the nuclear surface.
+Depth	The spatial position of a linkage zone within the weave body, measured in node steps from the nuclear surface.
 Degree of Stability	The average link saturation 𝒮 of the shared links within a linkage zone. Higher saturation implies greater local stiffness.
-Smoothness	The geometric deviation of a scar’s healed surface from the ideal weave surface; the boundary irregularity of a defect.
+Smoothness	The geometric deviation of a scar's healed surface from the ideal weave surface; the boundary irregularity of a defect.
 Shared Link	The multiple connection pathways established between topological knots via intermediate loops on the membrane.
 δ𝒜	The dynamic transverse wave perturbation of shared link orientation, i.e., light.
 𝒮	Link saturation, the proportion of occupied links among all possible connection paths.
-ℐ	Suture line stress concentration factor, characterizing the geometric non-ideality of a scar’s healed surface.
+ℐ	Suture line stress concentration factor, characterizing the geometric non-ideality of a scar's healed surface.
 D_ij Θ	Combinatorial covariant derivative, characterizing the degree of local synchronization of the shared link phase field.
-
 
 (中文版）拓扑缺陷光谱学
 ——TDMU框架下特征光谱线的几何机制
-TDMU Spectroscopy Supplement v1.1
+TDMU Spectroscopy Supplement v1.2
 
-mjp
+作者：mjp
 
 摘要
-
-本文在拓扑动力膜宇宙模型（TDMU v2.341）公设体系内，提出特征光谱的纯几何解释。核心论点：原子核是拓扑结通过递归编织形成的复合体，编织过程中留下的编织疤痕（已愈合的缺陷互补界面）和拓扑缺陷（未闭合的悬挂端口）共同构成光谱活性的几何来源。光——共享链接取向度的横波扰动δ𝒜——在穿过这些几何非均匀区域时发生散射、捕获和共振释放。谱线频率由疤痕/缺陷在递归编织体中的深度和该处共享链接网络的稳定程度共同决定；谱线宽度由疤痕愈合面的平滑度决定；谱线总数由光能到达深度范围内的疤痕总数与缺陷总数共同决定。本文将此统一机制应用于氢、铁、金刚石、水银等体系，并讨论高能碰撞中的深度标尺。全部概念以TDMU原生术语表述，不使用“能级”、“跃迁”、“电子轨道”等标准模型概念。
+本文在拓扑动力膜宇宙模型（TDMU v2.342）公设体系内，提出特征光谱的纯几何解释。核心论点：原子核不是粒子的拼装体，而是从原砖开始层层编织的连续拓扑结。编织过程中留下的编织疤痕（已愈合的缺陷互补界面）和拓扑缺陷（未闭合的悬挂端口）共同构成光谱活性的几何来源。光——共享链接取向度的横波扰动δ𝒜——在穿过这些几何非均匀区域时发生散射、捕获和共振释放。谱线频率由疤痕在编织体中的深度和该处的应力状态共同决定；谱线宽度由疤痕愈合面的平滑度决定；谱线总数由光能到达深度范围内的疤痕总数与缺陷总数共同决定。本文将此统一机制应用于氢、铁、金刚石、水银等体系，并讨论化学频移与分子光谱的几何解释。全部概念以TDMU原生术语表述，不使用“能级”、“跃迁”、“电子轨道”等标准模型概念。
 
 1. 光谱活性的几何来源
-1.1 两种几何非均匀区域
-根据TDMU公设八（递归生长），原子核是由原砖、电子砖等子拓扑结通过缺陷互补编织逐级递归形成的巨型稳定拓扑结。在这一编织过程中，产生两类几何非均匀区域：
+1.1 原子核的编织结构
+在TDMU中，原子核不是质子与中子的拼装体，而是从原砖开始层层编织的连续拓扑结。没有中子，没有质子，没有电子——这些只是递归生长路径上不同阶次稳定拓扑结的方便标签。每一步递归编织都在已有结构上进行，不存在独立子结构之间的界面，只有编织留下的疤痕。原砖是编织起点，其结构在膜涌现时固定，后续编织不改变原砖本身，但层层包裹会持续改变原砖周围环境的应力状态。
+
+1.2 两种几何非均匀区域
+在这一编织过程中，产生两类几何非均匀区域。
 
 定义1.1：编织疤痕
 
-子拓扑结通过缺陷互补编织实现啮合时，其啮合界面上形成的已愈合但几何非理想的共享链接网络区域，称为编织疤痕。
-
-编织疤痕的特征：
-
-链接饱和度已达局部最大值（编织已闭合，不再是“洞”）；
-
-平滑度低于理想编织面——缝合面的共享链接取向张量𝒜_ij偏离均匀排列，存在残余拓扑应力（缝合线应力集中系数ℐ > 0）；
-
-局域刚度κ_scar与周围理想编织区域κ_bulk存在差异，构成阻抗失配界面。
-
-编织疤痕是拓扑结内部递归编织历史的结构性印记。
+编织过程中，每一步缺陷互补编织完成后，啮合界面上形成已愈合但几何非理想的共享链接网络区域，称为编织疤痕。其特征为：链接饱和度已达局部最大值（编织已闭合，不再是“洞”）；平滑度低于理想编织面，缝合面的共享链接取向张量偏离均匀排列，存在残余拓扑应力；局域刚度与周围理想编织区域存在差异，构成阻抗失配界面。编织疤痕是拓扑结内部递归编织历史的结构性印记。
 
 定义1.2：拓扑缺陷
 
-拓扑结表面编织无法达到绝对完美闭合而留下的未饱和悬挂端口，称为拓扑缺陷（TDMU定义7.2）。拓扑缺陷是核反应的活性位点（路径一的触发位置），同时也是光谱吸收的活性位点。
+编织体表面无法达到绝对完美闭合而留下的未饱和悬挂端口，称为拓扑缺陷。拓扑缺陷是核反应的活性位点（路径一的触发位置），同时也是光谱吸收的活性位点。
 
 两类非均匀区域的区分：
 
@@ -386,7 +214,7 @@ mjp
 平滑度	非理想平滑（有愈合痕迹）	不适用（为开放边界）
 光谱作用	阻抗失配→散射与共振	吸收（打破悬挂链接的局域约束）
 核反应作用	无（已饱和）	有（路径一的触发位点）
-1.2 链接区：两类非均匀区域的统称
+1.3 链接区：两类非均匀区域的统称
 定义1.3：链接区
 
 编织疤痕与拓扑缺陷的统称。链接区是编织体中共享链接网络出现非均匀性的局部区域——无论是已愈合的疤痕还是未闭合的缺陷，其共同特征是局域链接状态与周围理想编织区域存在可探测的差异。
@@ -394,276 +222,142 @@ mjp
 链接区具有三个几何参数，直接决定光谱特征：
 
 参数	定义	光谱对应
-深度	该链接区在递归编织体中的空间位置（以距核表面的节点步数度量）	共振/吸收频率的主决定因素
+深度	该链接区在编织体内的空间位置（以距核表面的节点步数度量）	共振/吸收频率的主决定因素
 稳定程度	链接区内共享链接的平均链接饱和度𝒮（链接已饱和时取高值，未饱和缺陷取低值）	共振/吸收频率的次决定因素
 平滑度	链接区（疤痕）愈合面与理想编织面的几何偏离度；缺陷的边界不规则度	谱线宽度
-命题1（谱线频率）：谱线频率 ω = f (深度，稳定程度)。深度越深、稳定程度（链接饱和度𝒮）越高 → 局域刚度越大 → 共振频率越高。
+命题1（谱线频率）：谱线频率由链接区深度和该处的应力状态共同决定。深度越深、稳定程度越高→局域刚度越大→共振频率越高。但局域刚度并非孤立属性——整个编织体的全局应力分布会压缩或拉伸特定区域的疤痕，改变其共振频率。因此，任一条谱线都是整个编织体应力平衡态在该疤痕位置上的综合表现。
 
-命题2（谱线宽度）：谱线宽度 Γ = g (平滑度)。平滑度越低（愈合面越粗糙、缺陷边界越不规则）→ 激发态能量耗散速率越大 → 线宽越宽。
+命题2（谱线宽度）：谱线宽度由疤痕平滑度决定。平滑度越低（愈合面越粗糙、缺陷边界越不规则）→激发态能量耗散速率越大→线宽越宽。
 
-命题3（谱线总数）：谱线总数 = 光能到达的深度范围内，编织疤痕的总数（贡献共振谱线）+ 拓扑缺陷的总数（贡献吸收谱线）。
+命题3（谱线总数）：谱线总数=光能到达的深度范围内，编织疤痕的总数（贡献共振谱线）+拓扑缺陷的总数（贡献吸收谱线）。
 
-1.3 光与链接区的相互作用机制
-光在TDMU中定义为共享链接取向度的横波扰动δ𝒜（TDMU定义9.5、6.1.1）。
+1.4 光与链接区的相互作用机制
+光在TDMU中定义为共享链接取向度的横波扰动δ𝒜。
 
 当δ𝒜在共享链接网络中传播，遇到链接区时：
 
-阻抗失配：链接区的局域刚度κ_linkage与周围κ_bulk不同 → 部分扰动被反射（散射）
+阻抗失配：链接区的局域刚度与周围不同→部分扰动被反射（散射）
 
-共振捕获：若链接区（疤痕）形成有效共振腔（边界条件由缝合线的几何构型决定），特定频率的δ𝒜被捕获，以该腔的固有频率振荡
+共振捕获：若链接区形成有效共振腔（边界条件由缝合线的几何构型决定），特定频率的δ𝒜被捕获，以该腔的固有频率振荡
 
-共振释放：捕获的能量通过隧穿或边界重联耗散而释放 → 发射谱线
+共振释放：捕获的能量通过隧穿或边界重联耗散而释放→发射谱线
 
-吸收：若链接区为拓扑缺陷（未饱和悬挂端口），入射δ𝒜的能量被吸收以打破该端口的局域约束 → 吸收谱线
+吸收：若链接区为拓扑缺陷（未饱和悬挂端口），入射δ𝒜的能量被吸收以打破该端口的局域约束→吸收谱线
 
 吸收光谱与发射光谱的几何机制即此。
 
-2. 氢：递归阶次最低的编织体
+2. 氢：编织历史最短的编织体
 2.1 几何结构
-氢核是TDMU框架下递归生长树的最低阶稳定拓扑结——由最少量的底层拓扑结（原砖）经最少步数的缺陷互补编织形成。
+氢核是TDMU框架下递归生长路径上阶次最低的稳定拓扑结——从原砖开始，经历了最少步数的递归编织。任何递归编织都会形成多层结构，即使是氢核，其内部仍存在原砖之间的拼接界面（编织疤痕）和表面未闭合的悬挂端口（拓扑缺陷）。这些链接区分布在从核中心到表层的各个深度上。
 
-关键澄清：“递归阶次最低”不等于“只有一层编织”。任何递归编织都会形成多层结构——即使是氢核，其内部仍存在原砖之间的拼接界面（编织疤痕）和表面未闭合的悬挂端口（拓扑缺陷）。这些链接区分布在从核中心到表层的各个深度上。
-
-氢核的几何特征：
-
-递归层数最少 → 编织历史最短
-
-链接区总数极少——但各深度均有分布（深层：原砖拼接疤痕；中层：层间界面疤痕；表层：编织收口处疤痕与表面缺陷）
-
-编织层数最少 → 累积编织误差最小 → 所有链接区平滑度极高
+氢核的几何特征：递归步数最少→编织历史最短；链接区总数极少——但各深度均有分布（深层为原砖拼接疤痕，中层为层间界面疤痕，表层为编织收口处疤痕与表面缺陷）；编织步数最少→累积编织误差最小→所有链接区平滑度极高。
 
 2.2 光谱事实
-氢原子光谱由多个线系构成（莱曼系、巴耳末系、帕邢系等），频率满足里德伯公式。谱线数量相对较少，线宽极窄。
-
-实验基准：
-
-莱曼系（紫外）：谱线波长 91–122 nm
-
-巴耳末系（可见光）：谱线波长 364–656 nm
-
-帕邢系（红外）：谱线波长 820–1875 nm
-
-典型自然线宽：Δλ ~ 10⁻⁵ nm（对应寿命 ~ 10⁻⁸ s）
+氢原子光谱由多个线系构成（莱曼系、巴耳末系、帕邢系等），频率满足里德伯公式。谱线数量相对较少，线宽极窄。莱曼系在紫外波段（91–122 nm），巴耳末系在可见光波段（364–656 nm），帕邢系在红外波段（820–1875 nm）。典型自然线宽约10⁻⁵ nm量级。
 
 2.3 TDMU解读
 谱线数量少：链接区总数极少。但每个深度层都有链接区，因此氢的光谱仍呈现多个线系，覆盖紫外至红外。
 
-线宽极窄：编织层数最少 → 累积编织误差最小 → 所有疤痕的平滑度极高 → 激发态能量耗散极慢 → 谱线极锐。
+线宽极窄：编织步数最少→累积编织误差最小→所有疤痕的平滑度极高→激发态能量耗散极慢→谱线极锐。
 
-频率的整数倍关系：有限尺度链接区共振模的谐频结构——每个链接区作为共振腔，支持基频和一系列整数倍泛频。这是孤立有限边界共振结构的普遍数学性质，并非量子力学特有。
+频率的整数倍关系：有限尺度链接区共振模的谐频结构——每个链接区作为共振腔，支持基频和一系列整数倍泛频。这是孤立有限边界共振结构的普遍数学性质。
 
-不同线系对应不同深度：莱曼系对应深层链接区共振（频率高）；巴耳末系对应中层链接区共振；帕邢系对应表层链接区共振。三个线系的波长范围差异，反映了链接区深度的系统变化：深层链接区局域刚度大 → 共振频率高 → 波长短（紫外）；浅层链接区局域刚度小 → 共振频率低 → 波长长（红外）。
+不同线系对应不同深度：莱曼系对应深层链接区共振（频率高，波长短）；巴耳末系对应中层链接区共振；帕邢系对应表层链接区共振（频率低，波长长）。三个线系的波长差异反映了链接区深度的系统变化。
 
-与实验的一致性检验：
+关于里德伯公式：里德伯公式的1/n²形式在本框架中解释为链接区共振腔的谐频结构。标准模型中n是主量子数，本框架中n对应共振模的谐频阶次。两者在数学形式上等价，但物理本体不同。本框架无法从第一原理推导出里德伯常数的精确数值，这是一个待定参数。
 
-里德伯公式的 1/n² 形式在本框架中解释为：链接区共振腔的谐频结构。标准模型中，n 是主量子数；本框架中，n 对应共振模的谐频阶次。两者在数学形式上等价，但物理本体不同。本框架无法从第一原理推导出里德伯常数的精确数值（这需要知道链接区共振腔的具体尺寸和局域刚度常数），这是一个待定参数，需要由实验确定。
+关于选择定则：本框架当前无法从几何机制中推导出等价的选择定则。初步推测：选择定则可能源于入射光δ𝒜的偏振方向与共振腔几何对称性的匹配条件——只有偏振方向与腔的对称轴匹配的模才能被有效激发。
 
-与实验的潜在不一致：
-
-氢的莱曼系、巴耳末系等具有严格的选择定则（如Δl = ±1），决定哪些频率的谱线可以出现。本框架当前无法从几何机制中推导出等价的选择定则。初步推测：选择定则可能源于入射光δ𝒜的偏振方向与共振腔几何对称性的匹配条件——只有偏振方向与腔的对称轴匹配的模才能被有效激发。此推测待进一步论证。
-
-结论：氢的简单光谱是“递归阶次最低的编织体，链接区总数极少，但各深度均有分布”的直接结果。
+结论：氢的简单光谱是“编织历史最短的编织体，链接区总数极少，但各深度均有分布”的直接结果。
 
 3. 铁：深递归编织的丰富疤痕体系
 3.1 几何结构
-铁核（以Fe-56为主）是由26个手性拓扑团（带单位正电）与其他中性拓扑团通过多层级递归编织形成的巨型稳定拓扑结。其递归体量远大于氢核：
-
-递归层数多——26个手性团的编织历史涉及大量独立步骤
-
-每一层存在大量拼接边界——手性团之间的缺陷互补编织在每一层级都会留下疤痕
-
-链接区分布在从表层到深层的各个深度，且各深度的数量都远多于氢核
-
-链接区在各深度上的分布相对均匀——这是多层级编织的自然结果，每个编织阶段都贡献了相应深度的疤痕
+铁核（以Fe-56为主）是从原砖开始经历了大量递归编织步骤形成的巨型稳定拓扑结。其递归体量远大于氢核：编织历史复杂，每一步编织都留下疤痕；链接区分布在从表层到深层的各个深度，且各深度的数量都远多于氢核；链接区在各深度上的分布相对均匀——这是多步骤编织的自然结果，每个编织阶段都贡献了相应深度的疤痕。
 
 3.2 光谱事实
-铁的可见光谱线极丰富（仅可见光波段就有数万条记录谱线），覆盖从红外到硬X射线的极宽波段。铁核（Fe-56）是宇宙中最稳定的核素之一（每个核子的结合能最高）。
-
-实验基准：
-
-中性铁原子（Fe I）的谱线数据库记录超过20,000条
-
-谱线覆盖范围：从近红外（~1 μm）到硬X射线（~0.01 nm，K层特征能量约6.4 keV）
-
-Fe-56的每个核子平均结合能约8.79 MeV，为所有核素中最高
-
-相邻核素（Fe-54、Fe-57、Fe-58）具有几乎相同的化学性质，但核性质（如中子俘获截面）差异显著
+铁的可见光谱线极丰富（仅可见光波段就有数万条记录谱线），覆盖从红外到硬X射线的极宽波段。Fe-56是宇宙中最稳定的核素之一（每个核子的结合能最高）。相邻核素（Fe-54、Fe-57、Fe-58）具有几乎相同的化学性质，但核性质差异显著。
 
 3.3 TDMU解读
 谱线极丰富：铁核的编织疤痕总数和拓扑缺陷总数极多。每一处疤痕对应一组共振模，每一处缺陷对应吸收特征。数万条谱线是大量链接区各自独立贡献的叠加。
 
-覆盖宽波段：链接区在各深度上分布相对均匀——从表层到深层，每个深度都有足够数量的链接区来响应相应能标的光。表层的疤痕产生低频谱线（红外-可见光），深层的疤痕产生高频谱线（X射线）。这与铁核的多层级编织历史一致：26个手性团的递归编织是多阶段过程，疤痕在各深度层级上均匀累积。
+覆盖宽波段：链接区在各深度上分布相对均匀——从表层到深层，每个深度都有足够数量的链接区来响应相应能标的光。表层的疤痕产生低频谱线（红外至可见光），深层的疤痕产生高频谱线（X射线）。这与铁核的多步骤编织历史一致。
 
-核极稳定：虽然存在大量表层和中层链接区（产生丰富光谱），但铁核的深层链接区共享链接排列高度有序，链接饱和度𝒮_core接近最大值，缝合线应力集中系数ℐ极低。这是铁核具有最高E_抗压（每个核子结合能最高）的几何根源。
+核极稳定：虽然存在大量表层和中层链接区（产生丰富光谱），但铁核的深层编织区域链接排列高度有序，链接饱和度接近最大值，缝合线应力集中系数极低。这是铁核具有最高抗压结合能的几何根源。
 
-不矛盾性：不同深度的链接区由不同能标的光独立探测。低能光（可见光）仅探及表层链接区，高能光（X射线）才能探及深层链接区。表层光谱丰富与深层结构稳定，两者由完全独立的几何自由度承载，互不冲突。
-
-与实验的一致性检验：
-
-Fe-56的每个核子结合能最高，与本框架“深层链接区𝒮_core→1，ℐ→0”的推论一致。
-
-铁的光谱线数量远超轻核（氢、氦），与“递归体量大 → 疤痕多”的推论一致。
-
-铁的X射线特征谱（Kα约6.4 keV，Kβ约7.1 keV）对应深层链接区共振，与本框架的深度-频率映射一致。
+不矛盾性：不同深度的链接区由不同能标的光独立探测。低能光仅探及表层链接区，高能光才能探及深层链接区。表层光谱丰富与深层结构稳定，两者由完全独立的几何自由度承载，互不冲突。
 
 结论：铁光谱极复杂是“铁核的编织疤痕多且分布于各深度”的直接结果。铁核极稳定是“深层编织近乎完美”的结果。两者不矛盾。
 
 4. 金刚石：全部链接区饱和配对
 4.1 几何结构
-金刚石晶体中，每个碳核表层的拓扑缺陷通过路径一（缺陷互补编织）与相邻碳核的对应缺陷完成饱和配对。整块晶体形成一个宏观的、无孤立链接区的刚体共享链接网络。
-
-关键几何特征：
-
-所有碳核的表面缺陷均被饱和配对 → 无孤立的未饱和缺陷
-
-编织疤痕仍然存在（碳核内部的递归编织痕迹），但缺陷互补编织使得相邻碳核的疤痕彼此嵌合，形成一个跨越整个晶体的全局刚性链接网络
-
-链接长度在整块晶体中高度均匀（周期性晶格结构的几何必然）
+金刚石晶体中，每个碳核表层的拓扑缺陷通过路径一（缺陷互补编织）与相邻碳核的对应缺陷完成饱和配对。整块晶体形成一个宏观的、无孤立链接区的刚体共享链接网络。所有碳核的表面缺陷均被饱和配对→无孤立的未饱和缺陷。编织疤痕仍然存在，但缺陷互补编织使相邻碳核的疤痕彼此嵌合，形成跨越整个晶体的全局刚性链接网络。链接长度在整块晶体中高度均匀。
 
 4.2 光谱事实
-金刚石无原子特征谱线。仅有一个晶格集体振动峰（一阶拉曼峰1332 cm⁻¹），峰宽极窄（~2 cm⁻¹）。吸收边陡峭（约5.5 eV的间接带隙）。
-
-实验基准：
-
-一阶拉曼峰：1332 cm⁻¹（室温），半高宽 ~1.5–2 cm⁻¹
-
-紫外吸收边：~225 nm（约5.5 eV），对应于间接带隙
-
-在可见光至近红外区域透明，无可探测的原子吸收或发射线
+金刚石无原子特征谱线。仅有一个晶格集体振动峰（一阶拉曼峰1332 cm⁻¹），峰宽极窄（~2 cm⁻¹）。吸收边陡峭（约5.5 eV的间接带隙）。在可见光至近红外区域透明，无可探测的原子吸收或发射线。
 
 4.3 TDMU解读
 无原子特征谱线：所有拓扑缺陷已被饱和配对，无孤立悬挂端口可供光吸收。碳核内部的编织疤痕虽在，但被刚性的全局共享链接网络抑制了独立共振——疤痕无法作为独立共振腔运作，因为其边界条件被相邻疤痕的刚性耦合锁定。
 
 单晶格振动峰：整块晶体的全局共享链接网络只有一个基本集体振动模——所有链接同相位伸缩。1332 cm⁻¹是该集体模的特征频率。
 
-峰极锐：链接长度在整块晶体中高度一致（周期性晶格），集体振动模的能量耗散极低。
+峰极锐：链接长度在整块晶体中高度一致，集体振动模的能量耗散极低。
 
 吸收边陡峭：5.5 eV对应于打破全局刚性链接网络中某个链接所需的最小能量阈值。此能量以下，无可用耗散通道。
-
-与实验的一致性检验：
-
-金刚石的拉曼峰频率与峰宽，与本框架“全局刚性网络单一集体模”的定性预期一致。
-
-金刚石无原子特征谱线，与本框架“无孤立缺陷 = 无独立原子谱线”的推论一致。
-
-吸收边的存在及其陡峭性，与本框架“存在全局刚性网络的集体能量阈值”的推论一致。但5.5 eV的具体数值是本框架无法从第一原理推导的待定参数。
 
 结论：金刚石在光谱上是“静默”的——全部表面缺陷被相邻碳核饱和配对，内部疤痕的独立共振被全局刚性网络抑制。光只能看到晶体的集体振动。
 
 5. 水银：链接区的集体冻结
 5.1 几何结构
-水银（Hg）在常温下为液态，原子核之间的相对位置不断变化，各核的链接区处于热激活状态——各自独立振动，无全局相位关联。
-
-当温度降至Tc（约4.2 K）以下时，水银进入超导态。在TDMU框架中（定义9.3），超导态对应：
-
-D_ij Θ = 0, 对所有最近邻节点对⟨i, j⟩
-
-即全部链接区达成全局相位同步——所有共享链接的螺旋运动步调完全一致。
+水银在常温下为液态，原子核之间的相对位置不断变化，各核的链接区处于热激活状态——各自独立振动，无全局相位关联。当温度降至超导转变温度以下时，水银进入超导态。在TDMU框架中，超导态对应所有最近邻节点对的组合协变导数归零，即全部链接区达成全局相位同步——所有共享链接的螺旋运动步调完全一致。
 
 5.2 光谱事实
-正常态（T > Tc）：远红外反射率平缓，约90%
-
-超导态（T ≪ Tc）：远红外反射率在特征频率处突增至接近100%，阈值频率处有微弱吸收凹陷
-
-实验基准：超导水银的远红外反射率在频率低于约10¹¹ Hz时从~90%跳变至>99.9%；在约3.5k_BT_c（约3×10¹¹ Hz，对应能隙约1.2 meV）处出现吸收阈值
+正常态下远红外反射率平缓，约90%。超导态下远红外反射率在特征频率处突增至接近100%，阈值频率处有微弱吸收凹陷。超导水银的远红外反射率在频率低于约10¹¹ Hz时从约90%跳变至超过99.9%，在约3×10¹¹ Hz处出现吸收阈值。
 
 5.3 TDMU解读
-正常态：各核的链接区各自独立振动（热激活），入射光δ𝒜在每个链接区都可能遭遇阻抗失配 → 部分散射，部分被吸收耗散 → 反射率中等（~90%），无尖锐光谱特征。
+正常态：各核的链接区各自独立振动（热激活），入射光δ𝒜在每个链接区都可能遭遇阻抗失配→部分散射，部分被吸收耗散→反射率中等，无尖锐光谱特征。
 
-超导态：全部链接区进入全局相位锁定（D_ij Θ = 0，∀⟨i, j⟩）。在此状态下，频率低于某一阈值的入射光δ𝒜无法在共享链接网络中激发任何非同步扰动——因为所有链接的运动已被锁定，δ𝒜必须打破这一全局锁定才能被吸收。低频光无法打破锁定 → 被完全反射（刚性反射，反射率趋近100%）。
+超导态：全部链接区进入全局相位锁定。在此状态下，频率低于某一阈值的入射光δ𝒜无法在共享链接网络中激发任何非同步扰动——因为所有链接的运动已被锁定，δ𝒜必须打破这一全局锁定才能被吸收。低频光无法打破锁定→被完全反射，反射率趋近100%。
 
-阈值频率：对应于打破D_ij Θ = 0全局锁定的最小能量。在此阈值处，入射光恰好能激发链接区脱离同步态，形成吸收凹陷。阈值频率在现象层等价于超导能隙Δ。
-
-与实验的一致性检验：
-
-超导态下反射率从~90%跳变至>99.9%，与本框架“全局锁定的刚性反射”推论一致。
-
-阈值频率的存在及其在能标上的位置（~3.5k_BT_c），与本框架“打破同步所需最小能量”的定性描述一致。但具体数值（3.5k_BT_c）无法从第一原理推导，为待定参数。
-
-正常态的平缓反射率与本框架“热激活独立散射”的推论一致。
+阈值频率：对应于打破全局锁定的最小能量。在此阈值处，入射光恰好能激发链接区脱离同步态，形成吸收凹陷。阈值频率在现象层等价于超导能隙。
 
 结论：超导相变是所有链接区的集体同步相变。正常态下，链接区各自独立散射光。超导态下，低频光面对的是一个完全同步的、刚性的共享链接网络，无法被吸收，只能被全反射。
 
 6. 化学频移与分子光谱
 6.1 化学频移
-当原子结合形成分子时，两个核表层的拓扑缺陷通过路径一（缺陷互补编织）发生耦合，形成新的共享链接通道（化学键）。
-
-这一耦合改变了参与链接区的边界条件：
-
-被压缩（链接缩短）：共享链接网络被拉紧 → 局域刚度κ增大 → 疤痕的共振频率升高 → 谱线蓝移
-
-被拉伸（链接伸长）：共享链接网络被放松 → 局域刚度κ减小 → 疤痕的共振频率降低 → 谱线红移
-
-与实验的一致性：
-
-化学环境变化导致的光谱频率移动（化学位移）在实验中被广泛观测。例如，氢在不同化学环境中（H₂O vs. CH₄ vs. HF）的共振频率有微小但可测的差异。
-
-本框架将这一现象解释为：不同化学键的几何约束（链接长度、链接角度）改变了参与疤痕的有效刚度。
+当原子结合形成分子时，两个核表层的拓扑缺陷通过路径一发生耦合，形成新的共享链接通道（化学键）。这一耦合改变了参与链接区的边界条件：被压缩（链接缩短）→局域刚度增大→疤痕共振频率升高→谱线蓝移；被拉伸（链接伸长）→局域刚度减小→疤痕共振频率降低→谱线红移。化学环境变化导致的光谱频率移动在实验中被广泛观测，本框架将其解释为不同化学键的几何约束改变了参与疤痕的有效刚度。
 
 6.2 分子光谱的新特征
-分子形成后，除原有原子核的链接区共振外，还出现新的光谱特征：
+分子形成后，除原有原子核的链接区共振外，还出现新的光谱特征。分子键本身的共振模：两个或多个核表层缺陷互补编织后形成的新链接区，本身具有独立的共振频率，通常落在红外区（分子键链接区的尺度大于核内链接区）。层级耦合模：分子键的振动通过共享链接网络耦合到核内疤痕的共振频率上，产生频率调制，出现主峰与边带结构。这是分子光谱出现新谱线和精细结构的几何解释——在TDMU框架中，这不是“电子能级跃迁”，而是“编织层级间链接区的耦合共振”。
 
-分子键本身的共振模：两个（或多个）核表层缺陷互补编织后形成的新链接区，本身具有独立的共振频率。这些频率通常落在红外区（频率较低，因为分子键链接区的尺度大于核内链接区）。
-
-层级耦合模：分子键的振动（链接区尺度变化）通过共享链接网络耦合到核内疤痕的共振频率上，产生频率调制 → 出现主峰与边带结构。
-
-这是分子光谱出现新谱线（红外特征峰）和精细结构（振转耦合）的几何解释。在TDMU框架中，这不是“电子能级跃迁”，而是“编织层级间链接区的耦合共振”。
-
-7. 高能碰撞：深度标尺
-入射拓扑结（或等效地说，入射光/粒子的能量）决定了其能穿透的编织深度：
-
-能标	可探及的链接区深度	对应现象
-eV量级	表层拓扑缺陷及邻近表面疤痕	化学键断裂与重组
-keV–MeV	中层编织疤痕	特征X射线（内层疤痕共振）
-MeV–GeV	深层编织疤痕及缝合线	核裂变（沿应力集中的缝合线撕裂）
-TeV以上	核内子拓扑结的递归结构	深度非弹性散射（喷注对应子结拆解）
-推论7.1（裂变产物的深度选择性）：
-
-若入射拓扑结的能量可精确控制至仅作用于某一特定深度的编织疤痕，复合核将优先沿该疤痕所在的缝合线撕裂。在此极限下，裂变产物的质量分布将趋于确定性而非统计分布。
-
-当前实验观测：低能中子诱发²³⁵U裂变时，产物质量分布呈双峰统计分布。本框架将此解释为：入射中子的能量虽相对确定（热中子~0.025 eV），但²³⁵U核的ℐ > 0（内核缺位，见TDMU推论8.2），存在多条应力集中的缝合线，裂变可沿任一触发概率较高的缝合线发生，导致产物分布的统计性。
-
-可检验推论：若能设计实验以单能γ射线选择性激发特定深度的疤痕，裂变产物的质量分布应收窄并偏离常规的双峰分布，趋向特定的质量数。此推论具有潜在可证伪性。
-
-8. 统一映射表
+7. 统一映射表
 物质	TDMU几何描述	链接区特征	光谱表现
-氢	递归阶次最低的编织体	总数极少，各深度均有分布；平滑度极高	谱线少但覆盖多波段；线宽极窄
-铁	含26手性团的深层递归编织	总数极多，各深度分布均匀；深层饱和度极高	谱线极丰富，覆盖宽波段；核极稳定
+氢	编织历史最短的编织体	总数极少，各深度均有分布；平滑度极高	谱线少但覆盖多波段；线宽极窄
+铁	深递归编织的丰富疤痕体系	总数极多，各深度分布均匀；深层饱和度极高	谱线极丰富，覆盖宽波段；核极稳定
 金刚石	全部表面缺陷与相邻核饱和配对	无孤立缺陷；内部疤痕被刚性网络抑制	无原子特征谱，仅单晶格振动峰
 水银（正常态）	链接区热激活	各自独立振动	反射率平缓
-水银（超导态）	D_ij Θ = 0，全局相位锁定	集体刚性状态	低频全反射，阈值处吸收
-9. 结论
-原子核是层层糊成的递归编织球。编织过程中，缺陷互补啮合留下的编织疤痕和表面未闭合的拓扑缺陷是光谱活性的几何来源。
+水银（超导态）	全局相位锁定	集体刚性状态	低频全反射，阈值处吸收
+8. 结论
+原子核是层层编织的连续拓扑结。编织过程中，缺陷互补啮合留下的编织疤痕和表面未闭合的拓扑缺陷是光谱活性的几何来源。
 
-谱线频率 = f (链接区深度 × 稳定程度)。深层疤痕 → 局域刚度大 → 频率高。
+谱线频率由链接区深度和全局应力状态共同决定。深层疤痕→局域刚度大→频率高。但局域刚度并非孤立属性——整个编织体的应力分布会压缩或拉伸已有疤痕，改变其共振频率。
 
-谱线宽度 = g (疤痕平滑度)。平滑度低（愈合面粗糙）→ 激发态耗散快 → 线宽宽。
+谱线宽度由疤痕平滑度决定。平滑度低（愈合面粗糙）→激发态耗散快→线宽宽。
 
-谱线总数 = 光能可及深度内的疤痕总数 + 缺陷总数。疤痕贡献共振发射/吸收，缺陷贡献吸收。
+谱线总数由光能可及深度内的疤痕总数与缺陷总数决定。疤痕贡献共振发射，缺陷贡献吸收。
 
-氢的链接区极少但各深度均有 → 谱线少却覆盖多波段。
-
-铁的链接区极多且分布均匀 → 谱线极丰富，覆盖宽波段。
-
-金刚石的全部表面缺陷被相邻核饱和配对 → 光谱静默。
-
-水银超导态的全部链接区全局同步 → 低频光被刚性反射。
+氢的链接区极少但各深度均有→谱线少却覆盖多波段。铁的链接区极多且分布均匀→谱线极丰富，覆盖宽波段。金刚石的全部表面缺陷被相邻核饱和配对→光谱静默。水银超导态的全部链接区全局同步→低频光被刚性反射。
 
 本论文不使用“能级”、“跃迁”、“电子轨道”、“光子”等标准模型概念。全部解释基于TDMU公设体系内的原生术语：编织疤痕、拓扑缺陷、共享链接、取向度横波δ𝒜、链接饱和度𝒮、平滑度、深度。
 
 附录：测不准原理在TDMU中的定位
-标准量子力学中的测不准关系 Δx·Δp ≥ ℏ/2，在TDMU中等价表述为：
-
-链接区空间定位精度（以节点步数计量）与该链接区重联历史计数精度（以重联事件数计量）的乘积，存在由离散编织网络分辨率决定的下界。
-
-这一关系并非本框架的先验公设，而是离散组合网络在连续极限下的涌现统计性质。其深层原因在于：对链接区位置的每一次“测量”（局域重联探测），都不可避免地改变该区域的链接状态，从而影响对其重联历史的精确计数。ℏ 在本框架中对应这一“最小扰动-响应乘积”的几何常数。
+标准量子力学中的测不准关系在TDMU中等价表述为：链接区空间定位精度（以节点步数计量）与该链接区重联历史计数精度（以重联事件数计量）的乘积，存在由离散编织网络分辨率决定的下界。这一关系并非本框架的先验公设，而是离散组合网络在连续极限下的涌现统计性质。其深层原因在于：对链接区位置的每一次“测量”（局域重联探测），都不可避免地改变该区域的链接状态，从而影响对其重联历史的精确计数。
 
 术语表
 术语	TDMU原生定义
-编织疤痕	缺陷互补编织完成后，啮合界面上已愈合但非理想平滑的共享链接网络区域。链接饱和但存在残余应力和取向畸变。贡献共振谱线。
+编织疤痕	编织过程中，每一步缺陷互补编织完成后，啮合界面上已愈合但非理想平滑的共享链接网络区域。链接饱和但存在残余应力和取向畸变。贡献共振谱线。
 拓扑缺陷	编织体表面未闭合的悬挂端口。链接未饱和。贡献吸收谱线，同时是核反应（路径一）的位点。
 链接区	编织疤痕与拓扑缺陷的统称。共享链接网络中出现非均匀性的局部区域。
-深度	链接区在递归编织体中的空间位置，以距核表面的节点步数度量。
+深度	链接区在编织体内的空间位置，以距核表面的节点步数度量。
 稳定程度	链接区内共享链接的平均链接饱和度𝒮。饱和度越高，局域刚度越大。
 平滑度	编织疤痕愈合面与理想编织面的几何偏离度；缺陷边界的不规则度。
 共享链接	拓扑结之间通过膜上中间环路建立的多重连接路径。
@@ -671,4 +365,3 @@ TeV以上	核内子拓扑结的递归结构	深度非弹性散射（喷注对应
 𝒮	链接饱和度，链接数占所有可能连接路径的比例。
 ℐ	缝合线应力集中系数，表征疤痕愈合面的几何非理想程度。
 D_ij Θ	组合协变导数，表征共享链接相位场的局域同步程度。
-参考文献 略
