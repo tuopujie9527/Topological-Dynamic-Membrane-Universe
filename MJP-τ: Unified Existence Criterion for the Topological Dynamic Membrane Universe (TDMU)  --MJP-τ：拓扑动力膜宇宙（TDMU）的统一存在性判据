@@ -1,5 +1,5 @@
 MJP-τ: Unified Existence Criterion for the Topological Dynamic Membrane Universe (TDMU)
-— The First Mathematical Weapon of TDMU · Final Version
+— The First Mathematical Weapon of TDMU
 
 Author: mjp
 Associated Framework: TDMU (Topological Dynamic Membrane Universe model) v2.342
@@ -8,40 +8,17 @@ Core Symbol: τ (Tao, global topological marker)
 Abstract
 Under the constraints imposed by the postulates of the TDMU framework, the necessary and sufficient condition for the stable emergence of a closed cosmic membrane is formalised as a single rigid criterion:
 
-U
-τ
-=
-0.
-U 
-τ
-​
- =0.
+Uτ=0.
+
 This criterion couples the discrete prime skeleton, the continuous geometric background, the zero spectrum of the Riemann zeta function, the total Gaussian curvature of the membrane, the universal chaos constants, and the natural base 
-e
-e and 
-π
-π into one functional. Within the axiom system of the model, if 
-U
-τ
-≠
-0
-U 
-τ
-​
- 
-
-=0, the woven states inside the membrane cannot satisfy the topological boundary matching condition with the external non-woven states, and the cosmic membrane disintegrates at the very instant of emergence.
+e and π into one functional. Within the axiom system of the model, if 
+Uτ≠0, the woven states inside the membrane cannot satisfy the topological boundary matching condition with the external non-woven states, and the cosmic membrane disintegrates at the very instant of emergence.
 
 This paper presents the complete definition of the criterion, the geometric mapping of its parameters, the stratification of its logical status, and its falsifiability paths. All conclusions are confined to the domain in which the TDMU postulates hold.
 
 1. Formal Definition and Preliminary Assumptions
 Define the cosmic-membrane existence functional 
-U
-τ
-U 
-τ
-​
-  as
+U τas
 
 U
 τ
@@ -753,25 +730,17 @@ None is external, none is redundant.
 
 （中文版）
 MJP-τ：拓扑动力膜宇宙（TDMU）的统一存在性判据
-——TDMU 的第一架数学武器 · 最终定稿
-
+——TDMU 的第一架数学武器
 作者：马江平
 日期：2026年8月4日
 关联框架：TDMU（拓扑动力膜宇宙模型）v2.342
 核心符号：
-τ
 τ（Tao，全局拓扑标记）
 
 摘要
 在 TDMU 框架公设约束下，闭合宇宙膜稳定涌现的充要条件被形式化为单一刚性判据 
-U
-τ
-=
-0
-U 
-τ
-​
- =0。
+              Uτ=0
+。
 
 该判据将离散素数骨架、连续几何背景、黎曼 
 ζ
