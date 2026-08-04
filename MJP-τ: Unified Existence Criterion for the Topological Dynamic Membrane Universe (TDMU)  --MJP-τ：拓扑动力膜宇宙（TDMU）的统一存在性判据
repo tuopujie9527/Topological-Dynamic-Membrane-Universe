@@ -1,0 +1,1469 @@
+MJP-τ: Unified Existence Criterion for the Topological Dynamic Membrane Universe (TDMU)
+— The First Mathematical Weapon of TDMU · Final Version
+
+Author: mjp
+Associated Framework: TDMU (Topological Dynamic Membrane Universe model) v2.342
+Core Symbol: τ (Tao, global topological marker)
+
+Abstract
+Under the constraints imposed by the postulates of the TDMU framework, the necessary and sufficient condition for the stable emergence of a closed cosmic membrane is formalised as a single rigid criterion:
+
+U
+τ
+=
+0.
+U 
+τ
+​
+ =0.
+This criterion couples the discrete prime skeleton, the continuous geometric background, the zero spectrum of the Riemann zeta function, the total Gaussian curvature of the membrane, the universal chaos constants, and the natural base 
+e
+e and 
+π
+π into one functional. Within the axiom system of the model, if 
+U
+τ
+≠
+0
+U 
+τ
+​
+ 
+
+=0, the woven states inside the membrane cannot satisfy the topological boundary matching condition with the external non-woven states, and the cosmic membrane disintegrates at the very instant of emergence.
+
+This paper presents the complete definition of the criterion, the geometric mapping of its parameters, the stratification of its logical status, and its falsifiability paths. All conclusions are confined to the domain in which the TDMU postulates hold.
+
+1. Formal Definition and Preliminary Assumptions
+Define the cosmic-membrane existence functional 
+U
+τ
+U 
+τ
+​
+  as
+
+U
+τ
+=
+∣
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+[
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+ 
+d
+x
+]
+−
+2
+π
+χ
+ζ
+(
+3
+)
+∣
+2
++
+∑
+ρ
+1
+∣
+ρ
+∣
+2
+∣
+(
+δ
+α
+)
+ℜ
+(
+ρ
+)
+−
+(
+δ
+α
+)
+1
+/
+2
+∣
+2
+.
+U 
+τ
+​
+ = 
+​
+  
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ [ 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx]−2πχζ(3) 
+​
+  
+2
+ + 
+ρ
+∑
+​
+  
+∣ρ∣ 
+2
+ 
+1
+​
+  
+​
+ ( 
+α
+δ
+​
+ ) 
+ℜ(ρ)
+ −( 
+α
+δ
+​
+ ) 
+1/2
+  
+​
+  
+2
+ .
+Preliminary formal assumption: All discussion below is based on the formal presupposition that the logarithmic average limit above exists. If the limit does not exist, the first term is undefined and the criterion automatically returns 
+U
+τ
+>
+0
+U 
+τ
+​
+ >0, so that a closed stable cosmic membrane cannot emerge under that parameter calibration.
+
+Basic parameters:
+
+Symbol	Definition	Ontological correspondence
+Λ
+(
+n
+)
+Λ(n)	von Mangoldt function (nonzero at prime powers)	counting probe of the discrete integer skeleton
+δ
+δ	first Feigenbaum constant (
+≈
+4.6692
+≈4.6692)	gradient of emergence from discrete systems into chaos
+α
+α	second Feigenbaum constant (
+≈
+2.5029
+≈2.5029)	self-similar compression ratio of the continuous geometry
+π
+π	pi (
+≈
+3.14159
+≈3.14159)	curvature factor of closed surfaces (Gauss–Bonnet theorem)
+χ
+χ	Euler characteristic (nonzero integer)	global topological charge of the membrane (spatial hole structure)
+ζ
+(
+3
+)
+ζ(3)	Apéry's constant (
+≈
+1.20205
+≈1.20205)	topological capacity of a unit woven state
+γ
+γ	Euler–Mascheroni constant (
+≈
+0.57721
+≈0.57721)	convergence remainder of limiting structures (implicit)
+ρ
+ρ	nontrivial zeros of Riemann 
+ζ
+(
+s
+)
+ζ(s)	spectral parameters for topological boundary impedance matching
+e
+e	natural constant (
+≈
+2.71828
+≈2.71828)	generator of phase oscillation and logarithmic growth (explicitly embedded)
+i
+i	imaginary unit	directionality of phase (generator of rotations in the complex plane)
+τ
+τ	global topological marker	symbol of the global integrity of the closed woven membrane
+2. Existence Criterion for the Cosmic Membrane
+Based on the fundamental TDMU postulates (substrate → local topological reconnection → woven network → membrane emergence):
+
+Within the domain in which the full set of TDMU postulates is in force, the necessary and sufficient condition for a closed stable cosmic membrane to emerge is
+
+U
+τ
+=
+0.
+U 
+τ
+​
+ =0.
+Since the functional is the sum of two nonnegative terms, 
+U
+τ
+=
+A
+2
++
+B
+2
+U 
+τ
+​
+ =A 
+2
+ +B 
+2
+ , its vanishing is equivalent to both terms vanishing separately. This yields two mutually independent and simultaneously effective rigid constraints.
+
+Condition 1: Phase-transition residual locking between woven and non-woven states (including curvature factor)
+
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+[
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+ 
+d
+x
+]
+=
+2
+π
+χ
+ζ
+(
+3
+)
+.
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ [ 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx]=2πχζ(3).
+Interpretation: The irreducible residual between the chaotic oscillation of the discrete prime skeleton (governed by 
+δ
+δ) and the logarithmic-spiral background integral of the continuous geometry (governed by 
+α
+α) must be exactly equal to the total Gaussian curvature of the membrane, 
+2
+π
+χ
+2πχ, multiplied by the topological capacity per unit woven structure, 
+ζ
+(
+3
+)
+ζ(3).
+
+Here 
+2
+π
+χ
+2πχ comes directly from the Gauss–Bonnet theorem: the total curvature of a closed surface is strictly 
+2
+π
+2π times its Euler characteristic. Thus 
+2
+π
+2π is no longer an auxiliary constant but a rigid conversion factor between membrane geometry and topology.
+
+Condition 2: Topological boundary rigid locking
+
+∀
+ρ
+,
+ℜ
+(
+ρ
+)
+=
+1
+2
+.
+∀ρ,ℜ(ρ)= 
+2
+1
+​
+ .
+Interpretation: Since the second term is a weighted sum of squared moduli, the total sum vanishes only if every individual term is zero. Therefore the real parts of all nontrivial zeros of the Riemann zeta function must lie on the critical line. This is the analytically equivalent formulation of the GTZ (Gradient Topological Zone) boundary impedance matching condition.
+
+The two conditions are parallel and independent; satisfaction of one does not automatically imply the other.
+
+3. Logical Status: A Necessary Corollary within the TDMU System
+Two one-way logical chains must be strictly distinguished. All inferences are valid only under the assumption that the TDMU postulates hold.
+
+Direction 1 (forward derivation within the model):
+
+TDMU emergence postulates hold
+  
+⟹
+  
+U
+τ
+=
+0
+  
+⟹
+  
+Riemann hypothesis is true
+.
+TDMU emergence postulates hold⟹U 
+τ
+​
+ =0⟹Riemann hypothesis is true.
+The topological boundary condition between woven and non-woven states must be precisely matched; if the equality fails, the GTZ cannot sustain a sharp boundary transition, and the membrane rapidly back-reabsorbs and disintegrates after emergence.
+
+Direction 2 (not reversible):
+
+Riemann hypothesis is true
+⟹̸
+U
+τ
+=
+0.
+Riemann hypothesis is true
+
+⟹U 
+τ
+​
+ =0.
+The truth of the Riemann hypothesis can only guarantee that the second term vanishes; it provides no information about whether the first term converges to 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3).
+
+In summary: within the TDMU theoretical framework, the Riemann hypothesis is a necessary consequence of the existence of a stable cosmic membrane, not a pre-imposed foundational assumption.
+
+4. Irreplaceability of Constants and System Rigidity
+The defining features that distinguish this criterion from ad hoc formal patchwork are:
+
+Irreplaceability of the coupled constants
+Solutions satisfying 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0 depend critically on the values of 
+δ
+δ and 
+α
+α. If they are replaced by other ordinary constants (such as 
+π
+π, 
+e
+e, 
+2
+2
+​
+ , etc.), the limit in the first term will in all likelihood diverge or fail to converge to 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3). Here 
+δ
+δ and 
+α
+α are not free parameters; they are universal fixed points spontaneously emerging from the discrete-continuous renormalisation structure.
+
+Rigid binding of 
+π
+π and 
+χ
+χ
+Through the Gauss–Bonnet theorem, 
+π
+π and the topological charge 
+χ
+χ appear inseparably in the product 
+2
+π
+χ
+2πχ. This is a rigid requirement of closed-surface geometry, not an artificial combination.
+
+Structural embedding of 
+e
+e and 
+i
+i
+The factors 
+e
+i
+δ
+ln
+⁡
+n
+e 
+iδlnn
+  and 
+e
+i
+α
+ln
+⁡
+x
+e 
+iαlnx
+  explicitly embed the natural constant 
+e
+e and the imaginary unit 
+i
+i as generators of the phase in the discrete-continuous phase transition. The three constants 
+π
+π, 
+e
+e, and 
+i
+i each play their own role in the same equation and are mutually interdependent.
+
+5. Dictionary Mapping Parameters to TDMU Structure
+Mathematical term in MJP-
+τ
+τ	TDMU geometric/physical counterpart
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+∑ 
+n≤X
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ 	discrete count of the woven network inside the membrane; only prime loops contribute effective topological weight
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+ 
+d
+x
+∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx	smooth baseline of the continuous non-woven spacetime background
+difference between sum and integral	residual stress of the phase transition between the woven steady state and the external non-woven state
+2
+π
+χ
+2πχ	total Gaussian curvature of the membrane (rigid factor from Gauss–Bonnet theorem)
+ζ
+(
+3
+)
+ζ(3)	intrinsic topological capacity per unit volume of the woven structure
+δ
+/
+α
+δ/α	discrete-continuous chaotic coupling rigidity coefficient
+ℜ
+(
+ρ
+)
+=
+1
+/
+2
+ℜ(ρ)=1/2	GTZ topological boundary impedance matching condition
+e
+i
+θ
+e 
+iθ
+  structure	generator of woven-phase oscillation (coupling of natural base and imaginary unit)
+τ
+τ	global topological marker, representing the global integrity of the closed woven membrane
+6. Falsifiability Paths
+Although the criterion cannot at present be proved rigorously by analytic means, it admits clear numerical test paths:
+
+Verification of the first-term limiting behaviour: take finite 
+X
+X truncations and compute the evolution trajectory of the first term under logarithmic averaging. If, for the standard values of 
+δ
+δ and 
+α
+α, this trajectory continues to oscillate, fails to converge, or converges to a value significantly deviating from 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3), then the TDMU membrane emergence postulate is invalid under the current parameter calibration.
+
+Constant-replacement comparison test: replace 
+δ
+δ or 
+α
+α by other irrational constants and observe whether the convergence behaviour of the first term undergoes a systematic collapse. If other constants also produce convergence, then the irreplaceability proposition for 
+δ
+δ and 
+α
+α is falsified.
+
+Topological charge scan: compute the convergence target of the first term for different values of 
+χ
+χ, and check whether it strictly follows the linear dependence 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3).
+
+7. Conclusion
+U
+τ
+=
+0
+U 
+τ
+​
+ =0
+is the inescapable and unique criterion for the stable existence of a closed woven cosmic membrane within the TDMU framework.
+
+Inside the model’s axiom system, this equality is a logically self-consistent necessary consequence: it relies on no external fitting, introduces no independent exogenous assumptions, and locks all root constants — 
+π
+,
+e
+,
+i
+,
+δ
+,
+α
+,
+ζ
+(
+3
+)
+,
+γ
+,
+χ
+π,e,i,δ,α,ζ(3),γ,χ — into the same rigid node.
+
+This criterion does not claim that the real universe necessarily obeys these rules. It states precisely:
+
+If the underlying structure of spacetime conforms to the TDMU picture of a “topological combinatorial network + woven membrane,” then this set of constants must satisfy this equality. There are no approximate solutions, no leeway.
+
+This is the first mathematical weapon of TDMU.
+
+Recorded in August 2026.
+
+Notes
+The typesetting of the symbols was assisted by a language model. All theoretical content and construction logic are independently derived from the TDMU v2.342 postulate system.
+
+τ
+τ is the global topological marker, symbolising the global topological integrity of the closed woven surface (the cosmic membrane).
+
+The seven root constants are all rigidly anchored in the same criterion:
+π
+π (geometric curvature), 
+e
+e (oscillatory growth), 
+i
+i (phase direction), 
+δ
+,
+α
+δ,α (chaotic coupling), 
+ζ
+(
+3
+)
+ζ(3) (woven volume), and 
+χ
+χ (topological charge).
+None is external, none is redundant.
+
+
+
+（中文版）
+MJP-τ：拓扑动力膜宇宙（TDMU）的统一存在性判据
+——TDMU 的第一架数学武器 · 最终定稿
+
+作者：马江平
+日期：2026年8月4日
+关联框架：TDMU（拓扑动力膜宇宙模型）v2.342
+核心符号：
+τ
+τ（Tao，全局拓扑标记）
+
+摘要
+在 TDMU 框架公设约束下，闭合宇宙膜稳定涌现的充要条件被形式化为单一刚性判据 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0。
+
+该判据将离散素数骨架、连续几何背景、黎曼 
+ζ
+ζ 函数零点谱、膜总高斯曲率、混沌普适常数及自然底数 
+e
+e 与圆周率 
+π
+π 耦合至同一泛函。在模型公理体系内，若 
+U
+τ
+≠
+0
+U 
+τ
+​
+ 
+
+=0，则膜内编织态无法与外部非编织态满足拓扑边界匹配条件，宇宙膜在涌现瞬时即告解体。
+
+本文给出判据的完整定义、参数几何映射、逻辑地位分层，以及可证伪路径。所有结论均限定于 TDMU 公设成立的论域之内。
+
+1. 形式定义与前置预设
+定义宇宙膜存在性泛函 
+U
+τ
+U 
+τ
+​
+ ：
+
+U
+τ
+=
+  
+∣
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+[
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+d
+x
+]
+−
+2
+π
+ 
+χ
+ 
+ζ
+(
+3
+)
+∣
+2
++
+∑
+ρ
+1
+∣
+ρ
+∣
+2
+∣
+(
+δ
+α
+)
+ℜ
+(
+ρ
+)
+−
+(
+δ
+α
+)
+1
+/
+2
+∣
+2
+U 
+τ
+​
+ =
+​
+  
+​
+  
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ [ 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx]−2πχζ(3) 
+​
+  
+2
+ 
++ 
+ρ
+∑
+​
+  
+∣ρ∣ 
+2
+ 
+1
+​
+  
+​
+ ( 
+α
+δ
+​
+ ) 
+ℜ(ρ)
+ −( 
+α
+δ
+​
+ ) 
+1/2
+  
+​
+  
+2
+ 
+​
+ 
+​
+ 
+前置形式预设：
+下文所有讨论均建立在该对数平均极限存在这一形式预设之上。若极限不存在，则第一项无定义，自动判定 
+U
+τ
+>
+0
+U 
+τ
+​
+ >0，闭合稳定宇宙膜在该参数标定下无法涌现。
+
+基本参数释义：
+
+符号	定义	本体论对应
+Λ
+(
+n
+)
+Λ(n)	冯·曼戈尔特函数（素数幂处非零）	离散整数骨架的计数探针
+δ
+δ	费根鲍姆第一常数（≈4.6692）	离散系统向混沌涌出的梯度
+α
+α	费根鲍姆第二常数（≈2.5029）	连续几何的自相似压缩率
+π
+π	圆周率（≈3.14159）	闭合曲面的曲率因子（高斯-博内特定理）
+χ
+χ	欧拉示性数（非零整数）	膜全局拓扑荷（空间孔洞结构）
+ζ
+(
+3
+)
+ζ(3)	阿培里常数（≈1.20205）	单位编织态的拓扑容量
+γ
+γ	欧拉-马歇罗尼常数（≈0.57721）	极限结构的收敛余项（隐含）
+ρ
+ρ	黎曼 
+ζ
+(
+s
+)
+ζ(s) 非平凡零点	拓扑边界阻抗匹配的谱参数
+e
+e	自然常数（≈2.71828）	相位振荡与对数生长的生成元（显式嵌入）
+i
+i	虚数单位	相位的方向性（复平面旋转生成元）
+τ
+τ	全局拓扑标记	闭合编织膜的整体完整性符号
+2. 宇宙膜存在性判据
+基于 TDMU 基础公设（基质 → 局域拓扑重联 → 编织网络 → 膜涌现）：
+
+在 TDMU 全套公设生效的论域内，闭合稳定宇宙膜能够涌现的充要条件为：
+
+U
+τ
+=
+0
+U 
+τ
+​
+ =0
+​
+ 
+泛函由两项非负项相加构成（
+U
+τ
+=
+A
+2
++
+B
+2
+U 
+τ
+​
+ =A 
+2
+ +B 
+2
+ ），归零等价于两项各自归零，得到两组相互独立、平行生效的刚性约束：
+
+条件一：编织-非编织相变残余锁定（含曲率因子）
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+[
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+d
+x
+]
+=
+2
+π
+ 
+χ
+ 
+ζ
+(
+3
+)
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ [ 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx]=2πχζ(3)
+释义：
+离散素数骨架的混沌振荡（
+δ
+δ）与连续几何对数螺旋背景积分（
+α
+α）之间的不可约残余，必须精确等于膜的总高斯曲率（
+2
+π
+χ
+2πχ）乘以单位编织拓扑容量（
+ζ
+(
+3
+)
+ζ(3)）。
+
+此处 
+2
+π
+χ
+2πχ 直接来自高斯-博内特定理：闭合曲面的总曲率严格等于 
+2
+π
+2π 乘以其欧拉示性数。
+2
+π
+2π 不再是外挂常数，而是膜几何与拓扑之间的刚性换算因子。
+
+条件二：拓扑边界刚性锁定
+∀
+ρ
+,
+ℜ
+(
+ρ
+)
+=
+1
+2
+∀ρ,ℜ(ρ)= 
+2
+1
+​
+ 
+释义：
+由于第二项为加权模平方求和，总和为零强制每一项绝对值为零。因此黎曼 
+ζ
+ζ 函数所有非平凡零点实部必须落在临界线上。此为 GTZ（拓扑梯度过渡层，Gradient Topological Zone）边界阻抗匹配条件的解析等价表述。
+
+两个条件是并行且独立的，满足其一并不自动满足另一。
+
+3. 逻辑地位：TDMU 体系内的必然推论
+严格区分两条单向逻辑链条，所有推论仅在 TDMU 公设成立前提下有效：
+
+方向一（模型内正向推导）：
+TDMU 涌现公设成立
+  
+⟹
+  
+U
+τ
+=
+0
+  
+⟹
+  
+黎曼猜想为真
+TDMU 涌现公设成立⟹U 
+τ
+​
+ =0⟹黎曼猜想为真
+编织态与非编织态之间的拓扑边界条件必须精确匹配；一旦等式不成立，GTZ 无法维持边界陡峭跃迁，膜在涌现后迅速回渗解体。
+
+方向二（不可逆向推导）：
+黎曼猜想为真
+  
+⟹̸
+  
+U
+τ
+=
+0
+黎曼猜想为真
+
+⟹U 
+τ
+​
+ =0
+黎曼猜想为真只能确保第二项归零，对第一项是否收敛到 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3) 不提供任何信息。
+
+概括：在 TDMU 理论框架之内，黎曼猜想是稳定宇宙膜存在的必要推论，而非预先植入的基础假设。
+
+4. 常数不可替换性与系统刚性
+本判据区别于“形式拼凑”的核心特征：
+
+1. 耦合常数不可替换性
+满足 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0 的解高度依赖 
+δ
+,
+α
+δ,α 取值。若替换为其它普通常数（
+π
+,
+e
+,
+2
+π,e, 
+2
+​
+  等），条件一极限大概率发散或无法收敛至 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3)。
+δ
+,
+α
+δ,α 在此处不是自由参数，而是离散-连续重整化结构中自发涌现的普适不动点。
+
+2. 
+π
+π 与 
+χ
+χ 的刚性绑定
+通过高斯-博内特定理，
+π
+π 与拓扑荷 
+χ
+χ 以乘积 
+2
+π
+χ
+2πχ 的形式不可拆分地出现。这是闭合曲面几何的刚性要求，而非人为组合。
+
+3. 
+e
+e 与 
+i
+i 的结构性嵌入
+e
+i
+δ
+ln
+⁡
+n
+e 
+iδlnn
+  与 
+e
+i
+α
+ln
+⁡
+x
+e 
+iαlnx
+  明确将自然常数 
+e
+e 和虚数单位 
+i
+i 写入离散-连续相变的相位生成元中。三者（
+π
+π、
+e
+e、
+i
+i）在同一个等式中各司其职，互为条件。
+
+5. 参数与 TDMU 结构映射词典
+MJP-
+τ
+τ 数学项	TDMU 几何/物理对应物
+∑
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+∑ 
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ 	膜内编织网络离散计数；仅素数环路提供有效拓扑贡献
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+d
+x
+∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx	连续非编织时空背景的平滑基线
+求和与积分之差	编织稳态与外部非编织态之间的相变残余应力
+2
+π
+χ
+2πχ	膜的总高斯曲率（高斯-博内特定理刚性因子）
+ζ
+(
+3
+)
+ζ(3)	单位体积编织结构的固有拓扑容量
+δ
+/
+α
+δ/α	离散-连续混沌耦合刚性系数
+ℜ
+(
+ρ
+)
+=
+1
+/
+2
+ℜ(ρ)=1/2	GTZ 拓扑边界阻抗匹配条件
+e
+i
+θ
+e 
+iθ
+  结构	编织相位的振荡生成元（自然底数与虚数单位耦合）
+τ
+τ	全局拓扑标记，表征闭合编织膜的整体完整性
+6. 可证伪路径
+该判据虽暂无法从解析上严格证明，但具备明确的数值检验路径：
+
+第一项极限行为验证：取有限 
+X
+X 截断，计算第一项在对数平均下的演化轨迹。若在标准 
+δ
+,
+α
+δ,α 取值下该轨迹持续震荡、不收敛，或收敛值显著偏离 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3)，则当前参数标定下的 TDMU 膜涌现公设不成立。
+
+常数替换对比实验：将 
+δ
+δ 或 
+α
+α 替换为其它无理常数，观察第一项收敛行为是否发生系统性崩溃。若其它常数同样能产生收敛，则 
+δ
+,
+α
+δ,α 的不可替换性命题失效。
+
+拓扑荷扫描：对不同 
+χ
+χ 值计算第一项收敛目标，检验是否严格遵循 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3) 的线性依赖关系。
+
+7. 结语
+U
+τ
+=
+0
+U 
+τ
+​
+ =0
+​
+ 
+是 TDMU 框架下不可绕过、唯一的闭合编织宇宙稳定存在判据。
+
+在模型公理体系内部，该等式是逻辑自洽的必然推论：它不依赖外部拟合，不追加独立外源假设，将所有根源常数（
+π
+,
+e
+,
+i
+,
+δ
+,
+α
+,
+ζ
+(
+3
+)
+,
+γ
+,
+χ
+π,e,i,δ,α,ζ(3),γ,χ）锁定在同一刚性节点上。
+
+本判据不宣称现实宇宙必然服从这套规则。它精确陈述的是：
+
+如果时空的底层结构符合 TDMU“拓扑组合网络 + 编织膜”图景，那么这组常数必须满足此等式。没有近似解，没有宽松余地。
+
+此即为 TDMU 的第一架数学武器。
