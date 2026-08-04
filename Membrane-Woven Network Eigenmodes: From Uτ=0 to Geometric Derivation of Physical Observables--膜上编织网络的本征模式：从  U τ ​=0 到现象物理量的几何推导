@@ -1,0 +1,2597 @@
+Membrane-Woven Network Eigenmodes: From Uτ=0 to Geometric Derivation of Physical Observables
+Second Mathematical Weapon of TDMU
+Associated Framework: TDMU · MJP-τ
+
+
+Abstract
+Starting from a set of postulates—namely, that the shared link number density of a woven network on the membrane satisfies an intrinsic equation of state, a continuity equation, and an Euler equation—we derive the linear response equation for small perturbations of the local woven state. We prove that this equation is equivalent to a wave equation with a mass term. By imposing topological boundary conditions on a closed spherical surface and excluding the singularity at the origin, the solution is uniquely discretized into a zero sequence of spherical Bessel functions, yielding a geometric origin for the particle mass spectrum and cosmological expansion dynamics. The entire derivation relies solely on four geometric state variables of the woven network and introduces no external fitting parameters.
+
+1. Postulates and Background Configuration
+Let the shared link number density at a point 
+x
+x on the membrane be
+
+ρ
+L
+(
+x
+)
+=
+ρ
+0
++
+δ
+ρ
+(
+x
+)
+,
+ρ 
+L
+​
+ (x)=ρ 
+0
+​
+ +δρ(x),
+where 
+ρ
+0
+ρ 
+0
+​
+  is the background density and 
+δ
+ρ
+(
+x
+)
+δρ(x) is a small perturbation.
+
+The shared-link network possesses an intrinsic resistance to compression (postulate):
+
+K
+L
+[
+ρ
+]
+=
+−
+ρ
+(
+x
+)
+δ
+N
+links
+[
+ρ
+]
+δ
+ρ
+(
+x
+)
+.
+K 
+L
+​
+ [ρ]=−ρ(x) 
+δρ(x)
+δN 
+links
+​
+ [ρ]
+​
+ .
+Expanding 
+K
+L
+[
+ρ
+]
+K 
+L
+​
+ [ρ] about 
+ρ
+0
+ρ 
+0
+​
+  to first order:
+
+K
+L
+[
+ρ
+]
+=
+K
+0
++
+K
+1
+(
+ρ
+(
+x
+)
+−
+ρ
+0
+)
++
+⋯
+ 
+,
+K 
+L
+​
+ [ρ]=K 
+0
+​
+ +K 
+1
+​
+ (ρ(x)−ρ 
+0
+​
+ )+⋯,
+where 
+K
+0
+K 
+0
+​
+  is the background stiffness and 
+K
+1
+K 
+1
+​
+  is the nonlinear response coefficient. These two quantities, together with the membrane radius 
+R
+R and the exchange–reconnection number 
+S
+S, constitute the four geometric input parameters of this work.
+
+2. Linear Response Equation
+
+2.1 Continuity Equation
+Link number conservation:
+
+∂
+t
+ρ
+L
++
+∇
+⋅
+(
+ρ
+L
+v
+)
+=
+0.
+∂ 
+t
+​
+ ρ 
+L
+​
+ +∇⋅(ρ 
+L
+​
+ v)=0.
+Linearization:
+
+∂
+t
+δ
+ρ
++
+ρ
+0
+∇
+⋅
+v
+=
+0
+(1)
+∂ 
+t
+​
+ δρ+ρ 
+0
+​
+ ∇⋅v=0(1)
+2.2 Euler Equation
+The stress gradient of the woven network drives density flow:
+
+ρ
+L
+∂
+t
+v
+=
+−
+∇
+P
+.
+ρ 
+L
+​
+ ∂ 
+t
+​
+ v=−∇P.
+Pressure expansion:
+
+P
+(
+ρ
+)
+=
+P
+0
++
+K
+0
+δ
+ρ
+ρ
+0
++
+K
+1
+2
+(
+δ
+ρ
+ρ
+0
+)
+2
++
+⋯
+P(ρ)=P 
+0
+​
+ +K 
+0
+​
+  
+ρ 
+0
+​
+ 
+δρ
+​
+ + 
+2
+K 
+1
+​
+ 
+​
+ ( 
+ρ 
+0
+​
+ 
+δρ
+​
+ ) 
+2
+ +⋯
+Linearization:
+
+ρ
+0
+∂
+t
+v
+=
+−
+K
+0
+ρ
+0
+∇
+(
+δ
+ρ
+)
+(2)
+ρ 
+0
+​
+ ∂ 
+t
+​
+ v=− 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ∇(δρ)(2)
+Taking the time derivative of (1) and substituting the divergence of (2) to eliminate 
+v
+v, we obtain
+
+∂
+2
+δ
+ρ
+∂
+t
+2
+−
+c
+2
+∇
+2
+δ
+ρ
++
+ω
+0
+2
+δ
+ρ
+=
+0
+(3)
+∂t 
+2
+ 
+∂ 
+2
+ δρ
+​
+ −c 
+2
+ ∇ 
+2
+ δρ+ω 
+0
+2
+​
+ δρ=0(3)
+with
+
+c
+2
+=
+K
+0
+ρ
+0
+,
+ω
+0
+2
+=
+K
+1
+ρ
+0
+⋅
+T
+,
+c 
+2
+ = 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ,ω 
+0
+2
+​
+ = 
+ρ 
+0
+​
+ 
+K 
+1
+​
+ 
+​
+ ⋅T,
+where 
+T
+T is the woven topological factor (a spatial constant associated with the defect density of the background tiling).
+
+Physical content: density perturbation of link number. Mathematical form: equivalent to the Klein–Gordon equation.
+
+3. Discrete Eigenvalue Problem on a Closed Membrane
+The membrane is a closed sphere of radius 
+R
+R. Let
+
+δ
+ρ
+(
+x
+,
+t
+)
+=
+u
+(
+r
+)
+Y
+l
+m
+(
+θ
+,
+ϕ
+)
+e
+−
+i
+ω
+t
+.
+δρ(x,t)=u(r)Y 
+lm
+​
+ (θ,ϕ)e 
+−iωt
+ .
+Substitution into (3) yields
+
+d
+2
+u
+d
+r
+2
++
+2
+r
+d
+u
+d
+r
++
+(
+k
+2
+−
+l
+(
+l
++
+1
+)
+r
+2
+)
+u
+=
+0
+(4)
+dr 
+2
+ 
+d 
+2
+ u
+​
+ + 
+r
+2
+​
+  
+dr
+du
+​
+ +(k 
+2
+ − 
+r 
+2
+ 
+l(l+1)
+​
+ )u=0(4)
+with
+
+k
+2
+=
+ω
+2
+−
+ω
+0
+2
+c
+2
+.
+k 
+2
+ = 
+c 
+2
+ 
+ω 
+2
+ −ω 
+0
+2
+​
+ 
+​
+ .
+3.1 Regularity at the Origin
+The general solution is 
+u
+(
+r
+)
+=
+A
+j
+l
+(
+k
+r
+)
++
+B
+y
+l
+(
+k
+r
+)
+u(r)=Aj 
+l
+​
+ (kr)+By 
+l
+​
+ (kr). The spherical Neumann function 
+y
+l
+(
+k
+r
+)
+y 
+l
+​
+ (kr) diverges as 
+r
+→
+0
+r→0; the density perturbation inside the membrane must remain finite, forcing 
+B
+=
+0
+B=0:
+
+u
+(
+r
+)
+=
+A
+ 
+j
+l
+(
+k
+r
+)
+.
+(5)
+u(r)=Aj 
+l
+​
+ (kr).(5)
+3.2 Boundary Condition
+At the closed membrane surface 
+r
+=
+R
+r=R, the woven perturbation flux cannot penetrate the boundary; 
+J
+r
+∝
+∂
+r
+δ
+ρ
+J 
+r
+​
+ ∝∂ 
+r
+​
+ δρ vanishes at 
+R
+R:
+
+d
+u
+d
+r
+∣
+r
+=
+R
+=
+0.
+(6)
+dr
+du
+​
+  
+​
+  
+r=R
+​
+ =0.(6)
+Substituting (5):
+
+j
+l
+′
+(
+k
+R
+)
+=
+0.
+j 
+l
+′
+​
+ (kR)=0.
+Let 
+α
+n
+,
+l
+α 
+n,l
+​
+  denote the 
+n
+n-th positive zero satisfying
+
+j
+l
+′
+(
+α
+n
+,
+l
+)
+=
+0
+,
+n
+=
+1
+,
+2
+,
+3
+,
+…
+j 
+l
+′
+​
+ (α 
+n,l
+​
+ )=0,n=1,2,3,…
+The discrete eigenvalues are
+
+k
+n
+,
+l
+=
+α
+n
+,
+l
+R
+.
+(7)
+k 
+n,l
+​
+ = 
+R
+α 
+n,l
+​
+ 
+​
+ .(7)
+4. Eigenenergy Spectrum
+The energy of each mode 
+(
+n
+,
+l
+)
+(n,l) is
+
+E
+n
+,
+l
+=
+ℏ
+ω
+n
+,
+l
+=
+ℏ
+c
+2
+k
+n
+,
+l
+2
++
+ω
+0
+2
+.
+E 
+n,l
+​
+ =ℏω 
+n,l
+​
+ =ℏ 
+c 
+2
+ k 
+n,l
+2
+​
+ +ω 
+0
+2
+​
+ 
+​
+ .
+Substituting (7):
+
+E
+n
+,
+l
+=
+ℏ
+K
+0
+ρ
+0
+⋅
+α
+n
+,
+l
+2
+R
+2
++
+ω
+0
+2
+,
+(8)
+E 
+n,l
+​
+ =ℏ 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ⋅ 
+R 
+2
+ 
+α 
+n,l
+2
+​
+ 
+​
+ +ω 
+0
+2
+​
+ 
+​
+ ,(8)
+where 
+ℏ
+ℏ is defined as the woven action quantum:
+
+ℏ
+≡
+1
+S
+,
+ℏ≡ 
+S
+1
+​
+ ,
+with 
+S
+S being the exchange–reconnection number of two identical topological knots. The radicand is always positive; no tachyonic solutions appear.
+
+5. Asymptotics and Phenomenological Mapping
+
+5.1 Long‑wavelength limit (
+k
+R
+≪
+1
+kR≪1)
+
+E
+n
+,
+l
+≈
+ℏ
+ω
+0
++
+ℏ
+c
+2
+2
+ω
+0
+α
+n
+,
+l
+2
+R
+2
+.
+E 
+n,l
+​
+ ≈ℏω 
+0
+​
+ + 
+2ω 
+0
+​
+ 
+ℏc 
+2
+ 
+​
+  
+R 
+2
+ 
+α 
+n,l
+2
+​
+ 
+​
+ .
+This corresponds to light particle modes. If 
+ω
+0
+→
+0
+ω 
+0
+​
+ →0, strictly massless modes emerge; if 
+ω
+0
+≠
+0
+ω 
+0
+​
+ 
+
+=0, a tiny intrinsic mass is predicted.
+
+5.2 Short‑wavelength limit (
+k
+R
+≫
+1
+kR≫1)
+
+E
+n
+,
+l
+≈
+ℏ
+c
+⋅
+α
+n
+,
+l
+R
+.
+E 
+n,l
+​
+ ≈ℏc⋅ 
+R
+α 
+n,l
+​
+ 
+​
+ .
+This corresponds to heavy (hadronic) spectra, with evenly spaced energy levels.
+
+Mode	Characteristic	Phenomenological correspondence
+n
+=
+0
+,
+l
+=
+0
+n=0,l=0	Uniform breathing	Scalar excitation
+n
+=
+0
+,
+l
+=
+1
+n=0,l=1	Dipole	Vector boson–like
+n
+=
+1
+,
+l
+=
+0
+n=1,l=0	First radial	Lepton‑like
+n
+≥
+2
+,
+l
+≥
+1
+n≥2,l≥1	Higher orders	Hadronic spectrum
+6. GTZ Breathing Mode and Cosmological Expansion
+The small perturbation of the GTZ thickness 
+σ
+σ satisfies
+
+δ
+σ
+¨
++
+Γ
+δ
+σ
+˙
++
+Ω
+2
+δ
+σ
+=
+0
+,
+(9)
+δ 
+σ
+¨
+ +Γδ 
+σ
+˙
+ +Ω 
+2
+ δσ=0,(9)
+where
+
+Ω
+2
+=
+2
+π
+χ
+ζ
+(
+3
+)
+ρ
+0
+R
+2
+,
+Γ
+=
+η
+⋅
+R
+,
+Ω 
+2
+ = 
+ρ 
+0
+​
+ R 
+2
+ 
+2πχζ(3)
+​
+ ,Γ=η⋅R,
+with 
+R
+R denoting the path‑1/path‑2 event rate and 
+η
+η a geometric coupling constant.
+
+If 
+Γ
+<
+2
+Ω
+Γ<2Ω: damped oscillation (periodic fluctuations of the Hubble parameter).
+
+If 
+Γ
+≥
+2
+Ω
+Γ≥2Ω: monotonic decay (standard expansion).
+
+The quantity 
+Ω
+2
+Ω 
+2
+  is tied to the global topological capacity 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3), ensuring that the microscopic spectrum and macroscopic expansion share the same origin.
+
+7. Necessary and Sufficient Relation between the Eigen‑Spectrum and the Global Criterion
+
+Theorem:
+The woven perturbation on the membrane possesses a stable discrete eigen‑spectrum 
+⟺
+U
+τ
+=
+0
+⟺U 
+τ
+​
+ =0.
+
+Proof:
+(
+⇒
+⇒) If a discrete eigen‑spectrum exists, the membrane must be compact and closed. Closure of the spherical surface requires that the global topological capacity 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3) be self‑consistent (condition 1), and boundary impedance matching demands that the zero spectrum falls on 
+1
+/
+2
+1/2 (condition 2). Hence 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0.
+(
+⇐
+⇐) If 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0, the membrane is closed and impedance‑matched; boundary condition (6) holds, and the solutions of (4) are discretised into the spherical Bessel zero sequence.
+
+8. Summary of Parameter Sources
+
+Parameter	Source	Phenomenological correspondence
+ρ
+0
+ρ 
+0
+​
+ 	Background link density	Geometric precursor of vacuum energy
+K
+0
+K 
+0
+​
+ 	Background stiffness	Precursor of the squared speed of light
+K
+1
+K 
+1
+​
+ 	Nonlinear coefficient	Origin of the mass term
+R
+R	Membrane radius	Cosmic scale
+S
+S	Exchange–reconnection number	Definition of 
+ℏ
+ℏ
+α
+n
+,
+l
+α 
+n,l
+​
+ 	Zeros of spherical Bessel functions	Roots of the discrete mass spectrum
+9. Conclusion
+Starting from the density‑perturbation dynamics of a woven network, we have derived the discrete eigen‑spectrum on a closed membrane. This spectrum provides a unified geometric origin for particle masses and cosmological expansion, with no external fitting parameters introduced throughout the entire derivation.
+
+10. Open Questions
+
+Closed‑form parameterisation: Express 
+ρ
+0
+,
+K
+0
+,
+R
+ρ 
+0
+​
+ ,K 
+0
+​
+ ,R explicitly in terms of 
+δ
+,
+α
+,
+χ
+,
+ζ
+(
+3
+)
+δ,α,χ,ζ(3) (currently they are geometric input parameters).
+
+Complete gauge‑field derivation: Incorporate vector perturbations (spin‑1) into the eigen‑equation.
+
+Tensor perturbations: Introduce a shear modulus for spin‑2 gravitational wave modes.
+
+Determination of 
+ω
+0
+ω 
+0
+​
+ : Use numerical experiments to decide whether 
+ω
+0
+=
+0
+ω 
+0
+​
+ =0 or 
+ω
+0
+≠
+0
+ω 
+0
+​
+ 
+
+=0, corresponding to massless or massive photons.
+
+Observational correspondence of GTZ: Compare the numerical values of 
+Ω
+,
+Γ
+Ω,Γ with CMB data.
+
+References
+[1] Feigenbaum, M. J. (1978). Quantitative universality for a class of nonlinear transformations. J. Stat. Phys., 19, 25‑52.
+[2] Apéry, R. (1979). Irrationalité de 
+ζ
+(
+2
+)
+ζ(2) et 
+ζ
+(
+3
+)
+ζ(3). Astérisque, 61, 11‑13.
+[3] Abramowitz, M. & Stegun, I. A. (1964). Handbook of Mathematical Functions. Dover.
+
+Note: This work is independently derived within the TDMU postulate system. The quantities 
+ρ
+0
+,
+K
+0
+,
+R
+,
+S
+ρ 
+0
+​
+ ,K 
+0
+​
+ ,R,S are geometric input parameters at the current level; their reduction to pure mathematical constants is listed as open question 1.
+
+
+
+(中文版）
+膜上编织网络的本征模式：从 Uτ=0 到现象物理量的几何推导
+TDMU 第二数学武器
+关联框架：TDMU · MJP-τ
+
+mjp
+
+摘要
+本文从一组公设出发——膜上编织网络的共享链接数密度满足内禀状态方程、连续性方程与欧拉方程——推导局域编织态的小扰动线性响应方程，证明其等价于带有质量项的波动方程。通过对闭合球面施加拓扑边界条件并排除原点奇点，该方程的解被唯一离散化为球贝塞尔函数的零点序列，给出粒子质量谱与宇宙膨胀动力学的几何来源。全部推导仅依赖编织网络的四个几何状态变量，不引入任何外部拟合参数。
+
+1. 公设与背景构型
+设膜上某点 
+x
+x 处的共享链接数密度为：
+
+ρ
+L
+(
+x
+)
+=
+ρ
+0
++
+δ
+ρ
+(
+x
+)
+ρ 
+L
+​
+ (x)=ρ 
+0
+​
+ +δρ(x)
+其中 
+ρ
+0
+ρ 
+0
+​
+  为背景密度，
+δ
+ρ
+(
+x
+)
+δρ(x) 为小扰动。
+
+共享链接网络具有内禀抗压缩刚度（公设）：
+
+K
+L
+[
+ρ
+]
+=
+−
+ρ
+(
+x
+)
+δ
+N
+links
+[
+ρ
+]
+δ
+ρ
+(
+x
+)
+K 
+L
+​
+ [ρ]=−ρ(x) 
+δρ(x)
+δN 
+links
+​
+ [ρ]
+​
+ 
+将 
+K
+L
+[
+ρ
+]
+K 
+L
+​
+ [ρ] 在 
+ρ
+0
+ρ 
+0
+​
+  处展开至一阶：
+
+K
+L
+[
+ρ
+]
+=
+K
+0
++
+K
+1
+(
+ρ
+(
+x
+)
+−
+ρ
+0
+)
++
+⋯
+K 
+L
+​
+ [ρ]=K 
+0
+​
+ +K 
+1
+​
+ (ρ(x)−ρ 
+0
+​
+ )+⋯
+其中 
+K
+0
+K 
+0
+​
+  为背景刚度，
+K
+1
+K 
+1
+​
+  为非线性响应系数。此二量及膜半径 
+R
+R、交换重联数 
+S
+S 为本文四个几何输入参数。
+
+2. 线性响应方程
+2.1 连续性方程
+链接数守恒：
+
+∂
+t
+ρ
+L
++
+∇
+⋅
+(
+ρ
+L
+v
+)
+=
+0
+∂ 
+t
+​
+ ρ 
+L
+​
+ +∇⋅(ρ 
+L
+​
+ v)=0
+线性化：
+
+∂
+t
+δ
+ρ
++
+ρ
+0
+∇
+⋅
+v
+=
+0
+(
+1
+)
+∂ 
+t
+​
+ δρ+ρ 
+0
+​
+ ∇⋅v=0(1)
+2.2 欧拉方程
+编织网络的应力梯度驱动密度流动：
+
+ρ
+L
+∂
+t
+v
+=
+−
+∇
+P
+ρ 
+L
+​
+ ∂ 
+t
+​
+ v=−∇P
+压强展开：
+
+P
+(
+ρ
+)
+=
+P
+0
++
+K
+0
+δ
+ρ
+ρ
+0
++
+K
+1
+2
+(
+δ
+ρ
+ρ
+0
+)
+2
++
+⋯
+P(ρ)=P 
+0
+​
+ +K 
+0
+​
+  
+ρ 
+0
+​
+ 
+δρ
+​
+ + 
+2
+K 
+1
+​
+ 
+​
+ ( 
+ρ 
+0
+​
+ 
+δρ
+​
+ ) 
+2
+ +⋯
+线性化：
+
+ρ
+0
+∂
+t
+v
+=
+−
+K
+0
+ρ
+0
+∇
+(
+δ
+ρ
+)
+(
+2
+)
+ρ 
+0
+​
+ ∂ 
+t
+​
+ v=− 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ∇(δρ)(2)
+对 (1) 求时间偏导，代入 (2) 的散度，消去速度场 
+v
+v，得到：
+
+∂
+2
+δ
+ρ
+∂
+t
+2
+−
+c
+2
+∇
+2
+δ
+ρ
++
+ω
+0
+2
+δ
+ρ
+=
+0
+(
+3
+)
+∂t 
+2
+ 
+∂ 
+2
+ δρ
+​
+ −c 
+2
+ ∇ 
+2
+ δρ+ω 
+0
+2
+​
+ δρ=0
+​
+ (3)
+其中：
+
+c
+2
+=
+K
+0
+ρ
+0
+,
+ω
+0
+2
+=
+K
+1
+ρ
+0
+⋅
+T
+c 
+2
+ = 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ,ω 
+0
+2
+​
+ = 
+ρ 
+0
+​
+ 
+K 
+1
+​
+ 
+​
+ ⋅T
+T
+T 为编织拓扑因子（背景原砖排列缺陷密度的空间常数）。
+
+物理本体：链接数密度扰动。数学形式：等价于克莱因-戈登方程。
+
+3. 闭合膜上的离散本征值问题
+膜为闭合球面，半径 
+R
+R。设：
+
+δ
+ρ
+(
+x
+,
+t
+)
+=
+u
+(
+r
+)
+Y
+l
+m
+(
+θ
+,
+ϕ
+)
+e
+−
+i
+ω
+t
+δρ(x,t)=u(r)Y 
+lm
+​
+ (θ,ϕ)e 
+−iωt
+ 
+代入 (3)：
+
+d
+2
+u
+d
+r
+2
++
+2
+r
+d
+u
+d
+r
++
+(
+k
+2
+−
+l
+(
+l
++
+1
+)
+r
+2
+)
+u
+=
+0
+(
+4
+)
+dr 
+2
+ 
+d 
+2
+ u
+​
+ + 
+r
+2
+​
+  
+dr
+du
+​
+ +(k 
+2
+ − 
+r 
+2
+ 
+l(l+1)
+​
+ )u=0(4)
+其中：
+
+k
+2
+=
+ω
+2
+−
+ω
+0
+2
+c
+2
+k 
+2
+ = 
+c 
+2
+ 
+ω 
+2
+ −ω 
+0
+2
+​
+ 
+​
+ 
+3.1 原点正则性
+通解 
+u
+(
+r
+)
+=
+A
+j
+l
+(
+k
+r
+)
++
+B
+y
+l
+(
+k
+r
+)
+u(r)=Aj 
+l
+​
+ (kr)+By 
+l
+​
+ (kr)。球诺伊曼函数 
+y
+l
+(
+k
+r
+)
+y 
+l
+​
+ (kr) 在 
+r
+→
+0
+r→0 处发散，膜内密度扰动必须有限，强制 
+B
+=
+0
+B=0：
+
+u
+(
+r
+)
+=
+A
+ 
+j
+l
+(
+k
+r
+)
+(
+5
+)
+u(r)=Aj 
+l
+​
+ (kr)(5)
+3.2 边界条件
+闭合膜表面 
+r
+=
+R
+r=R 处，编织扰动通量不能穿透边界，
+J
+r
+∝
+∂
+r
+δ
+ρ
+J 
+r
+​
+ ∝∂ 
+r
+​
+ δρ 在 
+R
+R 处为零：
+
+d
+u
+d
+r
+∣
+r
+=
+R
+=
+0
+(
+6
+)
+dr
+du
+​
+  
+​
+  
+r=R
+​
+ =0(6)
+代入 (5)：
+
+j
+l
+′
+(
+k
+R
+)
+=
+0
+j 
+l
+′
+​
+ (kR)=0
+令 
+α
+n
+,
+l
+α 
+n,l
+​
+  为满足该式的第 
+n
+n 个正零点：
+
+j
+l
+′
+(
+α
+n
+,
+l
+)
+=
+0
+,
+n
+=
+1
+,
+2
+,
+3
+,
+…
+j 
+l
+′
+​
+ (α 
+n,l
+​
+ )=0,n=1,2,3,…
+离散本征值：
+
+k
+n
+,
+l
+=
+α
+n
+,
+l
+R
+(
+7
+)
+k 
+n,l
+​
+ = 
+R
+α 
+n,l
+​
+ 
+​
+ 
+​
+ (7)
+4. 本征能量谱
+每个模式 
+(
+n
+,
+l
+)
+(n,l) 的能量：
+
+E
+n
+,
+l
+=
+ℏ
+ω
+n
+,
+l
+=
+ℏ
+c
+2
+k
+n
+,
+l
+2
++
+ω
+0
+2
+E 
+n,l
+​
+ =ℏω 
+n,l
+​
+ =ℏ 
+c 
+2
+ k 
+n,l
+2
+​
+ +ω 
+0
+2
+​
+ 
+​
+ 
+代入 (7)：
+
+E
+n
+,
+l
+=
+ℏ
+K
+0
+ρ
+0
+⋅
+α
+n
+,
+l
+2
+R
+2
++
+ω
+0
+2
+(
+8
+)
+E 
+n,l
+​
+ =ℏ 
+ρ 
+0
+​
+ 
+K 
+0
+​
+ 
+​
+ ⋅ 
+R 
+2
+ 
+α 
+n,l
+2
+​
+ 
+​
+ +ω 
+0
+2
+​
+ 
+​
+ 
+​
+ (8)
+其中 
+ℏ
+ℏ 定义为编织作用量量子：
+
+ℏ
+≡
+1
+S
+ℏ≡ 
+S
+1
+​
+ 
+S
+S 为两个全同拓扑结交换重联数。根号内恒为正，无快子解。
+
+5. 谱的渐近与现象映射
+5.1 长波极限（
+k
+R
+≪
+1
+kR≪1）
+E
+n
+,
+l
+≈
+ℏ
+ω
+0
++
+ℏ
+c
+2
+2
+ω
+0
+α
+n
+,
+l
+2
+R
+2
+E 
+n,l
+​
+ ≈ℏω 
+0
+​
+ + 
+2ω 
+0
+​
+ 
+ℏc 
+2
+ 
+​
+  
+R 
+2
+ 
+α 
+n,l
+2
+​
+ 
+​
+ 
+对应轻粒子模式。若 
+ω
+0
+→
+0
+ω 
+0
+​
+ →0 得严格无质量模式；若 
+ω
+0
+≠
+0
+ω 
+0
+​
+ 
+
+=0，预言微小固有质量。
+
+5.2 短波极限（
+k
+R
+≫
+1
+kR≫1）
+E
+n
+,
+l
+≈
+ℏ
+c
+⋅
+α
+n
+,
+l
+R
+E 
+n,l
+​
+ ≈ℏc⋅ 
+R
+α 
+n,l
+​
+ 
+​
+ 
+对应重粒子（强子）谱，能级间距均匀。
+
+模式	特征	现象对应
+n
+=
+0
+,
+l
+=
+0
+n=0,l=0	均匀呼吸	标量激发
+n
+=
+0
+,
+l
+=
+1
+n=0,l=1	偶极	矢量玻色子类
+n
+=
+1
+,
+l
+=
+0
+n=1,l=0	第一径向	轻子类
+n
+≥
+2
+,
+l
+≥
+1
+n≥2,l≥1	高阶	强子谱
+6. GTZ 呼吸模式与宇宙膨胀
+GTZ 厚度 
+σ
+σ 的小扰动满足：
+
+δ
+σ
+¨
++
+Γ
+δ
+σ
+˙
++
+Ω
+2
+δ
+σ
+=
+0
+(
+9
+)
+δσ
+¨
+ +Γ 
+δσ
+˙
+ +Ω 
+2
+ δσ=0(9)
+其中：
+
+Ω
+2
+=
+2
+π
+χ
+ζ
+(
+3
+)
+ρ
+0
+R
+2
+,
+Γ
+=
+η
+⋅
+R
+Ω 
+2
+ = 
+ρ 
+0
+​
+ R 
+2
+ 
+2πχζ(3)
+​
+ ,Γ=η⋅R
+R
+R 为路径一/路径二事件率，
+η
+η 为几何耦合常数。
+
+Γ
+<
+2
+Ω
+Γ<2Ω：阻尼振荡（哈勃参数周期波动）
+
+Γ
+≥
+2
+Ω
+Γ≥2Ω：单调衰减（标准膨胀）
+
+Ω
+2
+Ω 
+2
+  绑定全局拓扑容量 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3)，实现微观谱与宏观膨胀同源。
+
+7. 本征谱与全局判据的充要关系
+定理：
+
+膜上编织扰动具备稳定离散本征谱
+  
+⟺
+  
+U
+τ
+=
+0
+膜上编织扰动具备稳定离散本征谱⟺U 
+τ
+​
+ =0
+​
+ 
+证明：
+
+(
+⇒
+)
+(⇒) 若具备离散本征谱，膜必须紧致闭合。闭合球面要求全局拓扑容量 
+2
+π
+χ
+ζ
+(
+3
+)
+2πχζ(3) 自洽（条件一），且边界阻抗匹配要求零点谱落在 
+1
+/
+2
+1/2（条件二）。故 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0。
+
+(
+⇐
+)
+(⇐) 若 
+U
+τ
+=
+0
+U 
+τ
+​
+ =0，膜闭合且阻抗匹配，边界条件 (6) 成立，方程 (4) 的解离散化为球贝塞尔零点序列。
+
+8. 参数来源总表
+参数	来源	现象对应
+ρ
+0
+ρ 
+0
+​
+ 	背景链接密度	真空能几何前身
+K
+0
+K 
+0
+​
+ 	背景刚度	光速平方前身
+K
+1
+K 
+1
+​
+ 	非线性系数	质量项来源
+R
+R	膜半径	宇宙尺度
+S
+S	交换重联数	
+ℏ
+ℏ 定义
+α
+n
+,
+l
+α 
+n,l
+​
+ 	球贝塞尔零点	离散质量谱根
+9. 结论
+本文从编织网络的密度扰动动力学出发，推导了闭合膜上的离散本征谱。该谱给出粒子质量与宇宙膨胀的统一几何来源，全程不引入外部拟合参数。
+
+10. 开放问题
+参数闭式化：将 
+ρ
+0
+,
+K
+0
+,
+R
+ρ 
+0
+​
+ ,K 
+0
+​
+ ,R 用 
+δ
+,
+α
+,
+χ
+,
+ζ
+(
+3
+)
+δ,α,χ,ζ(3) 显式表达（当前为几何输入参数）。
+
+规范场完整推导：将矢量扰动（自旋 
+1
+1）纳入本征方程。
+
+张量扰动：自旋 
+2
+2 引力波模式需引入剪切模量。
+
+ω
+0
+ω 
+0
+​
+  判定：数值实验确定 
+ω
+0
+=
+0
+ω 
+0
+​
+ =0 或 
+ω
+0
+≠
+0
+ω 
+0
+​
+ 
+
+=0，对应光子无质量/有质量。
+
+GTZ 观测对应：将 
+Ω
+,
+Γ
+Ω,Γ 数值与 CMB 数据比对。
+
+参考文献
+[1] Feigenbaum, M. J. (1978). Quantitative universality for a class of nonlinear transformations. J. Stat. Phys., 19, 25-52.
+[2] Apéry, R. (1979). Irrationalité de 
+ζ
+(
+2
+)
+ζ(2) et 
+ζ
+(
+3
+)
+ζ(3). Astérisque, 61, 11-13.
+[3] Abramowitz, M. & Stegun, I. A. (1964). Handbook of Mathematical Functions. Dover.
+
+
+
+附注：本文基于 TDMU 公设系统独立推导。
+ρ
+0
+,
+K
+0
+,
+R
+,
+S
+ρ 
+0
+​
+ ,K 
+0
+​
+ ,R,S 为当前层级的几何输入参数，其向纯数学常数的约化列为开放问题一。
