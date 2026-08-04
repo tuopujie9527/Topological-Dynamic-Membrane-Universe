@@ -1,0 +1,2301 @@
+Operator Criterion for Steady States of Closed Topological Membranes and Its Number-Theoretic Duality
+— A First‑Principles Proposal within the TDMU Framework
+Author: MJP
+
+
+Abstract
+The standard cosmological model (ΛCDM) treats the initial singularity, cosmic inflation, dark matter, and dark energy as exogenous assumptions, whose physical natures remain unresolved to date. Based on the postulates of the Topological Dynamic Membrane Universe model (TDMU)—in which spacetime is an emergent closed woven topological interface on a discrete combinatorial network—this paper proposes a framework of steady‑state criteria.
+
+We define the recombination response operator
+R
+^
+R
+^
+ 
+acting on the discrete node set of the membrane, composed of a discrete curvature term, a radial gradient term driven by mean curvature, and a topological defect potential competition term. We argue that a necessary condition for the stable emergence of a closed topological membrane is
+
+T
+r
+(
+R
+^
+)
+=
+0.
+Tr( 
+R
+^
+ )=0.
+This condition is equivalent to a global balance between the weaving stress and the disintegrating stress inside the topological gradient transition zone (GTZ), such that no net residual tension accumulates on the membrane wall. Under the spherically symmetric closed‑membrane approximation, this trace‑zero condition can be expanded into a spectral sum expression involving the Riemann zeta function, the Euler characteristic of the surface, and the Feigenbaum bifurcation fixed points. In particular, the Riemann critical‑line condition 
+ℜ
+(
+s
+)
+=
+1
+/
+2
+ℜ(s)=1/2 appears within this framework as a dual boundary constraint derived from the existence of a steady membrane.
+
+We also establish a qualitative mapping between the sign of 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) and cosmic expansion dynamics (acceleration/deceleration)—the accelerated expansion is attributed to the topological tension coupling between the membrane and the external substrate, rather than to any intrinsic dark‑energy entity. All derivations rely solely on geometric state variables of the discrete woven network and introduce no free fitting parameters or exogenous quantum fields.
+
+Position statement: This paper is a theoretical framework proposal. Its core criterion has not yet been verified by discrete numerical simulations. All conclusions herein are deductive inferences within the model and await subsequent computational physics work for validation.
+
+Keywords: emergent gravity; discrete network; topological membrane; operator trace; steady‑state criterion; membrane–substrate topological coupling; Riemann zeta function
+
+1 Introduction
+
+1.1 Theoretical difficulties of the standard model
+
+The ΛCDM model is highly compatible with a large body of cosmological observations, yet its theoretical architecture relies on several independent exogenous assumptions:
+
+Initial singularity: General relativity diverges there and the theory breaks down. A physical theory that contains an indescribable mathematical singularity at its core suggests that the theory is incomplete.
+
+Cosmic inflation: It introduces a scalar field without a known physical counterpart, whose potential form must be manually adjusted to match observational data.
+
+Dark matter: Unknown particles introduced to explain galactic dynamics and gravitational lensing, which have not been directly detected in any experiment to date.
+
+Dark energy: An unknown energy density introduced to explain the accelerated expansion of the universe, whose physical nature is completely unknown.
+
+These four components are not derived from a deeper principle but are added layer by layer to fit observations. This situation suggests that spacetime itself may not be a fundamental entity, but rather a macroscopic emergent phenomenon of some deeper discrete structure.
+
+1.2 Basic picture of TDMU
+
+The Topological Dynamic Membrane Universe model (TDMU) proposes an alternative path: the universe is modelled as a topological interface (membrane) emerging from a discrete combinatorial network. The network consists of nodes and directed edges, with the only dynamics being local reconnections. Within this framework:
+
+space is the sum of distance relations among structures on the membrane;
+
+time is the cumulative count of reconnection events;
+
+matter consists of stable loop‑woven subgraphs (topological knots);
+
+gravity is the large‑number statistical effect of the total number of shared links;
+
+light is a dynamical transverse wave perturbation propagating in the shared‑link network;
+
+the root of accelerated expansion is the topological tension coupling between the membrane and the external non‑woven substrate, rather than any intrinsic energy density.
+
+The stability of the membrane is maintained by a topological gradient transition zone (GTZ) of finite thickness, within which the loop density continuously transitions from the internal woven state to the external non‑woven state. The evolution of the characteristic thickness 
+σ
+σ of the GTZ directly determines the expansion dynamics of the universe. As the membrane radius grows, the topological tension between the membrane and the external substrate accumulates; when 
+σ
+σ approaches the critical value 
+σ
+crit
+σ 
+crit
+​
+ , this manifests macroscopically as an accelerated growth of the scale factor—namely, the observational effect that in the standard model is attributed to dark energy.
+
+This paper focuses on a central question: given a set of discrete woven geometric parameters, under what conditions can a closed topological membrane persist stably? We will argue that this question reduces to a single operator trace criterion.
+
+1.3 Structure of the paper and position statement
+
+Section 2 provides the core TDMU definitions necessary for this paper (self‑contained). Section 3 introduces the recombination response operator and discusses the topological properties of its trace. Section 4 presents the steady‑state criterion and an outline of its proof. Section 5 derives the explicit spectral expansion in the spherically symmetric limit and clarifies the formal dual relation to the Riemann zeta critical line. Section 6 establishes a qualitative mapping between the trace sign and cosmic expansion dynamics, with a clear distinction between the TDMU internal interpretation and ΛCDM terminology. Section 7 proposes a staged numerical verification path. Section 8 summarises.
+
+Position statement: This paper presents a mathematical‑physical conjectural framework. The core criterion 
+T
+r
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0 is currently proposed as a necessary condition; its sufficiency relies on the uniqueness assumption of the GTZ steady‑state solution (see Remark 2.1). The complete proof of sufficiency and necessity, the spectral gap condition (Remark 4.1), the rigorous definition of the parameters 
+δ
+,
+α
+δ,α (Remark 5.1), and discrete numerical verification are left for future work.
+
+2 Preliminary definitions: discrete woven membrane and GTZ
+
+This section provides the core geometric definitions of TDMU on which our derivations depend; all content is self‑contained and does not rely on external references.
+
+Definition 2.1 (Loops and topological charge)
+In a discrete directed network, a closed path that starts from a node, follows directed edges, and eventually returns to the starting node is called a loop. When traversing a loop, the algebraic sum of forward and backward edges is an integer, called the topological charge of the loop, which is conserved under local reconnection operations.
+
+Definition 2.2 (Membrane emergence and GTZ)
+When the loop number density 
+ρ
+loop
+ρ 
+loop
+​
+  in some closed region exceeds a critical value 
+ρ
+crit
+ρ 
+crit
+​
+ , the system self‑organises to form a closed surface—the membrane. The membrane possesses a finite radial thickness 
+σ
+≪
+R
+σ≪R (with 
+R
+R the membrane radius), within which the loop density satisfies an S‑shaped distribution:
+
+ρ
+loop
+(
+r
+)
+=
+ρ
+crit
+1
++
+exp
+⁡
+(
+(
+r
+−
+R
+)
+/
+σ
+)
+,
+r
+∈
+(
+R
+−
+σ
+,
+  
+R
++
+σ
+)
+.
+ρ 
+loop
+​
+ (r)= 
+1+exp((r−R)/σ)
+ρ 
+crit
+​
+ 
+​
+ ,r∈(R−σ,R+σ).
+This radial interval is called the topological gradient transition zone (GTZ). The GTZ is the structure of the membrane itself, where weaving stress and disintegrating stress compete for balance. The existence of a steady‑state S‑shaped solution of the GTZ—guaranteed by the present criterion—is directly equivalent to the stable emergence of the membrane (this is the fundamental emergence postulate of TDMU).
+
+Remark 2.1 (Uniqueness assumption of the steady‑state solution)
+The subsequent arguments rely on the following assumption: given boundary conditions, if an S‑shaped steady‑state solution of the GTZ exists, it is unique. A rigorous proof of this assumption involves uniqueness theory for nonlinear differential equations and is beyond the scope of this paper; it is accepted as a postulate.
+
+Definition 2.3 (Shared‑link density and defect potential)
+Let the total number of shared links in a local volume 
+V
+V be 
+N
+links
+N 
+links
+​
+ ; define the number density 
+ρ
+L
+=
+N
+links
+/
+V
+ρ 
+L
+​
+ =N 
+links
+​
+ /V. The topological defect potential energy density 
+V
+defect
+V 
+defect
+​
+  is uniquely determined by five geometric parameters of the shared links: total number of links, degree of orientation, density gradient, saturation, and fragility. The specific closed‑form functional of this potential density is determined by the local woven configuration of the shared‑link network.
+
+3 Recombination response operator and traceless steady‑state criterion
+
+Definition 3.1 (Recombination response operator 
+R
+^
+R
+^
+ )
+Let the membrane be in a woven steady state, i.e. 
+∂
+t
+ρ
+L
+=
+0
+∂ 
+t
+​
+ ρ 
+L
+​
+ =0. Let 
+ϕ
+ϕ be an arbitrary scalar test field on the node set 
+N
+N (representing local density perturbations). In the woven steady‑state limit, define the linear operator
+
+R
+^
+ 
+ϕ
+  
+≜
+  
+lim
+⁡
+ woven steady state
+[
+Δ
+discrete
++
+H
+(
+r
+)
+∇
+discrete
+−
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+]
+ϕ
+,
+R
+^
+ ϕ≜ 
+ woven steady state
+lim
+​
+ [Δ 
+discrete
+​
+ +H(r)∇ 
+discrete
+​
+ − 
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ]ϕ,
+where the terms are interpreted as follows:
+
+Δ
+discrete
+Δ 
+discrete
+​
+ : graph Laplacian (discrete curvature operator),
+
+Δ
+discrete
+ϕ
+(
+i
+)
+=
+∑
+j
+∼
+i
+(
+ϕ
+(
+j
+)
+−
+ϕ
+(
+i
+)
+)
+;
+Δ 
+discrete
+​
+ ϕ(i)= 
+j∼i
+∑
+​
+ (ϕ(j)−ϕ(i));
+H
+(
+r
+)
+H(r): discrete mean curvature at node 
+i
+i; in the spherically symmetric degenerate case 
+H
+(
+r
+)
+=
+2
+/
+r
++
+o
+(
+r
+−
+2
+)
+H(r)=2/r+o(r 
+−2
+ );
+
+∇
+discrete
+∇ 
+discrete
+​
+ : discrete graph gradient, 
+(
+∇
+ϕ
+)
+i
+j
+=
+ϕ
+(
+j
+)
+−
+ϕ
+(
+i
+)
+(∇ϕ) 
+ij
+​
+ =ϕ(j)−ϕ(i);
+
+V
+defect
+[
+ρ
+L
+]
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]: topological defect potential energy density (Definition 2.3);
+
+ρ
+L
+(
+r
+)
+ρ 
+L
+​
+ (r): background shared‑link number density.
+
+Remark 3.1 (Scale normalisation)
+At the scale of the closed‑membrane radius 
+R
+R, the defect potential term carries an intrinsic curvature scale factor:
+
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+  
+↦
+  
+1
+R
+2
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+,
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ↦ 
+R 
+2
+ 
+1
+​
+  
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ,
+which ensures that 
+T
+r
+ 
+R
+^
+Tr 
+R
+^
+  reduces to a dimensionless topological number in the continuum limit. On a finite‑node network, 
+R
+^
+R
+^
+  is a finite‑dimensional matrix and its trace is defined as the sum of diagonal entries; the continuum limit is realised via zeta‑function regularisation.
+
+Lemma 3.1 (Topological invariance of the trace, outline of argument)
+In the woven steady‑state limit, 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) is independent of the discretisation scheme (node partition, link refinement) and depends only on the overall topology of the membrane—namely the Euler characteristic 
+χ
+χ.
+
+Line of reasoning: The principal symbol of 
+R
+^
+R
+^
+  is determined by the ratio 
+ρ
+L
+−
+1
+V
+defect
+ρ 
+L
+−1
+​
+ V 
+defect
+​
+ . Under GTZ steady‑state conditions, this ratio satisfies a gauge‑like invariance. By analogy with the Atiyah–Singer index theorem on compact manifolds, the coefficient of the logarithmically divergent subleading term in the trace is controlled only by the Euler characteristic 
+χ
+χ; all local mesh details can be absorbed into regularisation constants. Under the logarithmic‑average infrared cutoff scheme adopted in this paper, discretisation perturbations do not alter whether 
+T
+r
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0 holds. A rigorous formulation of this argument requires the full framework of a discrete index theorem and is left for future work.
+
+4 Main criterion: necessary condition for membrane steadiness
+
+Proposition 4.1 (TDMU necessary steady‑state criterion)
+Within the domain where the TDMU postulates hold, if a closed topological membrane emerges stably and persistently, then necessarily
+
+T
+r
+(
+R
+^
+)
+=
+0.
+Tr( 
+R
+^
+ )=0.
+Argument: If the membrane is stable over long times, then the weaving stress and the disintegrating stress inside the GTZ must be globally balanced; otherwise, a net residual tension would drive the S‑shaped loop‑density distribution (Definition 2.2) unstable, causing the characteristic thickness 
+σ
+σ to approach the critical value 
+σ
+crit
+σ 
+crit
+​
+ . A necessary condition for global stress balance is that the sum of all diagonal contributions of the recombination response operator vanish, i.e. 
+T
+r
+ 
+R
+^
+=
+0
+Tr 
+R
+^
+ =0.
+
+Remark 4.1 (Boundary between necessity and sufficiency)
+T
+r
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0 only guarantees that the algebraic sum of eigenvalues is zero; it does not exclude the possibility that a pair of large positive and negative eigenvalues cancel while local stresses already exceed the tensile strength of the membrane. Therefore, this condition should be viewed as a necessary stability condition, not a sufficient one. A complete stability criterion would require an additional spectral gap condition:
+
+λ
+k
+∈
+[
+−
+Λ
+,
+Λ
+]
+,
+Λ
+∼
+1
+/
+R
+2
+,
+λ 
+k
+​
+ ∈[−Λ,Λ],Λ∼1/R 
+2
+ ,
+i.e. the absolute values of all eigenvalues are bounded above by the membrane curvature scale. A rigorous derivation of the spectral gap condition is beyond the scope of this paper.
+
+Corollary 4.1 (Absorption of the early residual functional)
+The residual functional 
+U
+τ
+U 
+τ
+​
+  in earlier versions of TDMU is a scale‑expansion approximation of 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) in the spherically symmetric continuum limit. If numerical simulations yield 
+U
+τ
+≠
+0
+U 
+τ
+​
+ 
+
+=0, this means that within that parameter interval no spherically symmetric steady membrane satisfying the necessary condition exists.
+
+5 Spherically symmetric explicit spectral expansion and formal duality with the Riemann critical line
+
+Proposition 5.1 (Spherically symmetric closed‑membrane spectral expansion, formal statement)
+Let the cosmic membrane be a closed sphere of radius 
+R
+R, in a woven steady state. Performing a formal spectral decomposition in the spherical harmonic basis 
+{
+Y
+l
+m
+}
+{Y 
+lm
+​
+ } and the spherical Bessel basis 
+{
+j
+l
+(
+k
+r
+)
+}
+{j 
+l
+​
+ (kr)}, and imposing the boundary condition 
+j
+l
+′
+(
+k
+R
+)
+=
+0
+j 
+l
+′
+​
+ (kR)=0, the trace of the recombination response operator takes the formal expansion
+
+T
+r
+(
+R
+^
+)
+  
+∼
+  
+C
+⋅
+[
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+(
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+ 
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+ 
+d
+x
+)
+−
+2
+π
+χ
+ 
+ζ
+(
+3
+)
+]
+,
+Tr( 
+R
+^
+ )∼C⋅[ 
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ ( 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx)−2πχζ(3)],
+where:
+
+C
+≠
+0
+C
+
+=0 is a regularisation constant;
+
+Λ
+(
+n
+)
+Λ(n) is the von Mangoldt function (nonzero at prime powers);
+
+δ
+,
+α
+δ,α are two nontrivial fixed points of the reconnection bifurcation map at the GTZ critical point—their explicit computation rules are given in Remark 5.1;
+
+χ
+χ is the Euler characteristic of the membrane surface (closed sphere: 
+χ
+=
+2
+χ=2);
+
+ζ
+(
+3
+)
+ζ(3) is Apéry's constant.
+
+Remark 5.1 (Definition of 
+δ
+,
+α
+δ,α)
+In the above expression, 
+δ
+,
+α
+δ,α are introduced as formal parameters. Their rigorous definition requires explicitly writing out the recurrence relation of the reconnection bifurcation map at the GTZ critical point and proving the isomorphism of its fixed points with the Feigenbaum constants. This work has not yet been completed. In the present state, 
+δ
+,
+α
+δ,α should not be regarded as already‑defined model parameters, but as placeholders to be filled. Consequently, the above expansion currently has only formal significance and cannot yet be used for numerical computation or prediction.
+
+Remark 5.2 (Formal duality with the Riemann critical line)
+If, in the above expansion, the spectral parameter 
+ϱ
+ϱ satisfies 
+ℜ
+(
+ϱ
+)
+=
+1
+/
+2
+ℜ(ϱ)=1/2 when the trace vanishes, then this condition is formally consistent with the critical line of the non‑trivial zeros of the Riemann zeta function. In this paper we regard this as an indication of a possible homology between the two classes of problems (stability of discrete woven membranes and prime distribution), not as a rigorous mathematical equivalence. Establishing an explicit isomorphism from 
+ϱ
+ϱ to the argument of the zeta function is one of the core tasks of future work.
+
+6 Cosmic evolution criterion: from operator trace to GTZ decoherence dynamics
+
+Definition 6.1 (GTZ thickness dynamics equation)
+Let 
+σ
+(
+t
+)
+σ(t) be the characteristic GTZ thickness; its evolution is driven by the trace of the recombination response operator:
+
+σ
+¨
++
+Γ
+σ
+˙
++
+1
+τ
+2
+T
+r
+(
+R
+^
+)
+=
+0
+,
+σ
+¨
+ +Γ 
+σ
+˙
+ + 
+τ 
+2
+ 
+1
+​
+ Tr( 
+R
+^
+ )=0,
+where 
+Γ
+Γ is the membrane dissipation coefficient (determined by the path‑event rate) and 
+τ
+τ is the membrane dynamical response timescale. 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) is normalised to a dimensionless topological quantity.
+
+Physical interpretation
+
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ )	GTZ thickness evolution	Cosmological correspondence (TDMU internal language)
+>
+0
+>0	net disintegrating stress dominates, 
+σ
+σ accelerates toward 
+σ
+crit
+σ 
+crit
+​
+ 	membrane–external‑substrate topological tension drives accelerated expansion (the observational effect misattributed to dark energy in the standard model)
+<
+0
+<0	net weaving stress dominates, 
+σ
+σ decreases	membrane contracts inward (big crunch or post‑inflation contraction phase)
+≈
+0
+≈0	weaving–disintegration metastable balance	current universe: Hubble expansion coexists with structural stability
+Remark 6.1 (Cut with ΛCDM terminology)
+In the above table, the physical origin of the “accelerated expansion” phenomenon in TDMU is the topological tension coupling between the membrane and the external non‑woven substrate, rather than any intrinsic field or energy density. 
+T
+r
+(
+R
+^
+)
+>
+0
+Tr( 
+R
+^
+ )>0 indicates that the disintegration tendency in the GTZ layer dominates, intensifying the membrane’s tension response to the external substrate—at the phenomenological level this appears as a positive second derivative of the scale factor. In ΛCDM this is attributed to “dark energy”; within the TDMU framework that entity is dissolved.
+
+Remark 6.2 (Qualitative vs quantitative limits)
+The present mapping remains at the level of sign correspondence. To quantitatively connect the numerical value of 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) with observational Hubble parameter 
+H
+(
+z
+)
+H(z) data, the following tasks must be completed: (i) connect 
+T
+r
+Tr to geometric parameters such as the membrane radius 
+R
+R and the elementary brick scale via dimensional analysis; (ii) embed the evolution equation for the GTZ thickness 
+σ
+σ into a Friedmann‑type equation. This is the necessary stage for the model to move from qualitative to quantitative validation.
+
+7 Numerical verification path
+
+Verification of this criterion should proceed in stages:
+
+Stage I (toy models—most urgent): Explicitly construct the matrix representation of 
+R
+^
+R
+^
+  on two‑dimensional triangular discrete networks, numerically scan the parameter space, and observe whether membrane connectivity is maintained when 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) crosses zero. This is a crucial step to move the criterion from formal to working theory.
+
+Stage II (parameter fixing): Complete the definition of the computation rules for 
+δ
+,
+α
+δ,α required in Remark 5.1, so that the spectral expansion becomes computable.
+
+Stage III (energy‑scale derivation): Complete the dimensional analysis required in Remark 6.2, connecting 
+T
+r
+(
+R
+^
+)
+Tr( 
+R
+^
+ ) to geometric parameters such as 
+R
+R and the elementary brick scale, and provide a predictive framework comparable with CMB data.
+
+Stage IV (observational fitting): Embed the 
+σ
+(
+t
+)
+σ(t) evolution equation into a cosmological model and perform Bayesian fitting with Hubble parameter 
+H
+(
+z
+)
+H(z) data.
+
+8 Conclusion
+
+In this paper we have proposed and argued for a necessary steady‑state criterion in topological membrane cosmology: a necessary condition for the stable emergence of a closed woven topological membrane is the tracelessness of the recombination response operator—
+T
+r
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0.
+
+This result offers the following values:
+
+Unification: it connects discrete network reconnection dynamics, GTZ stress balance, and global topological constraints through a single operator equation.
+
+Number‑theoretic duality indication: it presents the Riemann zeta critical‑line condition as a possible dual constraint for the existence of a steady membrane, indicating a deep connection between the two classes of problems.
+
+Cosmological qualitative mapping: it establishes a qualitative correspondence between the operator trace sign and cosmic accelerated expansion/contraction, with the acceleration attributed to the membrane–external‑substrate topological tension coupling rather than to any dark‑energy entity.
+
+Developability: it provides a clear staged verification path.
+
+Current status statement: This paper is a theoretical framework proposal. The sufficiency and necessity of the core criterion, the spectral gap condition, the computation rules for 
+δ
+,
+α
+δ,α, and the quantitative connection to cosmological observations are all left for future work. Full validation of the model depends on the completion of discrete numerical simulations.
+
+Appendix A: Early bare‑constant approximation and renormalisation flow indication
+
+In the early development of TDMU, the following approximate conjecture was proposed:
+
+Early conjecture (phase locking, bare form):
+
+2
+arctan
+⁡
+(
+α
+/
+δ
+)
+⋅
+ζ
+(
+3
+)
+=
+1
+,
+2arctan(α/δ)⋅ζ(3)=1,
+where 
+δ
+=
+4.6692
+…
+δ=4.6692… and 
+α
+=
+2.5029
+…
+α=2.5029… are bare Feigenbaum constants.
+
+Numerical deviation: The current numerical value of the left‑hand side is about 0.823, deviating from 1 by about 17.7%.
+
+Reinterpretation within the present framework: This deviation does not indicate that the physical intuition is wrong, but rather that a renormalisation‑flow correction is missing between the bare parameters and the physical parameters. The bare Feigenbaum constants must be transformed via the renormalisation‑group flow of the bifurcation map at the GTZ critical point before they can form an exact equality with the topological capacity 
+ζ
+(
+3
+)
+ζ(3). The specific form of this renormalisation flow is determined by the spectral density function of the recombination response operator 
+R
+^
+R
+^
+ . The early conjecture is the unrenormalised correct physical intuition—the direction it points to (chaotic scaling, topological charge, and 
+ζ
+(
+3
+)
+ζ(3) must be tied together) is inherited and made precise by the operator criterion. The ultimate physical consequence of this binding relation, within this framework, is the constraint imposed by the membrane stability condition on the cosmic expansion dynamics.
+
+Statement of AI use
+
+In the preparation of this paper, artificial intelligence‑assisted tools were used for language polishing, formatting, and logical proofreading. All core theoretical content (operator definitions, criterion construction, spectral expansion form, physical interpretation, and verification path) was independently constructed by the author. The AI tools did not participate in any creative decision‑making or core mathematical derivation.
+
+(End of document)
+
+
+
+闭合拓扑膜稳态的算子判据及其数论对偶
+——TDMU框架下的第一性原理提案
+作者：MJP
+
+
+摘要
+标准宇宙学模型（ΛCDM）将初始奇点、宇宙暴涨、暗物质与暗能量作为外源假设，其物理本质至今悬而未决。本文基于拓扑动力膜宇宙模型（TDMU）公设——时空是离散组合网络上涌现的闭合编织拓扑界面——提出一个稳态判据框架。
+
+定义作用于膜离散节点集的重联响应算子
+R
+^
+R
+^
+ ，由离散曲率项、平均曲率驱动的径向梯度项与拓扑缺陷势能竞争项构成。本文论证：闭合拓扑膜稳定涌现的必要条件是
+
+Tr
+⁡
+(
+R
+^
+)
+=
+0.
+Tr( 
+R
+^
+ )=0.
+​
+ 
+该条件等价于拓扑梯度过渡层（GTZ）内部编织应力与解体应力全局平衡，膜壁不存在累积净残余张力。在球对称闭膜近似下，该迹零条件可展开为包含黎曼ζ函数、曲面欧拉示性数与费根鲍姆分岔不动点的谱求和表达式。特别地，黎曼临界线条件
+ℜ
+(
+s
+)
+=
+1
+/
+2
+ℜ(s)=1/2在本框架内呈现为稳态膜存在所导出的对偶边界约束。
+
+本文同时建立
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )的符号与宇宙膨胀动力学（加速/收缩）的定性映射——加速膨胀归因于膜-外部基质拓扑张力耦合，而非任何内禀暗能量实体。全部推导仅依赖离散编织网络的几何状态变量，不引入自由拟合参数或外源量子场。
+
+本文定位：这是一个理论框架提案。其核心判据尚未经过离散数值验证。文中所有结论均为模型内演绎推论，有待后续计算物理工作检验。
+
+关键词：涌现引力；离散网络；拓扑膜；算子迹；稳态判据；膜-基底拓扑耦合；黎曼ζ函数
+
+1 引言
+1.1 标准模型的理论困境
+ΛCDM模型与大量宇宙学观测高度相容，但其理论架构依赖多项独立外源假设：
+
+初始奇点：广义相对论在此处发散，理论失效。一个物理理论在其核心处包含一个无法描述的数学奇点，暗示该理论并非完备。
+
+宇宙暴涨：引入一个无已知物理对应物的标量场，其势能形式需人工调整以匹配观测数据。
+
+暗物质：为解释星系动力学与引力透镜观测而引入的未知粒子，迄今未被任何实验直接探测。
+
+暗能量：为解释宇宙加速膨胀而引入的未知能量密度，物理本质完全不明。
+
+这四种组分并非从更深层原理推导而来，而是逐层添加以拟合观测数据。这一状况暗示：时空本身可能并非基础实体，而是某种更深层离散结构的宏观涌现现象。
+
+1.2 TDMU的基本图景
+拓扑动力膜宇宙模型（TDMU）提出一条替代路径：宇宙被建模为从离散组合网络中涌现的拓扑界面（膜）。该网络由节点与有向边构成，其唯一动力学为局域重联。在此框架内：
+
+空间是膜上结构间距离关系的总和；
+
+时间是重联事件的累积计数；
+
+物质是稳定的环路编织子图（拓扑结）；
+
+引力是共享链接总数的大数统计效应；
+
+光是共享链接网络中传播的动态横波扰动；
+
+加速膨胀的根源是膜与外部非编织基质之间的拓扑张力耦合，而非任何内禀能量密度。
+
+膜的稳定性由一层有限厚度的拓扑梯度过渡层（GTZ） 维系——该层内环路密度从内部编织态连续过渡至外部非编织态。GTZ的特征厚度
+σ
+σ的演化直接决定宇宙的膨胀动力学。膜与外部基底之间的拓扑张力随膜半径增大而累积，当GTZ厚度
+σ
+σ逼近临界值
+σ
+crit
+σ 
+crit
+​
+ 时，宏观表现为尺度因子的加速增长——即标准模型中归因于暗能量的观测效应。
+
+本文聚焦于一个核心问题：给定一组离散编织几何参数，闭合拓扑膜在什么条件下能够持久稳定地存在？ 我们将论证该问题可约化为一个单一的算子迹判据。
+
+1.3 文章结构与定位声明
+第2节给出本文必需的TDMU核心定义（自包含）；第3节引入重联响应算子并讨论其迹的拓扑性质；第4节给出稳态判据及论证概要；第5节推导球对称极限下的显式谱展开式，阐明与黎曼ζ函数临界线的形式对偶关系；第6节建立迹符号与宇宙膨胀动力学的定性映射，明确区分TDMU内部解释与ΛCDM术语；第7节提出分阶段数值验证路径；第8节总结。
+
+定位声明：本文提出的是一个数学-物理猜想框架。核心判据
+Tr
+⁡
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0目前作为必要条件提出，其充分性依赖于GTZ稳态解的唯一性假设（见注2.1）。完整的充要性证明、谱隙条件（注4.1）、参数
+δ
+,
+α
+δ,α的严格定义（注5.1）及离散数值验证均留待后续工作。
+
+2 预备定义：离散编织膜与GTZ
+本节给出本文推导所依赖的TDMU核心几何定义，全部内容在此自包含表述，不依赖外部文献。
+
+定义2.1（环路与拓扑荷）
+在离散有向网络中，从某节点出发、沿有向边行进、最终返回出发节点的闭合路径称为环路。沿环路遍历时，正向边与反向边的代数和为整数，称为该环路的拓扑荷，在局域重联操作下守恒。
+
+定义2.2（膜涌现与GTZ）
+当某闭包区域内环路数密度
+ρ
+loop
+ρ 
+loop
+​
+ 超过临界值
+ρ
+crit
+ρ 
+crit
+​
+ 时，系统自组织形成闭合曲面——膜。膜在径向上具有有限厚度
+σ
+≪
+R
+σ≪R（
+R
+R为膜半径），其间环路密度满足S形分布：
+
+ρ
+loop
+(
+r
+)
+=
+ρ
+crit
+1
++
+exp
+⁡
+(
+(
+r
+−
+R
+)
+/
+σ
+)
+,
+r
+∈
+(
+R
+−
+σ
+,
+  
+R
++
+σ
+)
+.
+ρ 
+loop
+​
+ (r)= 
+1+exp((r−R)/σ)
+ρ 
+crit
+​
+ 
+​
+ ,r∈(R−σ,R+σ).
+该径向区间称为拓扑梯度过渡层（GTZ）。GTZ是膜的结构本身，编织应力与解体应力在此竞争平衡。GTZ的S形曲线稳态解的存在性——由本判据保证——直接等价于膜的稳定涌现（此为TDMU的基本涌现公设）。
+
+注2.1（稳态解的唯一性假设）
+本文后续论证依赖于以下假设：在给定边界条件下，GTZ的S形稳态解若存在则唯一。该假设的严格证明涉及非线性微分方程的唯一性理论，超出本文范围，在此作为公设接受。
+
+定义2.3（共享链接密度与缺陷势能）
+设局域体积
+V
+V内共享链接总数为
+N
+links
+N 
+links
+​
+ ，定义数密度
+ρ
+L
+=
+N
+links
+/
+V
+ρ 
+L
+​
+ =N 
+links
+​
+ /V。拓扑缺陷势能密度
+V
+defect
+V 
+defect
+​
+ 由共享链接的五组几何参数唯一确定：链接总数、取向度、密度梯度、饱和度与脆弱性。该势能密度的具体闭式泛函由共享链接网络的局域编织构型决定。
+
+3 重联响应算子与无迹稳态判据
+定义3.1（重联响应算子
+R
+^
+R
+^
+ ）
+设膜处于编织稳态，即
+∂
+t
+ρ
+L
+=
+0
+∂ 
+t
+​
+ ρ 
+L
+​
+ =0。令
+ϕ
+ϕ为定义在节点集合
+N
+N上的任意标量试探场（表征局域密度扰动）。在编织稳态极限下，定义线性算子：
+
+R
+^
+ϕ
+  
+≜
+  
+lim
+⁡
+编织稳态
+[
+Δ
+离散
++
+H
+(
+r
+)
+∇
+离散
+−
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+]
+ϕ
+,
+R
+^
+ ϕ≜ 
+编织稳态
+lim
+​
+ [Δ 
+离散
+​
+ +H(r)∇ 
+离散
+​
+ − 
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ]ϕ,
+其中各项释义如下：
+
+Δ
+离散
+Δ 
+离散
+​
+ ：图拉普拉斯（离散曲率算子），
+
+Δ
+离散
+ϕ
+(
+i
+)
+=
+∑
+j
+∼
+i
+(
+ϕ
+(
+j
+)
+−
+ϕ
+(
+i
+)
+)
+;
+Δ 
+离散
+​
+ ϕ(i)= 
+j∼i
+∑
+​
+ (ϕ(j)−ϕ(i));
+H
+(
+r
+)
+H(r)：节点
+i
+i处的离散平均曲率；球对称退化情形
+H
+(
+r
+)
+=
+2
+/
+r
++
+o
+(
+r
+−
+2
+)
+H(r)=2/r+o(r 
+−2
+ )；
+
+∇
+离散
+∇ 
+离散
+​
+ ：图离散梯度，
+(
+∇
+ϕ
+)
+i
+j
+=
+ϕ
+(
+j
+)
+−
+ϕ
+(
+i
+)
+(∇ϕ) 
+ij
+​
+ =ϕ(j)−ϕ(i)；
+
+V
+defect
+[
+ρ
+L
+]
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]：拓扑缺陷势能密度（定义2.3）；
+
+ρ
+L
+(
+r
+)
+ρ 
+L
+​
+ (r)：背景共享链接数密度。
+
+注3.1（标度归一化）
+在闭膜半径
+R
+R的尺度下，缺陷势能项携带固有曲率标度因子：
+
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+  
+↦
+  
+1
+R
+2
+V
+defect
+[
+ρ
+L
+]
+ρ
+L
+(
+r
+)
+,
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ↦ 
+R 
+2
+ 
+1
+​
+  
+ρ 
+L
+​
+ (r)
+V 
+defect
+​
+ [ρ 
+L
+​
+ ]
+​
+ ,
+该因子确保
+Tr
+⁡
+R
+^
+Tr 
+R
+^
+ 在连续极限下退化为无量纲拓扑数。在有限节点网络上，
+R
+^
+R
+^
+ 为有限维矩阵，其迹定义为对角元之和；连续极限通过ζ函数正则化实现。
+
+引理3.1（迹的拓扑不变性，论证概要）
+在编织稳态极限下，
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )独立于离散化方案（节点剖分、链接细化程度），仅由膜的整体拓扑——即欧拉示性数
+χ
+χ——决定。
+
+论证思路：算子
+R
+^
+R
+^
+ 的主符号由比值
+ρ
+L
+−
+1
+V
+defect
+ρ 
+L
+−1
+​
+ V 
+defect
+​
+ 确定。在GTZ稳态条件下，该比值满足类规范不变性。类比紧致流形上Atiyah–Singer指标定理的思想：迹中对数发散的亚主导项系数仅由欧拉示性数
+χ
+χ控制；所有局域网格细节均可被正则化常数吸收。在本文采用的对数平均红外截断方案下，离散化扰动不改变
+Tr
+⁡
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0是否成立。该论证的严格化需引入离散指标定理的完整框架，留待后续工作。
+
+4 主判据：膜稳态的必要条件
+命题4.1（TDMU稳态必要判据）
+在TDMU公设成立的论域内，若闭合拓扑膜持久稳定涌现，则必有：
+
+Tr
+⁡
+(
+R
+^
+)
+=
+0.
+Tr( 
+R
+^
+ )=0.
+​
+ 
+论证
+
+若膜长期稳定，则GTZ内部编织应力与解体应力必须全局平衡；否则净残余张力将驱动S形环路密度分布（定义2.2）失稳，使特征厚度
+σ
+σ趋近临界值
+σ
+crit
+σ 
+crit
+​
+ 。全局应力平衡的一个必要条件是重联响应算子所有对角贡献之和为零，即
+Tr
+⁡
+R
+^
+=
+0
+Tr 
+R
+^
+ =0。
+
+注4.1（必要性与充分性的界限）
+Tr
+⁡
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0仅保证本征值的代数和为零，不排除存在一对巨大的正负本征值相互抵消而局部应力已超过膜抗拉强度的情况。因此，该条件应被视为稳定性必要条件，而非充分条件。完整的稳定性判据需补充谱隙条件：
+
+λ
+k
+∈
+[
+−
+Λ
+,
+Λ
+]
+,
+Λ
+∼
+1
+/
+R
+2
+,
+λ 
+k
+​
+ ∈[−Λ,Λ],Λ∼1/R 
+2
+ ,
+即所有本征值的绝对值受膜曲率尺度上界约束。谱隙条件的严格推导超出本文范围。
+
+推论4.1（早期残差泛函的吸收）
+TDMU早期版本中的残差泛函
+U
+τ
+U 
+τ
+​
+ 是
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )在球对称连续极限下的一个标度展开近似。若数值模拟给出
+U
+τ
+≠
+0
+U 
+τ
+​
+ 
+
+=0，其含义为：在该参数区间内不存在满足必要条件的球对称稳态膜。
+
+5 球对称显式谱展开与黎曼临界线的形式对偶
+命题5.1（球对称闭膜谱展开，形式化表述）
+设宇宙膜为半径
+R
+R的闭合球面，处于编织稳态。在球谐基
+{
+Y
+l
+m
+}
+{Y 
+lm
+​
+ }与球贝塞尔基
+{
+j
+l
+(
+k
+r
+)
+}
+{j 
+l
+​
+ (kr)}下做形式谱分解，并施加边界条件
+j
+l
+′
+(
+k
+R
+)
+=
+0
+j 
+l
+′
+​
+ (kR)=0，重联响应算子迹的形式展开为：
+
+Tr
+⁡
+(
+R
+^
+)
+  
+∼
+  
+C
+⋅
+[
+lim
+⁡
+X
+→
+∞
+1
+ln
+⁡
+X
+(
+∑
+n
+≤
+X
+Λ
+(
+n
+)
+ln
+⁡
+n
+e
+i
+δ
+ln
+⁡
+n
+−
+∫
+1
+X
+e
+i
+α
+ln
+⁡
+x
+x
+ 
+d
+x
+)
+−
+2
+π
+χ
+ 
+ζ
+(
+3
+)
+]
+,
+Tr( 
+R
+^
+ )∼C⋅[ 
+X→∞
+lim
+​
+  
+lnX
+1
+​
+ ( 
+n≤X
+∑
+​
+  
+lnn
+Λ(n)
+​
+ e 
+iδlnn
+ −∫ 
+1
+X
+​
+  
+x
+e 
+iαlnx
+ 
+​
+ dx)−2πχζ(3)],
+其中：
+
+C
+≠
+0
+C
+
+=0为正则化常数；
+
+Λ
+(
+n
+)
+Λ(n)为冯·曼戈尔特函数（素数幂处非零）；
+
+δ
+,
+α
+δ,α为GTZ临界点处重联分岔映射的两个非平凡不动点——其具体计算规则见注5.1；
+
+χ
+χ为膜曲面的欧拉示性数（闭合球面
+χ
+=
+2
+χ=2）；
+
+ζ
+(
+3
+)
+ζ(3)为阿培里常数。
+
+注5.1（
+δ
+,
+α
+δ,α的定义问题）
+上式中
+δ
+,
+α
+δ,α目前作为形式参数引入。它们的严格定义要求显式写出GTZ临界点处重联分岔映射的递推关系，并证明其不动点与费根鲍姆常数的同构关系。该工作尚未完成。在当前状态下，
+δ
+,
+α
+δ,α不宜被视为已定义的模型参数，而应视为待填充的占位符。 这使得上述展开式目前仅具有形式化意义，尚不能用于数值计算或预测。
+
+注5.2（与黎曼临界线的形式对偶）
+若上述展开式中的谱参数
+ϱ
+ϱ满足
+ℜ
+(
+ϱ
+)
+=
+1
+/
+2
+ℜ(ϱ)=1/2时迹为零，则该条件与黎曼ζ函数非平凡零点的临界线在形式上一致。本文将此视为两类问题（离散编织膜稳定性与素数分布）之间的可能同源性指示，而非严格的数学等价性证明。建立从
+ϱ
+ϱ到ζ函数自变量的显式同构映射，是未来工作的核心任务之一。
+
+6 宇宙演化判据：从算子迹到GTZ退相干动力学
+定义6.1（GTZ厚度动力学方程）
+设
+σ
+(
+t
+)
+σ(t)为GTZ特征厚度，其演化由重联响应算子的迹驱动：
+
+σ
+¨
++
+Γ
+σ
+˙
++
+1
+τ
+2
+Tr
+⁡
+(
+R
+^
+)
+=
+0
+,
+σ
+¨
+ +Γ 
+σ
+˙
+ + 
+τ 
+2
+ 
+1
+​
+ Tr( 
+R
+^
+ )=0,
+其中
+Γ
+Γ为膜内耗散系数（由路径一事件率决定），
+τ
+τ为膜动力学响应时标。
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )经归一化为无量纲拓扑量。
+
+物理解读
+
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )	GTZ厚度演化	宇宙学对应（TDMU内部语言）
+>
+0
+>0	净解体应力占优，
+σ
+σ加速逼近临界值
+σ
+crit
+σ 
+crit
+​
+ 	膜-外部基底拓扑张力驱动加速膨胀（标准模型中误归为暗能量的观测效应）
+<
+0
+<0	净编织应力占优，
+σ
+σ减小	膜向内收缩（大挤压或暴涨后回缩阶段）
+≈
+0
+≈0	编织-解体亚稳态平衡	当前宇宙：哈勃膨胀与结构稳定共存
+注6.1（与ΛCDM术语的切割）
+上表中“加速膨胀”现象的物理根源在TDMU中为膜与外部非编织基质的拓扑张力耦合，而非任何内禀场或能量密度。
+Tr
+⁡
+(
+R
+^
+)
+>
+0
+Tr( 
+R
+^
+ )>0指示的是GTZ层解体趋势占优，使膜壁对外部基质的张力响应加剧——现象层表现为尺度因子的二阶导数为正。ΛCDM中将此归因于“暗能量”，在TDMU框架中该实体被消解。
+
+注6.2（定性与定量的界限）
+当前映射停留在符号方向对应层面。要将
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )的数值与哈勃参数
+H
+(
+z
+)
+H(z)的观测数据定量对接，需完成以下工作：（i）将
+Tr
+⁡
+Tr与膜半径
+R
+R、原砖尺度通过量纲分析连接；（ii）将GTZ厚度
+σ
+σ的演化方程嵌入弗里德曼型方程。这是模型从定性走向定量验证的必经阶段。
+
+7 数值验证路径
+本判据的验证需分阶段推进：
+
+阶段一（玩具模型——最紧迫）：在二维三角形离散网络上显式构造
+R
+^
+R
+^
+ 的矩阵表示，数值扫描参数空间，观测
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )过零点时膜连通性是否维持。这是将判据从形式化推向可工作理论的关键一步。
+
+阶段二（参数固化）：完成注5.1要求的
+δ
+,
+α
+δ,α计算规则定义，使谱展开式具备可计算性。
+
+阶段三（能标推导）：完成注6.2要求的量纲分析，将
+Tr
+⁡
+(
+R
+^
+)
+Tr( 
+R
+^
+ )与膜半径
+R
+R、原砖尺度等几何参数连接，给出可与CMB数据比较的预测框架。
+
+阶段四（观测拟合）：将
+σ
+(
+t
+)
+σ(t)演化方程嵌入宇宙学模型，与哈勃参数
+H
+(
+z
+)
+H(z)数据做贝叶斯拟合。
+
+8 结论
+本文提出并论证了拓扑膜宇宙学中的一个稳态必要判据：闭合编织拓扑膜稳定涌现的必要条件为重联响应算子无迹——
+Tr
+⁡
+(
+R
+^
+)
+=
+0
+Tr( 
+R
+^
+ )=0。
+
+该结果具备以下价值：
+
+统一性：将离散网络重联动力学、GTZ应力平衡与全局拓扑约束联系于单一算子方程。
+
+数论对偶指示：将黎曼ζ函数临界线条件呈现为稳态膜存在的可能对偶约束，为两类问题之间的深层联系提供了指示。
+
+宇宙学定性映射：建立算子迹符号与宇宙加速膨胀/收缩的定性对应，加速膨胀归因于膜-外部基底拓扑张力耦合，而非任何暗能量实体。
+
+可发展性：提供清晰的阶段式验证路径。
+
+当前状态声明：本文是一个理论框架提案。核心判据的充要性、谱隙条件、
+δ
+,
+α
+δ,α的计算规则及与宇宙学观测的定量对接均留待后续工作。模型的完整验证依赖于离散数值模拟的完成。
+
+附录A：早期裸常数近似与重整化流指示
+在TDMU早期发展中，曾提出以下近似猜想：
+
+早期猜想（相位锁定，裸形式）：
+
+2
+arctan
+⁡
+(
+α
+/
+δ
+)
+⋅
+ζ
+(
+3
+)
+=
+1
+,
+2arctan(α/δ)⋅ζ(3)=1,
+其中
+δ
+=
+4.6692
+…
+δ=4.6692…，
+α
+=
+2.5029
+…
+α=2.5029…为裸费根鲍姆常数。
+
+数值偏差：左式当前数值约为0.823，与1偏差约17.7%。
+
+在本文框架中的重新解释：该偏差不表示物理直觉错误，而是裸参数与物理参数之间缺少重整化流的修正。裸的费根鲍姆常数需经GTZ临界点分岔映射的重整化群流变换后，才能与拓扑容量
+ζ
+(
+3
+)
+ζ(3)形成精确等式。该重整化流的具体形式由重联响应算子
+R
+^
+R
+^
+ 的谱密度函数决定。早期猜想是未重整化的正确物理直觉——它指出的方向（混沌标度、拓扑荷与
+ζ
+(
+3
+)
+ζ(3)必须绑定）被算子判据继承并精确化。这一绑定关系的最终物理后果，在本框架中表现为膜稳定性条件对宇宙膨胀动力学的约束。
+
+AI使用声明
+本文在撰写过程中使用人工智能辅助工具进行语言润色、格式排版与逻辑校对。全部核心理论内容（算子定义、判据构造、谱展开形式、物理解读与验证路径）均由作者独立构建，AI工具未参与任何创造性决策或核心数学推导。
+
+（全文完）
