@@ -1,0 +1,821 @@
+MJP-τ（Ⅱ）
+Axiom
+Let 
+G
+=
+(
+V
+,
+E
+)
+G=(V,E) be an infinite locally finite directed graph. The sole dynamics is local edge reconnection. Reconnections are numbered by their order of occurrence: 
+s
+=
+1
+,
+2
+,
+…
+s=1,2,… (substrate ordinal, not physical time); the conserved oriented topological charge of loops is denoted by 
+χ
+χ.
+
+There exist a critical ordinal 
+s
+c
+s 
+c
+​
+  and a sequence of connected subgraphs 
+{
+M
+N
+}
+{M 
+N
+​
+ } such that for 
+s
+≥
+s
+c
+s≥s 
+c
+​
+ , a membrane emerges, and reconnection events inside the membrane are counted from 
+t
+=
+0
+t=0 onward. They satisfy 
+M
+N
+⊂
+G
+s
+c
++
+t
+M 
+N
+​
+ ⊂G 
+s 
+c
+​
+ +t
+​
+ , 
+∣
+M
+N
+∣
+=
+N
+∣M 
+N
+​
+ ∣=N, and
+
+d
+s
+=
+2
+,
+g
+=
+0.
+d 
+s
+​
+ =2,g=0.
+Time inside the membrane is defined as 
+t
+≜
+t≜ the cumulative count of reconnection events after membrane emergence.
+
+Definitions
+Subgraphs are uniformly taken as graph‑distance balls centered at vertices.
+Let 
+d
+i
+j
+(
+t
+)
+d 
+ij
+​
+ (t) be the graph distance between vertices 
+i
+,
+j
+i,j at time 
+t
+t.
+
+Define
+
+Ξ
+t
+=
+1
+N
+(
+∑
+i
+∑
+j
+≠
+i
+1
+d
+i
+j
+(
+t
+)
+)
+(
+∑
+i
+<
+j
+<
+k
+1
+max
+⁡
+{
+d
+i
+j
+(
+t
+)
+,
+ 
+d
+j
+k
+(
+t
+)
+,
+ 
+d
+k
+i
+(
+t
+)
+}
+3
+)
+.
+Ξ 
+t
+​
+ = 
+N
+1
+​
+  
+​
+  
+i
+∑
+​
+  
+j
+
+=i
+∑
+​
+  
+d 
+ij
+​
+ (t)
+1
+​
+  
+​
+  
+​
+  
+i<j<k
+∑
+​
+  
+max{d 
+ij
+​
+ (t),d 
+jk
+​
+ (t),d 
+ki
+​
+ (t)} 
+3
+ 
+1
+​
+  
+​
+ .
+The time‑averaged limit is
+
+Ξ
+∗
+=
+lim
+⁡
+T
+→
+∞
+1
+T
+∑
+t
+=
+1
+T
+Ξ
+t
+,
+ψ
+t
+=
+Ξ
+t
+−
+Ξ
+∗
+.
+Ξ 
+∗
+ = 
+T→∞
+lim
+​
+  
+T
+1
+​
+  
+t=1
+∑
+T
+​
+ Ξ 
+t
+​
+ ,ψ 
+t
+​
+ =Ξ 
+t
+​
+ −Ξ 
+∗
+ .
+Implicit assumption: the evolution satisfies ergodicity, and the time‑average limit is independent of the initial trajectory.
+
+Conjectures
+
+I. 
+Ξ
+∗
+Ξ 
+∗
+  exists, is finite, and is strictly positive.
+
+II. There exists 
+κ
+>
+0
+κ>0 such that for all sufficiently large membrane times 
+t
+t,
+
+ψ
+t
++
+1
+−
+ψ
+t
+=
+−
+κ
+⋅
+ψ
+t
++
+O
+(
+ψ
+t
+2
+)
+.
+ψ 
+t+1
+​
+ −ψ 
+t
+​
+ =−κ⋅ψ 
+t
+​
+ +O(ψ 
+t
+2
+​
+ ).
+The constant 
+κ
+κ depends only on the local reconnection rules, not on the initial network configuration.
+
+Equivalent statement
+
+I
+∧
+II
+  
+⟺
+  
+a self‑sustaining steady state necessarily emerges spontaneously.
+I∧II⟺a self‑sustaining steady state necessarily emerges spontaneously.
+Remarks
+The proof of Conjecture I requires bridging constants and analytic domains such as 
+γ
+,
+δ
+,
+α
+,
+e
+,
+π
+,
+χ
+,
+ζ
+(
+3
+)
+γ,δ,α,e,π,χ,ζ(3). Conjecture II depends on computing the spectral gap of the linearised operator of the critical‑reconnection renormalisation group.
+
+The two conjectures cannot be separated: without 
+Ξ
+∗
+Ξ 
+∗
+ , the fluctuation 
+ψ
+t
+ψ 
+t
+​
+  is undefined; without 
+κ
+>
+0
+κ>0, there is only a static average and no dynamical self‑sustaining property.
+
+Core proposition (in one sentence)
+A critical reconnection network with spectral dimension 2 necessarily gives rise to self‑sustaining order from purely discrete topological dynamics.
+
+
+（中文版）MJP-τ（Ⅱ）
+公理
+
+G=(V,E) 为无限局部有限有向图。唯一动力学：局域边重联。重联依发生次序编号 
+s=1,2,…（基质序数，非物理时间）；环路定向拓扑守恒量记为 χ。
+
+存在临界序数 
+s
+c
+s 
+c
+​
+  与连通子图序列 
+{
+M
+N
+}
+{M 
+N
+​
+ }：当 
+s
+≥
+s
+c
+s≥s 
+c
+​
+ ，膜涌现，膜内重联事件自 
+t
+=
+0
+t=0 开始计数。满足 
+M
+N
+⊂
+G
+s
+c
++
+t
+M 
+N
+​
+ ⊂G 
+s 
+c
+​
+ +t
+​
+ ，
+∣
+M
+N
+∣
+=
+N
+∣M 
+N
+​
+ ∣=N，且
+
+d
+s
+=
+2
+,
+g
+=
+0
+d 
+s
+​
+ =2,g=0
+
+膜内时间 
+t
+≜
+t≜ 膜涌现后重联事件累积计数。
+
+定义
+子图统一取定点中心图距离球。
+d
+i
+j
+(
+t
+)
+d 
+ij
+​
+ (t) 为 
+t
+t 时刻顶点 
+i
+,
+j
+i,j 的图距离。
+
+Ξ
+t
+=
+1
+N
+(
+∑
+i
+∑
+j
+≠
+i
+1
+d
+i
+j
+(
+t
+)
+)
+(
+∑
+i
+<
+j
+<
+k
+1
+max
+⁡
+{
+d
+i
+j
+(
+t
+)
+,
+d
+j
+k
+(
+t
+)
+,
+d
+k
+i
+(
+t
+)
+}
+3
+)
+Ξ 
+t
+​
+ = 
+N
+1
+​
+ (∑ 
+i
+​
+ ∑ 
+j
+
+=i
+​
+  
+d 
+ij
+​
+ (t)
+1
+​
+ )(∑ 
+i<j<k
+​
+  
+max{d 
+ij
+​
+ (t),d 
+jk
+​
+ (t),d 
+ki
+​
+ (t)} 
+3
+ 
+1
+​
+ )
+
+时间平均极限：
+
+Ξ
+∗
+=
+lim
+⁡
+T
+→
+∞
+1
+T
+∑
+t
+=
+1
+T
+Ξ
+t
+,
+ψ
+t
+=
+Ξ
+t
+−
+Ξ
+∗
+Ξ 
+∗
+ =lim 
+T→∞
+​
+  
+T
+1
+​
+ ∑ 
+t=1
+T
+​
+ Ξ 
+t
+​
+ ,ψ 
+t
+​
+ =Ξ 
+t
+​
+ −Ξ 
+∗
+ 
+
+隐含假设：演化满足遍历性，时间平均极限与初始轨道无关。
+
+猜想
+Ⅰ　
+Ξ
+∗
+Ξ 
+∗
+  存在、有限且严格为正。
+
+Ⅱ　
+∃
+ 
+κ
+>
+0
+∃κ>0，对所有充分大膜内时间 
+t
+t：
+
+ψ
+t
++
+1
+−
+ψ
+t
+=
+−
+κ
+⋅
+ψ
+t
++
+O
+(
+ψ
+t
+2
+)
+ψ 
+t+1
+​
+ −ψ 
+t
+​
+ =−κ⋅ψ 
+t
+​
+ +O(ψ 
+t
+2
+​
+ )
+​
+ 
+
+常数 
+κ
+κ 仅由局域重联规则决定，与初始网络构型无关。
+
+等价命题
+Ⅰ
+∧
+Ⅱ
+  
+⟺
+  
+自维持稳态必然自发涌现
+Ⅰ∧Ⅱ⟺自维持稳态必然自发涌现
+
+评注
+猜想Ⅰ的证明需跨越 
+γ
+,
+δ
+,
+α
+,
+e
+,
+π
+,
+χ
+,
+ζ
+(
+3
+)
+γ,δ,α,e,π,χ,ζ(3) 等常数与解析领域；猜想Ⅱ依赖临界重联重整化群线性化算子的谱间隙计算。
+
+两条猜想不可拆分：无 
+Ξ
+∗
+Ξ 
+∗
+ ，偏差量 
+ψ
+t
+ψ 
+t
+​
+  无从定义；无 
+κ
+>
+0
+κ>0，仅有静态平均值，不具备动力学自维持属性。
+
+核心命题（一句话）
+谱维为2的临界重联网络，从纯粹离散拓扑运动中必然涌现自维持秩序。
+
+
+
+精简版
+设 
+G
+G 为谱维2的临界重联网络，
+Ξ
+t
+Ξ 
+t
+​
+  为其编织容量密度。则 
+∃
+ 
+Ξ
+∗
+>
+0
+,
+ 
+κ
+>
+0
+∃Ξ 
+∗
+ >0, κ>0，使得 
+Ξ
+t
+→
+Ξ
+∗
+Ξ 
+t
+​
+ →Ξ 
+∗
+  且 
+ψ
+t
++
+1
+−
+ψ
+t
+=
+−
+κ
+ψ
+t
++
+O
+(
+ψ
+t
+2
+)
+ψ 
+t+1
+​
+ −ψ 
+t
+​
+ =−κψ 
+t
+​
+ +O(ψ 
+t
+2
+​
+ )。
