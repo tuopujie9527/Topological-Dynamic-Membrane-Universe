@@ -1,0 +1,655 @@
+Saga of Survival on the Membrane
+—A Science Fiction Narrative Based on the Topological Dynamic Membrane Universe Model (TDMU) v2.341
+SAGA OF THE τ-COSMOS ID 2026.0010·∞
+Author: MJP
+________________________________________
+Prologue: The Toad
+Summer night. A pond. A toad lies motionless at the bottom, blowing bubbles from its mouth.
+The bubbles rise, expand, deform, oscillate. The textures on the bubble wall spin, split, and recombine. At last, the bubble bursts and returns to ripples in the water.
+The water is the substrate—the underlying reality that bears everything.
+The bubbles are universes—ordered structures emerging from the water, separating an inside from an outside into two worlds. The rising of the bubbles is the irreversible unfolding of time. The expansion of the bubbles is the cooling of the universe. The textures on the bubbles are matter. The bursting of the bubbles is the final end.
+There are other bubbles in the pond, each independently rising, expanding, and bursting. No direct sound waves pass between them, yet their tremors connect through the water.
+The toad remains still in the unreachable depths. We are born in the ripples on the bubble wall, and in our entire lives we can never look back at it. That does not matter. What matters is the ripples themselves.
+This is an ancient story. A civilization on the Mother Membrane carved it into stone before their extinction. Later, another civilization discovered it, translated it into code, and stored it in the core of an asteroid. Still later, it was loaded into the memory sector of the Ark.
+At the end of the story is a line of annotation added later:
+"Now we all know. Beyond the universe are more universes. Beyond the universe is the Bedrock Sea. Beyond the universe is silence, darkness, and ceaseless fluctuations. But we also know something else: after the bubble bursts, the water remains. The toad is still blowing bubbles."
+The signature on the annotation has been worn away by time. Only two words remain, which the basic education system of the Ark civilization set as the first concept every child should learn.
+Keep walking.
+________________________________________
+Volume I: Terminal Data
+Chapter 1
+The warning came from the Reconnection Interferometer Array. The last terminal still in operation.
+This terminal was located in the outer orbit of an uninhabited planet designated S9vvr5c$322. The Reconnection Interferometer Array had been gradually decommissioned over the third millennium after the popularization of topological weave detectors. The array's baseline needed to span thousands of astronomical units to achieve sufficient low-frequency resolution, making it expensive to build and maintain. Topological weave detectors could achieve local resolution three orders of magnitude higher at one-tenth the cost. No one needed a device that could only see "large and distant" things anymore.
+Only this one terminal continued to operate because its dismantling had been incomplete. Half of its solar panels had failed, its main computing unit had been tampered with into read-only mode, and its sole input came from an old cable that had not yet been physically severed. It was still receiving, still recording, still quietly accumulating the pulse of the universe.
+The three discoverers—theoretical physicist Yi, theoretical physicist An, and retired weave engineer Zhai—had lost their formal positions during the wave of funding cuts at the end of the Awakening Epoch. They moved into the abandoned underground array control center on S9vvr5c$322 and used its idle computing resources to run weave theory simulations. They were the last ones still studying submembrane emergence.
+Yi noticed an anomaly while analyzing the noise floor. Amid the background noise of weave density fluctuations, a signal was repeating. Its frequency was astonishingly low—a complete cycle took about ninety thousand years—but its phase shift consistently pointed in the same direction. The signal strength increased by about three parts per million each week.
+"Its waveform does not match any known model of weave density fluctuations," Yi wrote in his log, "but it keeps repeating."
+An and Zhai exhausted all conventional explanations: instrument malfunction, data processing errors, unknown astrophysical sources. They ruled them out one by one. The source of the signal lay at the edge of the membrane, about thirteen billion light-years away. Decoded, the content of the signal revealed a clear conclusion:
+The spatial network at the membrane's edge was spontaneously disintegrating. Every breaking spatial link sent echoes inward in the form of weave density fluctuation pulses. For billions of years, these echoes had been propagating—at extremely low frequency, extremely long wavelength. The Reconnection Interferometer Array, with its baseline spanning thousands of astronomical units, had been designed precisely to capture such low-frequency signals. The topological weave detectors were optimized for entirely different frequency bands; they had never looked in this direction.
+But the disintegration was accelerating. The wavelengths were shortening. The frequencies were rising. The disintegration front was accelerating inward.
+An spent three days calculating the relationship between the front's propagation speed and the weave density decline curve. She overturned her model several times, and finally, in pencil on the back of a sheet of printer paper, wrote down the result. That paper was later preserved in the highest-security partition of the Ark's core memory.
+On the paper were only a number and a word.
+The number: 317,248. Unit: years.
+The word: "Critical."
+The global weave stability of the Mother Membrane would reach zero in approximately three hundred seventeen thousand years. Margin of error: plus or minus eight thousand years.
+An then made another calculation: the Mother Membrane had existed for about 13.8 billion years. Three hundred seventeen thousand years represented roughly two-thousandths of its total age. The Mother Membrane was an ancient universe that had lived an exceedingly long life and was approaching the end of its natural evolution. The terminal data could be captured precisely because the Mother Membrane had lived long enough—the disintegration front had only accelerated to a detectable intensity in the final stages of its life.
+Zhai looked at that number for a long time.
+"We need a bigger laboratory," he said.
+________________________________________
+Chapter 2
+Three hundred seventeen thousand years. A blink on the cosmic scale. An extreme constraint on the engineering scale.
+The first rough estimate was completed within forty hours after the terminal data was confirmed. Building a submembrane Ark capable of housing at least ten billion individuals would require a total amount of elementary particles equivalent to the sum of all matter in about twelve thousand Milky-Way-class galaxies. The energy required would be roughly one hundred trillion times the current civilization's annual energy consumption.
+Intergalactic transport alone, using conventional intra-membrane methods, would take billions of years. The Ark was physically impossible to build.
+But this estimate contained a hidden assumption: that transport must occur within the intra-membrane spatial network. Zhai overturned it at the forty-first hour.
+"We won't transport inside the membrane," he said. "We'll transport in the substrate."
+The core insight was as follows: the speed of light inside the membrane is merely a property of the spatial network. The conduction velocity of reconnection pulses in the substrate is about eleven orders of magnitude higher than the intra-membrane speed of light. Any material—elementary particles obtained by dismantling stars—is essentially a weave structure. Weave structures can be pushed into the substrate, transmitted within the substrate in the form of reconnection pulses, and then pulled back into the membrane at the destination.
+This is not transporting matter. This is scan-transmit-reassemble. Particles at the point of departure are dismantled into weave information; the information travels instantly to the destination via substrate pulses; at the destination, a local particle reservoir is used to re-weave them. The particles at the departure point are recycled into the local reservoir for the next reassembly. Particles circulate in the process—the weave pattern is conserved, and the particles themselves are merely carriers.
+Yi and An completed the feasibility argument within the following days: it was physically valid. The engineering difficulty was extreme, but it violated no known constraints of weave theory. The velocity of substrate signal propagation was so many orders of magnitude larger that the distance between any galaxies approached zero in terms of pulse transmission. The real bottleneck was no longer transportation, but the scanning rate and reassembly rate.
+The Central Planning Matrix reran the optimization algorithms. The new construction timeline estimate: 220,000 to 280,000 years.
+On the fortieth day, a document marked "Priority: Existential" was simultaneously transmitted to all of the more than seven hundred member galaxies of the Local Group. Its filename, meaning "Survival" in the language of the time, was later translated as "The Ark Project."
+The document's first paragraph read:
+"The universe we inhabit is dying. An irreversible global weave disintegration is occurring at the membrane's edge. The disintegration front is advancing inward at the intra-membrane speed of light. Based on the current propagation speed and acceleration trend, all weave structures of the Mother Membrane will be reduced to zero in approximately 317,000 years. The Mother Membrane has existed for about 13.8 billion years and is approaching the end of its natural evolutionary lifespan. The time window is inelastic. Construction must begin now."
+That same day, the complete universal star chart was loaded into the Central Planning Matrix. This star chart had been accumulated by the civilizations of the Local Group over hundreds of millennia through substrate pulse surveys—the precise coordinates, mass distributions, and material compositions of two trillion galaxies, all on record. The Planning Matrix's task was not "exploration," but "screening." Among the two trillion known galaxies, it would delineate the core civilization areas to be preserved, and then designate the optimal dismantling targets.
+The algorithm ran for about seven hours. The output was as follows:
+Core Preservation Zone: Centered on the Milky Way and the Andromeda Galaxy, encompassing about fifty nearby civilized galaxies that had established stable intergalactic ties. These galaxies would be directly embedded within the closed surface of the Ark's hull, serving as the main structural interior space of the Ark.
+Material Supply Zone: Approximately twelve thousand galaxies surrounding the Core Preservation Zone. Optimal transport distance; material compositions meeting all constraints for hull weaving. To be dismantled in their entirety.
+The remaining approximately 199 million-plus galaxies in the Mother Membrane were not on the dismantling list. They were too far away. They would naturally disintegrate along with the Mother Membrane in 317,000 years. The Ark had no capacity to save them, nor to destroy them. No causal connection would be established between them and the Ark within the remaining lifespan of the Mother Membrane.
+The first dismantling fleet launched that same day. Its commander was an elderly structural engineer surnamed Ke. He gave a final communication before departure.
+"You are about to go dismantle the first target galaxies. What do you want to say?"
+"We are going to collect materials."
+"What is your view of the Ark Project?"
+"From an engineering perspective, feasible. From a survival perspective, the only option. Both assessments are simultaneously true, and do not contradict each other."
+Ke did not live to see the Ark completed. In the third year after departure, his fleet completed the dismantling of the first batch of masquerade stars, and the materials were instantly transmitted back to the construction zone via substrate pulses. Ke died of natural aging in the fourth year. His successors carried out his unfinished tasks. After the Ark was completed, the core construction zone was named the "Ke Domain"—a spherical space about five million light-years in diameter, where Ke's fleet had dismantled the first masquerade stars all those years ago. The galaxies there had been dismantled completely, leaving only a dark zone with no luminous celestial bodies. Later generations called it "Ke's Graveyard."
+In the first millennium after the Ark Project was launched, the core task of civilization was to reorganize itself. A political entity that integrated the more than fifty civilized galaxies of the Local Group into a unified will gradually took shape—the "Construction Compact." Its full name was "The Resource Mobilization and Allocation Compact Established to Address the Ultimate Cosmic Termination," which no one ever used. It was simply the Compact.
+The Compact's establishment was not accompanied by ethical debate. The moment the terminal data was confirmed, the time for debate had already ended. The first plenary session of the Compact Council lasted only one day. Its minutes contained only one line: "Unanimously agreed to execute the Ark Project. No votes against. No abstentions."
+________________________________________
+Volume II: Construction
+Chapter 3
+The Ark's official designation was "Project First Submembrane." Construction engineers called it "the Hull," planners called it "the Final Structure," and mathematicians called it "the Closed Surface Solution."
+The Ark was not a ship. It was an independent small universe—a closed weave surface that emerged inside the Mother Membrane and independently maintained weave stability. The effective interior space of the hull was roughly equal to the volume of the Local Group. The more than fifty civilized galaxies, centered on the Milky Way and Andromeda, were completely embedded inside the hull, serving as the main structural body of the Ark. The hundreds of billions of stars within these galaxies, and the planetary systems orbiting them, were preserved intact within the hull.
+The night sky for the Ark's inhabitants had two layers of starlight. The nearer layer was the stars inside the Ark—their own suns, the starlight of neighboring galaxies, the familiar constellations of the Local Group. The farther layer was the Mother Membrane universe outside the hull—galaxies, clusters, and the cosmic web on scales of tens of billions of light-years. The hull was a perceptual "glass window"; the light of the Mother Membrane could pass through, until the day of severance.
+The gravity grid was the skeleton of the Ark's internal spatial structure. Early in the construction, Zhai designed the optimal space-filling pattern: within the given closed surface, maintaining the maximum number of stars in stable orbits with the minimum total energy. The hundreds of billions of stars did not rotate around a single massive center; they were distributed, each placed precisely at a calculated gravitational lattice point, pulling and balancing one another. The entire Ark was a vast gravitational loom.
+Zhai spent three hundred years solving the mathematical form of this space-filling pattern. He died the year after completing the design. Over the next four thousand years, his design was woven into the structure of the hull by successive generations. When the hull was completed, Zhai had been dead for over ten thousand years.
+The radius of the Ark's closed surface was determined by two joint factors: the surface defect fraction and the expected voyage timescale. The defect fraction had to be suppressed to far below the level of naturally emergent membranes—below one part per million. The total elementary particles required to achieve this weave density was the sum of twelve thousand galaxies. This figure came from a multi-variable joint optimization of the minimum curvature radius of the closed surface, the relationship between surface defect density and particle count, and the expected voyage timescale.
+In the Mother Membrane universe, masquerade stars were the most crucial material source for the Ark's construction. Masquerade stars were not artificial structures—they were a class of naturally occurring extreme celestial bodies: an outer shell of plasma undergoing thermonuclear fusion, with luminosity and spectrum indistinguishable from ordinary stars; and a core that was a primordial supermassive black hole. A masquerade star was not a star heading for death—from the moment of its birth, its core was already a black hole. In the Mother Membrane universe, the number of masquerade stars was about one-thousandth of the total stellar population—a vast natural material reservoir on a galactic scale. Dismantling a single masquerade star yielded a particle quantity equivalent to dismantling an entire star cluster.
+Yi died forty years after the launch of the Ark Project. In his last technical memorandum, he wrote: "We need to build a universe. A small universe, but still a universe. The Mother Membrane lived 13.8 billion years just to wait for us. Our Ark needs to live even longer. Over its long life, the Mother Membrane has already prepared the materials for us. We are not slaughtering the universe. We are merely cutting down a tiny corner of an unimaginably vast forest. That corner happens to be the patch where we live. For those trees that were cut, it is a total, one-hundred-percent end. But for the entire forest, they will not leave even a gap that could be seen from afar."
+A cosmic-scale lifespan required cosmic-scale materials. The materials were already marked on the star chart. The countdown had begun.
+________________________________________
+Chapter 4
+The Construction Compact's dismantling procedure was divided into four steps.
+Step one: deploy the gravitational lens array.
+Step two: controlled restructuring of stellar orbits.
+Step three: the dismantling itself. The dismantling of an ordinary star took about twelve to eighteen hours; its luminosity gradually rose to hundreds of billions of times its normal brightness, then decayed sharply over a few hours. After dismantling, all matter was converted into discrete elementary particles.
+The dismantling of masquerade stars was a different procedure. First, strip the outer gas shell—the plasma layer that had sustained thermonuclear fusion for hundreds of millions of years was peeled away by gravitational lenses within hours, releasing light pulses visible from planets tens of light-years away. Then the black hole core was exposed—a lightless region surrounded by a bent ring of light. The gravitational lens array dismantled it layer by layer starting from the event horizon. The particles inside the black hole had already been compressed by gravity to theoretical limits; after dismantling, the resulting particle density was thousands of times greater than that of ordinary stars.
+A black hole left no remnants. After dismantling was complete, only a dispersing cloud of discrete particles remained in the original sky region. In the night sky of nearby planets, it was a star that suddenly brightened ten-thousandfold and then vanished over a few days.
+Step four: substrate pulse transmission. The particles were scanned, encoded, transmitted to the construction zone at substrate signal speed, and reassembled there using a local particle reservoir. The transmission delay approached zero.
+A complete galactic dismantling cycle standardly took about three to seven days.
+During those three to seven days, any intelligent civilization in the target galaxy could observe the anomalies—if they happened to be observing. They could analyze the nature of the anomalies—if their physics had advanced to that stage. But they could make no effective response. The deployment of the gravitational lens array was completed in minutes. By the time their most advanced observatory confirmed that "stellar structures are disintegrating," that signal had already traveled for centuries. By the time they sounded the alarm, their sun had already gone out. The time-lag of interstellar communication became an absolute cage in the face of dismantlement.
+The passive receivers on the fleet automatically recorded all electromagnetic signals from within the target galaxy—as part of the standard data acquisition procedure. These signals included the communications, broadcasts, and final reactions of the native civilizations. At the peak of construction, hundreds of galaxies were dismantled every day, and tens of thousands of such signals flooded the data servers daily. No one had time to listen to each one.
+These signals were later stored en masse in a partition of the Memory Sector. The partition's name: "Horizon."
+________________________________________
+Chapter 5
+At an observatory on a nameless planet at the edge of the construction zone, a child recorded another version with her own eyes.
+The child's name has not come down to us. In the archives, there is only a log entry by the observatory technician on duty that day. It reads: "Local dusk. An underage female resident entered the observation dome. Unauthorized. Not ejected. She witnessed the entire dismantling of star KF-447MO2. Duration: 14 hours, 17 minutes. During this time, she did not speak or eat. After it ended, she left the dome. Destination unknown."
+That star's third planet had oceans of liquid water. Primitive algal life. An atmosphere. Clouds. Over the course of fourteen hours and seventeen minutes, that planet's sky went from azure to incandescent white, from white to deep red, from red to pitch black. The clouds were vaporized, the oceans boiled, the atmosphere escaped into space. Those algae—the only life forms that had evolved in that one corner of the Mother Membrane—all died in the seventh hour. They had no consciousness, no civilization, did not know the universe was ending, did not know why their sun was suddenly brightening. They simply died.
+What that child witnessed was not the dismantling of a star. She saw the end of a world. Not through data, not through theory, but through the transparent wall of the dome—that star swelled before her eyes, brightened, became so bright that the dome's light filters couldn't dim it fast enough, flooding the observation chamber with daylight. Then it began to shrink. Shrink. Shrink. Finally it became a small dark-red dot, like a piece of burnt-out charcoal. And then it went out.
+When she left, the observing technician added a note to the log: "She paused at the door, looked back at the data on the screen. The star was marked 'Dismantling complete, particle recovery rate 99.97%.' She looked at that number for a while, then left."
+This log was later seen by an engineer from the Dismantling Bureau. He wrote a line beside it in pencil. The handwriting was scrawled, almost illegible.
+"99.97%. The remaining 0.03% was the world she saw."
+________________________________________
+Chapter 6
+During the construction, one chief dismantling director deserves to be recorded. His name was Gu Lin.
+After Ke's death, Gu Lin took over the dismantling operation. By then construction had entered its peak phase; the masquerade stars in the Ke Domain were mostly dismantled, and the next wave of targets began expanding outward. The Central Planning Matrix issued a new list of priority dismantling galaxies, sorted by transport distance, mass concentration, and dismantling energy cost.
+On the universal star chart, the information of every galaxy was transparent. Whether an intelligent civilization existed within a target galaxy, its technological level, its population distribution—all were clearly visible on the chart. The Planning Matrix's sorting algorithm did not read this information. It read only engineering parameters.
+But the people carrying out the dismantling would see.
+Gu Lin saw on the list a galaxy—NGC-447SS2-S7—whose chart annotation indicated it contained an intelligent species at an early technological stage. Alternatives existed. Another galaxy on the list was about eight million light-years farther than S7, with slightly higher transport energy cost and a schedule extension of roughly nine hundred years. These numbers were all within the safety margin.
+Gu Lin submitted the alternative to the Compact's Resource Mobilization Committee. He used purely engineering language: the stellar density in S7's core region was too high; concentrated dismantling could trigger uncontrollable large-scale gravitational collapse; he recommended dismantling the alternate target first.
+The committee deliberated for three days. The final vote passed the alternative. It was a slim majority.
+After the vote, Gu Lin returned to his office and changed S7's marker on the star chart from "Awaiting Dismantling" to "Bypass." He added a note to S7's file: "This galaxy contains intelligent life. By vote of the Compact Council, this galaxy is permanently removed from the dismantling sequence. Signed, Gu Lin."
+Then he began processing the next galaxy on the list.
+Gu Lin did not live to see the Ark completed. When he died, S7 was still quietly rotating billions of light-years away. The people of S7 would never know that, somewhere in the distant universe, a man named Gu Lin had once cast a vote for them.
+________________________________________
+Chapter 7
+When construction entered its final phase, the authority to confirm dismantling orders was transferred to the third chief dismantling director. Her name was Shen Yuan.
+Shen Yuan was a student personally mentored by Gu Lin. She inherited his star chart, his work logs, and that line of note he had left in S7's file. She inherited his silence.
+In the final thirty thousand years of construction, the vast majority of the twelve thousand galaxies in the Material Supply Zone had been dismantled. About four hundred targets remained. These galaxies were marked on the star chart as the "Closure Sequence"—the final batch; once they were dismantled, the Ark's hull could be sealed. Shen Yuan's duty was to confirm the dismantling order of these galaxies and to sign her name on every dismantling directive.
+The star chart was transparent. She could see the internal situation of each target galaxy. Of the four hundred galaxies awaiting dismantling, more than three hundred contained intelligent civilizations. Her signature meant the termination of those civilizations.
+She had no right to refuse to sign. The countdown had thirty thousand years left. The Ark's safety margin in the closure phase had already been compressed below the theoretical limit—any delay in the supply of every ton of particles would directly translate into a drop in hull weave density. She could not refuse. The Compact Council had clearly told her: the Closure Sequence list was the final result of 230,000 years of optimization; no alternatives were available. Her signature was merely a formality.
+She signed. Her name was on the dismantling directive for every one of those galaxies. Over three hundred times.
+But in the final year, the Central Planning Matrix gave her an option she had not anticipated.
+The last masquerade star to be dismantled—designated KD-9A901—was in an isolated region between two galaxy clusters. The mass of this masquerade star was immense; dismantling it would provide enough particles to complete the final segment of the hull's weave. The Planning Matrix simultaneously offered another option: do not dismantle KD-9A901, and instead dismantle seventeen surrounding ordinary star systems of lower mass. Those seventeen systems contained no masquerade stars; dismantling them was more difficult, total energy consumption would be about five-thousandths higher, and the schedule would be extended by roughly four hundred years. A four-hundred-year extension was a borderline value within the hull's safety margin—acceptable, but no further delays could be tolerated.
+Shen Yuan pulled up the star chart annotations for both options.
+The galaxy containing KD-9A901 harbored seven civilizations that had already achieved interstellar travel capability. These seven highly developed civilizations shared the resources of the masquerade star's galaxy and had established complex interstellar political systems, with a total population in the trillions. Within the standard work cycle of a dismantling fleet, all civilizations in this galaxy would be reduced to a cloud of discrete particles in three to seven days.
+The other seventeen galaxies also contained civilizations, but their combined numbers were less than one percent of those in the KD-9A901 galaxy.
+Either dismantle one galaxy, exterminating seven highly advanced civilizations. Or dismantle seventeen galaxies, exterminating a larger number of civilizations of much smaller scale.
+Both options were viable in purely engineering terms. The Planning Matrix listed both as "Items Awaiting Decision," noting their respective energy costs, timelines, and risk parameters. Its sorting algorithm did not read civilizational data. It did not know it was making Shen Yuan choose whom to kill.
+Shen Yuan sat in her office for two days. Her assistant later wrote in a memoir: "During those two days, she saw no one. She only repeatedly reviewed the star chart annotations for both options. The seven civilizations of KD-9A901—their languages, histories, records of recent interstellar political disputes—she read them all. She also read the civilizational data of the other seventeen galaxies. After finishing, she shut down the terminal. She did something no one in the history of the Dismantling Bureau had ever done: she made her choice not based on engineering parameters, but on the number and scale of civilizations. She chose to dismantle KD-9A901."
+Shen Yuan signed the dismantling directive for KD-9A901. Beneath the directive, she added a handwritten note:
+"This galaxy contains seven confirmed intelligent civilizations. Upon execution of dismantlement, all will be terminated. The signatory of this directive has been informed of this information. No alternative is available. The signatory assumes full responsibility."
+She wrote this note into the formal directive. It was the first time in the history of the Dismantling Bureau. Previously, in all dismantling directives, the existence of civilizations had appeared only in the engineering data appendix. She placed it in the body of the directive.
+KD-9A901 was dismantled. The seven civilizations all ended within four days.
+Shen Yuan died about two thousand years after the Ark's launch. Before her death, she destroyed all her personal journals and left only a brief letter. The letter was addressed to Gu Lin—even though Gu Lin had been dead for over two hundred thousand years.
+"Teacher, you wrote 'permanently removed from dismantling sequence' in S7's file. I signed over three hundred dismantling directives, each meaning the end of one or more civilizations. In the final directive, I faced a choice between seven civilizations and many more smaller ones. I chose to dismantle the seven. Not because I thought they were unimportant. It was because I didn't know how to choose. I wrote down their names. Seven of them. I remembered them all my life. My successors will probably also remember my name, remember me as the person who signed more than three hundred directives of civilizational termination. I don't know if this counts as taking responsibility. Probably just memory."
+The letter was never sent. It was preserved in Shen Yuan's personal file. The archive classification: "Unsent Private Correspondence."
+________________________________________
+Chapter 8
+In the final phase of construction, a matter affecting the fate of ten billion people needed to be decided: Who would board the Ark?
+The Ark could only hold a limited number of individuals. The total population of the Mother Membrane civilization at the Compact's peak was about one hundred quintillion. The Continuation Sector inside the Ark was built to living-person habitation standards, housing approximately ten billion individuals. The Memory Sector was built to information preservation standards, thousands of times larger in scale, meant to store the legacy of civilization rather than living beings.
+The final "Dual-Track Plan" divided the Ark's interior into the Continuation Sector and the Memory Sector. The selection of boarding qualifications was performed by an algorithm, taking into account three dimensions: knowledge contribution, genetic diversity, and psychological adaptability.
+One of the designers of the selection system was a young structural algorithm engineer. His name has been redacted from the Ark's core memory. For narrative convenience, call him Chen Du.
+Chen Du had never imagined his mathematical tools would be used to decide who lived and who died. He accepted the Compact's commission and mathematically proved that this algorithm could achieve "maximum civilizational continuation value." For this, he felt a kind of cold pride.
+Then his own name appeared in the output results. Not on the selection list. His wife, not on the list. His daughter, not on the list. His father, not on the list.
+Chen Du sat in his office the whole night. Then, using his system administrator privileges, he accessed the weight matrix. He modified three parameters. Each modification fell within the algorithm's normal optimization tolerance range, and each had a purely technical justification. Combined, the four people he needed to cover all entered the selection interval.
+Logically unassailable. No audit could detect "cheating." But he himself knew.
+In the final year before launch, Chen Du received a selection notice. His wife and daughter received notices the same day. His father received his on the third day. The notices all began with the same line: "You are invited to participate in the continuation of civilization."
+Chen Du's wife looked at the notice in his hand and remained silent for a long time. She was a scholar of ancient Mother Membrane languages, spending her life with obscure knowledge that was never meant to be selected for "maximum continuation value." She knew she should not be on the list.
+"You did it?" she asked.
+Chen Du did not answer.
+She looked at him for a long time, then averted her gaze. She did not ask again.
+On the eve of the launch, Chen Du stood alone on the open plain. Above him were two layers of stars—nearby, the stars inside the Ark, neatly arranged by the gravity grid; far away, the universe of the Mother Membrane, vast, chaotic, stretching into unknowable depths. He found that patch of sky he knew best. There was a galaxy there where he had done postdoctoral research in his youth. It would not board the Ark. It would turn into reconnection pulses when the Mother Membrane disintegrated. No one would remember it.
+Had anyone there looked up at the starry sky? Had anyone, on some summer night, compared the universe to a bubble blown by a toad?
+He did not know. He only knew that, axiomatically, he was wrong. But as a human being, he had passed. He had cheated. He had saved four people. He had not been selected—he was the one who chose. That distinction was everything.
+At the edge of the firmament, a patch of starlight seemed to dim a little.
+He told himself it was an illusion.
+Chen Du died about forty years after the Ark's launch. His wife had passed away a few years earlier. They lived quietly into old age. On his deathbed, Chen Du said to his wife: "I stole four places."
+His wife looked at him. "You think I didn't know?"
+That is another story.
+________________________________________
+Chapter 9
+About three thousand years after the Ark's launch, a data retrieval request was initiated from the Memory Sector. The requester was a young astronomer from the Continuation Sector, compiling a list of "bypassed galaxies." During the construction, thousands of galaxies had been removed from the dismantling sequence for various reasons. S7 was one of them.
+She pulled up S7's survey file and saw Gu Lin's note. Then she did the calculations.
+When the Ark launched, S7 was about three hundred million light-years from the edge of the Mother Membrane. The Mother Membrane disintegration shockwave propagated at the intra-membrane speed of light. S7 would be engulfed by the shockwave about three hundred million years after the Mother Membrane disintegrated. That civilization still had three hundred million years.
+She did not know whether to feel comfort or sorrow at that number. Three hundred million years—longer than the entire span from the ignition of the first stars in the Mother Membrane to the Ark's launch. That civilization had enough time to develop, flourish, explore the universe—if they discovered the terminal data.
+But she knew S7 was the only exception. She accessed Shen Yuan's file and saw the handwritten note on KD-9A901's dismantling directive—"seven confirmed intelligent civilizations." She saw the unsent letter Shen Yuan had written to Gu Lin.
+At the end of her report, she wrote: "Gu Lin bypassed one galaxy. Shen Yuan signed over three hundred extermination directives. We dismantled twelve thousand galaxies in the Mother Membrane and bypassed only one. On a cosmic scale of random distribution, this proportion holds no statistical significance. But on a human scale, it means someone once sat before the star chart for a long time, and then chose to spare one. One. Among all 120 million 'Horizon' files, only one does not conclude with 'terminated.'"
+________________________________________
+Volume III: Launch
+Chapter 10
+The exact date of the construction's completion is disputed—because "completion" is a vague concept. The stitching of the final module was finished around the year 317,000 of the Mother Membrane Era, about 248 years before the disintegration time predicted by the terminal data.
+Then came a long testing period. Three topological isolation tests verified the Ark hull's ability to independently maintain weave stability. The Ark was its own universe.
+Boarding took decades. The ten billion individuals of the Continuation Sector were distributed across more than fifty galaxies. Transporting them all to the Ark required the "life-compatibility mode" of substrate pulse transmission; the error rate had to be kept below ten to the power of negative fifteen. Boarding was completed within about forty years. Zero transmission accidents.
+The Mother Membrane's disintegration came one hundred and twenty years later than predicted.
+An's last unpublished manuscript before her death had discussed this possibility: the membrane's disintegration was a kind of slow oscillation of weave density near the critical point. On the last page of the manuscript, she wrote: "The Mother Membrane may linger near the critical point for a long time. Having lived 13.8 billion years, it will not leave in a hurry at the very end."
+One hundred and twenty years. The Ark waited one hundred and twenty years.
+One day, after those one hundred and twenty years, the Mother Membrane began to disintegrate. The disintegration did not start at the edge, but from some random region in the interior. The shockwave propagated outward at the intra-membrane speed of light, met the disintegration front advancing from the edge years later, and covered the entire Mother Membrane.
+The Ark received a reconnection signal warning about seven days before the shockwave arrived. The last connecting bridge to the Mother Membrane was placed in a ready-to-sever state. Severance was completed in the first microsecond within the three-second window of the shockwave's arrival.
+That day, all the people across the Ark walked out onto the open plains.
+No notice, no broadcast needed. Anyone who looked up understood.
+Some of that eternal starry sky disappeared, never to appear again!
+—those distant, dim ones, the ones you had to squint to see. The galaxies, star clusters, the web-like glow of the cosmic web on scales of tens of billions of light-years—all of them, simultaneously, from every direction—vanished.
+The Mother Membrane disintegrated; the galaxies emitted their final light.
+At the instant the shockwave arrived, the hull severed the last connecting bridge. The vast river of stars outside the window—the entire 13.8-billion-year starlight of the Mother Membrane universe—returned to darkness in a single night.
+On the plains, people tilted their heads back and silently watched the sky.
+The remaining stars were blindingly bright. Those were the stars inside the Ark. They were still there. They knew nothing. The gravity grid had arranged them in perfect order. In the night sky no longer illuminated by the Mother Membrane's starlight, the regularity of the grid was fully exposed to the naked eye for the first time—a vast, three-dimensional, luminous crystalline structure hanging overhead. Precise. Silent. Bone-deep beauty.
+That was the geometry left by Zhai. He had been dead for two hundred and thirty thousand years, yet the gravitational field he designed still operated. Every point of light was in the position he had calculated.
+Some knelt. Some wept. Some laughed—that irrepressible laugh when you realize you are being tenderly carried by someone from two hundred thousand years ago.
+An old engineer held his grandson and pointed to the sky: Look, this is our home. Before, there was light outside. Now there is only our own light. But look how orderly this light is. Grandpa Zhai arranged it for us.
+On the Ark's internal communication channels, reports came in from planet after planet: All external Mother Membrane starlight observed to have extinguished. Confirmed. Confirmed. Confirmed.
+The final report came from a remote observation planet. The observatory duty officer added a sentence to the report—not standard format, just an ordinary sentence.
+"The Mother Membrane's last heartbeat has stopped."
+That phrase would later circulate inside the Ark for tens of millions of years. No one questioned its technical accuracy. It was the instinctive reaction of a civilization witnessing the death of another universe.
+The voyage log recorded: At the moment of severance, the hull's outer-surface monitoring system registered a brief signal—of an unclassifiable nature. A simple, repeating, gradually decaying pulse sequence. It lasted about seven seconds. Then it vanished completely.
+The core analysis system in the Memory Sector ran for thousands of years, trying every possible encoding hypothesis, without reaching a definitive conclusion. It was informally named "The Mother Membrane's Last Heartbeat." 13.8 billion years. Seven final seconds. A beginning and an end.
+Yi's body, hundreds of thousands of years ago, had been dismantled into elementary particles and woven into the baseline layer of the spatial network of the Continuation Sector's central ecological unit. He chose to remain among the living. "An guards the memory," his will read, "I guard the people who remember."
+An's body was woven into the core storage nodes of the Memory Sector. Her tombstone was the entire Memory Sector.
+Zhai left no remains. He asked to be woven into the first module of the hull. His ashes are the keel of the Ark.
+________________________________________
+Volume IV: Voyage
+Chapter 11
+The first few millennia of the Ark's voyage within the substrate were later called the "Era of Silence."
+The Ark's propulsion method was entirely different from intra-membrane transport. In the substrate, the Ark generated directional thrust pulses by actively regulating the distribution of surface defects on the hull—releasing controlled sequences of reconnection events into the substrate and gaining thrust through recoil. Its cruising speed was about one hundred-millionth of the substrate signal velocity, a value that still vastly exceeded the intra-membrane speed of light.
+But at this speed, the external world was perceptually completely silent.
+The hull was no longer a transparent "glass window." Outside the window was no longer the starlight of the Mother Membrane—it was now the Bedrock Sea, without light, without matter, only unceasing reconnection impacts. The hull had gone from window to wall.
+Perception shifted from "seeing" to "touching." Stress sensors on the inner surface of the hull converted each external reconnection impact into data, and the data into a visualized tactile image—a constantly changing, unstructured, grey-tone image, displayed on the sky dome screens in the public spaces of the Continuation Sector.
+The residents gave it a name: "The Surface of the Sea." The sea was the Bedrock Sea, and the surface was their only contact with it.
+Watching this image gradually became a daily ritual in the Continuation Sector. People still watched. For them, watching was touching, and touching was confirmation—confirming they were still there, confirming there was something outside, confirming that the Ark was not traveling alone in the void.
+In the third millennium of the Era of Silence, the Ark's course passed through the Ke Domain—that five-million-light-year dark zone. A night-shift observer, during a routine check of external monitoring data, noticed a direction that had absolutely no reconnection impact signals.
+He called up the star chart and found that the outline of that region perfectly matched Ke's survey records from back then. He sat alone in that observatory for a long time. In that field of his duty log, he wrote only one word: "Seen."
+His supervisor, reviewing the log, saw the word, remained silent for a moment, and wrote a word beneath it: "Confirmed."
+Later, an informal appendix to the Ark's voyage history compiled a volume titled "Ke's Graveyard: A Compilation of Sightings," collecting hundreds of similar observation records spanning millions of years. Each entry was extremely brief. One of them was only three words: "So empty, ah."
+________________________________________
+Chapter 12
+The Era of Silence ended about twenty thousand years after launch. This day was marked as the "First Anomalous Event."
+The automated analysis system flagged a region that deviated from statistical expectations: an area of several thousand square kilometers on the hull surface where reconnection impact frequency was about seven parts per million higher than normal. Over the previous nearly twenty thousand years, the maximum deviation had never exceeded two parts per million.
+They were passing by some external structure with definite spatial extension. After twenty thousand years of silent voyage, the Ark had encountered its first other membrane.
+The discovery of the external membrane triggered a minor social tremor inside the Ark. It was the sudden return of hope.
+Over the following centuries, the Ark's monitoring department conducted detailed passive observation of the external membrane. It was larger than the Ark but far smaller than the Mother Membrane, and the pattern of its surface defects showed remarkable regularity, indicating it was a mature membrane that had undergone long evolution.
+The debate centered on whether to initiate active contact. The debate lasted about five hundred years. The external membrane did not wait.
+In the third century of passive observation, the external membrane's reconnection impact pattern began to show large, irregular fluctuations. The Ark's theoretical department proposed several possible explanations. The most unsettling one: the external membrane might be disintegrating.
+The Ark's trajectory was urgently adjusted to a safe distance from any disintegration shockwave. The external membrane did not disintegrate—it underwent a "near-disintegration event" and eventually returned to a stable state. Later analysis indicated that naturally emergent membranes possessed stronger self-repair capabilities than artificially constructed ones.
+The technical summary in the Ark's voyage log was a single sentence: "We have encountered another membrane. In this lightless ocean, we are not the only vortex."
+________________________________________
+Volume V: Voyage Atlas
+Chapter 13
+After the external membrane event, the monitoring department encoded impact pattern signatures into the automated detection algorithm. Over the following tens of millions of years, the Ark's sensor network recorded tens of thousands of similar events. The vast majority were brief, distant passings-by; a few were close-range, long-duration parallel voyages—the Ark and another membrane sailing in the substrate at similar speeds and directions, paralleling for up to hundreds of thousands of years.
+The observational data revealed a crucial fact: membranes were not isolated islands. They were interconnected. Membranes in the substrate formed a network—a network connected by long-range influences. This network transmitted no light, no matter, but it transmitted existence itself. The Ark sailed within this network.
+During this period, the Ark underwent three technological leaps. The first was "passive navigation upgrade"—learning to infer the spatial distribution of substrate circulation stress fields. The second was "active stress navigation"—learning to send controllable reconnection event waves into the substrate and, through their echoes, construct three-dimensional position maps of external membranes. The third was the "stress corridor strategy"—discovering low-stress channels within the substrate circulation stress fields; sailing along these channels significantly extended hull maintenance cycles, prolonging the expected voyage timescale from billions of years to hundreds of billions of years.
+The Ark's core navigation manual summarized this history in one sentence: "We learned to see without looking, to move without motion, to arrive without waiting."
+________________________________________
+Chapter 14: The Long-Order Star
+About eighty million years into the voyage, the over four thousand ecological units inside the Ark had evolved into vastly different civilizational forms. Some had regressed to agrarian societies, some had developed technologies more advanced than those of the Mother Membrane's Awakening Epoch, and some, in repeated cycles of rise and fall, had forgotten they came from the Ark.
+The Long-Order Star was the anchor for all civilizations inside the Ark. It was responsible for maintaining the stability of the gravity grid—making the suns rise on time, keeping planets in their orbits, preventing the membrane surface structure from drifting due to minute entropy increases. Its technological level represented an absolute suppression across orders of magnitude over any civilization inside the Ark. It took no part in inter-civilizational politics, cared not who conquered whom or who allied with whom. In the eyes of the Long-Order Star, these were merely faint noise on the membrane surface structure.
+A civilizational region called the "Crimson Corona Domain" rose over millions of years to become the most powerful force inside the Ark. They had mastered local gravity manipulation technology independent of the Long-Order Star's control system. Over hundreds of millennia, the influence of the Crimson Corona Domain came to cover nearly one-third of the Continuation Sector's star territories. Their technology grew ever more mature, edging ever closer to the core domain of the Long-Order Star—that forbidden zone marked on the first page of every star chart. The long ages had caused most civilizations to forget what it signified. The Crimson Corona Domain prepared to probe it.
+At the annual briefing, the Chief Strategy Officer of the Crimson Corona Domain spent three minutes mentioning the "Long-Order Star Forbidden Zone." Those three minutes were placed at the end of the meeting, near the tea break. The attendees looked down at their terminals, each handling their own stellar crop quotas and fleet movements.
+No one looked up.
+After the meeting, a young staff officer caught up with the chief: "Sir, regarding the Long-Order Star... shouldn't we conduct a special study?"
+The chief patted him on the shoulder: "Child, that is a myth from twenty million years ago. Have you read the original texts of the myth? They say our ancestors fled here from a larger universe. Do you think this planet—" he pointed out the window at the blue-and-green mother planet, "—came here by 'fleeing'? We have flourished here for eight million years. We are indigenous."
+The young staff officer returned to his desk and pulled up the public file on the "Long-Order Star." The entire public record amounted to less than four pages; the latest entry, updated seven hundred years ago, contained only: "Annual status: Stable. No anomalies."
+He closed the terminal.
+Sixty years later, the Crimson Corona Domain's first reconnaissance fleet ignited its engines at the edge of the Long-Order Star forbidden zone. Their goal was not to touch the hull membrane surface—they had not even thought of touching the hull. They merely wanted to measure whether the ancient "authority" of the Long-Order Star still had substance. There was a gravitational monitoring station of the Long-Order Star within the forbidden zone; they believed that if they could just bypass a single signal relay node of that station, they could prove the Long-Order Star was not omnipotent.
+On the seventh day after entering the forbidden zone, the fleet reached the designated coordinates. They released a set of passive detectors, preparing to bypass the routine scanning windows of the Long-Order Star monitoring station.
+The detectors operated for less than three seconds.
+The Long-Order Star's central gravity computation engine logged the intrusion. The log entry read:
+Timestamp: Voyage Era 79,842,113, Cycle 47, Day 3, Local Time 02:17:04.003
+Event Type: Unauthorized Probe Node Access
+Coordinates: Long-Order Star Forbidden Zone – Edge – Relay Node G-7
+Operation Method: Remote Weave Interruption
+Operation Target: Crimson Corona Domain Primary Star KF-CrimsonCorona-001
+Operation Result: Subject deconstructed. Discrete particle cloud diffusion radius: 0.34 light-years. Estimated full dissipation in fifty thousand years.
+Operation Basis: Reference Protocol TDMU-Hull Safety-Article 7 (Non-Bypass Clause)
+Remarks: None.
+No broadcast. No warning. No communication in any form to the survivors of the Crimson Corona Domain as to "why."
+The Long-Order Star's logic was simple: If you can touch this switch, you already know the answer. If you don't know the answer, you shouldn't have touched it.
+On the midnight the Crimson Corona Primary Star went out, that star which had burned for hundreds of millions of years, in a single microsecond, had all the weave relations among its elementary particles dissolved. The star went from a burning plasma sphere to a discrete particle cloud floating in space. No light. No heat. No sound.
+The capital planet, in the instant it lost its sun, entered an eternal black night.
+In the same microsecond, the Long-Order Star's central gravity computation engine did something else. It recalculated the optimal distribution path within the Ark's gravitational field for the particle cloud released by the dismantled star.
+The calculation results were output three seconds later: the particle cloud would be slowly drawn by the gravitational field to a region of higher defect density on the hull surface, to serve as a reserve material depot for reinforcing the membrane surface over the coming tens of thousands of years.
+The system automatically assigned this material depot a designation: RM-CrimsonCorona-001.
+This designation followed the exact same naming convention used during the Mother Membrane era for dismantled masquerade stars. The system did not record "Is this appropriate." The system recorded only "Is this optimal."
+The remnant fleets of the Crimson Corona Domain scattered to every corner of the Ark over the following millennia. Once the most powerful force inside the Ark, they were now a group of exiles without a homeworld, without a sun, surviving only by their wandering fleets. Their ships flew a black flag at their sterns. The color of their extinguished sun.
+On an observation planet forty thousand light-years from the Crimson Corona Domain, a young astronomer's telescope captured that sudden "new star"—a thousand times brighter than a normal supernova, yet it faded within hours.
+He checked every known stellar evolution model; none could explain such a light curve.
+He handed the data to his advisor. The advisor glanced at the screen and turned the telescope in another direction.
+"Don't look at it," the advisor said. "That's the Long-Order Star tidying up."
+"What do you mean, 'tidying up'?"
+The advisor was silent for a long time.
+"It means they felt some things had been left out too long, and it was time to put them away."
+That night, the office of the planetary governor received an intelligence summary from forty thousand light-years away. The summary contained only one line:
+"The Long-Order Star is real."
+This summary was then encrypted and distributed to the highest decision-making levels of all major civilizations in that stellar region.
+For the next approximately six million years, no civilization conducted any active probing within the Long-Order Star forbidden zone.
+What they feared was not just the punishment itself. They feared that they would never know whose turn it would be to be "tidied up" next.
+"Doing a Crimson Corona" later became a slang phrase inside the Ark, meaning "overreaching and self-destructing." "The Long-Order Star is watching us" became one of the most common sayings.
+The Long-Order Star remained silent. It simply continued to maintain the stability of the gravity grid, continued to make the suns rise on time.
+The Ark's core memory's record of this event was extremely terse, just three lines: "Approximately eighty million years of the Voyage Era. The Crimson Corona Domain conducted unauthorized probing of the Long-Order Star forbidden zone. The Long-Order Star judged it a threat to order. Punishment executed. Crimson Corona Primary Star dismantled. No additional measures."
+No one signed it. Archive classification: "Routine Maintenance."
+________________________________________
+Volume VI: Arrival
+Chapter 15
+The exact moment of the target membrane's discovery is precisely recorded in the voyage log: approximately one hundred and seventy-three million years after launch.
+The active stress navigation system detected a signal of extremely high stability. The membrane was of immense scale, on the same order of magnitude as the Mother Membrane. Its surface defect distribution was highly regular, with an estimated defect fraction below one-thousandth. Its internal spatial network was still actively operating. Total age: approximately 9.7 billion years—about 4.1 billion years younger than the Mother Membrane. Estimated remaining lifespan: between nine and fifteen billion years.
+Most importantly: its internal spatial network's structural parameters showed statistically significant consistency with the Ark's own weave pattern in three key dimensions, meaning that life from inside the Ark could survive directly within the target membrane without any physical adaptation process.
+The council's vote took about three years. It passed unanimously. The Ark began to adjust its course.
+________________________________________
+Chapter 16
+The course adjustment was a long and delicate process. The Ark's inertia was immense; its energy reserves came from the final round of stellar dismantling before launch, stored in the hull's weave structure in the form of elastic potential energy. Over nearly two hundred million years of voyage, this energy had been gradually released.
+The deceleration upon approaching the target membrane was divided into three stages: using the target membrane's gravitational field as a braking medium; controlled micro-deformation of the hull to release energy; and final precision docking.
+In the last few years before docking, the Continuation Sector entered a full readiness state. The voyage log entry three days before docking recorded:
+"Distance remaining to contact point: 0.00074 light-years. Relative velocity: decelerated below safety threshold. Target membrane surface defect distribution map completed. Our defect matching pattern optimized. All systems self-checked. All ready.
+"The vast majority of this generation of Ark residents were born during the voyage. They have never seen the Mother Membrane. To them, the universe is the enclosed space bounded by the inner surface of the hull. They know from the education system that a larger universe exists outside the hull. Knowing and believing are two different things.
+"After docking is complete, they will see light for the first time—light from another universe."
+________________________________________
+Chapter 17
+The docking was completed at the scheduled time.
+Zero point three seconds. The surface defects of the two membranes meshed perfectly at the moment the connection bridge was established. The Ark's hull was no longer sealed—at the docking point, the Ark's weave network and the target membrane's spatial network formed a seamless connection. Two universes became one at the point of contact.
+The first signal was light.
+Billions of individuals simultaneously saw something they had never seen in their lives. The darkness ended. The grey, structureless "Surface of the Sea" vanished. In its place was light—stars, galaxies, a complete, active, burning universe.
+The gravity grid starry sky inside the Ark was still there, but behind it, a new background had lit up—the universe of the Second Membrane. The two layers of stars overlapped again, just as they had long ago, in the time of the Mother Membrane.
+In the first few hours after docking, the Ark's monitoring department completed basic parameter measurements of the new membrane. The speed of light and the fine-structure constant were both within the adaptive range. Elemental abundance distributions were broadly similar to the Mother Membrane, but there were two additional islands of stability in the heavy nuclei region.
+Spatial coordinates confirmed: the Ark's docking point was in the peripheral region of a medium-sized galaxy cluster in the Second Membrane. The overall scale of the Second Membrane was roughly equivalent to the Mother Membrane; its total age was about 9.7 billion years. Projected remaining lifespan: median estimate approximately twelve billion years.
+On the first day after docking, the director of the Ark's monitoring department wrote in the voyage log: "We do not know if this membrane has native life. We do not know if it has civilization. We do not know if it will accept us. But we do know one thing: we are no longer the Ark civilization. From today, we are a dual-membrane civilization—a civilization spanning two universes. The Mother Membrane lived 13.8 billion years and used its final 317,000 years to gestate us. The Second Membrane has already lived 9.7 billion years, and still has twelve billion years ahead. We have brought the legacy of the Mother Membrane here. We will take root here."
+________________________________________
+Chapter 18
+Regarding subsequent events after arrival in the Second Membrane, the records in the Ark's core memory are still being updated. The following is the last formal log entry as of the current record time:
+"We have been operating inside the Second Membrane for approximately forty thousand years. The following work has been completed.
+"First, full unsealing of the Ark's Continuation Sector. All ecological units have established secure connections with the Second Membrane's spatial network. Ecosystems are gradually adapting to the physical constants of the new membrane. Of the ten billion residents, approximately thirty percent have chosen to establish habitation units in suitable galaxies of the Second Membrane.
+"Second, preliminary surveys of the Second Membrane have been initiated. Confirmed at least seven independently originated life zones within the Second Membrane—three at the microbial stage, two at the multicellular stage, one at an early technological civilization stage, and one at a technological stage comparable to the mid-Awakening Epoch of the Mother Membrane. Contact with the last civilizational zone has not yet been established; contact protocols are under review.
+"Third, the first batch of interpretive tests of Memory Sector information has been completed. We placed stored information from the Mother Membrane civilization in a lifeless galaxy in the Second Membrane, left it undisturbed for about ten thousand years, and retrieved it. Information integrity test result: 99.9997%. The Second Membrane's spatial network environment is highly compatible with the Mother Membrane. Our information can persist here. An's encoding has withstood the test of cross-universal transmission.
+"Fourth, the 'Horizon' system has completed its calibration in the new environment. The complete legacy of the approximately 120 million civilizations stored within—languages, histories, art, sciences—are all readable. We have examined the index catalogue. Of the 120 million files, every last page reads the same line: 'Civilization Continuation Status: Terminated.' Only two files are exceptions. One is NGC-447SS2-S7, with Gu Lin's signature in the notes field—'Permanently removed from dismantling sequence.' The other is KD-9A901, with Shen Yuan's handwritten note in the notes field—'Seven confirmed intelligent civilizations. No alternative available. Signatory assumes full responsibility.' Among all the files, only these two records are different. 120 million. Two.
+"Fifth, conceptual research on the next-generation Ark has been initiated. The Second Membrane will eventually disintegrate. Postulate Twelve has no exceptions. There is no urgency at present—but urgency is something that should not be waited for. In the Mother Membrane era, we had only 317,000 years from the terminal data to disintegration, barely enough. In the Second Membrane era, we have billions of years. When the terminal data of the Second Membrane arrives, we will no longer be panicked fugitives. We will be calm migrators.
+"Sixth, the contact strategy review has reached an impasse. Two opinions cannot be reconciled.
+"One opinion holds: The Second Membrane already has mature native civilizations. The Ark should keep a low profile and integrate slowly in the peripheral regions. We are survivors, not conquerors.
+"The other opinion holds: The Second Membrane has only twelve billion years of remaining lifespan. If the Ark cannot secure a sufficient share in resource allocation, the construction of the next-generation Ark will not be completed before disintegration. We have already made harder choices in the Mother Membrane. If we yield in the resource competition today out of moral qualms, then those dismantled galaxies—those suns we extinguished—their sacrifice loses all meaning.
+"The core disagreement between the two views is a direct continuation of Gu Lin's choice regarding S7 and Shen Yuan's choice regarding KD-9A901 during the construction: sacrifice some to save more, or refuse to sacrifice any, but potentially lose all in the end? In the Mother Membrane era, we had the countdown of the terminal data forcing our choice. Now there is no countdown. We must decide, in complete freedom, what kind of people we are.
+"The Mother Membrane used 13.8 billion years to teach us how long a universe can be. The terminal data used 317,000 years to teach us how tight time can be. The Ark used 173 million years to teach us how far a voyage can go. The Second Membrane uses its twelve billion years of remaining lifespan to teach us how wide the future can be. The Long-Order Star used one star to teach us what order is. Gu Lin taught us to spare one. Shen Yuan taught us to choose between seven and many more—and what a signature means.
+"We still have time. We will not waste it."
+________________________________________
+Epilogue
+In the deepest recesses of the Ark's core memory is preserved a document. No title, no signature, no date. In the catalogue, it is marked "Record of the Toad Imagery—Original Version."
+The content of the document:
+"At the bottom of a pond on a summer night, a toad lies still in the water, blowing bubbles from its mouth. The bubbles rise, expand, deform, oscillate, and ultimately burst, returning to ripples in the water.
+"Water is the substrate—the underlying layer that bears everything. There may be other bubbles in the water, each independently rising, expanding, and bursting. No direct sound transmits between bubbles, but they are all in the same water, and their tremors pass through the water.
+"The bubble wall is the universe membrane—an ordered structure emerging from the substrate. The rising of the bubble is time—irreversible unfolding. The expansion of the bubble is the cooling and evolution of the universe. The texture on the bubble is matter—the weave structures on the membrane. The bursting of the bubble is the final end—the structure disintegrates and returns to the substrate.
+"The toad remains still in the unreachable depths of the substrate. We are born from the ripples on the membrane, and can never look back at it in our lifetime—this does not prevent us from reconstructing its appearance, step by step, through the imprints on the membrane.
+"Meaning is not conserved; only reconnection persists without end."
+Directly beneath the document is a line of annotation added later. The encoding method differs from the original, clearly added long afterward.
+"These are words written by our ancestors in the Mother Membrane era. At that time, they had not yet built the Ark, had not yet experienced the voyage, had not yet arrived at the Second Membrane. They simply looked at the night sky and imagined what lay beyond the universe.
+"Now we all know. Beyond the universe are more universes. Beyond the universe is the Bedrock Sea. Beyond the universe is silence, darkness, and ceaseless fluctuations.
+"But we also know another thing: After the bubble bursts, the water remains. The bubble can re-emerge in another part of the water. The toad is still blowing bubbles. We do not know how many more bubbles are rising, and perhaps we will never know. But we will continue the voyage. Continue building. Continue recording.
+"The Mother Membrane's terminal data gave us 317,000 years. The Second Membrane gives us twelve billion years. Time is the fruit of civilization, a gift, a material. We use it to build. To voyage. To continue."
+The last line of the annotation contains only two words. These two words are set as the foundational core words of the Ark civilization in all education systems inside the Ark. Every child born within the Ark learns these two words as their first words—not mother, not father, but these two words.
+Keep walking.
+(End of Saga of Survival on the Membrane)
+________________________________________
+This story is a fictional narrative based on the hypothetical framework of the author's personal Topological Dynamic Membrane Universe (TDMU) model. All physical mechanisms adhere to the ontology of the model. The total age of the Mother Membrane is approximately 13.8 billion years, the Structure Epoch approximately 9.4 billion years, the Awakening Epoch approximately 300,000 years, and the remaining time given by the terminal data approximately 317,000 years—all set with reference to known cosmic evolutionary timescales. The Ark's voyage timescale is approximately 173 million years. The Second Membrane's age is approximately 9.7 billion years, with an expected remaining lifespan of approximately 12 billion years.
+TDMU v2.341 and other related articles can be found at GitHub: tuopujie9527/Topological-Dynamic-Membrane-Universe.
+
+
+
+膜面生存录
+——基于拓扑动力膜宇宙模型（TDMU）v2.341的科幻叙事
+SAGA OF THE τ-COSMOS ID 2026.0010·∞
+Author: MJP
+
+序章：癞蛤蟆
+夏夜。池塘。一只癞蛤蟆静卧水底，口吐气泡。
+气泡升腾、膨胀、形变、振荡。气泡壁上的纹理旋转、分裂、重组。气泡最终破裂，回归水波。
+水是基质——承载一切的底层实在。
+气泡是宇宙——从水中涌现的有序结构，将内外分隔为两个世界。气泡的升腾是时间的不可逆展开。气泡的膨胀是宇宙的冷却。气泡的纹理是物质。气泡的破裂是终局。
+池塘中还有其他气泡，各自独立地升腾、膨胀、破裂。它们之间没有直接的声波传递，但震颤通过水相连。
+癞蛤蟆依然静卧于不可及的深处。我们生于气泡壁上的涟漪，终其一生无法回望它。这不重要。重要的是涟漪本身。
+这是一个古老的故事。母膜上的某个文明在灭绝前把它刻在了石头上。后来另一个文明发现了它，把它翻译成编码，存储在一颗小行星的核心。再后来，它被装进了方舟的记忆区。
+故事的最后有一行后加的注释：
+"现在我们都知道了。宇宙外面是更多的宇宙。宇宙外面是基石之海。宇宙外面是沉默、黑暗、永不停歇的涨落。但我们还知道另一件事：气泡破裂后，水仍在。癞蛤蟆仍在吐泡。"
+注释的署名已被时间磨损。只剩两个词，被方舟文明的基础教育系统设为每一个孩子学会的第一个概念。
+继续走。
+第一卷：终末数据
+第一章
+预警来自重联干涉阵列。最后一台仍在运行的终端。
+这台终端位于编号S9vvr5c$322的无人行星外围轨道上。重联干涉阵列在拓扑编织探测器普及后的第三个千年被逐步关闭。阵列的基线需要跨越数千个天文单位才能获得足够的低频分辨率，制造和维护成本高昂。拓扑编织探测器用十分之一的成本就能获得比它高三个数量级的局域分辨率。没有人再需要一台只能看见"大而远"的东西。
+只有这一台终端因拆除不彻底而继续运行。太阳能板失效了一半，主计算单元被篡改为只读模式，唯一的输入来自一根尚未物理断开的旧电缆。它仍在接收，仍在记录，仍在安静地积累宇宙的脉搏。
+三位发现者——理论物理学家伊、理论物理学家安、退役编织工程师翟——在觉醒纪元末期的经费削减浪潮中失去了正式职位。他们搬进S9vvr5c$322地下废弃的阵列控制中心，用闲置的计算资源跑编织理论模拟。他们是最后一批仍在研究子膜涌现的人。
+伊在分析噪声本底时注意到了异常。编织密度涨落的背景噪声中，有一个信号在重复。它的频率低得惊人——一个完整的周期需要约九万年——但它的相位偏移始终指向同一个方向。信号强度每周递增约百万分之三。
+"它的波形与任何已知的编织密度涨落模型都不匹配，"伊在记录中写道，"但它一直在重复。"
+安和翟穷尽了所有常规解释：仪器故障、数据处理错误、未知天体物理源。逐一排除。信号的本源位于膜边缘，距离约一百三十亿光年。解译后，信号的内容呈现出清晰的结论：
+空间网络在膜的边缘正在自发解体。每一条断裂的空间链接都以编织密度涨落脉冲的形式向内部发送回响。数十亿年来，这些回响一直在传播——频率极低，波长极长。重联干涉阵列的基线横跨数千个天文单位，正是为捕获这类低频信号而设计。拓扑编织探测器优化了完全不同的频段，它们从未看向这个方向。
+但解体在加速。波长在变短。频率在升高。解体锋面正加速向内推进。
+安花了三天时间计算锋面推进速度与编织密度下降曲线的关系。她数次推翻模型，最终用铅笔在一张打印纸背面写下了结果。那张纸后来保存在方舟核心记忆体的最高安全级分区。
+纸上只有一个数字和一个词。
+数字是：317，248。单位：年。
+词是："临界。"
+母膜的全局编织稳定性将在约三十一万七千余年后归零。误差正负八千年。
+安随后做了另一项计算：母膜已存在约一百三十八亿年。三十一万七千年，占总年龄的千分之二。母膜是一个活了极长寿命、已接近自然演化终点的古老宇宙。终末数据能够被捕获，恰是因为母膜活得足够久——解体锋面在生命尾声终于加速到了可被检测的强度。
+翟看了那个数字很久。
+"我们需要一个更大的实验室。"他说。
+第二章
+三十一万年。宇宙尺度上的一瞬。工程尺度上的极致紧约束。
+第一份粗略估算在终末数据确认后四十小时内完成。建造一艘能够容纳至少十亿个体的子膜方舟，所需基本粒子总量约等于一万两千座银河系级别星系中全部物质的总和。所需能量约为当前文明年能耗的一百万亿倍。
+仅跨星系运输一项，如果使用膜内常规手段，需要数十亿年。方舟在物理上不可能建成。
+但这个估算隐含了一个假设：运输必须在膜内空间网络中进行。翟在第四十一小时推翻了它。
+"我们不在膜内运输，"他说，"我们去基质里运。"
+核心洞见如下：膜内光速只是空间网络的属性。基质的重联脉冲传导速度比膜内光速高出约十一个数量级。任何材料——拆解恒星后获得的基本粒子——本质上都是编织结构。编织结构可以被推入基质，以重联脉冲的形式在基质中传输，然后在目的地被拉回膜内。
+这不是运输物质。这是扫描-传输-重组。出发地的粒子被拆解为编织信息，信息以基质脉冲的形式瞬间到达目的地，在目的地用本地粒子库重新编织。出发地的粒子回收进入本地粒子库，用于下一轮重组。粒子在过程中循环——编织模式守恒，粒子本身只是载体。
+伊和安在随后数日内完成了可行性论证：物理上成立。工程难度极高，但未违反任何已知的编织理论约束。基质信号传播速度的数量级大到任何星系之间的距离在脉冲传输中都趋近于零。真正的瓶颈不再是运输，而是扫描速率和重组速率。
+中央规划矩阵重新运行优化算法。新的建造工期估算：二十二万至二十八万年。
+第四十日，一份标注为"优先级：存在级"的文件同时发送至本星系群全部七百余个成员星系。文件名在当时语言中意为"生存"，后世翻译为"方舟计划"。
+文件第一段写道：
+"我们所在的宇宙正在死亡。膜的边缘正在发生不可逆的全局编织解体。解体锋面正以膜内光速向内推进。根据当前推进速度和加速趋势，母膜的全部编织结构将在约317，000年后归零。母膜已存在约一百三十八亿年，正接近自然演化寿命的终点。时间窗口不具有弹性。建造必须在当前开始。"
+同一天，全宇宙星图被调入中央规划矩阵。这张星图是本星系群文明在过去数十万年间通过基质脉冲探测逐步积累的——两万亿个星系的精确坐标、质量分布、物质构成，全部记录在案。规划矩阵的任务不是"探索"，而是"筛选"。在已知的两万亿个星系中，圈定要保留的核心文明区域，然后标注最优拆解目标。
+算法运行了约七个小时。输出结果如下：
+核心保留区：以银河系和仙女座星系为中心，包含周边约五十个已建立稳定跨星系联系的文明星系。这些星系将直接嵌入方舟船壳的闭合曲面内，作为方舟内部空间的主体结构。
+材料供应区：核心保留区周边约一万两千个星系。运输距离最优，物质组成满足船壳编织的全部约束条件。将被整体拆解。
+母膜中其余约一万九千九百余万个星系不在拆解序列内。它们离得太远。它们将在三十一万年后随母膜一起自然解体。方舟没有能力拯救它们，也没有能力毁灭它们。它们与方舟之间，在母膜的剩余寿命内不会建立任何因果联系。
+第一批拆解舰队同日启航。总指挥是一位年迈的结构工程师，姓氏"柯"。他在启航前接受了最后一次通讯。
+"你即将前往拆解第一批目标星系。你想说什么？"
+"我们去取材料。"
+"你如何看待方舟计划？"
+"从工程角度看，可行。从生存角度看，唯一选项。这两个判断同时为真，互不矛盾。"
+柯没有活到方舟建成。他的舰队在启航后第三年完成了第一批伪装星的拆解，材料通过基质脉冲瞬间传输回建造区。柯在第四年死于自然衰老。他的继任者继续执行他未完成的任务。方舟建成后，核心建造区被命名为"柯域"——一片直径约五百万光年的球形空间，柯的舰队当年在那里拆解了第一批伪装星。那里的星系被拆解得干干净净，只剩一片没有发光天体的暗区。后世称之为"柯的坟场"。
+在方舟计划启动后的第一个千年里，文明的核心任务是重新组织自身。一个将本星系群五十余个文明星系整合为统一意志的政治实体逐渐成型——"建造公约"。它的全称是"为应对宇宙终极截断而组建的资源动员与分配公约"，从未有人使用全称。它就是公约。
+公约的成立没有伴随着伦理辩论。在终末数据确认的那一刻，留给辩论的时间就已经结束了。公约委员会第一次全体会议只开了一天。会议纪要只有一行字："一致同意执行方舟计划。无反对票。无弃权。"
+第二卷：建造
+第三章
+方舟的正式名称是"第一子膜工程"。建造工程师们叫它"船壳"，规划师们叫它"最终结构"，数学家们叫它"闭合曲面解"。
+方舟不是一条船。它是一个独立的小宇宙——在母膜内部涌现的、独立维持编织稳定性的闭合编织曲面。船壳内部的有效空间约等于本星系群的体积。以银河系和仙女座星系为核心的五十余个文明星系被完整嵌入船壳内部，作为方舟的主体结构。这些星系中的数千亿颗恒星、以及围绕它们运行的行星系统，原封不动地保留在船壳之内。
+方舟居民的夜空有两层星光。近的那层是方舟内部的恒星——他们自己的太阳、邻近星系的星光、本星系群熟悉的星座。远的那层是船壳外面的母膜宇宙——百亿光年尺度的星系、星团、宇宙网。船壳是一扇感知上的"玻璃窗"，母膜的光可以透进来，直到切断那一天。
+引力网格是方舟内部空间结构的骨架。建造初期，翟设计了最优的空间填充模式：在给定的闭合曲面内，用最少的总能量维持最多恒星在稳定轨道上。数千亿颗恒星不是围绕某个巨大的中心旋转，而是分布式的，每一颗都被精确放置在计算好的引力格点上，彼此牵引，互相平衡。整个方舟是一台巨大的引力织机。
+翟花了三百年时间解出这个空间填充模式的数学形式。他在完成设计后的第二年去世。之后四千年，他的设计方案被后继者一代代编织进船壳的结构中。船壳完成时，翟已去世一万余年。
+方舟的闭合曲面半径由两个因素联合决定：表面缺陷占比和预期航行时标。表面缺陷占比必须被压制到远低于自然涌现膜的水平——低于百万分之一。达到这个编织密度所需的基本粒子总量，是一万两千个星系的总和。这个数字来自闭合曲面最小曲率半径、表面缺陷密度与粒子数关系、以及预期航行时标的多变量联合优化。
+在母膜宇宙中，伪装星是方舟建造最核心的材料来源。伪装星不是人造结构——它是母膜中天然存在的一类极端天体：外部是一层正在进行热核反应的等离子体包层，光度与光谱与普通恒星无异；核心是一个原生超大质量黑洞。伪装星不是正在走向死亡的恒星——它从诞生的那一刻起，核心就已经是黑洞了。在母膜宇宙中，伪装星的数量约为恒星总数的千分之一——在星系尺度上，这是一个庞大的天然材料库。拆解一颗伪装星获得的粒子量，相当于拆解整片星团。
+伊在方舟计划启动后第四十年去世。他在生前最后一份技术备忘录中写道："我们需要建造一个宇宙。一个小宇宙，但仍然是一个宇宙。母膜活了一百三十八亿年才等到我们。我们的方舟需要活得更久。母膜在它漫长的生命中，已经为我们准备好了材料。我们不是在屠杀宇宙。我们只是在从一片广袤到难以想象的森林中，砍伐了极小的一角。那一角恰好是我们所在的这一片。对于那些被砍掉的树木来说，这是百分之百的终结。但对于整片森林来说，它们甚至不会留下一个能被从远处看到的缺口。"
+宇宙级的寿命需要宇宙级的材料。材料已经标注在星图上。倒计时已经开始。
+第四章
+建造公约的拆解流程分为四步。
+第一步，部署引力透镜阵列。
+第二步，恒星轨道的受控重组。
+第三步，拆解本身。普通恒星的拆解耗时约十二至十八小时，恒星光度逐渐上升至正常光度的数千亿倍，然后在几小时内急剧衰减。拆解完成后全部物质转化为离散的基本粒子。
+伪装星的拆解是另一种工序。先剥离外部气壳——那一层维持了数亿年热核反应的等离子体在数小时内被引力透镜剥离，释放的光脉冲在数十光年外的行星上都可以看到。然后黑洞核心暴露——一个被弯曲的光环包裹的无光区域。引力透镜阵列从事件视界开始逐层拆解，黑洞内部的粒子已经被引力压缩到理论极限，拆解完成后得到的粒子密度是普通恒星的成千上万倍。
+黑洞不留下任何残骸。拆解完成后，原来的天区只剩一团正在散逸的离散粒子云。在附近行星的夜空中，那是一颗突然变亮了上万倍、然后消失了数日的星星。
+第四步，基质脉冲传输。粒子被扫描、编码、以基质信号速度传输至建造区，在建造区用本地粒子库重组。传输延迟趋近于零。
+一个星系的完整拆解周期，标准耗时约三至七天。
+在这三至七天里，目标星系内的智慧文明能够观测到异常——如果他们恰好在观测的话。能够分析出异常的性质——如果他们的物理学已经发展到了那个阶段。但他们无法做出任何有效的应对。引力透镜阵列的部署在几分钟内完成。当他们最先进的观测站确认"恒星结构正在解体"时，那个信号已经在路上走了几百年。当他们发出警报时，太阳已经灭了。跨恒星通讯的延迟在拆解面前成了绝对牢笼。
+舰队上的被动接收器会自动记录目标星系内部的所有电磁信号——作为标准数据采集流程的一部分。这些信号中包括本土文明的通讯、广播、以及他们最后的反应。在建造高峰期，每天都有数百个星系被拆解，每天都有数以万计的这类信号涌入数据服务器。没有人有时间去听每一个。
+这些信号后来被集中存储在记忆区的一个分区里。分区名称："视界"。
+第五章
+在建造区边缘一颗无名行星的观测站里，有一个孩子用自己的眼睛记录了另一种版本。
+那孩子没有名字流传下来。档案里只有一个观测日志条目，记录者是当天值班的天文台技师。条目写道："本地时黄昏，一名未成年女性居民进入观测穹顶。未经授权。未予驱离。她目睹了编号KF-447MO2恒星的拆解全程。耗时十四小时十七分。期间她没有说话，没有进食。结束后她离开了穹顶。去向不明。"
+那颗恒星的第三颗行星上有液态水海洋。有原始藻类生命。有大气。有云。在十四小时十七分钟里，那颗行星上的天空从蔚蓝变成炽白，从炽白变成深红，从深红变成漆黑。云被蒸干，海洋沸腾，大气逃逸进太空。那些藻类——母膜中唯一在这一隅角落里演化出的生命形式——在第七个小时全部死亡。它们没有意识，没有文明，不知道宇宙正在终结，不知道自己的太阳为什么突然变亮。
+它们只是死了。
+那个孩子看到的不是恒星的拆解。她看到的是一个世界的终结。不是通过数据，不是通过理论，是通过穹顶的透明壁——那颗恒星在她眼前膨胀，变亮，亮到穹顶的滤光系统都来不及调暗，整个观测室被照得如同白昼。然后它开始缩小。缩小。缩小。最后变成一个暗红色的小点，像一块燃尽的炭。
+然后熄灭了。
+她离开的时候，观测技师在日志里加了一行注："她在门口停了一下，回头看屏幕上的数据。数据上那颗恒星被标注为'拆解完成，粒子回收率99.97%'。她看了一会那个数字，然后走了。"
+这段日志后来被拆解局的某位工程师看到。他在旁边用铅笔写了一行字。字迹潦草，几乎认不出来。
+"99.97%。剩下的0.03%是她看到的那个世界。"
+第六章
+在建造期间，有一位拆解总指挥值得被记录。他叫顾临。
+顾临在柯去世后接手拆解工作。那时建造已进入高峰期，柯域内的伪装星拆解得差不多了，下一批目标开始向外扩展。中央规划矩阵给出了新一批优先拆解星系名单，按运输距离、质量集中度、拆解能耗综合排序。
+全宇宙星图上，每一个星系的信息都是透明的。目标星系内是否存在智慧文明、文明的技术层级、人口分布——在星图上一览无余。规划矩阵的排序算法不读取这些信息。它只读取工程参数。
+但执行拆解的人会看到。
+顾临看到名单上有一个星系——NGC-447SS2-S7——星图标注显示它内部存在一个正处于早期技术文明阶段的智慧物种。替代方案是存在的。名单上另一个星系比S7远约八百万光年，运输能耗略高，工期延长约九百年。这些数字都在安全裕度之内。
+顾临把替代方案提交给了公约的资源动员委员会。他用的是纯工程语言：S7核心区恒星密度过高，集中拆解可能引发不可控的大规模引力坍缩，建议先拆备选目标。
+委员会讨论了三天。最终投票通过了替代方案。票数是微弱的多数。
+顾临在投票结束后回到办公室，在星图上把S7的标记从"待拆解"改成了"绕行"。他在S7的档案里加了一行备注："此星系内部存在智慧生命。经公约委员会投票，本星系永久移出拆解序列。顾临签署。"
+然后他开始处理下一个名单上的星系。
+顾临没有活到方舟建成。他去世时，S7仍在数十亿光年外安静地旋转。S7上的人永远不知道，在遥远的宇宙某处，有一个叫顾临的人曾经为他们投过一票。
+第七章
+建造进入最后阶段时，拆解指令的最终确认权移交到了第三任拆解总指挥手中。她叫沈渊。
+沈渊是顾临亲手带出来的学生。她继承了顾临的星图、他的工作日志、以及他留在S7档案里的那行备注。她继承了他的沉默。
+建造最后三万年，材料供应区的一万两千个星系已拆解了绝大多数。剩余待拆解目标约四百个。这些星系在星图上被标记为"收尾序列"——最后一批，拆完它们，方舟的船壳就可以封壳。沈渊的职责是确认这些星系的拆解顺序，并在每一条拆解指令上签下自己的名字。
+星图是透明的。她可以看到每一个目标星系的内部情况。四百个待拆解星系中，有三百余个包含智慧文明。她的签名意味着这些文明的终结。
+她没有拒绝签名的权利。倒计时还剩三万年。方舟的安全裕度在收尾阶段已经被压缩到了理论极限以下——每一吨粒子的供应延迟都会直接转化为船壳编织密度的下降。她不能拒绝。公约委员会明确告诉过她：收尾序列的名单是经过二十三万年优化的最终结果，没有替代方案可用。她的签名只是形式。
+她签了。每一个星系的拆解指令上都有她的名字。三百多次。
+但在最后一年，中央规划矩阵给出了一个她没有预料到的选项。
+最后一个待拆解的伪装星——编号KD-9A901——位于两个星系团之间的一片孤立区域。这颗伪装星的质量极大，拆解它获得的粒子足够完成船壳最后一段的编织。规划矩阵同时给出了另一个选项：不拆KD-9A901，改为拆解周边十七个质量较小的普通恒星系。那十七个星系中没有伪装星，拆解难度更大，总能耗高出约千分之五，工期延长约四百年。四百年的延长在船壳安全裕度中属于临界值——可以接受，但不能再有任何延误。
+沈渊调出了两个选项的星图标注。
+KD-9A901所在的星系内部有七个已经达到恒星际航行能力的文明。七个高度发达的文明共享这颗伪装星所在星系的资源，建立了复杂的跨恒星政治体系，总人口以万亿计。在拆解舰队标准工作周期内，这个星系的所有文明都会在三至七天内变成离散粒子云。
+另外十七个星系内部也有文明，但数量加起来不到KD-9A901星系的百分之一。
+要么拆一个星系，灭绝七个高度发达的文明。要么拆十七个星系，灭绝更多但总规模更小的文明。
+两个选项在纯工程参数上都是可行的。规划矩阵将两个选项都列为"待决策项"，标注了各自的能耗、工期和风险参数。它的排序算法不读取文明数据。它不知道自己在让沈渊选择杀谁。
+沈渊在办公室里坐了两天。她的助手后来在回忆录中写道："那两天她没有见任何人。她只是反复调阅两个选项的星图标注。KD-9A901的七个文明——它们的语言、历史、最近的跨恒星政治争端记录——她全部看了。另外十七个星系的文明资料她也全部看了。她看完之后，关掉了终端。她做了一件在拆解局历史上从未有人做过的事：她不是根据工程参数做出选择，而是根据文明的数量和规模。她选择了拆KD-9A901。"
+沈渊在KD-9A901的拆解指令上签了字。她在指令下方加了一行手写的备注：
+"此星系内存在七个已确认的智慧文明。拆解执行后将全部终止。本指令签署人已获悉此信息。无替代方案可用。签署人承担全部责任。"
+她将这行备注写进了正式指令。这在拆解局历史上是第一次。以前所有的拆解指令中，文明的存在只出现在工程数据附录里。她把它写进了指令正文。
+KD-9A901被拆解了。七个文明在四天内全部终结。
+沈渊在方舟启航后约两千年去世。她去世前销毁了全部个人日志，只留下一封简短的信。信是写给顾临的——尽管顾临已经去世二十多万年了。
+"老师，你在S7的档案里写了'永久移出拆解序列'。我签了三百多份拆解指令，每一份都意味着一个或多个文明的终结。最后一份指令我面对的是七个文明和更多小文明之间的选择。我选了拆七个。不是因为我觉得它们不重要。是因为我不知道该怎么选。我把它们的名字记下来了。七个。我记了一辈子。我的继任者大概也会记住我的名字，记住我是一个签了三百多份灭绝对文明指令的人。我不知道这算不算承担。大概只是记忆。"
+信没有寄出。它被保存在沈渊的个人档案中。归档分类是"未发送私人信件"。
+第八章
+在建造的收尾阶段，有一件事关一百亿人命运的事需要决定：谁上船？
+方舟只能容纳有限的个体。母膜文明的总人口在公约鼎盛时期约为一千亿亿。方舟内部延续区按活人居住标准建造，容纳约一百亿个体。记忆区按信息保存标准建造，规模是延续区的数千倍，用于存储文明遗产而非活体生命。
+最终的"双轨方案"将方舟内部分为延续区和记忆区。上船资格的选拔由算法完成，综合考虑知识贡献、遗传多样性、心理适应性三个维度。
+选拔系统的设计者之一，是一个年轻的结构算法工程师。他的名字在方舟核心记忆体中被隐去了。为方便叙述，叫他陈渡。
+陈渡从未想过自己的数学工具会被用来决定谁活谁死。他接受了公约的委托，从数学上证明了这套算法能达到"文明延续价值最大化"。他为此感到一种冰冷的骄傲。
+然后他自己的名字出现在了输出结果中。不在入选之列。他的妻子，不在。他的女儿，不在。他的父亲，不在。
+陈渡在办公室坐了一整夜。然后他以系统管理员的权限进入了权重矩阵。他修改了三个参数。每一个修改都在算法的正常优化容差范围内，每一个修改都有纯技术层面的正当理由。合在一起，他需要覆盖的四个人全部进入了入选区间。
+逻辑上无懈可击。任何审计都查不出"作弊"。但他自己知道。
+启航前最后一年，陈渡收到了入选通知。他的妻子和女儿在同一天收到了通知。他的父亲在第三天收到了通知。通知以同一行字开头："您被邀请参与文明的延续。"
+陈渡的妻子看着他手中的通知，沉默了很久。她是研究母膜古代语言的人，一生与注定无法入选"延续价值最大化"的冷门知识打交道。她知道自己不该在名单上。
+"你做了？"她问。
+陈渡没有回答。
+她看了他很久，然后移开了目光。她也没有再问。
+启航前夜，陈渡一个人站在旷野上。头顶是两片星空——近的是方舟内部的恒星，已被引力网格排列得整整齐齐；远的是母膜的宇宙，浩瀚、混乱、延伸到不可知的深处。他找到那片他最熟悉的天区。那里有一座星系，他年轻时曾在那里做过博士后研究。它不会上船。它会在母膜解体时化为重联脉冲。没有人会记得它。
+它上面有没有人抬头看过星空？有没有人曾在某个夏夜，把宇宙比喻成一只癞蛤蟆吐的气泡？
+他不知道。他只知道自己在公理上是错的。但作为一个人，他合格了。他作弊了。他救了四个人。他没有被选中——他是选择者。这个区别就是一切。
+天穹边缘，有一片星光似乎黯淡了一点。
+他告诉自己那是错觉。
+陈渡在方舟启航后约四十年去世。他的妻子在更早的几年前离开。他们安安静静地活到了老。陈渡临终前对妻子说："我偷了四个位置。"
+妻子看着他。"你以为我不知道？"
+那是另一个故事了。
+第九章
+方舟启航后约三千年，一份来自记忆区的数据检索请求被发起。发起者是延续区的一个年轻天文学家，她正在做一份关于"被绕行的星系"的清单。建造期间，因各种原因被移出拆解序列的星系共有数千个，S7是其中之一。
+她调出了S7的勘测档案，看到了顾临的备注。然后她做了推算。
+方舟启航时，S7距母膜边缘约三亿光年。母膜解体冲击波以膜内光速传播。S7将在母膜解体后约三亿年被冲击波覆盖。那个文明还有三亿年。
+她不知道该为这个数字感到欣慰还是悲伤。三亿年——比母膜从第一批恒星点燃到方舟启航的全部时间还长。那个文明有足够的时间发展、繁荣、探索宇宙——如果他们发现了终末数据的话。
+但她知道S7是唯一的例外。她调阅了沈渊的档案，看到了KD-9A901的拆解指令上那行手写的备注——"七个已确认的智慧文明"。她看到了沈渊写给顾临的未寄出的信。
+她在自己的报告末尾写道："顾临绕行了一个星系。沈渊签署了三百多份灭绝指令。我们在母膜中拆解了一万两千个星系，只绕行了其中一个。在宇宙尺度的随机分布中，这个比例没有任何统计学意义。但在人的尺度上，它意味着有人曾经在星图前坐了很久，然后选择了留一个。一个。在所有一亿两千万份'视界'档案中，只有一份的结语不是'终止'。"
+第三卷：启航
+第十章
+建造完成的确切日期存有争议——因为"完成"是个模糊的概念。最后一个模块的缝合完成于母膜纪元约317，000年，距离终末数据预测的解体时间还有约二百四十八年。
+之后是漫长的测试期。三次拓扑隔离测试验证了方舟船壳独立维持编织稳定性的能力。方舟是它自己的宇宙。
+登船耗时数十年。延续区一百亿个体分布在五十余个星系中。将他们全部运送到方舟需要动用基质脉冲传输的"生命兼容模式"，误差率必须控制在十的负十五次方以下。登船在约四十年内完成。零传输事故。
+母膜解体比预测时间晚了一百二十年。
+安生前最后一份未发表手稿曾讨论过这种可能性：膜的解体是编织密度在临界点附近的慢化振荡。她在手稿最后一页写道："母膜可能在临界点附近徘徊很久。它活了一百三十八亿年，最后这点时间它不会匆忙离开。"
+一百二十年。方舟等了一百二十年。
+母膜在一百二十年后的某一天开始解体。解体并非始于边缘，而是从内部的某个随机区域。冲击波以膜内光速向外传播，与边缘推进的解体锋面在数年后相遇，覆盖了整个母膜。
+方舟在冲击波到达前约七天收到重联信号预警。与母膜的最后一条连接桥被置于预备切断状态。切断在冲击波到达的三秒内的第一微秒完成。
+那一天，全方舟的人都走到了旷野上。
+没有通知，不需要广播。任何人只要抬头就明白了。
+那恒久的星空有些消失了，再也不会出现！
+——那些远的、暗的、需要眯着眼才能看见的。百亿光年尺度的星系、星团、宇宙网的网状辉光——全部、同时、从任何一个方向——消失了。
+母膜解体了，星系散发出最后的亮光。
+冲击波到达的那个瞬间，船壳切断了最后一条连接桥。窗外那片浩瀚星河——母膜宇宙一百三十八亿年的全部星光——一夜之间归于黑暗。
+旷野上，人们仰着头，沉默地看着天空。
+剩下的星星亮得刺眼。那些是方舟内部的恒星。它们还在。它们什么都不知道。引力网格把它们排列得整整齐齐。在没有母膜星光照耀的夜空中，网格的规律性第一次完整暴露在裸眼之下——一个巨大的、三维的、发光的晶体结构悬在头顶。精确。静默。彻骨的美丽。
+那是翟留下的几何。他去世已经二十三万年了，但他设计的引力场仍在运转。每一个光点都在他算过的位置上。
+有人跪下了。有人在哭。有人笑了——那种意识到自己被某个二十万年前的人温柔地承载着时无法抑制的笑。
+一个老工程师抱着孙子，指着天空说：你看，这就是我们的家。以前外面还有光，现在只剩我们自己的光。但你看这光有多整齐。这是翟爷爷给咱们摆的。
+方舟内部的通讯频道上，一个又一个行星的报告传来：观测到母膜外部星光全部熄灭。确认。确认。确认。
+最后一则报告来自一颗偏远的观测行星。天文台的值班员在报告中加了一句话——格式不标准，一句普通的话。
+"母膜的最后一次心跳停止了。"
+这句话后来在方舟内部流传了数千万年。没有人追究它的技术准确性。它是一个文明在目击另一个宇宙死亡时的本能反应。
+航行日志记载：切断完成的瞬间，船壳外表面监测系统记录到一个短暂的信号——性质无法归类。简单的、重复的、逐渐衰减的脉冲序列。持续约七秒。然后完全消失。
+记忆区的核心分析系统运行了数千年，尝试了所有可能的编码假设，未得出确定结论。它被非正式地称为"母膜的最后一次心跳"。一百三十八亿年。最后七秒。有始有终。
+伊的遗体在数十万年前被拆解为基本粒子，编织入延续区中心生态单元的空间网络基准层。他选择留在活人中间。"安守护记忆，"遗嘱写道，"我守护记忆的人。"
+安的遗体被编织进记忆区核心存储节点。她的墓碑是整个记忆区。
+翟没有留下遗体。他要求将自己编织进船壳的第一块模块中。他的骨灰是方舟的龙骨。
+第四卷：航行
+第十一章
+方舟在基质中航行的最初几千年，被后世称为"沉默纪元"。
+方舟的推进方式与膜内运输截然不同。在基质中，方舟通过主动调节船壳表面缺陷分布，产生定向的推力脉冲——向基质中释放受控的重联事件序列，以反冲获得推进力。巡航速度约为基质信号速度的一亿分之一，数值上仍远超膜内光速。
+但在这个速度下，外部世界在感知上是完全沉默的。
+船壳不再是透光的"玻璃窗"。窗外不再有母膜的星光——现在是基石之海，没有光，没有物质，只有永不停歇的重联撞击。船壳从窗户变成了墙。
+感知方式从"看"转向了"触"。船壳内表面的应力传感器将每一次外部重联撞击转化为数据，数据转化为可视化的触觉图像——一幅不断变化的、无结构的、灰色调的图像，覆盖了延续区公共空间的天穹显示屏。
+居民们给它起了名字："海的表面"。海是基石之海，表面是他们与海之间的唯一接触。
+观看这幅图像逐渐成为延续区的一种日常仪式。人们仍在观看。对他们来说，观看是触碰，触碰是确认——确认他们还在，确认外面还有东西，确认方舟没有在虚空中独行。
+沉默纪元第三千年，方舟航线穿过柯域——那片五百万光年的暗区。某个值夜班的观测员在例行检查外部监测数据时，注意到某个方向完全没有重联撞击信号。
+他调出星图，发现那片区域的轮廓与柯当年的勘测记录完美重合。他一个人在那个观测室里坐了很久。他的值班日志上那一栏只有一个词："看到了。"
+他的主管在审核日志时看到了这个词，沉默片刻，在下面批了一个词："确认。"
+后来方舟航行史的非正式附录中编纂了一本"柯的坟场——目击记录汇编"，收录了数百条类似的观测记录，时间跨度长达数百万年。每一条记录都极其简短。其中一条只有三个字："空的啊。"
+第十二章
+沉默纪元在启航后约两万年结束。这一天被标记为"第一次异常事件"。
+自动分析系统标记了一个偏离统计期望的区域：一片约数千平方公里的船壳表面，重联撞击频率比正常值高出约百万分之七。此前近两万年中，最大偏差从未超过百万分之二。
+他们正在经过某个具有确定空间延展性的外部结构。两万年的沉默航行之后，方舟遇到了第一个其他膜。
+外部膜的发现引发了方舟内部一场小规模社会震荡。是希望的突然回归。
+在随后数百年里，方舟监测部门对外部膜进行了详细被动观测。外部膜规模大于方舟但远小于母膜，表面缺陷分布模式呈现出显著的规律性，表明它是一个经历了漫长演化的成熟膜。
+争论集中在是否主动接触。争论持续了约五百年。外部膜没有等待。
+被动观测记录的第三个世纪，外部膜的重联撞击模式开始出现大幅度无规涨落。方舟理论部门提出了几种可能的解释。最令人不安的一种：外部膜可能正在解体。
+方舟的航行轨迹被紧急调整到解体冲击波的安全距离之外。外部膜没有解体——它经历了一次"近解体事件"，最终回归了稳定状态。事后分析表明，自然涌现的膜比人工建造的膜具有更强的自我修复能力。
+方舟航行日志中的技术总结只有一句话："我们遇到了另一个膜。在这片没有光的海洋中，我们不是唯一的漩涡。"
+第五卷：航行图谱
+第十三章
+外部膜事件之后，监测部门将撞击模式特征编入自动检测算法。随后的数千万年里，方舟传感器网络记录到了数以万计的类似事件。绝大多数是短暂的远距离擦肩而过，少数是近距离的长时间并行航行——方舟与另一个膜在基质中以相近的速度和方向航行，并行时间可达数十万年。
+观测数据揭示了一个关键事实：膜并非孤岛。它们是互相关联的。基质中的膜构成了一张网络——由长程影响联结而成的网络。这张网络不传递光，不传递物质，但传递存在本身。方舟在这张网络中航行。
+在此期间，方舟经历了三次技术飞跃。第一次是"被动导航升级"——学会反推基质环流应力场的空间分布。第二次是"主动应力导航"——学会向基质中发送可控制的重联事件波，通过回波建立外部膜的三维位置图。第三次是"应力走廊策略"——发现基质环流应力场中存在低应力通道，沿着这些通道航行可以显著延长船壳维护周期，将预期航行时标从数十亿年延长到数百亿年。
+方舟核心航行手册将这段历史总结为一句话："我们学会了不看而见，不动而行，不等而至。"
+第十四章：长序星
+航行约八千万年时，方舟内部四千余个生态单元已经演化出截然不同的文明形态。有的退回到农耕社会，有的发展出了比母膜觉醒纪元更先进的技术，有的在反复的兴衰循环中遗忘了自己来自方舟。
+长序星是方舟内部所有文明的锚点。它负责维持引力网格的稳定——让太阳按时升起，让行星留在轨道上，让膜面结构不因微小的熵增而漂移。长序星的技术水平对任何方舟内部文明都是跨数量级的绝对压制。它不参与文明间的政治，不在意谁征服了谁、谁与谁结盟。在长序星眼中，这些只是膜面结构上的微弱噪声。
+一个名为"赤冕星域"的文明区域在数百万年内崛起为方舟内部最强大的势力。他们掌握了独立于长序星控制体系之外的局部引力调控技术。几十万年里，赤冕星域的影响力覆盖了延续区近三分之一的星域。他们的技术越来越成熟，越来越接近长序星的核心领域——那个被标注在每一份星图首页的禁区。漫长的岁月已经让大部分文明忘记了它意味着什么。赤冕星域准备试探。
+赤冕星域的首席战略官在年度述职会上，用三分钟提到了"长序星禁区"。那三分钟被安排在会议末尾，靠近茶歇时间。与会者低头看自己的终端，各自处理各自星系的作物配额和舰队调动。
+没有人抬起头。
+散会后，一个年轻参谋追上首席："长官，关于长序星……我们不需要做个专项研究吗？"
+首席拍了拍他的肩："孩子，那是个两千万年前的神话。你看过神话的原始文献吗？里面说祖先是从一个更大的宇宙逃进来的。你觉得这个星球——"他指了指窗外那颗蓝绿交织的母星，"——是'逃'进来的？我们在这里繁衍生息了八百万年。我们就是本土。"
+年轻参谋回到工位，调出了"长序星"的公开档案。全部公开记录加起来不到四页，最新一条的更新时间是七百年前，内容只有："年度状态：稳定。无异常。"
+他关掉了终端。
+六十年后，赤冕星域的第一批探测舰队在长序星禁区的边缘点火。他们的目标不是触碰船壳膜面——他们甚至没想过触碰船壳。他们只是想测量一下，长序星那个古老的"权威"是否还有实质。禁区内有长序星的引力监测站，他们认为，只要能绕过监测站的一个信号中继节点，就能证明长序星并非无所不能。
+那支舰队在进入禁区后的第七天，抵达了预定坐标。他们释放了一组被动探测器，准备绕过长序星监测站的常规扫描窗口。
+探测器工作了不到三秒钟。
+长序星中央引力计算引擎记录到了这次入侵。记录方式是一行日志：
+时间戳：航行纪元79，842，113年，第47周期，第3日，本地时02:17:04.003
+事件类型：未授权探测节点接入
+坐标：长序星禁区-边缘-中继节点G-7
+操作方式：远程编织中断
+操作对象：赤冕星域主恒星KF-赤冕-001
+操作结果：主体已解构。离散粒子云扩散半径:0.34光年。预计五万年后完全消散。
+操作依据：参考协议TDMU-船壳安全-第7条（不可绕行条款）
+备注：无。
+没有广播。没有警告。没有以任何形式向赤冕星域幸存者传达"为什么"。
+长序星的逻辑很简单：如果你能碰到这个开关，你就已经知道答案了。如果你不知道答案，那你就不该碰到它。
+赤冕主星熄灭的那个午夜，那颗燃烧了数亿年的恒星，在某一微秒内，它的所有基本粒子之间的编织关系被解除。恒星从一颗燃烧的等离子球变成了漂浮在空间中的离散粒子云。没有光。没有热。没有声音。
+首都行星在失去太阳的瞬间进入了永恒的黑夜。
+同一微秒，长序星的中央引力计算引擎做了另一件事。它重新计算了被拆解恒星释放出的粒子云在方舟引力场中的最佳分布路径。
+计算结果在三秒钟后输出：粒子云将被引力场缓慢牵引至船壳表面某处缺陷密度较高区域，作为未来数万年内补强膜面的备用材料库。
+系统自动给这个材料库分配了一个编号：RM-赤冕-001。
+这个编号与母膜时代拆解伪装星时使用的命名规则完全一致。系统没有记录"这是否合适"。系统只记录"是否最优"。
+赤冕星域的残余舰队在随后数千年里散落到了方舟的各个角落。他们曾经是方舟内部最强大的势力，现在是一群没有母星、没有太阳、只能靠流浪舰队维持生存的流亡者。他们的舰队尾部挂着一面黑旗。那是他们熄灭的太阳的颜色。
+距离赤冕星域四万光年的一颗观测行星上，一个年轻天文学家的望远镜捕捉到了那片突如其来的"新星"——比正常超新星亮了一千倍，却在几小时内熄灭了。
+他查了所有已知的恒星演化模型，没有一种能解释这种光度曲线。
+他把数据递给导师。导师看了一眼屏幕，把望远镜转了个方向。
+"别看了，"导师说，"那是长序星在整理房间。"
+"什么叫'整理房间'？"
+导师沉默了很久。
+"就是他们觉得有些东西放久了，该收走了。"
+那天晚上，该行星的执政官办公室收到了一份来自四万光年外的情报摘要。摘要上只有一行字：
+"长序星是真的。"
+这份摘要随后被加密，分发到该星域所有主要文明的最高决策层。
+此后约六百万年，没有任何文明在长序星禁区内进行任何主动探测。
+他们害怕的不只是惩罚本身。他们害怕的是自己永远无法知道，下一次被"整理房间"会轮到谁。
+"做赤冕的事"后来成了方舟内部的一句俚语，意思是"越界自毁"。"长序星看着我们"成了最普遍的口头禅之一。
+长序星依然沉默。它只是继续维持引力网格的稳定，继续让太阳按时升起。
+方舟核心记忆体对这次事件的记录极为简略，只有三行："航行纪元约八千万年。赤冕星域未经授权探测长序星禁区。长序星判定为秩序威胁。执行惩戒。赤冕主星拆解。无追加措施。"
+没有人署名。归档分类是"日常维护"。
+第六卷：抵达
+第十五章
+目标膜的确切发现时刻在航行日志中有精确记录：启航后约一亿七千三百万年。
+主动应力导航系统探测到一个具有极高稳定性的信号。膜的规模极大，与母膜在同一量级。表面缺陷分布高度规律，缺陷占比估测低于千分之一。内部空间网络仍在活跃运行。总年龄约九十七亿年——比母膜年轻约四十一亿年。预期剩余寿命在九十亿至一百五十亿年之间。
+最重要的一项：其内部空间网络的结构参数与方舟自身的编织模式在三个关键维度上具有统计显著的一致性，意味着方舟内部的生命可以直接在目标膜内生存，无需任何物理适应过程。
+委员会表决耗时约三年。全票通过。方舟开始调整航线。
+第十六章
+航线调整是一个漫长而精细的过程。方舟的惯性极大，能量储备来自启航前的最后一轮恒星拆解，以弹性势能的形式储存在船壳编织结构中。近两亿年的航行中，这些能量被逐步释放。
+接近目标膜的减速分为三个阶段：利用目标膜引力场作为制动介质；船壳受控微小形变释放能量；末端精确对接。
+对接前的最后几年，延续区进入全员预备状态。对接前三天的航行日志记录：
+"距离接触点剩余航程：0.00074光年。相对速度：已减速至安全阈值以下。目标膜表面缺陷分布图绘制完毕。我方缺陷匹配模式优化完毕。所有系统自检完毕。一切就绪。
+"这一代方舟居民中的绝大多数在航行中出生。他们从未见过母膜。对他们来说，宇宙就是船壳内表面覆盖的闭合空间。他们从教育系统中知道船壳外面存在一个更大的宇宙。知道和相信是两回事。
+"对接完成后，他们将第一次看到光——来自另一个宇宙的光。"
+第十七章
+对接在预定时间完成。
+零点三秒。两个膜的表面缺陷在连接桥建立的瞬间完成啮合。方舟的船壳不再封闭——对接点处，方舟的编织网络与目标膜的空间网络建立了无缝连接。两个宇宙在对接点处合为一体。
+第一个信号是光。
+数以十亿计的个体同时看到了他们一生中从未见过的东西。黑暗结束了。灰暗的、无结构的"海的表面"消失了。取而代之的是光——恒星、星系、一片完整的、活跃的、正在燃烧的宇宙。
+方舟内部的引力网格星空还在，但它的背后又亮起了一片新的背景——第二膜的宇宙。两层星空重新叠在一起，就像很久以前，在母膜时代那样。
+在对接后最初几小时内，方舟监测部门完成了对新膜的基本参数测量。光速、精细结构常数均在适应范围内。元素丰度分布与母膜大致相似，但在重核区有两个额外的稳定岛。
+空间坐标确定：方舟的对接点位于第二膜一个中等星系团的外围区域。第二膜整体规模与母膜大致相当，总年龄约九十七亿年。预期剩余寿命：中位估值约一百二十亿年。
+对接完成后第一日，方舟监测部门主管在航行日志中写道："我们不知道这个膜有没有原生的生命。我们不知道它是否有文明。我们不知道它是否会接纳我们。但我们知道一件事：我们不再是方舟文明了。从今天起，我们是双膜文明——跨越两个宇宙的文明。母膜活了一百三十八亿年，用最后三十一万年孕育了我们。第二膜已经活了九十七亿年，前面还有一百二十亿年。我们带着母膜的遗产来到这里。我们将在这里生根。"
+第十八章
+关于抵达第二膜后的后续事件，方舟核心记忆体中的记录仍在更新。以下为截至当前记录时间的最后一则正式日志条目：
+"我们在第二膜内部已运行约四万年。完成了以下工作。
+"第一，方舟延续区全面解封。所有生态单元已与第二膜的空间网络建立安全连接。生态系统正在逐步适应新膜的物理常数。一百亿居民中，约百分之三十已选择在第二膜的适居星系中建立生存单元。
+"第二，第二膜初步勘测已启动。确认第二膜内部存在至少七个独立起源的生命区域——三个处于微生物阶段，两个处于多细胞阶段，一个处于早期技术文明阶段，一个处于与母膜觉醒纪元中期相当的技术阶段。与最后一个文明区域的接触尚未建立，接触协议正在审议。
+"第三，记忆区信息首批解读测试完成。我们将母膜文明的存储信息置于第二膜的一个无生命星系中，静置约一万年，收回。信息完整度检测结果:99.9997%。第二膜的空间网络环境与母膜高度兼容。我们的信息可以在这里存续。安的编码经受住了跨宇宙传输的考验。
+"第四，'视界'系统已在新环境中完成校验。存储于其中的约一亿两千万个文明的完整遗产——语言、历史、艺术、科学——全部可被读取。我们检查了索引目录。一亿两千万份档案，每一份的最后一页都写着同一行字：'文明延续状态：终止。'只有两份档案例外。一份是NGC-447SS2-S7，备注栏里有顾临的签名——'永久移出拆解序列'。另一份是KD-9A901，备注栏里有沈渊手写的备注——'七个已确认的智慧文明。无替代方案可用。签署人承担全部责任。'在所有档案中，只有这两份的记录不一样。一亿两千万。两份。
+"第五，下一代方舟的概念研究已启动。第二膜终将解体。公设十二没有例外。目前没有紧迫性——但紧迫性是一个不应该被等待的东西。母膜时代，我们从终末数据到解体只有三十一万年，勉强够用。第二膜时代，我们有数十亿年。当第二膜的终末数据到来时，我们将不再是仓皇的逃亡者。我们将是平静的迁徙者。
+"第六，接触策略审议陷入僵局。两种意见无法调和。
+"一种意见认为：第二膜已有成熟的原生文明。方舟应当保持低调，在边缘区域缓慢融入。我们是幸存者，不是征服者。
+"另一种意见认为：第二膜的剩余寿命只有一百二十亿年。如果方舟不能在资源分配中获得足够份额，下一代方舟的建造将无法在解体前完成。我们已经在母膜中做过更难的选择。如果今天因为道德顾虑而在资源竞争中退让，那些被拆解的星系——那些被我们熄灭的太阳——它们的牺牲就失去了意义。
+"两种意见的核心分歧与建造时期顾临在S7问题上的抉择、沈渊在KD-9A901问题上的抉择一脉相承：牺牲一部分人以拯救更多人，还是拒绝牺牲任何一个、但可能最终牺牲全部？母膜时代我们有终末数据的倒计时逼迫我们做出选择。现在没有倒计时了。我们要在完全自由的情况下，重新决定我们是什么样的人。
+"母膜用一百三十八亿年教会我们宇宙可以有多长。终末数据用三十一万年教会我们时间可以有多紧。方舟用一亿七千三百万年教会我们航行可以有多远。第二膜用一百二十亿年的剩余寿命教会我们未来可以有多宽。长序星用一颗恒星教会我们秩序是什么。顾临教会我们留一个。沈渊教会我们在七个和更多之间做选择——以及签名意味着什么。
+"我们还有时间。我们不会浪费它。"
+尾声
+方舟核心记忆体的最深处保存着一份文件。没有标题，没有署名，没有日期。目录中标记为"癞蛤蟆意象记录——原始版本"。
+文件内容：
+"夏夜池塘底部，一只癞蛤蟆静卧水中，口吐气泡。气泡升腾、膨胀、形变、振荡，最终破裂，回归水波。
+"水是基质——承载一切的底层。水中可能有其他气泡，各自独立地升腾、膨胀、破裂。气泡之间没有直接的声音传递，但它们都在同一片水中，彼此的震颤通过水传递。
+"气泡壁是宇宙膜——从基质中涌现的有序结构。气泡的升腾是时间——不可逆的展开。气泡的膨胀是宇宙的冷却与演化。气泡的纹理是物质——膜上的编织结构。气泡的破裂是终局——结构解体，回归基质。
+"癞蛤蟆依然静卧于不可及的基质深处。我们生于膜上的涟漪，终其一生无法回望它——这不妨碍我们通过膜上的印记，一步步还原它的模样。
+"意义不守恒，唯有重联不息。"
+文件正下方有一行后添加的注释。编码方式与原件不同，显然是在很久之后才添加的。
+"这是我们的祖先在母膜时代写下的文字。那时他们还没有建造方舟，还没有经历航行，还没有抵达第二膜。他们只是看着夜空，想象宇宙外面有什么。
+"现在我们都知道了。宇宙外面是更多的宇宙。宇宙外面是基石之海。宇宙外面是沉默、黑暗、永不停歇的涨落。
+"但我们也知道了另一件事：气泡破裂后，水仍在。气泡可以在另一处水域重新涌现。癞蛤蟆仍在吐泡。我们不知道还有多少个气泡在升腾，或许永远不会知道。但我们会继续航行。继续建造。继续记录。
+"母膜的终末数据给了我们三十一万年。第二膜给了我们一百二十亿年。时间是文明的果实，是恩赐，是材料。我们用它建造。用它航行。用它延续。"
+注释的最后一行只有两个词。这两个词在方舟内部所有教育系统中被设置为方舟文明的基础核心词。每一个在方舟内出生的孩子，学会的第一个词不是母亲，不是父亲，而是这两个词。
+继续走。
+（《膜面生存录》全文完）
+本文基于个人拓扑动力膜宇宙模型（TDMU）的假说框架创作。所有物理机制均遵循模型本体论。母膜总年龄约一百三十八亿年，结构纪元约九十四亿年，觉醒纪元约三十万年，终末数据给出剩余时间约三十一万七千年，均参照已知宇宙演化时标设定。方舟航行时标约一亿七千三百万年，第二膜年龄约九十七亿年，预期剩余寿命约一百二十亿年。
+TDMU v2.341 and other related articles can be found at GitHub: tuopujie9527/Topological-Dynamic-Membrane-Universe.
